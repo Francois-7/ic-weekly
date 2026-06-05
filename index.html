@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IC产业週报</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0f1117;
+  --surface: #1a1d27;
+  --surface2: #22263a;
+  --border: #2d3148;
+  --text: #e2e8f0;
+  --text2: #94a3b8;
+  --text3: #64748b;
+  --accent: #6366f1;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* ── Top bar ── */
+.topbar {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 0 24px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+}
+.topbar-left { display: flex; align-items: center; gap: 12px; }
+.logo { font-size: 16px; font-weight: 700; color: var(--text); }
+.badge {
+  background: var(--accent);
+  color: white;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 20px;
+  font-weight: 600;
+}
+.meta { font-size: 12px; color: var(--text3); }
+
+/* ── Layout ── */
+.layout { display: flex; height: calc(100vh - 56px); }
+
+/* ── Sidebar ── */
+.sidebar {
+  width: 220px;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  overflow-y: auto;
+  flex-shrink: 0;
+  padding: 12px 0;
+}
+.sidebar-section { padding: 6px 16px 4px; font-size: 10px; font-weight: 700; color: var(--text3); letter-spacing: 0.08em; text-transform: uppercase; }
+.nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+  font-size: 13px;
+  color: var(--text2);
+  cursor: pointer;
+  border-left: 3px solid transparent;
+  transition: all 0.15s;
+  text-decoration: none;
+}
+.nav-item:hover { background: var(--surface2); color: var(--text); }
+.nav-item.active { border-left-color: var(--accent); background: var(--surface2); color: var(--text); }
+.nav-pill {
+  background: var(--surface2);
+  border-radius: 10px;
+  padding: 1px 7px;
+  font-size: 11px;
+  color: var(--text3);
+}
+
+/* ── Main ── */
+.main { flex: 1; overflow-y: auto; padding: 24px; }
+
+/* ── Category header ── */
+.cat-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
+.cat-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.cat-title { font-size: 20px; font-weight: 700; }
+.cat-count { font-size: 13px; color: var(--text3); margin-left: auto; }
+
+/* ── Subtopic ── */
+.subtopic { margin-bottom: 20px; }
+.subtopic-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px 8px 0 0;
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.15s;
+}
+.subtopic-header:hover { background: var(--surface2); }
+.subtopic-header.collapsed { border-radius: 8px; }
+.subtopic-name { font-size: 14px; font-weight: 600; flex: 1; }
+.subtopic-count { font-size: 12px; color: var(--text3); }
+.chevron { font-size: 11px; color: var(--text3); transition: transform 0.2s; }
+.chevron.open { transform: rotate(90deg); }
+
+.articles-wrap {
+  border: 1px solid var(--border);
+  border-top: none;
+  border-radius: 0 0 8px 8px;
+  overflow: hidden;
+}
+.article {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.15s;
+}
+.article:last-child { border-bottom: none; }
+.article:hover { background: var(--surface); }
+
+.article-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 7px;
+  flex-wrap: wrap;
+}
+.tag {
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.tag-capital { background: #3b1f00; color: #f59e0b; }
+.tag-industry { background: #0f2744; color: #60a5fa; }
+.outlet-name { font-size: 12px; color: var(--text3); }
+.pub-date { font-size: 12px; color: var(--text3); margin-left: auto; }
+
+.article-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  line-height: 1.5;
+  display: block;
+  margin-bottom: 5px;
+}
+.article-title:hover { color: #818cf8; }
+.summary { font-size: 13px; color: var(--text2); margin-bottom: 4px; line-height: 1.5; }
+.reason { font-size: 12px; color: var(--text3); font-style: italic; }
+
+.empty-state {
+  padding: 20px 16px;
+  font-size: 13px;
+  color: var(--text3);
+  font-style: italic;
+}
+
+/* ── Loading / Error ── */
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 12px;
+  color: var(--text3);
+}
+.spinner {
+  width: 32px; height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+@media (max-width: 640px) {
+  .sidebar { display: none; }
+  .main { padding: 16px; }
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-left">
+    <span class="logo">📊 IC产业週报</span>
+    <span class="badge">LIVE</span>
+  </div>
+  <span class="meta" id="meta-text">读取中...</span>
+</div>
+
+<div class="layout">
+  <nav class="sidebar" id="sidebar">
+    <div class="center"><div class="spinner"></div></div>
+  </nav>
+  <main class="main" id="main">
+    <div class="center"><div class="spinner"></div><span>正在读取最新週报...</span></div>
+  </main>
+</div>
+
+<script>
+// ── 配置 ──────────────────────────────────────────
+const GITHUB_OWNER = "Francois-7";
+const GITHUB_REPO  = "weekly-news-bot";
+const GITHUB_FILE  = "results.json";
+// 在 Vercel 环境变量里设置 GITHUB_TOKEN（只需 repo read 权限）
+const TOKEN = window.__GITHUB_TOKEN__ || "";
+// ─────────────────────────────────────────────────
+
+const CAT_COLORS = {
+  "AIoT":      "#6366f1",
+  "手机":       "#f97316",
+  "HPC数据中心": "#22c55e",
+  "电动车":     "#a855f7",
+  "新能源":     "#eab308",
+  "宏观经济":   "#ef4444",
+  "加密货币":   "#14b8a6",
+};
+
+let currentCat = null;
+let data = null;
+
+async function fetchData() {
+  const url = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_FILE}`;
+  const headers = { Accept: "application/vnd.github.v3+json" };
+  if (TOKEN) headers["Authorization"] = `Bearer ${TOKEN}`;
+
+  const res = await fetch(url, { headers });
+  if (!res.ok) throw new Error(`GitHub API ${res.status}: ${res.statusText}`);
+  const meta = await res.json();
+  const content = atob(meta.content.replace(/\n/g, ""));
+  return JSON.parse(content);
+}
+
+function renderSidebar(d) {
+  const sidebar = document.getElementById("sidebar");
+  sidebar.innerHTML = `<div class="sidebar-section">大类</div>` +
+    d.categories.map((cat, i) => {
+      const total = cat.subtopics.reduce((s, t) => s + t.articles.length, 0);
+      const color = CAT_COLORS[cat.name] || "#888";
+      return `<a class="nav-item${i === 0 ? ' active' : ''}" onclick="showCat(${i})" id="nav-${i}">
+        <span style="display:flex;align-items:center;gap:8px">
+          <span style="width:8px;height:8px;border-radius:50%;background:${color};flex-shrink:0"></span>
+          ${cat.name}
+        </span>
+        <span class="nav-pill">${total}</span>
+      </a>`;
+    }).join("");
+}
+
+function renderCat(catIdx) {
+  const cat = data.categories[catIdx];
+  const color = CAT_COLORS[cat.name] || "#888";
+  const total = cat.subtopics.reduce((s, t) => s + t.articles.length, 0);
+
+  const subtopicsHtml = cat.subtopics.map((sub, si) => {
+    const sid = `sub-${catIdx}-${si}`;
+    let articlesHtml = "";
+
+    if (!sub.articles || sub.articles.length === 0) {
+      articlesHtml = `<div class="empty-state">本周未找到符合标准的新闻</div>`;
+    } else {
+      articlesHtml = sub.articles.map(a => {
+        const isCapital = (a.perspective || "").includes("资本");
+        const tagClass = isCapital ? "tag-capital" : "tag-industry";
+        const tagLabel = isCapital ? "资本视角" : "产业视角";
+        return `<div class="article">
+          <div class="article-meta">
+            <span class="tag ${tagClass}">${tagLabel}</span>
+            <span class="outlet-name">${a.outlet || ""}</span>
+            <span class="pub-date">${a.published || ""}</span>
+          </div>
+          <a class="article-title" href="${a.url || '#'}" target="_blank" rel="noopener">${a.title || ""}</a>
+          <p class="summary">${a.summary || ""}</p>
+          <p class="reason">选取理由：${a.reason || ""}</p>
+        </div>`;
+      }).join("");
+    }
+
+    return `<div class="subtopic">
+      <div class="subtopic-header" onclick="toggleSub('${sid}')">
+        <span class="chevron open" id="chev-${sid}">▶</span>
+        <span class="subtopic-name">${sub.name}</span>
+        <span class="subtopic-count">${sub.articles ? sub.articles.length : 0} 篇</span>
+      </div>
+      <div class="articles-wrap" id="${sid}">
+        ${articlesHtml}
+      </div>
+    </div>`;
+  }).join("");
+
+  document.getElementById("main").innerHTML = `
+    <div class="cat-header">
+      <span class="cat-dot" style="background:${color}"></span>
+      <span class="cat-title">${cat.name}</span>
+      <span class="cat-count">${total} 篇 · ${cat.subtopics.length} 个板块</span>
+    </div>
+    ${subtopicsHtml}
+  `;
+}
+
+function showCat(idx) {
+  // update nav
+  document.querySelectorAll(".nav-item").forEach((el, i) => {
+    el.classList.toggle("active", i === idx);
+  });
+  currentCat = idx;
+  renderCat(idx);
+}
+
+function toggleSub(sid) {
+  const wrap = document.getElementById(sid);
+  const chev = document.getElementById(`chev-${sid}`);
+  const header = wrap.previousElementSibling;
+  const isHidden = wrap.style.display === "none";
+  wrap.style.display = isHidden ? "" : "none";
+  chev.classList.toggle("open", isHidden);
+  header.classList.toggle("collapsed", !isHidden);
+}
+
+async function init() {
+  try {
+    data = await fetchData();
+    document.getElementById("meta-text").textContent =
+      `周期：${data.week_start} 至 ${data.week_end}　生成：${data.generated_at}`;
+    renderSidebar(data);
+    showCat(0);
+  } catch (e) {
+    document.getElementById("main").innerHTML = `
+      <div class="center">
+        <span style="font-size:32px">⚠️</span>
+        <span style="color:#ef4444;font-weight:600">读取失败</span>
+        <span style="font-size:13px;max-width:400px;text-align:center">${e.message}</span>
+        <span style="font-size:12px;color:var(--text3)">请确认 GitHub Token 已设置且仓库权限正确</span>
+      </div>`;
+    document.getElementById("sidebar").innerHTML = "";
+  }
+}
+
+init();
+</script>
+</body>
+</html>
