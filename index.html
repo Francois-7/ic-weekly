@@ -239,14 +239,8 @@ let currentCat = null;
 let data = null;
 
 async function fetchData() {
-  const url = DATA_URL;
-  
-  
-
-  const res = await fetch(url, { headers });
-  if (!res.ok) throw new Error(`GitHub API ${res.status}: ${res.statusText}`);
-  
-  
+  const res = await fetch(DATA_URL);
+  if (!res.ok) throw new Error(`读取失败 ${res.status}: ${res.statusText}`);
   return await res.json();
 }
 
