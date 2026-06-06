@@ -12,22 +12,16 @@
   --text3: #64748b; --accent: #6366f1;
 }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
-
-/* Topbar */
 .topbar { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0 24px; height: 56px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 200; }
 .topbar-left { display: flex; align-items: center; gap: 12px; }
 .logo { font-size: 16px; font-weight: 700; color: var(--text); }
 .badge { background: var(--accent); color: white; font-size: 11px; padding: 2px 8px; border-radius: 20px; font-weight: 600; }
 .topbar-right { display: flex; align-items: center; gap: 12px; }
 .meta { font-size: 12px; color: var(--text3); }
-
-/* Language switcher */
 .lang-switcher { display: flex; gap: 4px; background: var(--surface2); border-radius: 8px; padding: 3px; }
 .lang-btn { padding: 4px 10px; border-radius: 6px; font-size: 12px; font-weight: 600; cursor: pointer; border: none; background: transparent; color: var(--text3); transition: all 0.15s; }
 .lang-btn:hover { color: var(--text); }
 .lang-btn.active { background: var(--accent); color: white; }
-
-/* Layout */
 .layout { display: flex; height: calc(100vh - 56px); }
 .sidebar { width: 220px; background: var(--surface); border-right: 1px solid var(--border); overflow-y: auto; flex-shrink: 0; padding: 12px 0; }
 .sidebar-section { padding: 6px 16px 4px; font-size: 10px; font-weight: 700; color: var(--text3); letter-spacing: 0.08em; text-transform: uppercase; }
@@ -35,16 +29,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .nav-item:hover { background: var(--surface2); color: var(--text); }
 .nav-item.active { border-left-color: var(--accent); background: var(--surface2); color: var(--text); }
 .nav-pill { background: var(--surface2); border-radius: 10px; padding: 1px 7px; font-size: 11px; color: var(--text3); }
-
 .main { flex: 1; overflow-y: auto; padding: 24px; }
-
-/* Category */
 .cat-header { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid var(--border); }
 .cat-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
 .cat-title { font-size: 20px; font-weight: 700; }
 .cat-count { font-size: 13px; color: var(--text3); margin-left: auto; }
-
-/* Subtopic */
 .subtopic { margin-bottom: 20px; }
 .subtopic-header { display: flex; align-items: center; gap: 10px; padding: 10px 14px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px 8px 0 0; cursor: pointer; user-select: none; transition: background 0.15s; }
 .subtopic-header:hover { background: var(--surface2); }
@@ -54,8 +43,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .chevron { font-size: 11px; color: var(--text3); transition: transform 0.2s; }
 .chevron.open { transform: rotate(90deg); }
 .articles-wrap { border: 1px solid var(--border); border-top: none; border-radius: 0 0 8px 8px; overflow: hidden; }
-
-/* Article */
 .article { padding: 14px 16px; border-bottom: 1px solid var(--border); transition: background 0.15s; }
 .article:last-child { border-bottom: none; }
 .article:hover { background: var(--surface); }
@@ -70,8 +57,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .summary { font-size: 13px; color: var(--text2); margin-bottom: 4px; line-height: 1.5; }
 .reason { font-size: 12px; color: var(--text3); font-style: italic; }
 .empty-state { padding: 20px 16px; font-size: 13px; color: var(--text3); font-style: italic; }
-
-/* Loading */
 .center { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; gap: 12px; color: var(--text3); }
 .spinner { width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
@@ -82,7 +67,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 
 <div class="topbar">
   <div class="topbar-left">
-    <span class="logo">📊 <span data-i18n="title">IC產業週報</span></span>
+    <span class="logo">📊 <span id="ui-title">IC產業週報</span></span>
     <span class="badge">LIVE</span>
   </div>
   <div class="topbar-right">
@@ -101,140 +86,112 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     <div class="center"><div class="spinner"></div></div>
   </nav>
   <main class="main" id="main">
-    <div class="center"><div class="spinner"></div><span data-i18n="loading">正在讀取最新週報...</span></div>
+    <div class="center"><div class="spinner"></div><span id="ui-loading">正在讀取最新週報...</span></div>
   </main>
 </div>
 
 <script>
 const DATA_URL = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/results.json";
 
-// ── 靜態介面翻譯對照表 ──────────────────────────────
+// ── 介面文字翻譯 ──────────────────────────────────────────
 const I18N = {
-  "zh-TW": {
-    title:        "IC產業週報",
-    loading:      "正在讀取最新週報...",
-    categories:   "大類",
-    articles:     "篇",
-    blocks:       "個板塊",
-    capital:      "資本視角",
-    industry:     "產業視角",
-    reason:       "選取理由",
-    empty:        "本週未找到符合標準的新聞",
-    error_title:  "讀取失敗",
-    period:       "週期",
-    generated:    "生成",
-  },
-  "zh-CN": {
-    title:        "IC产业周报",
-    loading:      "正在读取最新周报...",
-    categories:   "大类",
-    articles:     "篇",
-    blocks:       "个板块",
-    capital:      "资本视角",
-    industry:     "产业视角",
-    reason:       "选取理由",
-    empty:        "本周未找到符合标准的新闻",
-    error_title:  "读取失败",
-    period:       "周期",
-    generated:    "生成",
-  },
-  "en": {
-    title:        "IC Industry Weekly",
-    loading:      "Loading latest report...",
-    categories:   "Categories",
-    articles:     "articles",
-    blocks:       "sections",
-    capital:      "Capital View",
-    industry:     "Industry View",
-    reason:       "Why selected",
-    empty:        "No qualifying news found this week",
-    error_title:  "Failed to load",
-    period:       "Period",
-    generated:    "Generated",
-  },
-  "vi": {
-    title:        "Tuần Báo Ngành IC",
-    loading:      "Đang tải báo cáo mới nhất...",
-    categories:   "Danh mục",
-    articles:     "bài",
-    blocks:       "mục",
-    capital:      "Góc nhìn Vốn",
-    industry:     "Góc nhìn Ngành",
-    reason:       "Lý do chọn",
-    empty:        "Không tìm thấy tin phù hợp tuần này",
-    error_title:  "Tải thất bại",
-    period:       "Kỳ",
-    generated:    "Tạo lúc",
-  },
+  "zh-TW": { title:"IC產業週報", loading:"正在讀取最新週報...", categories:"大類", articles:"篇", blocks:"個板塊", capital:"資本視角", industry:"產業視角", reason:"選取理由", empty:"本週未找到符合標準的新聞", err:"讀取失敗", period:"週期", generated:"生成" },
+  "zh-CN": { title:"IC产业周报", loading:"正在读取最新周报...", categories:"大类", articles:"篇", blocks:"个板块", capital:"资本视角", industry:"产业视角", reason:"选取理由", empty:"本周未找到符合标准的新闻", err:"读取失败", period:"周期", generated:"生成" },
+  "en":    { title:"IC Industry Weekly", loading:"Loading latest report...", categories:"Categories", articles:"articles", blocks:"sections", capital:"Capital View", industry:"Industry View", reason:"Why selected", empty:"No qualifying news this week", err:"Failed to load", period:"Period", generated:"Generated" },
+  "vi":    { title:"Tuần Báo Ngành IC", loading:"Đang tải báo cáo...", categories:"Danh mục", articles:"bài", blocks:"mục", capital:"Góc nhìn Vốn", industry:"Góc nhìn Ngành", reason:"Lý do chọn", empty:"Không tìm thấy tin phù hợp tuần này", err:"Tải thất bại", period:"Kỳ", generated:"Tạo lúc" },
 };
 
-// 大類名稱翻譯
+// ── 大類名稱翻譯（同時支援新繁體key和舊簡體key）──────────
 const CAT_NAMES = {
-  "zh-TW": { "AIoT":"AIoT", "手機":"手機", "HPC數據中心":"HPC數據中心", "電動車":"電動車", "新能源":"新能源", "總體經濟":"總體經濟", "加密貨幣":"加密貨幣" },
-  "zh-CN": { "AIoT":"AIoT", "手機":"手机", "HPC數據中心":"HPC数据中心", "電動車":"电动车", "新能源":"新能源", "總體經濟":"宏观经济", "加密貨幣":"加密货币" },
-  "en":    { "AIoT":"AIoT", "手機":"Mobile", "HPC數據中心":"HPC & Data Center", "電動車":"Electric Vehicles", "新能源":"New Energy", "總體經濟":"Macro Economy", "加密貨幣":"Crypto" },
-  "vi":    { "AIoT":"AIoT", "手機":"Di Động", "HPC數據中心":"HPC & Trung Tâm Dữ Liệu", "電動車":"Xe Điện", "新能源":"Năng Lượng Mới", "總體經濟":"Kinh Tế Vĩ Mô", "加密貨幣":"Tiền Mã Hóa" },
-};
-
-// 子板塊名稱翻譯
-const SUB_NAMES = {
-  "zh-TW": {},  // 直接用原始名稱
+  "zh-TW": {
+    "AIoT":"AIoT","手機":"手機","HPC數據中心":"HPC數據中心","電動車":"電動車","新能源":"新能源","總體經濟":"總體經濟","加密貨幣":"加密貨幣",
+    "手机":"手機","HPC数据中心":"HPC數據中心","电动车":"電動車","宏观经济":"總體經濟","加密货币":"加密貨幣",
+  },
   "zh-CN": {
-    "工業物聯網產品":"工业物联网产品", "智慧穿戴":"智能穿戴", "機器人":"机器人", "智慧家庭產品":"智能家居产品",
-    "手機產品":"手机产品", "平板與筆記本產品":"平板与笔记本产品", "手機螢幕":"手机屏幕", "手機晶片":"手机芯片", "手機記憶體":"手机内存",
-    "數據中心":"数据中心", "雲端營運商":"云运营商", "伺服器":"服务器",
-    "電動車":"电动车", "儲能樁":"储能桩", "電動車核心零部件":"电动车核心零部件", "氫能車與混動車":"氢能车与混动车", "自動駕駛":"自动驾驶",
-    "儲能":"储能", "氫能與燃料電池":"氢能与燃料电池", "風能":"风能", "小型核反應堆":"小型核反应堆",
-    "美債":"美债", "總體數據":"宏观数据", "聯準會消息":"美联储消息", "關稅與貿易戰":"关税与贸易战", "日圓走勢與日本經濟":"日圆走势与日本经济", "歐元走勢與歐洲經濟":"欧元走势与欧洲经济",
-    "比特幣":"比特币", "穩定幣":"稳定币", "監管與合規":"监管与合规",
+    "AIoT":"AIoT","手機":"手机","HPC數據中心":"HPC数据中心","電動車":"电动车","新能源":"新能源","總體經濟":"宏观经济","加密貨幣":"加密货币",
+    "手机":"手机","HPC数据中心":"HPC数据中心","电动车":"电动车","宏观经济":"宏观经济","加密货币":"加密货币",
   },
   "en": {
-    "工業物聯網產品":"Industrial IoT", "智慧穿戴":"Wearables", "機器人":"Robotics", "智慧家庭產品":"Smart Home",
-    "手機產品":"Smartphones", "平板與筆記本產品":"Tablets & Laptops", "手機螢幕":"Mobile Displays", "手機晶片":"Mobile Chips", "手機記憶體":"Mobile Memory",
-    "HPC":"HPC", "數據中心":"Data Centers", "雲端營運商":"Cloud Operators", "AI公司":"AI Companies", "伺服器":"Servers",
-    "電動車":"Electric Vehicles", "儲能樁":"Charging Infrastructure", "電動車核心零部件":"EV Core Components", "氫能車與混動車":"Hydrogen & Hybrid", "自動駕駛":"Autonomous Driving",
-    "光伏":"Solar", "儲能":"Energy Storage", "氫能與燃料電池":"Hydrogen & Fuel Cell", "風能":"Wind Energy", "小型核反應堆":"Small Modular Reactors",
-    "美股":"US Stocks", "美債":"US Bonds", "總體數據":"Macro Data", "聯準會消息":"Fed News", "房屋市場":"Housing Market", "二手車市場":"Used Car Market", "關稅與貿易戰":"Tariffs & Trade War", "日圓走勢與日本經濟":"JPY & Japan Economy", "歐元走勢與歐洲經濟":"EUR & Europe Economy",
-    "比特幣":"Bitcoin", "穩定幣":"Stablecoins", "RWA":"RWA", "以太坊":"Ethereum", "監管與合規":"Regulation & Compliance", "DeFi":"DeFi",
+    "AIoT":"AIoT","手機":"Mobile","HPC數據中心":"HPC & Data Center","電動車":"Electric Vehicles","新能源":"New Energy","總體經濟":"Macro Economy","加密貨幣":"Crypto",
+    "手机":"Mobile","HPC数据中心":"HPC & Data Center","电动车":"Electric Vehicles","宏观经济":"Macro Economy","加密货币":"Crypto",
   },
   "vi": {
-    "工業物聯網產品":"IoT Công nghiệp", "智慧穿戴":"Thiết bị đeo", "機器人":"Robot", "智慧家庭產品":"Nhà thông minh",
-    "手機產品":"Điện thoại", "平板與筆記本產品":"Máy tính bảng & Laptop", "手機螢幕":"Màn hình di động", "手機晶片":"Chip di động", "手機記憶體":"Bộ nhớ di động",
-    "HPC":"HPC", "數據中心":"Trung tâm dữ liệu", "雲端營運商":"Nhà cung cấp đám mây", "AI公司":"Công ty AI", "伺服器":"Máy chủ",
-    "電動車":"Xe điện", "儲能樁":"Trạm sạc", "電動車核心零部件":"Linh kiện xe điện", "氫能車與混動車":"Xe hydrogen & hybrid", "自動駕駛":"Lái xe tự động",
-    "光伏":"Năng lượng mặt trời", "儲能":"Lưu trữ năng lượng", "氫能與燃料電池":"Hydrogen & Pin nhiên liệu", "風能":"Năng lượng gió", "小型核反應堆":"Lò phản ứng hạt nhân nhỏ",
-    "美股":"Chứng khoán Mỹ", "美債":"Trái phiếu Mỹ", "總體數據":"Dữ liệu vĩ mô", "聯準會消息":"Tin Fed", "房屋市場":"Thị trường nhà đất", "二手車市場":"Thị trường xe cũ", "關稅與貿易戰":"Thuế quan & Chiến tranh thương mại", "日圓走勢與日本經濟":"JPY & Kinh tế Nhật", "歐元走勢與歐洲經濟":"EUR & Kinh tế Châu Âu",
-    "比特幣":"Bitcoin", "穩定幣":"Stablecoin", "RWA":"RWA", "以太坊":"Ethereum", "監管與合規":"Quy định & Tuân thủ", "DeFi":"DeFi",
+    "AIoT":"AIoT","手機":"Di Động","HPC數據中心":"HPC & TTDL","電動車":"Xe Điện","新能源":"Năng Lượng Mới","總體經濟":"Kinh Tế Vĩ Mô","加密貨幣":"Tiền Mã Hóa",
+    "手机":"Di Động","HPC数据中心":"HPC & TTDL","电动车":"Xe Điện","宏观经济":"Kinh Tế Vĩ Mô","加密货币":"Tiền Mã Hóa",
+  },
+};
+
+// ── 子板塊名稱翻譯（繁體key為主，簡體key為備）──────────
+const SUB_NAMES = {
+  "zh-TW": {},
+  "zh-CN": {
+    "工業物聯網產品":"工业物联网产品","智慧穿戴":"智能穿戴","機器人":"机器人","VR/AR":"VR/AR","智慧家庭產品":"智能家居产品",
+    "手機產品":"手机产品","平板與筆記本產品":"平板与笔记本产品","手機螢幕":"手机屏幕","手機晶片":"手机芯片","手機記憶體":"手机内存",
+    "HPC":"HPC","數據中心":"数据中心","雲端營運商":"云运营商","AI公司":"AI公司","伺服器":"服务器",
+    "電動車":"电动车","儲能樁":"储能桩","電動車核心零部件":"电动车核心零部件","氫能車與混動車":"氢能车与混动车","自動駕駛":"自动驾驶",
+    "光伏":"光伏","儲能":"储能","氫能與燃料電池":"氢能与燃料电池","風能":"风能","小型核反應堆":"小型核反应堆",
+    "美股":"美股","美債":"美债","總體數據":"宏观数据","聯準會消息":"美联储消息","房屋市場":"房屋市场","二手車市場":"二手车市场","關稅與貿易戰":"关税与贸易战","日圓走勢與日本經濟":"日圆走势与日本经济","歐元走勢與歐洲經濟":"欧元走势与欧洲经济",
+    "比特幣":"比特币","穩定幣":"稳定币","RWA":"RWA","以太坊":"以太坊","監管與合規":"监管与合规","DeFi":"DeFi",
+    // 舊簡體key原樣保留
+    "工业物联网产品":"工业物联网产品","智能穿戴":"智能穿戴","机器人":"机器人","智能家居产品":"智能家居产品",
+    "手机产品":"手机产品","手机屏幕":"手机屏幕","手机芯片":"手机芯片","数据中心":"数据中心","云营运商":"云运营商","服务器":"服务器",
+    "电车":"电动车","储能桩":"储能桩","自动驾驶":"自动驾驶","储能":"储能","风能":"风能",
+    "美债":"美债","宏观数据":"宏观数据","美联储消息":"美联储消息","房屋市场":"房屋市场","二手车市场":"二手车市场","关税与贸易战":"关税与贸易战",
+    "比特币":"比特币","稳定币":"稳定币","监管与合规":"监管与合规",
+  },
+  "en": {
+    "工業物聯網產品":"Industrial IoT","智慧穿戴":"Wearables","機器人":"Robotics","VR/AR":"VR/AR","智慧家庭產品":"Smart Home",
+    "手機產品":"Smartphones","平板與筆記本產品":"Tablets & Laptops","手機螢幕":"Mobile Displays","手機晶片":"Mobile Chips","手機記憶體":"Mobile Memory",
+    "HPC":"HPC","數據中心":"Data Centers","雲端營運商":"Cloud Operators","AI公司":"AI Companies","伺服器":"Servers",
+    "電動車":"Electric Vehicles","儲能樁":"Charging Infrastructure","電動車核心零部件":"EV Core Components","氫能車與混動車":"Hydrogen & Hybrid","自動駕駛":"Autonomous Driving",
+    "光伏":"Solar","儲能":"Energy Storage","氫能與燃料電池":"Hydrogen & Fuel Cell","風能":"Wind Energy","小型核反應堆":"Small Modular Reactors",
+    "美股":"US Stocks","美債":"US Bonds","總體數據":"Macro Data","聯準會消息":"Fed News","房屋市場":"Housing Market","二手車市場":"Used Car Market","關稅與貿易戰":"Tariffs & Trade War","日圓走勢與日本經濟":"JPY & Japan Economy","歐元走勢與歐洲經濟":"EUR & Europe Economy",
+    "比特幣":"Bitcoin","穩定幣":"Stablecoins","RWA":"RWA","以太坊":"Ethereum","監管與合規":"Regulation & Compliance","DeFi":"DeFi",
+    // 舊簡體key
+    "工业物联网产品":"Industrial IoT","智能穿戴":"Wearables","机器人":"Robotics","智能家居产品":"Smart Home",
+    "手机产品":"Smartphones","手机屏幕":"Mobile Displays","手机芯片":"Mobile Chips","数据中心":"Data Centers","云营运商":"Cloud Operators","服务器":"Servers",
+    "电车":"Electric Vehicles","储能桩":"Charging Infrastructure","自动驾驶":"Autonomous Driving","储能":"Energy Storage","风能":"Wind Energy",
+    "美债":"US Bonds","宏观数据":"Macro Data","美联储消息":"Fed News","房屋市场":"Housing Market","二手车市场":"Used Car Market","关税与贸易战":"Tariffs & Trade War",
+    "比特币":"Bitcoin","稳定币":"Stablecoins","监管与合规":"Regulation & Compliance",
+  },
+  "vi": {
+    "工業物聯網產品":"IoT Công nghiệp","智慧穿戴":"Thiết bị đeo","機器人":"Robot","VR/AR":"VR/AR","智慧家庭產品":"Nhà thông minh",
+    "手機產品":"Điện thoại","平板與筆記本產品":"Máy tính bảng & Laptop","手機螢幕":"Màn hình DĐ","手機晶片":"Chip DĐ","手機記憶體":"Bộ nhớ DĐ",
+    "HPC":"HPC","數據中心":"TTDL","雲端營運商":"Đám mây","AI公司":"Công ty AI","伺服器":"Máy chủ",
+    "電動車":"Xe điện","儲能樁":"Trạm sạc","電動車核心零部件":"Linh kiện xe điện","氫能車與混動車":"Hydrogen & Hybrid","自動駕駛":"Tự lái",
+    "光伏":"Năng lượng MT","儲能":"Lưu trữ NL","氫能與燃料電池":"Hydrogen & Pin NL","風能":"Năng lượng gió","小型核反應堆":"Lò hạt nhân nhỏ",
+    "美股":"Chứng khoán Mỹ","美債":"Trái phiếu Mỹ","總體數據":"Dữ liệu VM","聯準會消息":"Tin Fed","房屋市場":"BĐS","二手車市場":"Xe cũ","關稅與貿易戰":"Thuế quan","日圓走勢與日本經濟":"JPY & Nhật","歐元走勢與歐洲經濟":"EUR & Châu Âu",
+    "比特幣":"Bitcoin","穩定幣":"Stablecoin","RWA":"RWA","以太坊":"Ethereum","監管與合規":"Quy định","DeFi":"DeFi",
+    // 舊簡體key
+    "工业物联网产品":"IoT Công nghiệp","智能穿戴":"Thiết bị đeo","机器人":"Robot","智能家居产品":"Nhà thông minh",
+    "手机产品":"Điện thoại","手机屏幕":"Màn hình DĐ","手机芯片":"Chip DĐ","数据中心":"TTDL","云营运商":"Đám mây","服务器":"Máy chủ",
+    "电车":"Xe điện","储能桩":"Trạm sạc","自动驾驶":"Tự lái","储能":"Lưu trữ NL","风能":"Năng lượng gió",
+    "美债":"Trái phiếu Mỹ","宏观数据":"Dữ liệu VM","美联储消息":"Tin Fed","房屋市场":"BĐS","二手车市场":"Xe cũ","关税与贸易战":"Thuế quan",
+    "比特币":"Bitcoin","稳定币":"Stablecoin","监管与合规":"Quy định",
   },
 };
 
 const CAT_COLORS = {
-  "AIoT":"#6366f1", "手機":"#f97316", "HPC數據中心":"#22c55e",
-  "電動車":"#a855f7", "新能源":"#eab308", "總體經濟":"#ef4444", "加密貨幣":"#14b8a6",
+  "AIoT":"#6366f1","手機":"#f97316","HPC數據中心":"#22c55e","電動車":"#a855f7","新能源":"#eab308","總體經濟":"#ef4444","加密貨幣":"#14b8a6",
+  "手机":"#f97316","HPC数据中心":"#22c55e","电动车":"#a855f7","宏观经济":"#ef4444","加密货币":"#14b8a6",
 };
 
 let currentLang = "zh-TW";
 let currentCat  = 0;
 let data        = null;
 
-function t(key) { return (I18N[currentLang] || I18N["zh-TW"])[key] || key; }
-function catName(name) { return (CAT_NAMES[currentLang] || {})[name] || name; }
-function subName(name) { return (SUB_NAMES[currentLang] || {})[name] || name; }
+function t(key) { return (I18N[currentLang]||I18N["zh-TW"])[key]||key; }
+function catName(n) { return (CAT_NAMES[currentLang]||{})[n]||n; }
+function subName(n) { return (SUB_NAMES[currentLang]||{})[n]||n; }
 
 function setLang(lang) {
   currentLang = lang;
   document.querySelectorAll(".lang-btn").forEach(b => {
-    b.classList.toggle("active", b.textContent === { "zh-TW":"繁","zh-CN":"简","en":"EN","vi":"VI" }[lang]);
+    b.classList.toggle("active", b.textContent === {"zh-TW":"繁","zh-CN":"简","en":"EN","vi":"VI"}[lang]);
   });
-  document.querySelectorAll("[data-i18n]").forEach(el => {
-    el.textContent = t(el.dataset.i18n);
-  });
+  document.getElementById("ui-title").textContent = t("title");
   document.title = t("title");
-  if (data) {
-    renderSidebar(data);
-    renderCat(currentCat);
-    updateMeta();
-  }
+  if (data) { updateMeta(); renderSidebar(data); renderCat(currentCat); }
 }
 
 function updateMeta() {
@@ -244,12 +201,12 @@ function updateMeta() {
 }
 
 function renderSidebar(d) {
-  const sidebar = document.getElementById("sidebar");
-  sidebar.innerHTML = `<div class="sidebar-section">${t("categories")}</div>` +
-    d.categories.map((cat, i) => {
-      const total = cat.subtopics.reduce((s, sub) => s + (sub.articles ? sub.articles.length : 0), 0);
-      const color = CAT_COLORS[cat.name] || "#888";
-      return `<a class="nav-item${i === currentCat ? " active" : ""}" onclick="showCat(${i})" id="nav-${i}">
+  document.getElementById("sidebar").innerHTML =
+    `<div class="sidebar-section">${t("categories")}</div>` +
+    d.categories.map((cat,i) => {
+      const total = cat.subtopics.reduce((s,sub)=>s+(sub.articles?sub.articles.length:0),0);
+      const color = CAT_COLORS[cat.name]||"#888";
+      return `<a class="nav-item${i===currentCat?" active":""}" onclick="showCat(${i})" id="nav-${i}">
         <span style="display:flex;align-items:center;gap:8px">
           <span style="width:8px;height:8px;border-radius:50%;background:${color};flex-shrink:0"></span>
           ${catName(cat.name)}
@@ -261,43 +218,38 @@ function renderSidebar(d) {
 
 function renderCat(catIdx) {
   const cat   = data.categories[catIdx];
-  const color = CAT_COLORS[cat.name] || "#888";
-  const total = cat.subtopics.reduce((s, sub) => s + (sub.articles ? sub.articles.length : 0), 0);
+  const color = CAT_COLORS[cat.name]||"#888";
+  const total = cat.subtopics.reduce((s,sub)=>s+(sub.articles?sub.articles.length:0),0);
 
-  const subtopicsHtml = cat.subtopics.map((sub, si) => {
+  const subtopicsHtml = cat.subtopics.map((sub,si) => {
     const sid = `sub-${catIdx}-${si}`;
     let articlesHtml = "";
-
-    if (!sub.articles || sub.articles.length === 0) {
+    if (!sub.articles||sub.articles.length===0) {
       articlesHtml = `<div class="empty-state">${t("empty")}</div>`;
     } else {
       articlesHtml = sub.articles.map(a => {
-        const perspStr  = a.perspective || "";
-        const isCapital = perspStr.includes("資本") || perspStr.includes("资本") || perspStr.toLowerCase().includes("capital");
-        const tagClass  = isCapital ? "tag-capital" : "tag-industry";
-        const tagLabel  = isCapital ? t("capital") : t("industry");
-        // 文章內容：有多語言欄位就用，否則用繁體
-        const title   = a[`title_${currentLang}`]   || a.title   || "";
-        const summary = a[`summary_${currentLang}`] || a.summary || "";
-        const reason  = a[`reason_${currentLang}`]  || a.reason  || "";
+        const p = a.perspective||"";
+        const isCapital = p.includes("資本")||p.includes("资本")||p.toLowerCase().includes("capital");
+        const title   = a[`title_${currentLang}`]  ||a.title  ||"";
+        const summary = a[`summary_${currentLang}`]||a.summary||"";
+        const reason  = a[`reason_${currentLang}`] ||a.reason ||"";
         return `<div class="article">
           <div class="article-meta">
-            <span class="tag ${tagClass}">${tagLabel}</span>
-            <span class="outlet-name">${a.outlet || ""}</span>
-            <span class="pub-date">${a.published || ""}</span>
+            <span class="tag ${isCapital?"tag-capital":"tag-industry"}">${isCapital?t("capital"):t("industry")}</span>
+            <span class="outlet-name">${a.outlet||""}</span>
+            <span class="pub-date">${a.published||""}</span>
           </div>
-          <a class="article-title" href="${a.url || '#'}" target="_blank" rel="noopener">${title}</a>
+          <a class="article-title" href="${a.url||'#'}" target="_blank" rel="noopener">${title}</a>
           <p class="summary">${summary}</p>
           <p class="reason">${t("reason")}：${reason}</p>
         </div>`;
       }).join("");
     }
-
     return `<div class="subtopic">
       <div class="subtopic-header" onclick="toggleSub('${sid}')">
         <span class="chevron open" id="chev-${sid}">▶</span>
         <span class="subtopic-name">${subName(sub.name)}</span>
-        <span class="subtopic-count">${sub.articles ? sub.articles.length : 0} ${t("articles")}</span>
+        <span class="subtopic-count">${sub.articles?sub.articles.length:0} ${t("articles")}</span>
       </div>
       <div class="articles-wrap" id="${sid}">${articlesHtml}</div>
     </div>`;
@@ -308,13 +260,12 @@ function renderCat(catIdx) {
       <span class="cat-dot" style="background:${color}"></span>
       <span class="cat-title">${catName(cat.name)}</span>
       <span class="cat-count">${total} ${t("articles")} · ${cat.subtopics.length} ${t("blocks")}</span>
-    </div>
-    ${subtopicsHtml}`;
+    </div>${subtopicsHtml}`;
 }
 
 function showCat(idx) {
   currentCat = idx;
-  document.querySelectorAll(".nav-item").forEach((el, i) => el.classList.toggle("active", i === idx));
+  document.querySelectorAll(".nav-item").forEach((el,i)=>el.classList.toggle("active",i===idx));
   renderCat(idx);
 }
 
@@ -322,10 +273,10 @@ function toggleSub(sid) {
   const wrap   = document.getElementById(sid);
   const chev   = document.getElementById(`chev-${sid}`);
   const header = wrap.previousElementSibling;
-  const hidden = wrap.style.display === "none";
-  wrap.style.display = hidden ? "" : "none";
-  chev.classList.toggle("open", hidden);
-  header.classList.toggle("collapsed", !hidden);
+  const hidden = wrap.style.display==="none";
+  wrap.style.display = hidden?"":"none";
+  chev.classList.toggle("open",hidden);
+  header.classList.toggle("collapsed",!hidden);
 }
 
 async function init() {
@@ -336,14 +287,14 @@ async function init() {
     updateMeta();
     renderSidebar(data);
     renderCat(0);
-  } catch (e) {
+  } catch(e) {
     document.getElementById("main").innerHTML = `
       <div class="center">
         <span style="font-size:32px">⚠️</span>
-        <span style="color:#ef4444;font-weight:600">${t("error_title")}</span>
+        <span style="color:#ef4444;font-weight:600">${t("err")}</span>
         <span style="font-size:13px;max-width:400px;text-align:center">${e.message}</span>
       </div>`;
-    document.getElementById("sidebar").innerHTML = "";
+    document.getElementById("sidebar").innerHTML="";
   }
 }
 
