@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 16:12 UTC",
+  "generated_at": "2026-06-06 16:39 UTC",
   "week_start": "2026-06-01",
   "week_end": "2026-06-06",
   "categories": [
@@ -11,23 +11,43 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Origin Energy to Digitise Australian Gas Metering with Landis+Gyr Retrofit IoT Modules",
-              "url": "https://iotbusinessnews.com/2026/06/04/origin-energy-to-digitise-australian-gas-metering-with-landisgyr-retrofit-iot-modules/",
-              "published": "2026-06-04",
-              "outlet": "IoT Business News",
-              "summary": "Landis+Gyr IoT modules enable remote gas meter readings for Origin Energy.",
-              "reason": "Landis+Gyr listed supplier wins major utility retrofit contract affecting revenue.",
-              "perspective": "资本视角"
+              "title": "Physical AI 整合工廠硬體 實現無人導引適應",
+              "url": "https://www.iiot-world.com/smart-manufacturing/physical-ai-manufacturing-robotics-roi/",
+              "published": "2026-06-05",
+              "outlet": "IIoT World",
+              "summary": "Physical AI 讓機器人直接在產線感知與決策。",
+              "reason": "上市大廠部署實例，影響供應鏈與資本支出。",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "LoRa Alliance Sets Three-Year Plan to Make LoRaWAN Easier to Integrate and Operate",
-              "url": "https://iotbusinessnews.com/2026/06/02/lora-alliance-sets-three-year-plan-to-make-lorawan-easier-to-integrate-and-operate/",
+              "title": "Agentic AI 於智慧工廠的真實落地挑戰",
+              "url": "https://www.iiot-world.com/smart-manufacturing/agentic-ai-reality-smart-factory/",
+              "published": "2026-06-04",
+              "outlet": "IIoT World",
+              "summary": "僅 20-25% 廠商達到 Agentic AI 成熟階段。",
+              "reason": "客戶討論市場滲透率與營收貢獻關鍵指標。",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "Industry 4.0 推出 15 年 產業現況檢討",
+              "url": "https://www.iiot-world.com/smart-manufacturing/industry-4-0-fifteen-years-where-are-we-now/",
+              "published": "2026-06-03",
+              "outlet": "IIoT World",
+              "summary": "回顧 15 年數位轉型進展與未竟課題。",
+              "reason": "大型製造商策略調整參考，具長期投資意義。",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 4,
+              "title": "預測性維護 ROI 執行長指南出爐",
+              "url": "https://www.iiot-world.com/predictive-analytics/predictive-maintenance/predictive-maintenance-roi-executive-guide/",
               "published": "2026-06-02",
-              "outlet": "IoT Business News",
-              "summary": "LoRa Alliance roadmap targets lower integration cost and higher interoperability.",
-              "reason": "Standard body plan directly impacts industrial IoT chip and module suppliers.",
-              "perspective": "产业视角"
+              "outlet": "IIoT World",
+              "summary": "預測維護成設備可靠度首要商業優先事項。",
+              "reason": "直接影響資本支出與營運成本，投資人關注。",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -36,13 +56,43 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Galaxy Watch is getting new AI health tools from June 8",
+              "title": "Oura Ring 5 尺寸明顯縮小",
+              "url": "https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions",
+              "published": "2026-06-04",
+              "outlet": "The Verge Wearables",
+              "summary": "Oura Ring 5 體積縮小，續航與耐用度提升。",
+              "reason": "消費級穿戴龍頭新品，市場份額變化指標。",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 2,
+              "title": "Zepp OS 6 推出時程公布",
+              "url": "https://gadgetsandwearables.com/2026/06/06/zepp-os-6-rollout-schedule/",
+              "published": "2026-06-06",
+              "outlet": "Gadgets & Wearables",
+              "summary": "Amazfit 多款手錶將陸續更新 Zepp OS 6。",
+              "reason": "華米科技平台升級，影響後續產品線與營收。",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "Galaxy Watch 6 月 8 日新增 AI 健康功能",
               "url": "https://gadgetsandwearables.com/2026/06/04/samsung-health-update-2/",
               "published": "2026-06-04",
               "outlet": "Gadgets & Wearables",
-              "summary": "Samsung adds Vitals, Heart Health Score and Daily Cardio Load AI features.",
-              "reason": "Samsung listed company rolls out new AI health metrics affecting wearables ASP and attach rate.",
-              "perspective": "资本视角"
+              "summary": "三星手錶將推 Vitals 與心臟健康評分。",
+              "reason": "三星穿戴生態擴張，供應鏈與市占率關鍵。",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 4,
+              "title": "Withings BodyFit 美國開賣",
+              "url": "https://gadgetsandwearables.com/2026/06/04/withings-bodyfit-buy/",
+              "published": "2026-06-04",
+              "outlet": "Gadgets & Wearables",
+              "summary": "Withings 推出支援分段體脂測量的智慧體重計。",
+              "reason": "歐洲上市廠商北美擴張，市場成長訊號。",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -51,63 +101,43 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Proteus gets natural-language ability as Amazon expands European robot deployments",
-              "url": "https://www.therobotreport.com/proteus-gets-natural-language-ability-amazon-expands-europe-robot-deployments/",
-              "published": "2026-06-04",
-              "outlet": "The Robot Report",
-              "summary": "Amazon adds natural language to Proteus and scales deployment across Europe.",
-              "reason": "Amazon listed customer accelerates warehouse robot rollout, signaling capex growth.",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 2,
-              "title": "Mitsubishi Electric opens Serendie Street Boston digital transformation hub",
-              "url": "https://www.therobotreport.com/mitsubishi-electric-opens-serendie-street-boston-digital-transformation-hub/",
-              "published": "2026-06-05",
-              "outlet": "The Robot Report",
-              "summary": "Mitsubishi opens first Western DT hub focused on robotics and automation collaboration.",
-              "reason": "Mitsubishi listed firm invests in robotics ecosystem hub, indicating strategic capex.",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 3,
-              "title": "Generalist raises $400M to scale its general-purpose AI models",
+              "title": "Generalist 完成 4 億美元融資",
               "url": "https://www.therobotreport.com/generalist-raises-400m-to-scale-its-general-purpose-ai-models/",
               "published": "2026-06-04",
               "outlet": "The Robot Report",
-              "summary": "Generalist secures $400M at ~$2B valuation for physical AI robotics models.",
-              "reason": "Major funding round for robotics foundation model directly impacts supply chain spend.",
-              "perspective": "资本视角"
+              "summary": "Generalist 以 20 億美元估值擴展通用機器人模型。",
+              "reason": "機器人 AI 獨角獸大額融資，資本市場風向標。",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 2,
+              "title": "Amazon 歐洲擴大 Proteus 機器人部署",
+              "url": "https://www.therobotreport.com/proteus-gets-natural-language-ability-amazon-expands-europe-robot-deployments/",
+              "published": "2026-06-04",
+              "outlet": "The Robot Report",
+              "summary": "Amazon 讓 Proteus 支援自然語言並擴張歐洲倉儲。",
+              "reason": "電商龍頭大規模採用，供應鏈與市占指標。",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 3,
+              "title": "Mach Industries 獲 3 億美元融資",
+              "url": "https://www.therobotreport.com/autonomous-defense-manufacturer-mach-industries-raises-300m/",
+              "published": "2026-06-03",
+              "outlet": "The Robot Report",
+              "summary": "自主國防機器人新創 Mach 完成 3 億美元募資。",
+              "reason": "國防級機器人融資，政府合約與成長潛力。",
+              "perspective": "資本视角"
             },
             {
               "rank": 4,
-              "title": "Volvo and Boliden complete dam construction milestone with autonomous transport",
-              "url": "https://roboticsandautomationnews.com/2026/06/04/volvo-and-boliden-complete-dam-construction-milestone-with-autonomous-transport/102283/",
-              "published": "2026-06-04",
-              "outlet": "Robotics & Automation",
-              "summary": "Volvo Autonomous Solutions completes first autonomous transport project at Boliden mine.",
-              "reason": "Volvo listed OEM wins commercial autonomous haulage milestone, revenue visibility.",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 5,
-              "title": "Fanuc-powered robotic cell automates one of furniture manufacturing’s toughest jobs",
-              "url": "https://roboticsandautomationnews.com/2026/06/05/fanuc-powered-robotic-cell-automates-one-of-furniture-manufacturings-toughest-jobs/102312/",
-              "published": "2026-06-05",
-              "outlet": "Robotics & Automation",
-              "summary": "Fanuc M-710iC cell automates upholstery process for Canadian furniture maker.",
-              "reason": "Fanuc listed robotics leader gains new industrial upholstery application share.",
-              "perspective": "产业视角"
-            },
-            {
-              "rank": 6,
-              "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
-              "url": "https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html",
-              "published": "2026-06-05",
-              "outlet": "CNBC Tech",
-              "summary": "Amazon confirms Proteus deployment drives net employment increase in warehouses.",
-              "reason": "Amazon executive statement on robot-driven hiring affects labor and capex outlook.",
-              "perspective": "资本视角"
+              "title": "FORT Robotics 收購 Mapless AI",
+              "url": "https://www.therobotreport.com/fort-robotics-acquires-mapless-ai-to-expand-teleop-capabilities/",
+              "published": "2026-06-02",
+              "outlet": "The Robot Report",
+              "summary": "FORT 收購 Mapless AI 強化遠距操作能力。",
+              "reason": "工業機器人併購案，技術整合與市場布局。",
+              "perspective": "產業视角"
             }
           ]
         },
@@ -116,53 +146,43 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Snap Acquires AR Startup Illumix to Boost Next-gen ‘Specs’ Glasses",
+              "title": "Snap 收購 AR 新創 Illumix",
               "url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
               "published": "2026-06-05",
               "outlet": "Road to VR",
-              "summary": "Snap acquires Illumix to strengthen AR software for upcoming smart glasses.",
-              "reason": "Snap listed company M&A accelerates AR glasses roadmap and content pipeline.",
-              "perspective": "资本视角"
+              "summary": "Snap 收購 AR 公司 Illumix 強化眼鏡產品線。",
+              "reason": "社群平台 AR 策略併購，長期資本布局。",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "Meta Reportedly Plans 4 New Smart Glasses Models Amid Aggressive 10M Unit Push",
-              "url": "https://roadtovr.com/meta-meta-smart-glasses-report-ai-pendant/",
-              "published": "2026-06-01",
-              "outlet": "Road to VR",
-              "summary": "Meta internal memo outlines four new smart glasses SKUs and 10M unit target.",
-              "reason": "Meta listed firm aggressive hardware ramp directly drives component demand.",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 3,
-              "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
-              "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-              "published": "2026-06-05",
-              "outlet": "Road to VR",
-              "summary": "Valve sets summer 2026 launch for standalone VR headset Steam Frame.",
-              "reason": "Valve PC VR platform update signals renewed hardware cycle and content spend.",
-              "perspective": "产业视角"
-            },
-            {
-              "rank": 4,
-              "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
+              "title": "Meta 將 Supernatural 獨立為新公司",
               "url": "https://roadtovr.com/meta-spins-out-supernatural/",
               "published": "2026-06-04",
               "outlet": "Road to VR",
-              "summary": "Meta returns Supernatural IP to founders to operate as independent VR fitness company.",
-              "reason": "Meta listed company restructures VR fitness asset, affecting content investment.",
-              "perspective": "资本视角"
+              "summary": "Meta 把 VR 健身應用 Supernatural 獨立營運。",
+              "reason": "Meta VR 業務調整，影響內容生態與營收。",
+              "perspective": "產業视角"
             },
             {
-              "rank": 5,
-              "title": "Acer Re-enters XR with New AR & Smart Glasses",
+              "rank": 3,
+              "title": "Meta 計畫今年再推 4 款智慧眼鏡",
+              "url": "https://roadtovr.com/meta-meta-smart-glasses-report-ai-pendant/",
+              "published": "2026-06-01",
+              "outlet": "Road to VR",
+              "summary": "Meta 目標今年推出多款新世代智慧眼鏡。",
+              "reason": "Meta 穿戴硬體大舉擴張，市場競爭關鍵。",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 4,
+              "title": "Acer 重返 XR 市場推出 AR 與智慧眼鏡",
               "url": "https://roadtovr.com/acer-re-enters-xr-with-new-ar-smart-glasses/",
               "published": "2026-06-01",
               "outlet": "Road to VR",
-              "summary": "Acer launches new AR and smart glasses after seven-year XR hiatus.",
-              "reason": "Acer listed OEM re-entry expands AR/smart glasses supply options.",
-              "perspective": "产业视角"
+              "summary": "Acer 發表新款 AR 與智慧眼鏡重返 XR 領域。",
+              "reason": "傳統 PC 廠商跨入 XR，供應鏈新變數。",
+              "perspective": "產業视角"
             }
           ]
         },
@@ -171,23 +191,43 @@
           "articles": [
             {
               "rank": 1,
-              "title": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
+              "title": "SwitchBot 收購 Nanoleaf 深化智慧照明",
               "url": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
               "published": "2026-06-03",
               "outlet": "The Verge Smart Home",
-              "summary": "SwitchBot parent OneRobotics acquires Nanoleaf to expand smart lighting and AI robotics.",
-              "reason": "Acquisition by robotics-focused parent signals smart home lighting market consolidation.",
-              "perspective": "资本视角"
+              "summary": "SwitchBot 收購 Nanoleaf 擴大智慧家庭版圖。",
+              "reason": "智慧家庭平台併購，市場整合與成長動能。",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "Ring doorbell cameras could be collecting your face without permission, $5 million lawsuit claims",
-              "url": "https://www.tomsguide.com/computing/internet/ring-doorbell-cameras-could-be-collecting-your-face-without-permission-usd5-million-lawsuit-claims",
+              "title": "Thermacell 推出 Liv 2.0 智慧驅蚊系統",
+              "url": "https://www.theverge.com/tech/941146/liv-2-dot-0-smart-mosquito-repellent-system-thermacell",
               "published": "2026-06-02",
-              "outlet": "Tom's Guide Smart Home",
-              "summary": "Class action alleges Ring AI facial recognition collected biometrics without consent.",
-              "reason": "Amazon Ring faces regulatory and legal risk affecting smart home camera adoption.",
-              "perspective": "资本视角"
+              "outlet": "The Verge Smart Home",
+              "summary": "Thermacell 發表更大範圍的智慧驅蚊解決方案。",
+              "reason": "戶外智慧家庭新品，細分市場擴張指標。",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 3,
+              "title": "Lepro 推出情緒互動智慧燈具",
+              "url": "https://www.cnet.com/home/kitchen-and-household/i-commanded-this-smart-light-to-change-based-on-my-mood-and-i-liked-it/",
+              "published": "2026-06-06",
+              "outlet": "CNET Smart Home",
+              "summary": "Lepro 智慧燈支援聊天機器人情緒控制。",
+              "reason": "AI 家電創新應用，產品差異化競爭。",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 4,
+              "title": "SwitchBot 發表完整家庭氣象站",
+              "url": "https://www.cnet.com/home/smart-home/switchbot-launches-complete-home-weather-station/",
+              "published": "2026-06-04",
+              "outlet": "CNET Smart Home",
+              "summary": "SwitchBot 推出支援 E Ink 與旅遊建議的氣象站。",
+              "reason": "智慧家庭感測器平台延伸，生態系擴張。",
+              "perspective": "資本视角"
             }
           ]
         }
@@ -201,130 +241,49 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Samsung Galaxy S27 Pro's battery capacity will surprise you",
+              "title": "三星 Galaxy S27 Pro 电池容量将令人惊讶",
               "url": "https://www.gsmarena.com/samsung_galaxy_s27_pros_battery_capacity_will_surprise_you-news-73160.php",
               "published": "2026-06-06",
               "outlet": "GSMArena",
-              "summary": "三星S27 Pro规格与电池传闻曝光",
-              "reason": "三星旗舰新机定位与竞品格局关键信号",
+              "summary": "三星 S27 Pro 规格与电池传闻曝光",
+              "reason": "旗舰新机定位与竞品布局具市场意义",
               "perspective": "产业视角"
             },
             {
               "rank": 2,
-              "title": "Honor Play11 Plus and Play10 5G go official with 7,000mAh batteries",
-              "url": "https://www.gsmarena.com/honor_play11_plus_and_play10_5g_go_official_with_7000mah_batteries-news-73161.php",
+              "title": "Tecno Pova 8 5G 印度上市日期确认",
+              "url": "https://www.gsmarena.com/tecno_pova_8_5g_finally_has_an_official_launch_date_brand_reveals_its_battery_capacity-news-73162.php",
               "published": "2026-06-06",
               "outlet": "GSMArena",
-              "summary": "荣耀Play系列新机正式发布",
-              "reason": "荣耀中高端机型布局影响供应链备货",
+              "summary": "Tecno Pova 8 5G 确认 6 月 11 日印度上市",
+              "reason": "新兴市场新机发布影响区域份额",
               "perspective": "产业视角"
             },
             {
               "rank": 3,
-              "title": "Samsung Galaxy A27 and Redmi 17 4G get certified ahead of release",
-              "url": "https://www.gsmarena.com/samsung_galaxy_a27_and_redmi_17_4g_get_certified_ahead_of_release-news-73157.php",
-              "published": "2026-06-06",
-              "outlet": "GSMArena",
-              "summary": "三星A27与Redmi 17获认证",
-              "reason": "中低端机型上市时间表影响芯片拉货",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 4,
-              "title": "Samsung Galaxy Z Flip8 is now confirmed to skip any sort of charging upgrade",
+              "title": "三星 Galaxy Z Flip8 确认维持 25W 充电",
               "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8_is_now_confirmed_to_skip_any_sort_of_charging_upgrade-news-73155.php",
               "published": "2026-06-05",
               "outlet": "GSMArena",
-              "summary": "Z Flip8确认维持25W充电",
-              "reason": "折叠屏供应链规格冻结，影响零组件备货",
+              "summary": "Z Flip8 充电规格维持不变",
+              "reason": "折叠旗舰规格决策影响供应链规划",
               "perspective": "产业视角"
             },
             {
-              "rank": 5,
-              "title": "vivo X Fold6 to come with a 6,900mAh battery",
+              "rank": 4,
+              "title": "vivo X Fold6 确认搭载 6900mAh 电池",
               "url": "https://www.gsmarena.com/vivo_x_fold6_may_come_with_a_6900mah_battery-news-73146.php",
               "published": "2026-06-05",
               "outlet": "GSMArena",
-              "summary": "vivo X Fold6电池容量确认",
-              "reason": "vivo折叠旗舰规格落地，影响电池与平台订单",
-              "perspective": "产业视角"
-            },
-            {
-              "rank": 6,
-              "title": "vivo V70 Lite is now official with Dimensity 7400 Turbo chip and 90W charging",
-              "url": "https://www.gsmarena.com/vivo_v70_lite_is_now_official_with_dimensity_7400_turbo_chip_and_90w_charging-news-73148.php",
-              "published": "2026-06-05",
-              "outlet": "GSMArena",
-              "summary": "vivo V70 Lite正式发布",
-              "reason": "vivo中端新机量产启动，影响联发科订单",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 7,
-              "title": "Xiaomi 17T series' launch in China next week marks the T lineup's debut in the country",
-              "url": "https://www.gsmarena.com/xiaomi_17t_17t_pro_china_launch_date-news-73145.php",
-              "published": "2026-06-05",
-              "outlet": "GSMArena",
-              "summary": "小米17T系列中国首发",
-              "reason": "小米T系列进入本土市场，影响中高端份额",
-              "perspective": "产业视角"
-            },
-            {
-              "rank": 8,
-              "title": "iPhone 18 Pro Max dimensions tipped",
-              "url": "https://www.gsmarena.com/iphone_18_pro_max_dimensions_tipped_-news-73143.php",
-              "published": "2026-06-05",
-              "outlet": "GSMArena",
-              "summary": "iPhone 18 Pro Max厚度规格曝光",
-              "reason": "苹果旗舰尺寸确认，影响供应链结构件备货",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 9,
-              "title": "Galaxy Z Flip 8 could follow Galaxy S series with a dual-chip strategy",
-              "url": "https://www.androidauthority.com/galaxy-z-flip-8-dual-chip-3674561/",
-              "published": "2026-06-04",
-              "outlet": "Android Authority",
-              "summary": "Z Flip8可能采用双芯片策略",
-              "reason": "三星折叠屏芯片策略变化，影响高通/自研份额",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 10,
-              "title": "The slimmest Galaxy Z Fold 8 competitor is going global with a huge battery in tow",
-              "url": "https://www.androidauthority.com/honor-magic-v6-global-launch-3674524/",
-              "published": "2026-06-04",
-              "outlet": "Android Authority",
-              "summary": "荣耀Magic V6全球发布",
-              "reason": "荣耀折叠屏新品出货，影响市场竞争格局",
-              "perspective": "产业视角"
-            },
-            {
-              "rank": 11,
-              "title": "The OnePlus 16 could launch sooner than previous OnePlus flagships",
-              "url": "https://www.androidauthority.com/oneplus-16-early-launch-3674487/",
-              "published": "2026-06-04",
-              "outlet": "Android Authority",
-              "summary": "一加16可能提前发布",
-              "reason": "一加旗舰节奏调整，影响平台与供应链排程",
+              "summary": "vivo X Fold6 电池容量获 3C 认证",
+              "reason": "折叠旗舰电池规格影响竞品策略",
               "perspective": "产业视角"
             }
           ]
         },
         {
           "name": "平板与笔记本产品",
-          "articles": [
-            {
-              "rank": 1,
-              "title": "Xiaomi Pad 8 gets a price hike in India",
-              "url": "https://www.gsmarena.com/xiaomi_pad_8_india_price_hiked-news-73165.php",
-              "published": "2026-06-06",
-              "outlet": "GSMArena",
-              "summary": "小米Pad 8印度调涨售价",
-              "reason": "小米平板产品定价策略调整，反映市场需求",
-              "perspective": "资本视角"
-            }
-          ]
+          "articles": []
         },
         {
           "name": "手机屏幕",
@@ -335,43 +294,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Honor Play11 Plus and Play10 5G go official with 7,000mAh batteries",
+              "title": "Honor Play11 Plus 搭载天玑 6500 Elite",
               "url": "https://www.gsmarena.com/honor_play11_plus_and_play10_5g_go_official_with_7000mah_batteries-news-73161.php",
               "published": "2026-06-06",
               "outlet": "GSMArena",
-              "summary": "荣耀Play11 Plus采用天玑6500 Elite",
-              "reason": "联发科新平台落地荣耀机型，验证中端市占",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 2,
-              "title": "vivo V70 Lite is now official with Dimensity 7400 Turbo chip and 90W charging",
-              "url": "https://www.gsmarena.com/vivo_v70_lite_is_now_official_with_dimensity_7400_turbo_chip_and_90w_charging-news-73148.php",
-              "published": "2026-06-05",
-              "outlet": "GSMArena",
-              "summary": "vivo V70 Lite搭载天玑7400 Turbo",
-              "reason": "联发科Turbo平台获vivo采用，影响订单能见度",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 3,
-              "title": "Xiaomi 17T series' launch in China next week marks the T lineup's debut in the country",
-              "url": "https://www.gsmarena.com/xiaomi_17t_17t_pro_china_launch_date-news-73145.php",
-              "published": "2026-06-05",
-              "outlet": "GSMArena",
-              "summary": "小米17T系列采用天玑8500 Ultra",
-              "reason": "联发科旗舰平台进入小米中国市场，扩大份额",
+              "summary": "Honor 新机采用联发科天玑 6500",
+              "reason": "中端芯片平台布局反映市场竞争",
               "perspective": "产业视角"
             },
             {
-              "rank": 4,
-              "title": "Galaxy Z Flip 8 could follow Galaxy S series with a dual-chip strategy",
-              "url": "https://www.androidauthority.com/galaxy-z-flip-8-dual-chip-3674561/",
-              "published": "2026-06-04",
-              "outlet": "Android Authority",
-              "summary": "Z Flip8可能双芯片策略",
-              "reason": "三星折叠屏芯片组合变化，影响高通/自研市占",
-              "perspective": "资本视角"
+              "rank": 2,
+              "title": "vivo V70 Lite 搭载天玑 7400 Turbo",
+              "url": "https://www.gsmarena.com/vivo_v70_lite_is_now_official_with_dimensity_7400_turbo_chip_and_90w_charging-news-73148.php",
+              "published": "2026-06-05",
+              "outlet": "GSMArena",
+              "summary": "vivo 中端机升级联发科新平台",
+              "reason": "芯片迭代影响中端机竞争格局",
+              "perspective": "产业视角"
+            },
+            {
+              "rank": 3,
+              "title": "小米 17T 系列下周中国首发",
+              "url": "https://www.gsmarena.com/xiaomi_17t_17t_pro_china_launch_date-news-73145.php",
+              "published": "2026-06-05",
+              "outlet": "GSMArena",
+              "summary": "小米 17T 系列采用天玑 8500 Ultra",
+              "reason": "新平台中国上市影响供应链订单",
+              "perspective": "产业视角"
             }
           ]
         },
@@ -389,93 +338,93 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Nvidia Extends Its Grip On The AI Datacenter Outwards",
-              "url": "https://www.nextplatform.com/ai/2026/06/02/nvidia-extends-its-grip-on-the-ai-datacenter-outwards/5250344",
-              "published": "2026-06-02",
-              "outlet": "The Next Platform",
-              "summary": "Nvidia持续扩大AI数据中心市占。",
-              "reason": "龙头Nvidia在HPC/AI算力市场的示范性扩张动作。",
-              "perspective": "产业视角"
-            },
-            {
-              "rank": 2,
-              "title": "AMD's Helios MI455X AI platform breaks cover",
+              "title": "AMD Helios MI455X AI平台曝光，初期採用UALink-over-Ethernet互聯",
               "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amds-helios-mi455x-ai-platform-breaks-cover-initial-systems-use-ualink-over-ethernet-interconnects-amds-vera-rubin-rival-surfaces-but-the-downsides-of-ethernet-could-hamstring-performance",
               "published": "2026-06-04",
               "outlet": "Tom's Hardware",
-              "summary": "AMD推出Helios MI455X平台对抗Nvidia。",
-              "reason": "AMD与Nvidia在HPC AI加速器市场的直接竞争格局。",
-              "perspective": "产业视角"
+              "summary": "AMD新一代HPC AI平台曝光，鎖定Nvidia NVL72競爭",
+              "reason": "AMD與Nvidia在HPC AI機架級系統的直接競爭，影響資本支出布局",
+              "perspective": "產業视角"
             }
           ]
         },
         {
-          "name": "数据中心",
+          "name": "數據中心",
           "articles": [
             {
               "rank": 1,
-              "title": "Chip Capacity Constraints Put A Governor On AI Spending Growth",
+              "title": "晶片產能限制為AI支出成長踩煞車",
               "url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
               "published": "2026-06-04",
               "outlet": "The Next Platform",
-              "summary": "芯片产能限制AI资本支出成长。",
-              "reason": "影响数据中心建置与AI资本开支的关键供应链议题。",
-              "perspective": "资本视角"
+              "summary": "產能瓶頸將壓抑 hyperscaler AI資本支出成長",
+              "reason": "直接影響數據中心建置時程與資本開支預算，具高度財務意義",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "Industry coalition urges Trump administration to take urgent action as AI data centers' extreme memory consumption threatens other industries",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors",
-              "published": "2026-06-05",
-              "outlet": "Tom's Hardware",
-              "summary": "AI数据中心内存短缺威胁其他产业。",
-              "reason": "数据中心内存供需失衡对供应链与营收的直接影响。",
-              "perspective": "资本视角"
+              "title": "Nvidia持續擴大AI數據中心市佔",
+              "url": "https://www.nextplatform.com/ai/2026/06/02/nvidia-extends-its-grip-on-the-ai-datacenter-outwards/5250344",
+              "published": "2026-06-02",
+              "outlet": "The Next Platform",
+              "summary": "Nvidia在AI數據中心基礎設施市佔持續領先",
+              "reason": "Nvidia作為龍頭，其市佔變化為客戶與投資人核心討論議題",
+              "perspective": "產業视角"
             },
             {
               "rank": 3,
-              "title": "Meta putting up tents across the US to house AI servers",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power",
+              "title": "西雅圖將通過一年期AI數據中心禁建令",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/seattle-to-pass-one-year-ai-data-center-moratorium-next-week-will-use-window-to-study-community-impact-of-ai-buildouts",
               "published": "2026-06-05",
               "outlet": "Tom's Hardware",
-              "summary": "Meta以帐篷快速部署AI服务器。",
-              "reason": "Meta数据中心建置速度与电力策略的重大转变。",
-              "perspective": "产业视角"
+              "summary": "地方政府祭出禁建令，延緩AI數據中心擴張",
+              "reason": "政策風險將影響數據中心業者建廠時程與資本配置",
+              "perspective": "資本视角"
             },
             {
               "rank": 4,
-              "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-              "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+              "title": "產業聯盟促川普政府因應AI數據中心記憶體短缺",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors",
               "published": "2026-06-05",
-              "outlet": "TechCrunch",
-              "summary": "AirTrunk斥资300亿美元建印度AI数据中心。",
-              "reason": "大型数据中心资本开支与区域扩张计划。",
-              "perspective": "资本视角"
+              "outlet": "Tom's Hardware",
+              "summary": "AI數據中心推升DRAM價格，衝擊其他產業供應鏈",
+              "reason": "記憶體短缺直接影響數據中心建置成本與交期，具財務影響",
+              "perspective": "資本视角"
             },
             {
               "rank": 5,
-              "title": "TSMC CEO C.C. Wei says, ‘It will be a long time before we can meet customer demand’",
-              "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes",
-              "published": "2026-06-04",
+              "title": "Meta在美各地搭建帳篷式AI伺服器機房",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power",
+              "published": "2026-06-05",
               "outlet": "Tom's Hardware",
-              "summary": "TSMC先进制程产能长期供不应求。",
-              "reason": "TSMC对AI数据中心客户需求的官方表态，影响资本开支时程。",
-              "perspective": "资本视角"
+              "summary": "Meta以帳篷快速部署AI數據中心，縮短建置時間",
+              "reason": "顯示 hyperscaler 為因應AI需求而加速資本支出與基礎設施調整",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 6,
+              "title": "AirTrunk承諾在印度投資300億美元建置5GW AI數據中心",
+              "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+              "published": "2026-06-05",
+              "outlet": "TechCrunch",
+              "summary": "AirTrunk大舉投資印度AI數據中心，規模達5GW",
+              "reason": "大型數據中心投資案，直接反映AI基礎設施資本支出趨勢",
+              "perspective": "資本视角"
             }
           ]
         },
         {
-          "name": "云营运商",
+          "name": "雲營運商",
           "articles": [
             {
               "rank": 1,
-              "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+              "title": "Google每月支付SpaceX 9.2億美元租用xAI數據中心算力",
               "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
               "published": "2026-06-05",
               "outlet": "CNBC Tech",
-              "summary": "Google每月支付9.2亿美元租用xAI算力。",
-              "reason": "云营运商Google与xAI的巨额算力采购协议，具市场指标意义。",
-              "perspective": "资本视角"
+              "summary": "Google與SpaceX簽署300億美元AI算力租賃合約",
+              "reason": "雲端龍頭大額資本支出，顯示AI算力需求與供應鏈動態",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -484,70 +433,92 @@
           "articles": [
             {
               "rank": 1,
-              "title": "OpenAI CEO Sam Altman admits AI token costs are becoming 'a huge issue'",
+              "title": "OpenAI執行長坦承AI token成本已成重大問題",
               "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue-company-seeks-improved-value-as-overspending-becomes-a-meme",
               "published": "2026-06-04",
               "outlet": "Tom's Hardware",
-              "summary": "OpenAI承认AI token成本失控。",
-              "reason": "OpenAI官方承认AI营运成本问题，对营收与估值影响重大。",
-              "perspective": "资本视角"
+              "summary": "OpenAI客戶AI支出失控，token成本成為營運隱憂",
+              "reason": "直接影響AI公司營收模式與客戶續約意願，具財務意義",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "US government could take stakes in major AI companies",
-              "url": "https://siliconangle.com/2026/06/05/us-government-take-stakes-major-ai-companies/",
-              "published": "2026-06-06",
-              "outlet": "Silicon Angle",
-              "summary": "美国政府考虑入股主要AI公司。",
-              "reason": "特朗普政府与OpenAI等AI龙头的股权讨论，具政策与估值意义。",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 3,
-              "title": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+              "title": "川普政府正與OpenAI討論政府持股可能性",
               "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
               "published": "2026-06-05",
               "outlet": "CNBC Tech",
-              "summary": "特朗普政府与OpenAI洽谈政府持股。",
-              "reason": "OpenAI与政府股权谈判，直接影响公司估值与融资。",
-              "perspective": "资本视角"
+              "summary": "美國政府可能入股OpenAI，討論AI國家持股方案",
+              "reason": "政策層級資本介入，將改變AI公司估值與融資結構",
+              "perspective": "資本视角"
             },
             {
-              "rank": 4,
-              "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+              "rank": 3,
+              "title": "Anthropic 5月年化營收突破470億美元",
               "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
               "published": "2026-06-04",
               "outlet": "TechCrunch",
-              "summary": "Anthropic即将IPO，营收年化达470亿美元。",
-              "reason": "Anthropic IPO前营收数据与市场疑虑的官方回应。",
-              "perspective": "资本视角"
+              "summary": "Anthropic IPO前營收高速成長，達470億美元年化",
+              "reason": "AI龍頭營收規模與成長性，為投資人估值核心指標",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 4,
+              "title": "美國政府考慮入股主要AI公司",
+              "url": "https://siliconangle.com/2026/06/05/us-government-take-stakes-major-ai-companies/",
+              "published": "2026-06-06",
+              "outlet": "Silicon Angle",
+              "summary": "川普政府研議取得OpenAI等AI公司股權",
+              "reason": "政府資本介入將重塑AI產業競爭格局與估值邏輯",
+              "perspective": "資本视角"
             }
           ]
         },
         {
-          "name": "服务器",
+          "name": "伺服器",
           "articles": [
             {
               "rank": 1,
-              "title": "Dell Makes The Profits Up In Volume For Booming AI Servers",
+              "title": "Dell靠AI伺服器出貨量推升獲利",
               "url": "https://www.nextplatform.com/compute/2026/06/01/dell-makes-the-profits-up-in-volume-for-booming-ai-servers/5249707",
               "published": "2026-06-01",
               "outlet": "The Next Platform",
-              "summary": "Dell靠AI服务器出货量大增获利。",
-              "reason": "Dell在AI服务器市场的营收与市占表现，具供应链指标意义。",
-              "perspective": "资本视角"
+              "summary": "Dell AI伺服器出貨量大增，帶動整體獲利成長",
+              "reason": "伺服器龍頭AI業務表現，直接反映市場需求與市佔變化",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "HPE Catches Its First GenAI Wave With Enterprises, Sovereigns, And Neoclouds",
+              "title": "Intel Xeon 6+強化伺服器整合效能",
+              "url": "https://www.nextplatform.com/compute/2026/06/04/enhanced-performance-for-server-consolidation-with-intel-xeon-6/5251112",
+              "published": "2026-06-04",
+              "outlet": "The Next Platform",
+              "summary": "Intel新一代Xeon處理器鎖定伺服器整合應用",
+              "reason": "CPU龍頭新平台將影響伺服器市場競爭與客戶採購決策",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 3,
+              "title": "HPE抓住企業、主權雲與新創雲GenAI商機",
               "url": "https://www.nextplatform.com/compute/2026/06/04/hpe-catches-its-first-genai-wave-with-enterprises-sovereigns-and-neoclouds/5250944",
               "published": "2026-06-04",
               "outlet": "The Next Platform",
-              "summary": "HPE抓住企业与主权AI服务器商机。",
-              "reason": "HPE在GenAI服务器市场的首次大规模斩获，竞争格局指标。",
-              "perspective": "产业视角"
+              "summary": "HPE在企業與主權AI伺服器市場取得首批訂單",
+              "reason": "HPE AI伺服器業務突破，反映非 hyperscaler 市場需求成長",
+              "perspective": "產業视角"
             }
           ]
+        },
+        {
+          "name": "数据中心",
+          "articles": []
+        },
+        {
+          "name": "云营运商",
+          "articles": []
+        },
+        {
+          "name": "服务器",
+          "articles": []
         }
       ]
     },
@@ -556,7 +527,208 @@
       "subtopics": [
         {
           "name": "电车",
-          "articles": []
+          "articles": [
+            {
+              "rank": 1,
+              "title": "福斯集團西班牙廠開始量產ID. Polo與Cupra Raval",
+              "url": "https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/",
+              "published": "2026-06-05",
+              "outlet": "Electrek",
+              "summary": "福斯量產兩款平價電動車",
+              "reason": "龍頭車廠啟動量產，影響市場供給與競爭",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 2,
+              "title": "比亞迪Denza Z9 GT千公里續航豪華GT熱銷",
+              "url": "https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/",
+              "published": "2026-06-05",
+              "outlet": "Electrek",
+              "summary": "比亞迪千公里電動車進軍歐洲",
+              "reason": "比亞迪海外高階車款放量，帶動營收成長",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "豐田電動休旅銷售超預期卻放緩擴產",
+              "url": "https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/",
+              "published": "2026-06-05",
+              "outlet": "Electrek",
+              "summary": "豐田電動車需求強但擴產謹慎",
+              "reason": "豐田策略轉變影響供應鏈資本支出",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 4,
+              "title": "比亞迪五月海外銷量首破十六萬輛",
+              "url": "https://electrek.co/2026/06/01/byds-overseas-sales-surge-to-over-160000-first-time/",
+              "published": "2026-06-01",
+              "outlet": "Electrek",
+              "summary": "比亞迪海外銷量創歷史新高",
+              "reason": "比亞迪海外市場爆發，帶動長期營收",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 5,
+              "title": "英國五月電動車市佔率達27.3%",
+              "url": "https://www.electrive.com/2026/06/04/uk-ev-market-share-reaches-27-3-in-strongest-may-since-2019/",
+              "published": "2026-06-04",
+              "outlet": "electrive",
+              "summary": "英國電動車市佔率續創新高",
+              "reason": "歐洲主要市場需求強勁，利多供應鏈",
+              "perspective": "產業视角"
+            }
+          ]
+        },
+        {
+          "name": "儲能桩",
+          "articles": [
+            {
+              "rank": 1,
+              "title": "xAI四月再購兩億六千九百萬美元Tesla Megapack",
+              "url": "https://electrek.co/2026/06/04/spacex-xai-269-million-tesla-megapack-purchase-s1-filing/",
+              "published": "2026-06-04",
+              "outlet": "Electrek",
+              "summary": "xAI單月巨額採購儲能系統",
+              "reason": "AI資料中心帶動儲能需求，Tesla營收直接受惠",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 2,
+              "title": "比亞迪與中石化合作佈局快充站",
+              "url": "https://www.electrive.com/2026/06/06/byd-plans-to-install-its-flash-chargers-at-sinopec-petrol-stations/",
+              "published": "2026-06-06",
+              "outlet": "electrive",
+              "summary": "比亞迪進駐中石化三萬站點",
+              "reason": "比亞迪充電網路規模化，影響充電服務市場",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 3,
+              "title": "Waymo退役電池轉供二度利用儲能",
+              "url": "https://www.electrive.com/2026/06/05/b2u-repurposes-used-waymo-batteries-for-second-life-energy-storage-systems/",
+              "published": "2026-06-05",
+              "outlet": "electrive",
+              "summary": "Waymo電池進入二度儲能市場",
+              "reason": "機器人計程車電池循環利用，降低成本",
+              "perspective": "產業视角"
+            }
+          ]
+        },
+        {
+          "name": "電動车核心零部件",
+          "articles": [
+            {
+              "rank": 1,
+              "title": "日產與Gelion合作開發硫基固態電池",
+              "url": "https://www.electrive.com/2026/06/05/nissan-collaborates-with-partners-on-sulphur-based-solid-state-battery-research/",
+              "published": "2026-06-05",
+              "outlet": "electrive",
+              "summary": "日產啟動硫基固態電池研發",
+              "reason": "固態電池技術突破影響下一代EV成本",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 2,
+              "title": "比亞迪計畫2027年量產全固態電池",
+              "url": "https://electrek.co/2026/06/01/byd-all-solid-state-batteries-evs-by-2027/",
+              "published": "2026-06-01",
+              "outlet": "Electrek",
+              "summary": "比亞迪固態電池量產時程提前",
+              "reason": "比亞迪電池技術領先，影響供應鏈地位",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "比亞迪鑄造鋁合金車架宣稱優於鋼材",
+              "url": "https://electrek.co/2026/06/02/byd-says-its-cast-aluminum-frame-is-lighter-tougher-and-safer-than-steel/",
+              "published": "2026-06-02",
+              "outlet": "Electrek",
+              "summary": "比亞迪輕量化車架技術突破",
+              "reason": "車體結構創新降低成本並提升安全",
+              "perspective": "產業视角"
+            }
+          ]
+        },
+        {
+          "name": "氢能车与混动车",
+          "articles": [
+            {
+              "rank": 1,
+              "title": "Audi發表1001hp Nuvolari插電式混合超跑",
+              "url": "https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/",
+              "published": "2026-06-04",
+              "outlet": "Electrek",
+              "summary": "Audi限量推出高性能混動超跑",
+              "reason": "Audi轉向混動策略，影響品牌產品線",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 2,
+              "title": "比亞迪低成本千公里PHEV實車首曝光",
+              "url": "https://electrek.co/2026/06/03/first-look-byds-new-low-cost-1000-km-range-phev-images/",
+              "published": "2026-06-03",
+              "outlet": "Electrek",
+              "summary": "比亞迪海外專用PHEV即將上市",
+              "reason": "比亞迪插電混動車海外布局，擴大市佔",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "Ford中國EREV Bronco將不導入美國",
+              "url": "https://insideevs.com/news/797720/bronco-erev-china-ford-suv/",
+              "published": "2026-06-06",
+              "outlet": "InsideEVs",
+              "summary": "Ford中國增程式Bronco鎖定在地市場",
+              "reason": "Ford混動產品策略區域差異化",
+              "perspective": "產業视角"
+            }
+          ]
+        },
+        {
+          "name": "自动驾驶",
+          "articles": [
+            {
+              "rank": 1,
+              "title": "小鵬每年砸五億美元AI訓練追Tesla FSD",
+              "url": "https://electrek.co/2026/06/05/xpeng-vla-interview-cvpr-language-poison-tesla-fsd/",
+              "published": "2026-06-05",
+              "outlet": "Electrek",
+              "summary": "小鵬AI訓練支出追平Tesla",
+              "reason": "小鵬自動駕駛技術投資規模曝光",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 2,
+              "title": "Tesla Robotaxi服務擴大至整個奧斯汀都會區",
+              "url": "https://electrek.co/2026/06/03/tesla-robotaxi-expands-entire-austin-metro-only-20-vehicles/",
+              "published": "2026-06-03",
+              "outlet": "Electrek",
+              "summary": "Tesla無人計程車服務區域擴大",
+              "reason": "Tesla Robotaxi商業化進程關鍵指標",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "比亞迪「神眼」系統承擔全額事故責任",
+              "url": "https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/",
+              "published": "2026-06-01",
+              "outlet": "Electrek",
+              "summary": "比亞迪自動駕駛願承擔全責",
+              "reason": "比亞迪FSD競爭策略差異化，影響責任歸屬",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 4,
+              "title": "Harbinger與Rheinmetall開發無人軍用卡車",
+              "url": "https://electrek.co/2026/06/06/harbinger-gears-up-for-war-with-autonomous-military-truck-program/",
+              "published": "2026-06-06",
+              "outlet": "Electrek",
+              "summary": "Harbinger切入軍用自動駕駛卡車",
+              "reason": "商用車自動駕駛應用延伸軍規市場",
+              "perspective": "產業视角"
+            }
+          ]
         },
         {
           "name": "储能桩",
@@ -564,14 +736,6 @@
         },
         {
           "name": "电动车核心零部件",
-          "articles": []
-        },
-        {
-          "name": "氢能车与混动车",
-          "articles": []
-        },
-        {
-          "name": "自动驾驶",
           "articles": []
         }
       ]
@@ -584,78 +748,78 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Connecticut Governor signs the state’s omnibus 2026 solar bill",
+              "title": "康乃狄克州長簽署2026年太陽能綜合法案",
               "url": "https://pv-magazine-usa.com/2026/06/05/connecticut-governor-signs-the-states-omnibus-2026-solar-bill/",
               "published": "2026-06-05",
               "outlet": "pv magazine",
-              "summary": "康州签署2026太阳能综合法案，延续可再生项目并新增阳台太阳能许可。",
-              "reason": "州级政策直接影响太阳能开发规模与资本开支决策。",
-              "perspective": "资本视角"
+              "summary": "州法延續再生能源計畫並新增陽台太陽能規定",
+              "reason": "政策直接影響太陽能市場規模與開發限制",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "T1 Energy enters battery and data center infrastructure markets with acquisition of KORE Power",
-              "url": "https://pv-magazine-usa.com/2026/06/05/t1-energy-enters-battery-and-data-center-infrastructure-markets-with-acquisition-of-kore-power/",
-              "published": "2026-06-05",
-              "outlet": "pv magazine",
-              "summary": "本土太阳能制造商T1 Energy收购KORE Power，切入公用事业级储能与AI数据中心供电。",
-              "reason": "龙头企业并购动作，反映太阳能厂商向储能与高功率需求延伸的竞争格局。",
-              "perspective": "产业视角"
-            },
-            {
-              "rank": 3,
-              "title": "Wind and solar provided 24% of U.S. grid capacity through March 2026: report",
+              "title": "風電與太陽能占美國電網容量24%",
               "url": "https://pv-magazine-usa.com/2026/06/04/wind-and-solar-provided-24-of-u-s-grid-capacity-through-march-2026-report/",
               "published": "2026-06-04",
               "outlet": "pv magazine",
-              "summary": "2026年Q1风光装机容量占比达24%，ERCOT与MISO新增领先。",
-              "reason": "官方电网数据直接反映市场份额与区域竞争格局变化。",
-              "perspective": "资本视角"
+              "summary": "第一季風光容量占比近四分之一，ERCOT領先",
+              "reason": "提供市場份額與區域競爭格局數據",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "俄亥俄州阻擋大型太陽能案場",
+              "url": "https://www.canarymedia.com/articles/clean-energy/ohio-blocked-wind-solar",
+              "published": "2026-06-05",
+              "outlet": "Canary Media",
+              "summary": "最高法院駁回800MW案場部分許可",
+              "reason": "監管風險影響太陽能開發時程與投資",
+              "perspective": "資本视角"
             },
             {
               "rank": 4,
-              "title": "Top ten community solar states show the power of program design",
-              "url": "https://pv-magazine-usa.com/2026/06/04/top-ten-community-solar-states-show-the-power-of-program-design/",
-              "published": "2026-06-04",
-              "outlet": "pv magazine",
-              "summary": "Maine、Minnesota、New York社区太阳能人均部署领先，政策设计决定市场扩张速度。",
-              "reason": "社区太阳能项目设计直接影响终端客户采购与营收规模。",
-              "perspective": "产业视角"
+              "title": "維吉尼亞州兩新法擴大社區太陽能",
+              "url": "https://www.canarymedia.com/articles/solar/two-new-laws-virginia-community-solar",
+              "published": "2026-06-01",
+              "outlet": "Canary Media",
+              "summary": "新法讓更多居民參與社區太陽能計畫",
+              "reason": "政策變化直接帶動社區太陽能市場成長",
+              "perspective": "產業视角"
             }
           ]
         },
         {
-          "name": "储能",
+          "name": "儲能",
           "articles": [
             {
               "rank": 1,
-              "title": "Rolls-Royce to build four BESS facilities for Sunly in Latvia",
-              "url": "https://www.energymonitor.ai/news/rolls-royce-sunly-bess-latvia/",
+              "title": "T1 Energy收購KORE Power進軍電池市場",
+              "url": "https://pv-magazine-usa.com/2026/06/05/t1-energy-enters-battery-and-data-center-infrastructure-markets-with-acquisition-of-kore-power/",
               "published": "2026-06-05",
-              "outlet": "Energy Monitor",
-              "summary": "Rolls-Royce与Sunly签约在拉脱维亚建设四座大型电池储能设施。",
-              "reason": "国际工程巨头拿下东欧储能订单，显示公用事业级BESS资本开支加速。",
-              "perspective": "资本视角"
+              "outlet": "pv magazine",
+              "summary": "太陽能廠商跨足公用規模儲能與AI基礎設施",
+              "reason": "併購案顯示儲能與數據中心電力需求商機",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "Chinese-Saudi joint venture to build 18GWh battery storage plant",
-              "url": "https://www.energymonitor.ai/news/battery-storage-plant-china-saudi-arabia/",
-              "published": "2026-06-02",
+              "title": "Rolls-Royce為Sunly在拉脫維亞建四座BESS",
+              "url": "https://www.energymonitor.ai/news/rolls-royce-sunly-bess-latvia/",
+              "published": "2026-06-05",
               "outlet": "Energy Monitor",
-              "summary": "中沙合资企业将在沙特建设18GWh电池储能工厂，2027年一期投产。",
-              "reason": "中东大型储能产能落地，影响全球供应链与市场份额竞争。",
-              "perspective": "产业视角"
+              "summary": "簽約興建四座大型電池儲能設施",
+              "reason": "歐洲儲能專案落地，帶動設備商訂單",
+              "perspective": "產業视角"
             },
             {
               "rank": 3,
-              "title": "EDF and Masdar sign 15-year PPAs for BigBeau Solar+Storage output",
-              "url": "https://www.energymonitor.ai/news/edf-masdar-sign-15-year-ppas-bigbeau-output/",
-              "published": "2026-06-03",
+              "title": "中沙合資建18GWh電池儲能廠",
+              "url": "https://www.energymonitor.ai/news/battery-storage-plant-china-saudi-arabia/",
+              "published": "2026-06-02",
               "outlet": "Energy Monitor",
-              "summary": "EDF与Masdar签署加州BigBeau光储项目15年PPA。",
-              "reason": "大型光储项目长期购电协议落地，验证储能收益模式与投资回报。",
-              "perspective": "资本视角"
+              "summary": "首期2027年投產，規模達18GWh",
+              "reason": "大型製造投資影響全球儲能供應鏈",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -664,13 +828,23 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Hydrogen Buses Work. That Is Not The Procurement Question.",
+              "title": "氫能巴士已可商用但採購仍待觀察",
               "url": "https://cleantechnica.com/2026/06/04/hydrogen-buses-procurement-risk/",
               "published": "2026-06-04",
               "outlet": "CleanTechnica",
-              "summary": "氢燃料电池公交已验证可行性，采购决策转向与纯电巴士的成本与风险比较。",
-              "reason": "公共交通运营商核心议题，直接影响氢能产业链订单与市场份额。",
-              "perspective": "产业视角"
+              "summary": "氫巴士技術可行，採購決策仍需比較電池方案",
+              "reason": "討論氫能交通與電池電動巴士競爭格局",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 2,
+              "title": "比利時氫站日加氫量不足成瓶頸",
+              "url": "https://cleantechnica.com/2026/06/03/belgium-hydrogen-stations-kilograms-per-day/",
+              "published": "2026-06-03",
+              "outlet": "CleanTechnica",
+              "summary": "新站容量僅數百公斤，難滿足重型運輸需求",
+              "reason": "基礎設施瓶頸影響氫能交通規模化",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -679,23 +853,23 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Prysmian completes cable installation for Sofia offshore wind farm",
+              "title": "Prysmian完成Sofia海上風電纜線安裝",
               "url": "https://www.energymonitor.ai/news/prysmian-completes-cable-installation-sofia/",
               "published": "2026-06-04",
               "outlet": "Energy Monitor",
-              "summary": "Prysmian完成RWE 1.4GW Sofia海上风电场海缆安装。",
-              "reason": "欧洲大型海上风电项目关键供应链交付，反映风电EPC与电缆厂商订单情况。",
-              "perspective": "资本视角"
+              "summary": "1.4GW英國海上風場電纜工程完工",
+              "reason": "大型風電專案進度影響供應鏈與營收",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "7 states sue to stop Trump’s offshore wind deal with TotalEnergies",
+              "title": "七州控告川普取消海上風電協議",
               "url": "https://www.canarymedia.com/articles/offshore-wind/7-states-sue-trump-offshore-wind-deal",
               "published": "2026-06-02",
               "outlet": "Canary Media",
-              "summary": "七州起诉特朗普政府与TotalEnergies的海上风电撤资协议。",
-              "reason": "政策诉讼直接影响多家上市能源企业海外风电资产与资本开支计划。",
-              "perspective": "资本视角"
+              "summary": "民主黨州府挑戰聯邦中止風電開發決定",
+              "reason": "政策爭議影響海上風電投資與時程",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -704,25 +878,29 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Small modular nuclear reactor reaches criticality in first test",
+              "title": "美國首座模組化反應爐達臨界測試",
               "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
               "published": "2026-06-05",
               "outlet": "Ars Technica",
-              "summary": "Antares小型模块化反应堆首次临界试验成功，尚未进入发电阶段。",
-              "reason": "美国首个SMR临界测试，标志技术验证里程碑，影响核电资本与供应链布局。",
-              "perspective": "资本视角"
+              "summary": "Antares小型反應爐完成首次臨界測試",
+              "reason": "SMR技術里程碑，具備未來商轉潛力",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "A safer nuclear fuel is gaining steam — but cost remains a hurdle",
+              "title": "TRISO安全核燃料加速商業化但成本仍高",
               "url": "https://www.canarymedia.com/articles/nuclear/safer-nuclear-fuel-gaining-steam",
               "published": "2026-06-02",
               "outlet": "Canary Media",
-              "summary": "TRISO燃料获多家公司推进，安全性提升但成本仍是商业化障碍。",
-              "reason": "下一代核燃料商业化进展，直接关系SMR与先进核电项目投资回报。",
-              "perspective": "产业视角"
+              "summary": "耐熔燃料推進但仍面臨成本障礙",
+              "reason": "核燃料技術進展影響SMR經濟可行性",
+              "perspective": "產業视角"
             }
           ]
+        },
+        {
+          "name": "储能",
+          "articles": []
         }
       ]
     },
@@ -734,33 +912,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Semiconductor Stocks Roll Over, Micron & Broadcom Tank 20% in 2 Days, Drag Rest of Market Along",
+              "title": "半導體股重挫，Micron與Broadcom兩日跌20%",
               "url": "https://wolfstreet.com/2026/06/05/semiconductor-stocks-roll-over-micron-broadcom-tank-20-in-2-days-drag-rest-of-market-along/",
               "published": "2026-06-05",
               "outlet": "Wolf Street",
-              "summary": "半导体股两天重挫，拖累大盘。",
-              "reason": "直接反映IC设计与芯片供应链股价波动，具指标意义。",
-              "perspective": "资本视角"
+              "summary": "半導體股遭遇六年最慘單日跌勢。",
+              "reason": "直接反映AI供應鏈股價波動，影響IC設計資本市場估值。",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years",
+              "title": "Marvell與Micron股價重挫，晶片類股六年来最差表現",
               "url": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories",
               "published": "2026-06-06",
               "outlet": "MarketWatch",
-              "summary": "芯片板块遭遇六年最差单日表现。",
-              "reason": "Marvell、Micron等关键供应链公司股价大跌，投资人高度关注。",
-              "perspective": "资本视角"
+              "summary": "就業數據強勁引發類股賣壓。",
+              "reason": "就業數據影響利率預期，進而衝擊晶片股資金流向。",
+              "perspective": "資本视角"
             },
             {
               "rank": 3,
-              "title": "Alphabet seeks $80 billion to fund AI buildout",
-              "url": "https://www.axios.com/2026/06/01/alphabet-80-billion-ai-buildout",
-              "published": "2026-06-01",
-              "outlet": "Axios",
-              "summary": "Alphabet拟募资800亿美元扩展AI。",
-              "reason": "科技巨头大规模资本开支，直接影响半导体需求前景。",
-              "perspective": "产业视角"
+              "title": "道瓊期貨面臨首度真正考驗，SpaceX IPO將登場",
+              "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+              "published": "2026-06-06",
+              "outlet": "Yahoo Finance",
+              "summary": "美股反彈遭遇利率與IPO賣壓。",
+              "reason": "SpaceX大型IPO將抽走市場資金，影響科技股流動性。",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -769,33 +947,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "The blowout jobs report is bad news for stocks — but it shouldn’t force the Fed’s hand on interest rates",
-              "url": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
-              "published": "2026-06-06",
-              "outlet": "MarketWatch",
-              "summary": "强劲就业数据对债市与利率路径的影响。",
-              "reason": "就业数据直接左右美债收益率与Fed政策预期。",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 2,
-              "title": "Cramer’s week ahead: Stocks face pressure from rates, oil, and a flood of new offerings",
+              "title": "Cramer：利率上升將持續壓抑股市",
               "url": "https://www.cnbc.com/2026/06/05/cramers-week-ahead-stocks-face-pressure-from-rates-oil-and-a-flood-of-new-offerings.html",
               "published": "2026-06-05",
               "outlet": "CNBC Tech",
-              "summary": "利率上升持续施压股市与债市。",
-              "reason": "利率走势为美债核心变量，影响资本成本。",
-              "perspective": "资本视角"
+              "summary": "利率走高與新股發行壓迫市場。",
+              "reason": "利率走勢直接影響美債殖利率與科技股融資成本。",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 2,
+              "title": "就業數據強勁但Fed不應因此升息",
+              "url": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
+              "published": "2026-06-06",
+              "outlet": "MarketWatch",
+              "summary": "強勁就業數據未迫使Fed立即行動。",
+              "reason": "市場關注Fed是否因數據調整債市政策預期。",
+              "perspective": "資本视角"
             },
             {
               "rank": 3,
-              "title": "Fed officials warn AI's economic costs may arrive faster than benefits",
-              "url": "https://www.axios.com/2026/06/01/ai-productivity-inflation",
-              "published": "2026-06-01",
+              "title": "美股財富占比創高，AI行情推升家庭資產",
+              "url": "https://www.axios.com/2026/06/04/stocks-ai-wealth-households",
+              "published": "2026-06-04",
               "outlet": "Axios",
-              "summary": "Fed官员警示AI对通胀与利率的影响。",
-              "reason": "Fed对AI与利率的最新表态，具政策前瞻性。",
-              "perspective": "资本视角"
+              "summary": "美股占家庭財富比重達歷史新高。",
+              "reason": "股市表現影響長期資金配置與債市相對吸引力。",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -804,33 +982,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "The May jobs report will be released Friday. Here's what to expect",
-              "url": "https://www.cnbc.com/2026/06/04/the-may-jobs-report-will-be-released-friday-heres-what-to-expect.html",
-              "published": "2026-06-04",
-              "outlet": "CNBC Economy",
-              "summary": "5月就业报告即将出炉，市场预期降温。",
-              "reason": "就业数据为最核心宏观指标，影响整体需求展望。",
-              "perspective": "产业视角"
-            },
-            {
-              "rank": 2,
-              "title": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports",
+              "title": "ADP：5月民間就業新增12.2萬人優於預期",
               "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html",
               "published": "2026-06-03",
               "outlet": "CNBC Economy",
-              "summary": "ADP数据显示5月民间就业超预期。",
-              "reason": "领先指标，反映企业招聘与经济动能。",
-              "perspective": "产业视角"
+              "summary": "就業成長範圍擴大且優於預期。",
+              "reason": "就業數據為IC設計公司客戶需求重要領先指標。",
+              "perspective": "產業视角"
             },
             {
-              "rank": 3,
-              "title": "Job openings in April surged to 7.6 million, the highest in nearly two years",
+              "rank": 2,
+              "title": "4月職缺數激增至760萬創近兩年高",
               "url": "https://www.cnbc.com/2026/06/02/job-openings-april-2026.html",
               "published": "2026-06-02",
               "outlet": "CNBC Economy",
-              "summary": "4月职位空缺升至近两年高点。",
-              "reason": "劳动力市场供需数据，影响消费与投资信心。",
-              "perspective": "产业视角"
+              "summary": "職缺數大幅回升顯示勞動市場韌性。",
+              "reason": "職缺增加有助半導體終端需求回溫預期。",
+              "perspective": "產業视角"
+            },
+            {
+              "rank": 3,
+              "title": "製造業活動四年来最快擴張，訂單激增",
+              "url": "https://wolfstreet.com/2026/06/01/as-prices-spike-manufacturing-expands-at-fastest-rate-in-4-years-orders-surge-supplier-deliveries-slow/",
+              "published": "2026-06-01",
+              "outlet": "Wolf Street",
+              "summary": "製造業擴張速度創四年新高。",
+              "reason": "製造業復甦直接帶動IC設計訂單能見度。",
+              "perspective": "產業视角"
             }
           ]
         },
@@ -839,33 +1017,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Jerome Powell warns that the Fed's credibility is at risk",
-              "url": "https://www.axios.com/2026/06/01/powell-fed-warsh-trump",
+              "title": "Fed官員警告AI成本效益可能慢於預期",
+              "url": "https://www.axios.com/2026/06/01/ai-productivity-inflation",
               "published": "2026-06-01",
               "outlet": "Axios",
-              "summary": "鲍威尔警告Fed公信力面临压力。",
-              "reason": "前主席公开表态，市场高度关注政策独立性。",
-              "perspective": "资本视角"
+              "summary": "AI帶來的生產力效益恐晚於通膨壓力。",
+              "reason": "影響Fed利率決策路徑與科技資本支出時程。",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "Agencies remove additional references to reputation risk",
-              "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
-              "published": "2026-06-02",
-              "outlet": "Federal Reserve",
-              "summary": "监管机构删除声誉风险相关指引。",
-              "reason": "Fed官方政策调整，影响银行与金融环境。",
-              "perspective": "资本视角"
+              "title": "Powell警告Fed公信力面臨壓力測試",
+              "url": "https://www.axios.com/2026/06/01/powell-fed-warsh-trump",
+              "published": "2026-06-01",
+              "outlet": "Axios",
+              "summary": "前Fed主席警示央行公信力受考驗。",
+              "reason": "政策不確定性將影響IC設計公司融資環境。",
+              "perspective": "資本视角"
             },
             {
               "rank": 3,
-              "title": "There are early signs of renewed labor market strength during Iran war",
+              "title": "就業市場在伊朗衝突下展現韌性",
               "url": "https://www.axios.com/2026/06/04/oil-iran-boston-fed-research",
               "published": "2026-06-04",
               "outlet": "Axios",
-              "summary": "波士顿联储研究显示劳动力市场回稳。",
-              "reason": "Fed地区研究提供最新宏观判断依据。",
-              "perspective": "产业视角"
+              "summary": "波士頓聯儲研究顯示勞動市場回穩。",
+              "reason": "Fed區域研究提供利率政策參考依據。",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -874,33 +1052,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Housing Market’s Crucial “Spring Selling Season” Winds Down with a Whimper. So Maybe Next Year?",
+              "title": "房屋市場春季銷售季以疲弱收場",
               "url": "https://wolfstreet.com/2026/06/03/housing-markets-crucial-spring-selling-season-winds-down-with-a-whimper-so-maybe-next-year/",
               "published": "2026-06-03",
               "outlet": "Wolf Street",
-              "summary": "春季售房季成交低迷，市场复苏延后。",
-              "reason": "住房市场直接反映利率与经济信心，对长期需求有影响。",
-              "perspective": "产业视角"
+              "summary": "春季購屋季成交量低於預期。",
+              "reason": "房市低迷將延後相關電子設備需求復甦。",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "The population crisis hiding in California's suburbs",
+              "title": "加州郊區人口持續流失反映 deeper 人口結構轉變",
               "url": "https://www.axios.com/2026/06/04/california-suburbs-population-decline",
               "published": "2026-06-04",
               "outlet": "Axios",
-              "summary": "加州郊区人口持续流失，冲击住房需求。",
-              "reason": "人口迁移数据影响区域房地产与劳动力供给。",
-              "perspective": "产业视角"
+              "summary": "加州郊區人口連年減少。",
+              "reason": "人口外移影響地方房市與消費電子需求。",
+              "perspective": "產業视角"
             },
             {
               "rank": 3,
-              "title": "Job Growth Trend Turns Around Decidedly after Weakening for Years, while Immigration Crackdown Caps Supply of Labor",
-              "url": "https://wolfstreet.com/2026/06/05/job-growth-trend-turns-around-decidedly-after-weakening-for-years-while-immigration-crackdown-caps-supply-of-labor/",
-              "published": "2026-06-05",
-              "outlet": "Wolf Street",
-              "summary": "就业回升但移民限制影响劳动力供给。",
-              "reason": "劳动力供给变化将影响住房 affordability 与建设。",
-              "perspective": "产业视角"
+              "title": "美國家庭財富中股市占比創歷史新高",
+              "url": "https://www.axios.com/2026/06/04/stocks-ai-wealth-households",
+              "published": "2026-06-04",
+              "outlet": "Axios",
+              "summary": "股市成為家庭財富最主要來源。",
+              "reason": "財富效應變化將影響住宅相關消費與投資。",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -909,33 +1087,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "And More Data Showing a Weirdly Decent Labor Market",
+              "title": "就業市場回溫但年輕人找工作仍困難",
               "url": "https://wolfstreet.com/2026/06/02/and-more-data-showing-a-weirdly-decent-labor-market/",
               "published": "2026-06-02",
               "outlet": "Wolf Street",
-              "summary": "劳动力市场数据仍相对稳健。",
-              "reason": "就业与收入稳定支撑耐用品消费，包括二手车。",
-              "perspective": "产业视角"
+              "summary": "勞動市場整體穩健但青年就業受限。",
+              "reason": "青年購車能力受影響，連帶二手車需求。",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "As Prices Spike, Manufacturing Expands at Fastest Rate in 4 Years, Orders Surge, Supplier Deliveries Slow",
+              "title": "製造業就業回升但自動化壓抑人力需求",
               "url": "https://wolfstreet.com/2026/06/01/as-prices-spike-manufacturing-expands-at-fastest-rate-in-4-years-orders-surge-supplier-deliveries-slow/",
               "published": "2026-06-01",
               "outlet": "Wolf Street",
-              "summary": "制造业扩张但价格上涨，供应链紧张。",
-              "reason": "价格与供应链数据间接影响汽车零部件与二手车市场。",
-              "perspective": "产业视角"
+              "summary": "製造業擴張但就業成長有限。",
+              "reason": "就業結構改變影響耐用品消費能力。",
+              "perspective": "產業视角"
             },
             {
               "rank": 3,
-              "title": "New forecasts lay out 2 rocky paths for global economy",
-              "url": "https://www.axios.com/2026/06/03/economic-outlook-oecd-iran",
-              "published": "2026-06-03",
-              "outlet": "Axios",
-              "summary": "全球经济面临两种不同增长路径。",
-              "reason": "宏观不确定性将影响消费者耐用品支出意愿。",
-              "perspective": "资本视角"
+              "title": "長期失業人口激增對經濟產生隱藏成本",
+              "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html",
+              "published": "2026-06-04",
+              "outlet": "CNBC Economy",
+              "summary": "長期失業對消費能力造成持久衝擊。",
+              "reason": "失業問題將壓抑耐用消費品市場需求。",
+              "perspective": "產業视角"
             }
           ]
         },
@@ -944,33 +1122,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
+              "title": "美國擬對60國祭新關稅打擊強迫勞動貿易",
               "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html",
               "published": "2026-06-04",
               "outlet": "CNBC Economy",
-              "summary": "美国拟对60国祭出新关税应对强迫劳动。",
-              "reason": "直接贸易政策变动，影响全球供应链成本与布局。",
-              "perspective": "产业视角"
+              "summary": "美對多國祭10%至12.5%關稅。",
+              "reason": "新關稅將改變半導體供應鏈成本結構。",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "China fueling U.S. data center resistance, AI groups claim",
-              "url": "https://www.axios.com/2026/06/05/china-fueling-us-data-center-resistance-ai-groups-claim",
-              "published": "2026-06-05",
-              "outlet": "Axios",
-              "summary": "AI业者指控中国影响美国数据中心舆论。",
-              "reason": "地缘科技竞争延伸至基础设施，影响半导体需求。",
-              "perspective": "产业视角"
+              "title": "伊朗衝突推升能源成本，歐元區通膨升至3.2%",
+              "url": "https://www.cnbc.com/2026/06/02/inflation-euro-zone-iran-energy-costs.html",
+              "published": "2026-06-02",
+              "outlet": "CNBC Economy",
+              "summary": "能源價格上漲帶動歐元區通膨。",
+              "reason": "地緣衝突推升全球供應鏈與貿易成本。",
+              "perspective": "產業视角"
             },
             {
               "rank": 3,
-              "title": "New forecasts lay out 2 rocky paths for global economy",
+              "title": "全球經濟面臨兩種不同衰退路徑",
               "url": "https://www.axios.com/2026/06/03/economic-outlook-oecd-iran",
               "published": "2026-06-03",
               "outlet": "Axios",
-              "summary": "全球经济因地缘冲突面临双轨前景。",
-              "reason": "贸易与地缘风险将改变供应链与资本支出决策。",
-              "perspective": "产业视角"
+              "summary": "伊朗戰爭使全球經濟前景分歧。",
+              "reason": "貿易與地緣風險將影響IC設計出口訂單。",
+              "perspective": "產業视角"
             }
           ]
         },
@@ -979,33 +1157,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "AI Investment Boom Sucks Up Hoarded Cash from Stock Market Investors & Companies, Sprays it into the Real Economy",
-              "url": "https://wolfstreet.com/2026/06/04/ai-investment-boom-sucks-up-hoarded-cash-from-stock-market-investors-companies-sprays-it-into-the-real-economy/",
+              "title": "AI投資熱潮將資金從股市導向實體經濟",
+              "url": "https://wolfstreet.com/2026/06/03/ai-investment-boom-sucks-up-hoarded-cash-from-stock-market-investors-companies-sprays-it-into-the-real-economy/",
               "published": "2026-06-04",
               "outlet": "Wolf Street",
-              "summary": "AI投资热潮将闲置资金导入实体经济。",
-              "reason": "全球资本流动变化可能波及日圆与日本出口导向产业。",
-              "perspective": "资本视角"
+              "summary": "AI資本支出帶動實體經濟資金流動。",
+              "reason": "日本半導體設備供應鏈將受惠於全球資本開支。",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "New forecasts lay out 2 rocky paths for global economy",
-              "url": "https://www.axios.com/2026/06/03/economic-outlook-oecd-iran",
-              "published": "2026-06-03",
+              "title": "Alphabet計畫募資800億美元支應AI建置",
+              "url": "https://www.axios.com/2026/06/01/alphabet-80-billion-ai-buildout",
+              "published": "2026-06-01",
               "outlet": "Axios",
-              "summary": "全球经济面临两种不同增长路径。",
-              "reason": "宏观不确定性将影响日圆避险属性与日本经济。",
-              "perspective": "资本视角"
+              "summary": "Alphabet大舉融資擴張AI基礎建設。",
+              "reason": "大型科技資本支出將帶動日本相關供應鏈需求。",
+              "perspective": "產業视角"
             },
             {
               "rank": 3,
-              "title": "Stocks drive record share of American wealth",
-              "url": "https://www.axios.com/2026/06/04/stocks-ai-wealth-households",
-              "published": "2026-06-04",
+              "title": "SpaceX計畫IPO募資750億美元創紀錄",
+              "url": "https://www.axios.com/2026/06/03/spacex-ipo-raise",
+              "published": "2026-06-03",
               "outlet": "Axios",
-              "summary": "美股占美国家庭财富比重创纪录。",
-              "reason": "全球股市联动可能影响日圆与日本资金流向。",
-              "perspective": "资本视角"
+              "summary": "SpaceX將進行史上最大規模IPO。",
+              "reason": "大型IPO與太空科技投資可能帶動日本材料供應鏈。",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -1014,33 +1192,33 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Inflation hits 3.2% in the euro zone as Iran war pushes energy costs higher",
+              "title": "歐元區通膨升至3.2%，伊朗戰爭推升能源成本",
               "url": "https://www.cnbc.com/2026/06/02/inflation-euro-zone-iran-energy-costs.html",
               "published": "2026-06-02",
               "outlet": "CNBC Economy",
-              "summary": "欧元区通胀升至3.2%，能源成本推升。",
-              "reason": "欧元区核心通胀数据，直接影响ECB政策与欧元走势。",
-              "perspective": "资本视角"
+              "summary": "能源價格上漲推升歐元區通膨。",
+              "reason": "歐洲通膨走高將影響當地半導體需求與匯率。",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "New forecasts lay out 2 rocky paths for global economy",
+              "title": "全球經濟因伊朗衝突面臨兩種衰退情境",
               "url": "https://www.axios.com/2026/06/03/economic-outlook-oecd-iran",
               "published": "2026-06-03",
               "outlet": "Axios",
-              "summary": "全球经济因冲突面临双轨增长情景。",
-              "reason": "欧洲经济受地缘与能源冲击最大，影响欧元。",
-              "perspective": "产业视角"
+              "summary": "歐洲經濟受戰爭拖累前景分歧。",
+              "reason": "歐洲景氣變化將影響當地IC設計客戶資本支出。",
+              "perspective": "產業视角"
             },
             {
               "rank": 3,
-              "title": "Manufacturing Expands at Fastest Rate in 4 Years, Orders Surge, Supplier Deliveries Slow",
+              "title": "製造業活動四年来最快擴張但就業成長有限",
               "url": "https://wolfstreet.com/2026/06/01/as-prices-spike-manufacturing-expands-at-fastest-rate-in-4-years-orders-surge-supplier-deliveries-slow/",
               "published": "2026-06-01",
               "outlet": "Wolf Street",
-              "summary": "美国制造业扩张但价格与交付压力上升。",
-              "reason": "全球制造业景气联动影响欧洲出口与欧元区经济。",
-              "perspective": "产业视角"
+              "summary": "歐美製造業同步擴張但就業有限。",
+              "reason": "歐洲製造業復甦將帶動相關供應鏈需求。",
+              "perspective": "產業视角"
             }
           ]
         }
@@ -1054,53 +1232,53 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
-              "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
-              "published": "2026-06-06",
-              "outlet": "CoinDesk",
-              "summary": "比特币反弹至6.1万美元，单日清算16亿美元。",
-              "reason": "龙头矿企与上市公司持仓受价格波动直接影响，具资本开支判断意义。",
-              "perspective": "资本视角"
+              "title": "摩根士丹利允許客戶借出比特幣換取現貨ETF份額",
+              "url": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions",
+              "published": "2026-06-05",
+              "outlet": "The Block",
+              "summary": "摩根士丹利與Galaxy合作推借貸換ETF服務",
+              "reason": "華爾街龍頭示範比特幣機構託管與ETF轉換",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-              "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-              "published": "2026-06-06",
-              "outlet": "CoinDesk",
-              "summary": "早期比特币基金持续加仓，规模已达十亿美元。",
-              "reason": "机构级比特币配置案例，上市公司可参考其持仓策略。",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 3,
-              "title": "Michael Saylor’s rallying cry: Bitcoin needs four forces to win",
+              "title": "Strategy執行主席Saylor：比特幣需四股力量驅動成長",
               "url": "https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win",
               "published": "2026-06-06",
               "outlet": "CoinDesk",
-              "summary": "Saylor提出比特币需银行、信贷、证券与上层协议四力驱动。",
-              "reason": "Strategy/MSTR为上市公司比特币 treasury 标杆，其观点具示范意义。",
-              "perspective": "产业视角"
+              "summary": "Saylor提出銀行、信用、證券與上層協議四路徑",
+              "reason": "上市公司比特幣財庫策略對資本市場具指標意義",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "Grayscale：比特幣需其他買家才能找到永續底部",
+              "url": "https://www.theblock.co/post/403770/grayscale-other-buyers-must-step-in-for-bitcoins-price-to-find-a-sustainable-bottom-after-strategy-btc-sale",
+              "published": "2026-06-05",
+              "outlet": "The Block",
+              "summary": "Strategy減持後，Grayscale呼籲多元化企業買盤",
+              "reason": "分析上市公司比特幣持有對市場供需的影響",
+              "perspective": "資本视角"
             },
             {
               "rank": 4,
-              "title": "Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions",
-              "url": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions?utm_source=rss&utm_medium=rss",
+              "title": "比特幣與以太坊ETF結束連續流出 轉進權益永續合約",
+              "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts",
               "published": "2026-06-05",
               "outlet": "The Block",
-              "summary": "摩根士丹利允许客户出借比特币换取现货ETF份额。",
-              "reason": "华尔街龙头银行新服务，直接影响上市公司比特币ETF配置路径。",
-              "perspective": "资本视角"
+              "summary": "ETF資金轉向權益衍生品反映機構風險偏好調整",
+              "reason": "ETF流向變化直接影響上市加密相關企業估值",
+              "perspective": "資本视角"
             },
             {
               "rank": 5,
-              "title": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts",
-              "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-05",
-              "outlet": "The Block",
-              "summary": "比特币ETF结束13天净流出，录得300万美元净流入。",
-              "reason": "ETF资金流向为上市公司与机构配置风向标。",
-              "perspective": "资本视角"
+              "title": "比特幣先驅將2000萬美元家族持股擴大至十億美元基金",
+              "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+              "published": "2026-06-06",
+              "outlet": "CoinDesk",
+              "summary": "家族辦公室持續加碼比特幣顯示長期機構信心",
+              "reason": "高淨值家族辦公室配置對資本市場具示範效應",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -1109,53 +1287,53 @@
           "articles": [
             {
               "rank": 1,
-              "title": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
-              "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
+              "title": "Meta以穩定幣支付創作者 花費端仍待解決",
+              "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
               "published": "2026-06-06",
               "outlet": "CoinDesk",
-              "summary": "美国最大银行联盟筹建数字货币网络应对存款流失。",
-              "reason": "JPM、Citi等龙头银行行动，具供应链与竞争格局示范意义。",
-              "perspective": "产业视角"
+              "summary": "Meta啟動穩定幣支付創作者 凸顯主流應用",
+              "reason": "社群龍頭Meta採用穩定幣具高度示範意義",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
-              "url": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-05",
-              "outlet": "The Block",
-              "summary": "JPM与Citi牵头银行联盟2027年初推出代币化存款网络。",
-              "reason": "传统金融巨头稳定币替代方案，直接影响稳定币市场份额。",
-              "perspective": "产业视角"
+              "title": "美國最大銀行聯手建數位貨幣網絡 防存款外流",
+              "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
+              "published": "2026-06-06",
+              "outlet": "CoinDesk",
+              "summary": "華爾街大行推 tokenized deposit 網絡",
+              "reason": "JPMorgan與Citi等龍頭銀行布局穩定幣競爭",
+              "perspective": "資本视角"
             },
             {
               "rank": 3,
-              "title": "Visa tests private stablecoin settlement with Brale, Canton",
-              "url": "https://cointelegraph.com/news/visa-tests-private-stablecoin-settlement-as-institutions-push-blockchain-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "title": "Visa測試Brale與Canton私有穩定幣結算",
+              "url": "https://cointelegraph.com/news/visa-tests-private-stablecoin-settlement-as-institutions-push-blockchain-privacy",
               "published": "2026-06-05",
               "outlet": "CoinTelegraph",
-              "summary": "Visa测试Brale与Canton私有稳定币结算方案。",
-              "reason": "Visa为支付龙头，其稳定币测试具供应链落地意义。",
-              "perspective": "产业视角"
+              "summary": "Visa探索機構級私有穩定幣結算網絡",
+              "reason": "支付龍頭Visa測試區塊鏈結算具供應鏈意義",
+              "perspective": "產業视角"
             },
             {
               "rank": 4,
-              "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
-              "url": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
-              "published": "2026-06-03",
-              "outlet": "Decrypt",
-              "summary": "Tether推出黄金代币Visa卡并提供加密奖励。",
-              "reason": "Tether为稳定币龙头，其产品迭代影响市场营收与份额。",
-              "perspective": "资本视角"
+              "title": "JPMorgan與Citi支持聯盟2027年推tokenized存款網絡",
+              "url": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network",
+              "published": "2026-06-05",
+              "outlet": "The Block",
+              "summary": "華爾街銀行2027年推出24小時結算網絡",
+              "reason": "大型銀行 tokenized deposit 直接衝擊穩定幣市場",
+              "perspective": "資本视角"
             },
             {
               "rank": 5,
-              "title": "Trump family’s crypto venture is quietly minting money through Binance stablecoin deal",
-              "url": "https://cryptobriefing.com/trump-crypto-venture-binance-stablecoin-profits/",
-              "published": "2026-06-06",
-              "outlet": "Crypto Briefing",
-              "summary": "特朗普家族加密项目通过Binance稳定币合作获利。",
-              "reason": "高知名度家族企业稳定币合作，具监管与市场示范效应。",
-              "perspective": "资本视角"
+              "title": "香港金管局邀JPMorgan與HSBC組專家團推tokenized bonds",
+              "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds",
+              "published": "2026-06-05",
+              "outlet": "The Block",
+              "summary": "香港推動機構級tokenized債券發展",
+              "reason": "官方與銀行合作加速穩定幣在RWA應用",
+              "perspective": "產業视角"
             }
           ]
         },
@@ -1164,53 +1342,53 @@
           "articles": [
             {
               "rank": 1,
-              "title": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
-              "url": "https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse",
+              "title": "BlackRock支持的Securitize通過SEC註冊 準備NYSE上市",
+              "url": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz",
               "published": "2026-06-05",
-              "outlet": "CoinDesk",
-              "summary": "BlackRock支持的Securitize通过上市关键 hurdles。",
-              "reason": "RWA龙头企业即将NYSE上市，具资本开支与市场成长意义。",
-              "perspective": "资本视角"
+              "outlet": "The Block",
+              "summary": "Securitize獲BlackRock支持 將以SECZ上市",
+              "reason": "RWA龍頭企業上市具資本市場示範效應",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ",
-              "url": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-05",
+              "title": "ether.fi斥資1億美元配置Plume RWA金庫",
+              "url": "https://www.theblock.co/post/403681/ether-fi-allocates-100-million-plume-rwa-vault-yield",
+              "published": "2026-06-04",
               "outlet": "The Block",
-              "summary": "Securitize完成SEC注册声明审查，SPAC合并即将完成。",
-              "reason": "RWA赛道代表企业上市进程，影响整个代币化市场估值。",
-              "perspective": "资本视角"
+              "summary": "ether.fi大舉投入RWA金庫提供收益",
+              "reason": "DeFi龍頭企業配置RWA顯示機構資金流向",
+              "perspective": "資本视角"
             },
             {
               "rank": 3,
-              "title": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
-              "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
+              "title": "香港金管局邀JPMorgan與HSBC組專家團推tokenized bonds",
+              "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds",
               "published": "2026-06-05",
               "outlet": "The Block",
-              "summary": "香港金管局成立专家组推动代币化债券规模化。",
-              "reason": "JPM与HSBC参与，传统金融龙头RWA布局具示范效应。",
-              "perspective": "产业视角"
+              "summary": "香港官方推動機構級tokenized債券",
+              "reason": "政府與銀行合作加速RWA債券市場發展",
+              "perspective": "產業视角"
             },
             {
               "rank": 4,
-              "title": "Ether.fi allocates $100 million to a Plume RWA vault, giving users access to yield",
-              "url": "https://www.theblock.co/post/403681/ether-fi-allocates-100-million-plume-rwa-vault-yield?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-04",
-              "outlet": "The Block",
-              "summary": "Ether.fi向Plume RWA金库配置1亿美元提供收益。",
-              "reason": "DeFi龙头企业RWA配置，具营收与市场份额参考价值。",
-              "perspective": "资本视角"
+              "title": "BlackRock支持Securitize清除上市關鍵障礙",
+              "url": "https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse",
+              "published": "2026-06-05",
+              "outlet": "CoinDesk",
+              "summary": "Securitize獲准NYSE上市 強化RWA基礎設施",
+              "reason": "BlackRock背書的RWA平台上市具指標意義",
+              "perspective": "資本视角"
             },
             {
               "rank": 5,
-              "title": "Ethena expands USDe’s backing diversification with AAA CLO evaluation",
-              "url": "https://cryptobriefing.com/ethena-usde-aaa-clo-diversification/",
-              "published": "2026-06-06",
-              "outlet": "Crypto Briefing",
-              "summary": "Ethena评估AAA级CLO以分散USDe抵押品。",
-              "reason": "稳定币RWA混合资产策略，影响机构配置与风险模型。",
-              "perspective": "资本视角"
+              "title": "Coinbase夏季推出比特幣與USDC抵押房貸首付款",
+              "url": "https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer",
+              "published": "2026-06-04",
+              "outlet": "CoinTelegraph",
+              "summary": "Coinbase聯手Fannie Mae推RWA抵押貸款",
+              "reason": "上市交易所將加密資產導入傳統房貸市場",
+              "perspective": "產業视角"
             }
           ]
         },
@@ -1219,53 +1397,53 @@
           "articles": [
             {
               "rank": 1,
-              "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
-              "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "published": "2026-06-05",
-              "outlet": "CoinTelegraph",
-              "summary": "ETH跌至13个月低点，测试1400美元支撑。",
-              "reason": "以太坊价格与生态上市公司营收直接相关，具市场判断意义。",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 2,
-              "title": "Tom Lee’s BitMine Plans $300M Preferred Stock Sale for ETH Treasury Push",
-              "url": "https://decrypt.co/369988/tom-lees-bitmine-plans-300m-preferred-stock-sale-for-eth-treasury-push",
-              "published": "2026-06-04",
-              "outlet": "Decrypt",
-              "summary": "Tom Lee旗下BitMine拟发行3亿美元优先股购入ETH。",
-              "reason": "上市公司以太坊 treasury 策略，具资本开支示范意义。",
-              "perspective": "资本视角"
-            },
-            {
-              "rank": 3,
-              "title": "Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend",
+              "title": "Tom Lee旗下BitMine發行9.5%股息優先股募資買ETH",
               "url": "https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares",
               "published": "2026-06-05",
               "outlet": "Decrypt",
-              "summary": "BitMine以9.5%股息发行优先股扩充以太坊 treasury。",
-              "reason": "以太坊 treasury 公司融资动作，影响ETH需求与估值。",
-              "perspective": "资本视角"
+              "summary": "BitMine仿Strategy模式建立以太坊財庫",
+              "reason": "上市公司以太坊財庫策略具資本示範意義",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 2,
+              "title": "比特幣與以太坊ETF結束連續流出 轉進權益永續合約",
+              "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts",
+              "published": "2026-06-05",
+              "outlet": "The Block",
+              "summary": "ETH ETF資金流向反映機構風險調整",
+              "reason": "以太坊ETF流向直接影響相關上市公司估值",
+              "perspective": "資本视角"
+            },
+            {
+              "rank": 3,
+              "title": "Strategy Saylor：比特幣應避免純粹與採用二選一",
+              "url": "https://www.theblock.co/post/403818/strategy-saylor-bitcoin-avoid-choosing-purity-adoption-btc-extends-losses",
+              "published": "2026-06-05",
+              "outlet": "The Block",
+              "summary": "Saylor主張比特幣生態四大陣營並存",
+              "reason": "上市公司比特幣策略對以太坊競爭格局具參考",
+              "perspective": "資本视角"
             },
             {
               "rank": 4,
-              "title": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts",
-              "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss",
+              "title": "ETH跌至13個月低點 分析師關注1400美元支撐",
+              "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next",
               "published": "2026-06-05",
-              "outlet": "The Block",
-              "summary": "以太坊ETF结束17天净流出。",
-              "reason": "ETH ETF资金流向为机构配置风向标。",
-              "perspective": "资本视角"
+              "outlet": "CoinTelegraph",
+              "summary": "ETH價格跌破1600美元 機構關注後續走勢",
+              "reason": "以太坊價格走勢影響Layer2晶片需求預期",
+              "perspective": "資本视角"
             },
             {
               "rank": 5,
-              "title": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
-              "url": "https://www.coindesk.com/markets/2026/06/05/crypto-s-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-levels",
+              "title": "Morgan Stanley允許客戶借出比特幣換取現貨ETF份額",
+              "url": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions",
               "published": "2026-06-05",
-              "outlet": "CoinDesk",
-              "summary": "以太坊逼近关键支撑位，市场恐慌加剧。",
-              "reason": "ETH价格走势直接影响Layer2与DeFi上市公司营收预期。",
-              "perspective": "资本视角"
+              "outlet": "The Block",
+              "summary": "摩根士丹利推加密資產ETF轉換服務",
+              "reason": "機構借貸服務間接受益於以太坊生態發展",
+              "perspective": "產業视角"
             }
           ]
         },
@@ -1274,53 +1452,53 @@
           "articles": [
             {
               "rank": 1,
-              "title": "U.S. House tax committee weighs crypto bills, including relief for small transactions",
+              "title": "美國眾議院稅務委員會審議加密貨幣稅務法案",
               "url": "https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions",
               "published": "2026-06-05",
               "outlet": "CoinDesk",
-              "summary": "美众议院税务委员会审议加密税收法案含小额交易豁免。",
-              "reason": "国会级加密税法进展，直接影响上市公司合规成本。",
-              "perspective": "产业视角"
+              "summary": "眾院委員會討論加密小額交易免稅條款",
+              "reason": "稅務立法直接影響上市公司加密資產會計處理",
+              "perspective": "資本视角"
             },
             {
               "rank": 2,
-              "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
-              "url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-05",
+              "title": "白宮加密顧問為Clarity Act辯護 強調執法導向",
+              "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill",
+              "published": "2026-06-04",
               "outlet": "The Block",
-              "summary": "加密税法草案已提交众议院筹款委员会下周听证。",
-              "reason": "税法落地将改变上市公司加密资产会计与税务处理。",
-              "perspective": "资本视角"
+              "summary": "白宮支持Clarity Act 加速加密監管明確化",
+              "reason": "白宮立場影響上市公司合規成本與市場預期",
+              "perspective": "資本视角"
             },
             {
               "rank": 3,
-              "title": "Alsobrooks says Clarity Act needs ethics deal before Senate vote",
-              "url": "https://www.coindesk.com/coindesk-news/2026/06/05/alsobrooks-says-clarity-act-needs-ethics-deal-before-senate-vote",
+              "title": "加密稅務立法送交眾院籌款委員會聽證",
+              "url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week",
               "published": "2026-06-05",
-              "outlet": "CoinDesk",
-              "summary": "参议员称《Clarity Act》需伦理协议方能进入参院表决。",
-              "reason": "加密市场结构法案关键进展，影响全行业监管框架。",
-              "perspective": "产业视角"
+              "outlet": "The Block",
+              "summary": "眾院下週聽證加密稅務多項新法案",
+              "reason": "稅務新法將改變加密企業財務報表編製方式",
+              "perspective": "資本视角"
             },
             {
               "rank": 4,
-              "title": "White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’",
-              "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-04",
+              "title": "Crypto Council發起聯盟 推動金庫監管明確化",
+              "url": "https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults",
+              "published": "2026-06-05",
               "outlet": "The Block",
-              "summary": "白宫加密顾问称《Clarity Act》为亲执法法案。",
-              "reason": "白宫立场明确，法案通过概率提升，具政策风向意义。",
-              "perspective": "产业视角"
+              "summary": "產業聯盟要求加密金庫監管清晰指引",
+              "reason": "上市企業加密金庫業務需明確合規框架",
+              "perspective": "產業视角"
             },
             {
               "rank": 5,
-              "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
-              "url": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
+              "title": "參院共和黨要求金融監管機構釐清加密資本規則",
+              "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules",
               "published": "2026-06-05",
-              "outlet": "Decrypt",
-              "summary": "国会新增7项加密税法案将于周二听证。",
-              "reason": "多法案并行审议，上市公司需提前评估合规与税负影响。",
-              "perspective": "资本视角"
+              "outlet": "CoinTelegraph",
+              "summary": "參議員要求公平對待加密資產資本計提",
+              "reason": "資本規則調整影響銀行與上市公司資產配置",
+              "perspective": "資本视角"
             }
           ]
         },
@@ -1329,53 +1507,53 @@
           "articles": [
             {
               "rank": 1,
-              "title": "Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults",
-              "url": "https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-05",
-              "outlet": "The Block",
-              "summary": "加密创新委员会成立联盟推动金库监管明确化。",
-              "reason": "DeFi金库机制获行业组织推动，影响机构级DeFi采用。",
-              "perspective": "产业视角"
+              "title": "交易公司大舉招募 不再視Polymarket為小眾工具",
+              "url": "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool",
+              "published": "2026-06-06",
+              "outlet": "CoinDesk",
+              "summary": "華爾街交易商積極招募Polymarket相關人才",
+              "reason": "預測市場從小眾轉向主流機構交易工具",
+              "perspective": "產業视角"
             },
             {
               "rank": 2,
-              "title": "CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’",
-              "url": "https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen?utm_source=rss&utm_medium=rss",
+              "title": "眾院共和黨擬夏季投票限制議員預測市場交易",
+              "url": "https://cointelegraph.com/news/house-gop-summer-vote-ban-lawmakers-prediction-markets",
               "published": "2026-06-05",
-              "outlet": "The Block",
-              "summary": "CME CEO警告美国永续合约或成零售爆仓风险。",
-              "reason": "CME为衍生品龙头，其表态影响DeFi永续合约竞争格局。",
-              "perspective": "产业视角"
+              "outlet": "CoinTelegraph",
+              "summary": "議員預測市場交易禁令將納入股票禁令法案",
+              "reason": "監管預測市場直接影響DeFi平台合規成本",
+              "perspective": "資本视角"
             },
             {
               "rank": 3,
-              "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
-              "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+              "title": "南韓警方調查Polymarket用戶涉非法賭博",
+              "url": "https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users",
               "published": "2026-06-05",
-              "outlet": "Decrypt",
-              "summary": "Hyperliquid遭英国FCA警告，永续合约监管收紧。",
-              "reason": "头部DeFi永续平台监管风险，影响市场份额与营收。",
-              "perspective": "资本视角"
+              "outlet": "The Block",
+              "summary": "南韓首例Polymarket非法賭博調查啟動",
+              "reason": "監管動作影響全球預測市場平台合規策略",
+              "perspective": "產業视角"
             },
             {
               "rank": 4,
-              "title": "Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions",
-              "url": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions?utm_source=rss&utm_medium=rss",
+              "title": "Hyperliquid遭英國FCA警告 加密永續合約受 scrutiny",
+              "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
               "published": "2026-06-05",
-              "outlet": "The Block",
-              "summary": "摩根士丹利允许客户出借加密资产换取ETF份额。",
-              "reason": "传统金融与DeFi收益产品结合，具机构采用示范意义。",
-              "perspective": "产业视角"
+              "outlet": "Decrypt",
+              "summary": "FCA警告Hyperliquid 永續合約監管升溫",
+              "reason": "監管機構針對DeFi衍生品平台加強執法",
+              "perspective": "資本视角"
             },
             {
               "rank": 5,
-              "title": "Pump.fun launches GO platform for bizarre bounty tasks on Solana",
-              "url": "https://cryptobriefing.com/pump-fun-go-bounty-platform-solana/",
-              "published": "2026-06-06",
-              "outlet": "Crypto Briefing",
-              "summary": "Pump.fun在Solana推出GO赏金平台。",
-              "reason": "Solana生态DeFi实验性产品，影响链上交易量与用户增长。",
-              "perspective": "产业视角"
+              "title": "CME執行長警告美國核准永續合約恐成災難",
+              "url": "https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen",
+              "published": "2026-06-05",
+              "outlet": "The Block",
+              "summary": "CME執行長批評永續合約過度槓桿風險",
+              "reason": "傳統交易所對DeFi衍生品監管立場具參考價值",
+              "perspective": "產業视角"
             }
           ]
         }
