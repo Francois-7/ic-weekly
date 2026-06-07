@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07 17:08 UTC",
+  "generated_at": "2026-06-07 17:15 UTC",
   "week_start": "2026-05-31",
   "week_end": "2026-06-07",
-  "total": 1148,
+  "total": 1150,
   "categories": [
     {
       "name": "AIoT",
@@ -5699,6 +5699,20 @@
               "published": "2026-06-07",
               "outlet": "Silicon Angle",
               "summary": "Agentic artificial intelligence is being misread as a set of separate battles – for example, Snowfla"
+            },
+            {
+              "title": "Sony 1000X The Collexion review",
+              "url": "https://www.gsmarena.com/sony_1000x_the_collexion_review_-news-73152.php",
+              "published": "2026-06-07",
+              "outlet": "GSMArena",
+              "summary": "10 years ago, Sony announced its MDR-1000X noise-canceling headphones in a bid to challenge Bose and"
+            },
+            {
+              "title": "JPMorgan says Strategy may need to rebuild dollar reserves to restore confidence",
+              "url": "https://www.theblock.co/post/403905/jpmorgan-strategy-dollar-reserves-crypto-bill-chance?utm_source=rss&utm_medium=rss",
+              "published": "2026-06-07",
+              "outlet": "The Block",
+              "summary": "JPMorgan said crypto's outlook depends on Strategy's dividend plan and the Clarity Act, for which it"
             }
           ]
         },
