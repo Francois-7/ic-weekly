@@ -13260,32 +13260,6 @@
     "subtopic": "聯準會消息"
   },
   {
-    "title": "民主黨關於黨主席的內戰籠罩2028計劃",
-    "url": "https://www.axios.com/2026/05/31/democrats-fight-dnc-2028",
-    "content": "Democrats fighting over their strategy and leadership for 2028 are locked in on savaging — or saving — the one man with a title and power: DNC chair Ken Martin. Why it matters: Martin is facing a growing crisis of confidence over the Democratic National Committee's bungled autopsy of the 2024 election and its financial struggles . This is the biggest, earliest test of the party's top brass heading",
-    "published": "2026-05-31",
-    "published_ts": 1780263905.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "川普健康報告留下關鍵空白未填",
-    "url": "https://www.axios.com/2026/05/31/trump-checkup-medical-questions-unanswered",
-    "content": "President Trump's medical checkups have turned into mini dramas pitting the public's right to know against a public figure's medical privacy — with a heavy overlay of political intrigue. The big picture: The White House added another twist late Friday night by releasing a three-page memo summarizing Trump's visit to Walter Reed National Military Medical Center the prior Tuesday that concluded he w",
-    "published": "2026-05-31",
-    "published_ts": 1780261505.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "國債市場醞釀麻煩",
     "url": "https://wolfstreet.com/2026/06/06/theres-trouble-brewing-in-the-treasury-market/",
     "content": "Inflation is the bane of the bond market. And it is now demanding multiple rate hikes, starting late this year.",
@@ -15939,6 +15913,306 @@
     "published_ts": 1780860694.0,
     "outlet": "Yahoo Finance",
     "fetched_at": "2026-06-07T21:00:28Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon, Alphabet, and Microsoft Are All Racing to Design Their Own AI Chips. Here's What It Means for Nvidia.",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-alphabet-microsoft-racing-design-223200752.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780871520.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is SoundHound AI, Inc. (SOUN) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-inc-soun-good-212738180.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867658.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is VICI Properties Inc. (VICI) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-good-212722352.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867642.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Western Digital Corporation (WDC) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-good-212709268.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867629.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Autodesk, Inc. (ADSK) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/autodesk-inc-adsk-good-stock-212655292.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867615.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Visa Stock a Smart Way to Invest in the Cashless Economy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-smart-way-invest-220400191.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780869840.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is DNOW Inc. (DNOW) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dnow-inc-dnow-good-stock-212640363.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867600.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is DigitalOcean Holdings, Inc. (DOCN) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/digitalocean-holdings-inc-docn-good-212626053.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867586.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is FinVolution Group (FINV) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/finvolution-group-finv-good-stock-212612068.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867572.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Global Ship Lease, Inc. (GSL) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/global-ship-lease-inc-gsl-212558171.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867558.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-spacex-stock-213500979.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780868100.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is HEICO Corporation (HEI) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/heico-corporation-hei-good-stock-212544695.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867544.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Duolingo, Inc. (DUOL) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/duolingo-inc-duol-good-stock-212411055.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867451.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is GE Vernova Inc. (GEV) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-inc-gev-good-212358619.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867438.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Klarna Group plc (KLAR) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/klarna-group-plc-klar-good-212344146.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867424.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Ten Trump Officials Sit On Up To $44 Million In Record SpaceX IPO: 'No Analogs,' Ethics Lawyers Say",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ten-trump-officials-sit-44-213121029.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867881.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Palantir Technologies Inc. (PLTR) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-good-212318080.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867398.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Synopsys, Inc. (SNPS) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-inc-snps-good-stock-212303825.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867383.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Spotify Technology S.A. (SPOT) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spotify-technology-spot-good-stock-212248755.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867368.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is TransAlta Corporation (TAC) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/transalta-corporation-tac-good-stock-212228652.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867348.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Here's the 1 Crypto I'd Buy if I Could Only Pick 1",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-212700280.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867620.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Applied Materials, Inc. (AMAT) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-inc-amat-good-212213557.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867333.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is CoreWeave, Inc. (CRWV) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-good-stock-212159416.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867319.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Honeywell International Inc. (HON) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-good-212147412.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780867307.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Post-War Oil Trade Could Look Nothing Like It Did Before Hormuz",
+    "url": "https://finance.yahoo.com/sectors/energy/articles/post-war-oil-trade-could-210000522.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780866000.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Technology ETF Showdown: Is SOXX or IYW the Better Buy for Investors Right Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/technology-etf-showdown-soxx-iyw-211041570.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780866641.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Is Dogecoin Really a Millionaire Maker?",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-really-millionaire-maker-210700620.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780866420.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Citi quietly resets S&P 500 price target for the rest of 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/citi-quietly-resets-p-500-210300000.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780866180.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "The Divorced Spouse Strategy That Adds $14,400 a Year for a 66-Year-Old Whose Ex Is Still Alive",
+    "url": "https://finance.yahoo.com/markets/options/articles/divorced-spouse-strategy-adds-14-210014265.html",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780866014.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
+    "classified": false
+  },
+  {
+    "title": "Market Rout Leaves Wall Street Bracing for Rockier Times",
+    "url": "https://www.wsj.com/finance/stocks/market-rout-leaves-wall-street-bracing-for-rockier-times-41feee60?siteid=yhoof2&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-07",
+    "published_ts": 1780866000.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-07T22:54:28Z",
     "classified": false
   }
 ]
