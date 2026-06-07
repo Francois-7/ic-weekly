@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07 17:02 UTC",
+  "generated_at": "2026-06-07 17:08 UTC",
   "week_start": "2026-05-31",
   "week_end": "2026-06-07",
-  "total": 1147,
+  "total": 1148,
   "categories": [
     {
       "name": "AIoT",
@@ -7125,6 +7125,13 @@
               "published": "2026-06-04",
               "outlet": "Decrypt",
               "summary": "The Treasury chief told senators the administration is using “best practices” in implementing Trump'"
+            },
+            {
+              "title": "The Verge Weekend Questionnaire",
+              "url": "https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire",
+              "published": "2026-06-07",
+              "outlet": "The Verge",
+              "summary": "Have you ever wondered what the most indispensable app is for your favorite musician or how the worl"
             }
           ]
         },
