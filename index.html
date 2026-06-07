@@ -74,12 +74,24 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
   </div>
   <div class="topbar-right">
     <span class="meta" id="meta-text"></span>
+    <button onclick="showArchive()" style="padding:4px 12px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;border:1px solid var(--border);background:var(--surface2);color:var(--text2);">📁 往期</button>
     <div class="lang-switcher">
       <button class="lang-btn active" onclick="setLang('zh-TW')">繁</button>
       <button class="lang-btn" onclick="setLang('zh-CN')">简</button>
       <button class="lang-btn" onclick="setLang('en')">EN</button>
       <button class="lang-btn" onclick="setLang('vi')">VI</button>
     </div>
+  </div>
+</div>
+
+<!-- 往期彈窗 -->
+<div id="archive-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:500;align-items:center;justify-content:center;">
+  <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:24px;width:340px;max-height:70vh;overflow-y:auto;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;">
+      <span style="font-size:15px;font-weight:700;">📁 往期週報</span>
+      <button onclick="closeArchive()" style="background:none;border:none;color:var(--text3);cursor:pointer;font-size:18px;">✕</button>
+    </div>
+    <div id="archive-list"><div class="center"><div class="spinner"></div></div></div>
   </div>
 </div>
 
@@ -93,7 +105,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 </div>
 
 <script>
-const DATA_URL = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/weekly_results.json";
+const DATA_URL         = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/weekly_results.json";
+const ARCHIVE_INDEX    = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/archive/archive_index.json";
+const ARCHIVE_BASE_URL = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/archive/";
 
 const I18N = {
   "zh-TW": { title:"IC產業週報", loading:"正在讀取...", categories:"大類", articles:"篇", capital:"資本視角", industry:"產業視角", empty:"暫無新聞", err:"讀取失敗", period:"週期", generated:"生成" },
@@ -233,6 +247,46 @@ function renderView() {
       <span class="page-count">${articles.length} ${t("articles")}</span>
     </div>
     <div class="articles-container">${articlesHtml}</div>`;
+}
+
+async function showArchive() {
+  const modal = document.getElementById("archive-modal");
+  modal.style.display = "flex";
+  const list = document.getElementById("archive-list");
+  try {
+    const res = await fetch(ARCHIVE_INDEX);
+    if (!res.ok) throw new Error("尚無往期記錄");
+    const index = await res.json();
+    if (!index.length) throw new Error("尚無往期記錄");
+    list.innerHTML = index.map(e => `
+      <div onclick="loadArchive('${e.file}','${e.week}')"
+           style="padding:10px 12px;border-radius:8px;cursor:pointer;border:1px solid var(--border);margin-bottom:8px;transition:background 0.15s;"
+           onmouseover="this.style.background='var(--surface2)'" onmouseout="this.style.background=''">
+        <div style="font-size:13px;font-weight:600;">${e.week}</div>
+        <div style="font-size:11px;color:var(--text3);">${e.date}</div>
+      </div>`).join("");
+  } catch(e) {
+    list.innerHTML = `<div style="color:var(--text3);font-size:13px;text-align:center;padding:20px;">${e.message}</div>`;
+  }
+}
+
+function closeArchive() {
+  document.getElementById("archive-modal").style.display = "none";
+}
+
+async function loadArchive(file, week) {
+  closeArchive();
+  document.getElementById("main").innerHTML = `<div class="center"><div class="spinner"></div></div>`;
+  try {
+    const res = await fetch(ARCHIVE_BASE_URL + file);
+    if (!res.ok) throw new Error("載入失敗");
+    data = await res.json();
+    document.getElementById("meta-text").textContent = `📁 往期：${week}`;
+    currentCat = 0; currentSub = 0;
+    renderSidebar(); renderView();
+  } catch(e) {
+    document.getElementById("main").innerHTML = `<div class="center"><span style="color:#ef4444">${e.message}</span></div>`;
+  }
 }
 
 async function init() {
