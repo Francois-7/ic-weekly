@@ -60,7 +60,51 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .center { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; gap: 12px; color: var(--text3); }
 .spinner { width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
-@media (max-width: 640px) { .sidebar { display: none; } .main { padding: 16px; } .meta { display: none; } }
+
+/* ── 手機版底部大類導航 ── */
+.mobile-cat-nav {
+  display: none;
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  z-index: 300;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.mobile-cat-nav::-webkit-scrollbar { display: none; }
+.mobile-cat-nav-inner {
+  display: flex;
+  padding: 6px 8px;
+  gap: 6px;
+  min-width: max-content;
+}
+.mobile-cat-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 6px 12px;
+  border-radius: 10px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s;
+}
+.mobile-cat-btn.active { background: var(--surface2); }
+.mobile-cat-dot { width: 7px; height: 7px; border-radius: 50%; }
+.mobile-cat-label { font-size: 11px; font-weight: 600; color: var(--text2); }
+.mobile-cat-btn.active .mobile-cat-label { color: var(--text); }
+.mobile-cat-count { font-size: 10px; color: var(--text3); }
+
+@media (max-width: 640px) {
+  .sidebar { display: none; }
+  .main { padding: 12px; padding-bottom: 80px; }
+  .meta { display: none; }
+  .mobile-cat-nav { display: block; }
+}
 </style>
 </head>
 <body>
@@ -79,6 +123,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
       <button class="lang-btn" onclick="setLang('vi')">VI</button>
     </div>
   </div>
+</div>
+
+<!-- 手機底部大類導航 -->
+<div class="mobile-cat-nav" id="mobile-cat-nav">
+  <div class="mobile-cat-nav-inner" id="mobile-cat-inner"></div>
 </div>
 
 <div class="layout">
@@ -192,13 +241,27 @@ function setLang(lang) {
   });
   document.getElementById("ui-title").textContent = t("title");
   document.title = t("title");
-  if (data) { updateMeta(); renderSidebar(data); renderCat(currentCat); }
+  if (data) { updateMeta(); renderSidebar(data); renderMobileCatNav(data); renderCat(currentCat); }
 }
 
 function updateMeta() {
   if (!data) return;
   document.getElementById("meta-text").textContent =
     `${t("period")}：${data.week_start} - ${data.week_end}　${t("generated")}：${data.generated_at}`;
+}
+
+function renderMobileCatNav(d) {
+  const inner = document.getElementById("mobile-cat-inner");
+  if (!inner) return;
+  inner.innerHTML = d.categories.map((cat, i) => {
+    const total = cat.subtopics.reduce((s, sub) => s + (sub.articles ? sub.articles.length : 0), 0);
+    const color = CAT_COLORS[cat.name] || "#888";
+    return `<button class="mobile-cat-btn${i === currentCat ? " active" : ""}" onclick="showCat(${i})" id="mob-nav-${i}">
+      <span class="mobile-cat-dot" style="background:${color}"></span>
+      <span class="mobile-cat-label">${catName(cat.name)}</span>
+      <span class="mobile-cat-count">${total}</span>
+    </button>`;
+  }).join("");
 }
 
 function renderSidebar(d) {
@@ -267,6 +330,9 @@ function renderCat(catIdx) {
 function showCat(idx) {
   currentCat = idx;
   document.querySelectorAll(".nav-item").forEach((el,i)=>el.classList.toggle("active",i===idx));
+  document.querySelectorAll(".mobile-cat-btn").forEach((el,i)=>el.classList.toggle("active",i===idx));
+  const activeBtn = document.getElementById(`mob-nav-${idx}`);
+  if (activeBtn) activeBtn.scrollIntoView({behavior:"smooth",block:"nearest",inline:"center"});
   renderCat(idx);
 }
 
@@ -287,6 +353,7 @@ async function init() {
     data = await res.json();
     updateMeta();
     renderSidebar(data);
+    renderMobileCatNav(data);
     renderCat(0);
   } catch(e) {
     document.getElementById("main").innerHTML = `
