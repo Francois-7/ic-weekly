@@ -10,26 +10,30 @@
   --bg: #0f1117; --surface: #1a1d27; --surface2: #22263a;
   --border: #2d3148; --text: #e2e8f0; --text2: #94a3b8;
   --text3: #64748b; --accent: #6366f1;
+  --bottom-nav-h: 60px;
+  --top-sub-h: 44px;
 }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
-.topbar { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0 24px; height: 56px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 200; }
-.topbar-left { display: flex; align-items: center; gap: 12px; }
-.logo { font-size: 16px; font-weight: 700; color: var(--text); }
-.badge { background: var(--accent); color: white; font-size: 11px; padding: 2px 8px; border-radius: 20px; font-weight: 600; }
-.topbar-right { display: flex; align-items: center; gap: 12px; }
-.meta { font-size: 12px; color: var(--text3); }
-.lang-switcher { display: flex; gap: 4px; background: var(--surface2); border-radius: 8px; padding: 3px; }
-.lang-btn { padding: 4px 10px; border-radius: 6px; font-size: 12px; font-weight: 600; cursor: pointer; border: none; background: transparent; color: var(--text3); transition: all 0.15s; }
-.lang-btn:hover { color: var(--text); }
-.lang-btn.active { background: var(--accent); color: white; }
-.layout { display: flex; height: calc(100vh - 56px); }
 
-/* ── 二層側欄 ── */
+/* ── Topbar ── */
+.topbar { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0 16px; height: 52px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 200; }
+.logo { font-size: 15px; font-weight: 700; }
+.badge { background: var(--accent); color: white; font-size: 10px; padding: 2px 7px; border-radius: 20px; font-weight: 600; margin-left: 6px; }
+.topbar-right { display: flex; align-items: center; gap: 8px; }
+.meta-text { font-size: 10px; color: var(--text3); display: none; }
+.archive-btn { padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 600; cursor: pointer; border: 1px solid var(--border); background: var(--surface2); color: var(--text2); }
+.lang-switcher { display: flex; gap: 2px; background: var(--surface2); border-radius: 8px; padding: 2px; }
+.lang-btn { padding: 3px 8px; border-radius: 5px; font-size: 11px; font-weight: 600; cursor: pointer; border: none; background: transparent; color: var(--text3); }
+.lang-btn.active { background: var(--accent); color: white; }
+
+/* ── Desktop layout ── */
+.layout { display: flex; height: calc(100vh - 52px); }
+
+/* ── Desktop Sidebar ── */
 .sidebar { width: 240px; background: var(--surface); border-right: 1px solid var(--border); overflow-y: auto; flex-shrink: 0; padding: 12px 0; }
 .sidebar-section { padding: 6px 16px 4px; font-size: 10px; font-weight: 700; color: var(--text3); letter-spacing: 0.08em; text-transform: uppercase; }
-.cat-nav { display: flex; align-items: center; justify-content: space-between; padding: 9px 16px; font-size: 13px; font-weight: 600; color: var(--text2); cursor: pointer; border-left: 3px solid transparent; transition: all 0.15s; user-select: none; }
-.cat-nav:hover { background: var(--surface2); color: var(--text); }
-.cat-nav.open { color: var(--text); }
+.cat-nav { display: flex; align-items: center; justify-content: space-between; padding: 9px 16px; font-size: 13px; font-weight: 600; color: var(--text2); cursor: pointer; border-left: 3px solid transparent; transition: all 0.15s; }
+.cat-nav:hover, .cat-nav.open { background: var(--surface2); color: var(--text); }
 .cat-nav-left { display: flex; align-items: center; gap: 8px; }
 .cat-nav-right { display: flex; align-items: center; gap: 6px; }
 .cat-arrow { font-size: 9px; color: var(--text3); transition: transform 0.2s; }
@@ -37,44 +41,135 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .nav-pill { background: var(--surface2); border-radius: 10px; padding: 1px 7px; font-size: 11px; color: var(--text3); }
 .sub-nav-group { display: none; }
 .sub-nav-group.open { display: block; }
-.sub-nav { display: flex; align-items: center; justify-content: space-between; padding: 6px 16px 6px 36px; font-size: 12px; color: var(--text3); cursor: pointer; transition: all 0.15s; border-left: 3px solid transparent; }
+.sub-nav { display: flex; align-items: center; justify-content: space-between; padding: 6px 16px 6px 36px; font-size: 12px; color: var(--text3); cursor: pointer; border-left: 3px solid transparent; transition: all 0.15s; }
 .sub-nav:hover { background: var(--surface2); color: var(--text2); }
 .sub-nav.active { color: var(--text); background: var(--surface2); border-left-color: var(--accent); }
 .sub-pill { font-size: 10px; color: var(--text3); }
 
-.main { flex: 1; overflow-y: auto; padding: 24px; }
-.page-header { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; padding-bottom: 12px; border-bottom: 1px solid var(--border); }
+/* ── Main content ── */
+.main { flex: 1; overflow-y: auto; padding: 20px; }
+.page-header { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid var(--border); }
 .page-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
-.page-title { font-size: 20px; font-weight: 700; }
+.page-title { font-size: 18px; font-weight: 700; }
 .page-sub { font-size: 13px; color: var(--text3); }
 .page-count { font-size: 13px; color: var(--text3); margin-left: auto; }
-.article { padding: 16px; border-bottom: 1px solid var(--border); transition: background 0.15s; }
+.articles-container { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.article { padding: 14px 16px; border-bottom: 1px solid var(--border); transition: background 0.15s; }
 .article:last-child { border-bottom: none; }
-.article:hover { background: var(--surface); border-radius: 8px; }
-.article-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 7px; flex-wrap: wrap; }
-.outlet-name { font-size: 12px; color: var(--text3); }
-.pub-date { font-size: 12px; color: var(--text3); margin-left: auto; }
+.article:hover { background: var(--surface2); }
+.article-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+.outlet-name { font-size: 11px; color: var(--text3); }
+.pub-date { font-size: 11px; color: var(--text3); margin-left: auto; }
 .article-title { font-size: 14px; font-weight: 600; color: var(--text); text-decoration: none; line-height: 1.5; display: block; }
 .article-title:hover { color: #818cf8; }
-.summary { font-size: 13px; color: var(--text2); margin-top: 5px; line-height: 1.5; }
-.articles-container { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
-.empty-state { padding: 40px 16px; font-size: 13px; color: var(--text3); font-style: italic; text-align: center; }
+.summary { font-size: 12px; color: var(--text2); margin-top: 4px; line-height: 1.5; }
+.empty-state { padding: 40px; font-size: 13px; color: var(--text3); text-align: center; }
 .center { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; gap: 12px; color: var(--text3); }
-.spinner { width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
+.spinner { width: 28px; height: 28px; border: 3px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
-@media (max-width: 640px) { .sidebar { display: none; } .main { padding: 16px; } .meta { display: none; } }
+
+/* ── 往期 Modal ── */
+.modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 500; align-items: center; justify-content: center; }
+.modal-overlay.show { display: flex; }
+.modal-box { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; width: 320px; max-height: 65vh; overflow-y: auto; }
+.modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
+.modal-close { background: none; border: none; color: var(--text3); cursor: pointer; font-size: 18px; }
+.archive-item { padding: 10px 12px; border-radius: 8px; cursor: pointer; border: 1px solid var(--border); margin-bottom: 8px; transition: background 0.15s; }
+.archive-item:hover { background: var(--surface2); }
+
+/* ══════════════════════════════════════
+   手機版：底部導航 + 頂部子板塊 Tab
+   ══════════════════════════════════════ */
+@media (max-width: 640px) {
+  .sidebar { display: none; }
+  .layout { flex-direction: column; height: calc(100vh - 52px - var(--bottom-nav-h)); }
+  .main { padding: 12px; padding-top: 0; overflow-y: auto; }
+  .meta-text { display: block; }
+
+  /* 頂部子板塊橫向Tab */
+  .mobile-subtab {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    padding: 10px 12px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    scrollbar-width: none;
+  }
+  .mobile-subtab::-webkit-scrollbar { display: none; }
+  .subtab-btn {
+    flex-shrink: 0;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: var(--surface2);
+    color: var(--text3);
+    white-space: nowrap;
+  }
+  .subtab-btn.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+
+  /* 底部大類導航 */
+  .bottom-nav {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: var(--bottom-nav-h);
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    z-index: 300;
+  }
+  .bottom-nav-item {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    cursor: pointer;
+    transition: background 0.15s;
+    border: none;
+    background: none;
+    padding: 6px 2px;
+  }
+  .bottom-nav-item.active { background: var(--surface2); }
+  .bottom-nav-icon { font-size: 18px; line-height: 1; }
+  .bottom-nav-label { font-size: 9px; color: var(--text3); font-weight: 600; }
+  .bottom-nav-item.active .bottom-nav-label { color: var(--accent); }
+
+  /* 手機版article稍微簡化 */
+  .page-header { padding-bottom: 8px; margin-bottom: 12px; }
+  .page-title { font-size: 16px; }
+}
+
+/* 桌面版隱藏手機元素 */
+@media (min-width: 641px) {
+  .mobile-subtab { display: none; }
+  .bottom-nav { display: none; }
+}
 </style>
 </head>
 <body>
 
 <div class="topbar">
-  <div class="topbar-left">
+  <div style="display:flex;align-items:center;">
     <span class="logo">📊 <span id="ui-title">IC產業週報</span></span>
     <span class="badge">LIVE</span>
   </div>
   <div class="topbar-right">
-    <span class="meta" id="meta-text"></span>
-    <button onclick="showArchive()" style="padding:4px 12px;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;border:1px solid var(--border);background:var(--surface2);color:var(--text2);">📁 往期</button>
+    <span class="meta-text" id="meta-text"></span>
+    <button class="archive-btn" onclick="showArchive()">📁 往期</button>
     <div class="lang-switcher">
       <button class="lang-btn active" onclick="setLang('zh-TW')">繁</button>
       <button class="lang-btn" onclick="setLang('zh-CN')">简</button>
@@ -84,231 +179,254 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
   </div>
 </div>
 
-<!-- 往期彈窗 -->
-<div id="archive-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:500;align-items:center;justify-content:center;">
-  <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:24px;width:340px;max-height:70vh;overflow-y:auto;">
-    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;">
+<!-- 往期Modal -->
+<div class="modal-overlay" id="archive-modal" onclick="if(event.target===this)closeArchive()">
+  <div class="modal-box">
+    <div class="modal-header">
       <span style="font-size:15px;font-weight:700;">📁 往期週報</span>
-      <button onclick="closeArchive()" style="background:none;border:none;color:var(--text3);cursor:pointer;font-size:18px;">✕</button>
+      <button class="modal-close" onclick="closeArchive()">✕</button>
     </div>
-    <div id="archive-list"><div class="center"><div class="spinner"></div></div></div>
+    <div id="archive-list"><div style="text-align:center;padding:20px;color:var(--text3);">載入中...</div></div>
   </div>
 </div>
 
 <div class="layout">
+  <!-- 桌面側欄 -->
   <nav class="sidebar" id="sidebar">
     <div class="center"><div class="spinner"></div></div>
   </nav>
-  <main class="main" id="main">
-    <div class="center"><div class="spinner"></div><span id="ui-loading">正在讀取最新週報...</span></div>
-  </main>
+
+  <!-- 主內容區（手機版含頂部子板塊Tab） -->
+  <div style="flex:1;display:flex;flex-direction:column;overflow:hidden;">
+    <!-- 手機版子板塊Tab -->
+    <div class="mobile-subtab" id="mobile-subtab"></div>
+    <!-- 文章列表 -->
+    <main class="main" id="main">
+      <div class="center"><div class="spinner"></div></div>
+    </main>
+  </div>
 </div>
+
+<!-- 手機版底部大類導航 -->
+<nav class="bottom-nav" id="bottom-nav"></nav>
 
 <script>
 const DATA_URL         = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/weekly_results.json";
 const ARCHIVE_INDEX    = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/archive/archive_index.json";
 const ARCHIVE_BASE_URL = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/archive/";
 
+const CAT_ICONS = { "AIoT":"🤖","手機":"📱","HPC數據中心":"🖥️","電動車":"⚡","新能源":"☀️","總體經濟":"📈","加密貨幣":"🪙" };
+const CAT_COLORS = { "AIoT":"#6366f1","手機":"#f97316","HPC數據中心":"#22c55e","電動車":"#a855f7","新能源":"#eab308","總體經濟":"#ef4444","加密貨幣":"#14b8a6" };
+
 const I18N = {
-  "zh-TW": { title:"IC產業週報", loading:"正在讀取...", categories:"大類", articles:"篇", capital:"資本視角", industry:"產業視角", empty:"暫無新聞", err:"讀取失敗", period:"週期", generated:"生成" },
-  "zh-CN": { title:"IC产业周报", loading:"正在读取...", categories:"大类", articles:"篇", capital:"资本视角", industry:"产业视角", empty:"暂无新闻", err:"读取失败", period:"周期", generated:"生成" },
-  "en":    { title:"IC Industry Weekly", loading:"Loading...", categories:"Categories", articles:"articles", capital:"Capital View", industry:"Industry View", empty:"No news", err:"Failed to load", period:"Period", generated:"Generated" },
-  "vi":    { title:"Tuần Báo Ngành IC", loading:"Đang tải...", categories:"Danh mục", articles:"bài", capital:"Góc nhìn Vốn", industry:"Góc nhìn Ngành", empty:"Không có tin", err:"Tải thất bại", period:"Kỳ", generated:"Tạo lúc" },
+  "zh-TW": { title:"IC產業週報", categories:"大類", articles:"篇", empty:"暫無新聞", err:"讀取失敗", period:"週期", generated:"生成" },
+  "zh-CN": { title:"IC产业周报", categories:"大类", articles:"篇", empty:"暂无新闻", err:"读取失败", period:"周期", generated:"生成" },
+  "en":    { title:"IC Industry Weekly", categories:"Categories", articles:"articles", empty:"No news", err:"Failed", period:"Period", generated:"Generated" },
+  "vi":    { title:"Tuần Báo Ngành IC", categories:"Danh mục", articles:"bài", empty:"Không có tin", err:"Lỗi", period:"Kỳ", generated:"Tạo lúc" },
 };
-
 const CAT_NAMES = {
-  "zh-TW": { "AIoT":"AIoT","手機":"手機","HPC數據中心":"HPC數據中心","電動車":"電動車","新能源":"新能源","總體經濟":"總體經濟","加密貨幣":"加密貨幣" },
-  "zh-CN": { "AIoT":"AIoT","手機":"手机","HPC數據中心":"HPC数据中心","電動車":"电动车","新能源":"新能源","總體經濟":"宏观经济","加密貨幣":"加密货币" },
-  "en":    { "AIoT":"AIoT","手機":"Mobile","HPC數據中心":"HPC & Data Center","電動車":"Electric Vehicles","新能源":"New Energy","總體經濟":"Macro Economy","加密貨幣":"Crypto" },
-  "vi":    { "AIoT":"AIoT","手機":"Di Động","HPC數據中心":"HPC & TTDL","電動車":"Xe Điện","新能源":"Năng Lượng Mới","總體經濟":"Kinh Tế Vĩ Mô","加密貨幣":"Tiền Mã Hóa" },
+  "zh-TW": {"AIoT":"AIoT","手機":"手機","HPC數據中心":"HPC","電動車":"電動車","新能源":"新能源","總體經濟":"總經","加密貨幣":"加密"},
+  "zh-CN": {"AIoT":"AIoT","手機":"手机","HPC數據中心":"HPC","電動車":"电动车","新能源":"新能源","總體經濟":"宏观","加密貨幣":"加密"},
+  "en":    {"AIoT":"AIoT","手機":"Mobile","HPC數據中心":"HPC","電動車":"EV","新能源":"Energy","總體經濟":"Macro","加密貨幣":"Crypto"},
+  "vi":    {"AIoT":"AIoT","手機":"DĐ","HPC數據中心":"HPC","電動車":"EV","新能源":"NL","總體經濟":"VM","加密貨幣":"Crypto"},
 };
-
 const SUB_NAMES = {
-  "zh-TW": { "綜合":"綜合" },
-  "zh-CN": { "綜合":"综合","工業物聯網產品":"工业物联网产品","智慧穿戴":"智能穿戴","機器人":"机器人","智慧家庭產品":"智能家居","手機產品":"手机产品","平板與筆記本產品":"平板与笔记本","手機螢幕":"手机屏幕","手機晶片":"手机芯片","手機記憶體":"手机内存","數據中心":"数据中心","雲端營運商":"云运营商","AI公司":"AI公司","伺服器":"服务器","電動車":"电动车","儲能樁":"储能桩","電動車核心零部件":"电动车零部件","氫能車與混動車":"氢能与混动","自動駕駛":"自动驾驶","光伏":"光伏","儲能":"储能","氫能與燃料電池":"氢能燃料电池","風能":"风能","小型核反應堆":"小型核反应堆","美股":"美股","美債":"美债","總體數據":"宏观数据","聯準會消息":"美联储","房屋市場":"房屋市场","二手車市場":"二手车","關稅與貿易戰":"关税贸易战","日圓走勢與日本經濟":"日元日本","歐元走勢與歐洲經濟":"欧元欧洲","比特幣":"比特币","穩定幣":"稳定币","以太坊":"以太坊","監管與合規":"监管合规" },
-  "en":    { "綜合":"General","工業物聯網產品":"Industrial IoT","智慧穿戴":"Wearables","機器人":"Robotics","VR/AR":"VR/AR","智慧家庭產品":"Smart Home","手機產品":"Smartphones","平板與筆記本產品":"Tablets & Laptops","手機螢幕":"Mobile Displays","手機晶片":"Mobile Chips","手機記憶體":"Mobile Memory","HPC":"HPC","數據中心":"Data Centers","雲端營運商":"Cloud Operators","AI公司":"AI Companies","伺服器":"Servers","電動車":"Electric Vehicles","儲能樁":"Charging","電動車核心零部件":"EV Components","氫能車與混動車":"Hydrogen & Hybrid","自動駕駛":"Autonomous","光伏":"Solar","儲能":"Energy Storage","氫能與燃料電池":"Hydrogen","風能":"Wind","小型核反應堆":"SMR","美股":"US Stocks","美債":"US Bonds","總體數據":"Macro Data","聯準會消息":"Fed","房屋市場":"Housing","二手車市場":"Used Cars","關稅與貿易戰":"Trade War","日圓走勢與日本經濟":"JPY/Japan","歐元走勢與歐洲經濟":"EUR/Europe","比特幣":"Bitcoin","穩定幣":"Stablecoins","RWA":"RWA","以太坊":"Ethereum","監管與合規":"Regulation","DeFi":"DeFi" },
-  "vi":    { "綜合":"Tổng hợp","工業物聯網產品":"IoT CN","智慧穿戴":"Thiết bị đeo","機器人":"Robot","VR/AR":"VR/AR","智慧家庭產品":"Nhà TM","手機產品":"Điện thoại","平板與筆記本產品":"Máy tính","手機螢幕":"Màn hình","手機晶片":"Chip DĐ","手機記憶體":"Bộ nhớ","HPC":"HPC","數據中心":"TTDL","雲端營運商":"Đám mây","AI公司":"Cty AI","伺服器":"Máy chủ","電動車":"Xe điện","儲能樁":"Trạm sạc","電動車核心零部件":"Linh kiện","氫能車與混動車":"Hydrogen","自動駕駛":"Tự lái","光伏":"Mặt trời","儲能":"Lưu trữ NL","氫能與燃料電池":"Hydrogen FC","風能":"Gió","小型核反應堆":"SMR","美股":"CK Mỹ","美債":"TP Mỹ","總體數據":"KT VM","聯準會消息":"Fed","房屋市場":"BĐS","二手車市場":"Xe cũ","關稅與貿易戰":"Thuế quan","日圓走勢與日本經濟":"JPY","歐元走勢與歐洲經濟":"EUR","比特幣":"Bitcoin","穩定幣":"Stablecoin","RWA":"RWA","以太坊":"Ethereum","監管與合規":"Quy định","DeFi":"DeFi" },
-};
-
-const CAT_COLORS = {
-  "AIoT":"#6366f1","手機":"#f97316","HPC數據中心":"#22c55e",
-  "電動車":"#a855f7","新能源":"#eab308","總體經濟":"#ef4444","加密貨幣":"#14b8a6",
+  "zh-TW":{}, "zh-CN":{"綜合":"综合","工業物聯網產品":"工业IoT","智慧穿戴":"智能穿戴","機器人":"机器人","智慧家庭產品":"智能家居","手機產品":"手机产品","平板與筆記本產品":"平板笔记本","手機螢幕":"手机屏幕","手機晶片":"手机芯片","手機記憶體":"手机内存","數據中心":"数据中心","雲端營運商":"云运营商","AI公司":"AI公司","伺服器":"服务器","電動車":"电动车","儲能樁":"储能桩","電動車核心零部件":"EV零部件","氫能車與混動車":"氢能混动","自動駕駛":"自动驾驶","儲能":"储能","氫能與燃料電池":"氢能FC","小型核反應堆":"SMR","美股":"美股","美債":"美债","總體數據":"宏观数据","聯準會消息":"美联储","房屋市場":"房屋","二手車市場":"二手车","關稅與貿易戰":"关税","日圓走勢與日本經濟":"日元","歐元走勢與歐洲經濟":"欧元","比特幣":"比特币","穩定幣":"稳定币","以太坊":"以太坊","監管與合規":"监管"},
+  "en":{"綜合":"General","工業物聯網產品":"Ind. IoT","智慧穿戴":"Wearables","機器人":"Robotics","VR/AR":"VR/AR","智慧家庭產品":"Smart Home","手機產品":"Phones","平板與筆記本產品":"Tablets/PC","手機螢幕":"Displays","手機晶片":"Chips","手機記憶體":"Memory","HPC":"HPC","數據中心":"Data Ctr","雲端營運商":"Cloud","AI公司":"AI Cos","伺服器":"Servers","電動車":"EVs","儲能樁":"Charging","電動車核心零部件":"EV Parts","氫能車與混動車":"H2/Hybrid","自動駕駛":"Autonomous","光伏":"Solar","儲能":"Storage","氫能與燃料電池":"Hydrogen","風能":"Wind","小型核反應堆":"SMR","美股":"US Stocks","美債":"US Bonds","總體數據":"Macro Data","聯準會消息":"Fed","房屋市場":"Housing","二手車市場":"Used Cars","關稅與貿易戰":"Tariffs","日圓走勢與日本經濟":"JPY/Japan","歐元走勢與歐洲經濟":"EUR/Europe","比特幣":"Bitcoin","穩定幣":"Stablecoins","RWA":"RWA","以太坊":"Ethereum","監管與合規":"Regulation","DeFi":"DeFi"},
+  "vi":{"綜合":"Tổng hợp","工業物聯網產品":"IoT CN","智慧穿戴":"Đeo","機器人":"Robot","VR/AR":"VR/AR","智慧家庭產品":"Nhà TM","手機產品":"ĐT","平板與筆記本產品":"Máy tính","手機螢幕":"Màn hình","手機晶片":"Chip","手機記憶體":"Bộ nhớ","HPC":"HPC","數據中心":"TTDL","雲端營運商":"Đám mây","AI公司":"Cty AI","伺服器":"Máy chủ","電動車":"EV","儲能樁":"Sạc","電動車核心零部件":"Linh kiện","氫能車與混動車":"H2","自動駕駛":"Tự lái","光伏":"MT","儲能":"Lưu NL","氫能與燃料電池":"H2 FC","風能":"Gió","小型核反應堆":"SMR","美股":"CK Mỹ","美債":"TP Mỹ","總體數據":"VM","聯準會消息":"Fed","房屋市場":"BĐS","二手車市場":"Xe cũ","關稅與貿易戰":"Thuế","日圓走勢與日本經濟":"JPY","歐元走勢與歐洲經濟":"EUR","比特幣":"BTC","穩定幣":"Stable","RWA":"RWA","以太坊":"ETH","監管與合規":"QĐ","DeFi":"DeFi"},
 };
 
 let currentLang = "zh-TW";
-let currentCat  = null;
-let currentSub  = null;
+let currentCat  = 0;
+let currentSub  = 0;
 let data        = null;
+const isMobile  = () => window.innerWidth <= 640;
 
-function t(key) { return (I18N[currentLang]||I18N["zh-TW"])[key]||key; }
+function t(k) { return (I18N[currentLang]||I18N["zh-TW"])[k]||k; }
 function catName(n) { return (CAT_NAMES[currentLang]||CAT_NAMES["zh-TW"])[n]||n; }
-function subName(n) { return (SUB_NAMES[currentLang]||{})[n]||n; }
+function subName(n) { return (SUB_NAMES[currentLang]||{})[n]||n||n; }
 
 function setLang(lang) {
   currentLang = lang;
-  document.querySelectorAll(".lang-btn").forEach(b => {
-    b.classList.toggle("active", b.textContent === {"zh-TW":"繁","zh-CN":"简","en":"EN","vi":"VI"}[lang]);
-  });
+  document.querySelectorAll(".lang-btn").forEach(b =>
+    b.classList.toggle("active", b.textContent==={"zh-TW":"繁","zh-CN":"简","en":"EN","vi":"VI"}[lang])
+  );
   document.getElementById("ui-title").textContent = t("title");
   document.title = t("title");
-  if (data) { updateMeta(); renderSidebar(); if (currentCat !== null) renderView(); }
+  if (data) { renderAll(); }
 }
 
 function updateMeta() {
   if (!data) return;
   document.getElementById("meta-text").textContent =
-    `${t("period")}：${data.week_start} - ${data.week_end}　${t("generated")}：${data.generated_at}`;
+    `${data.week_start} - ${data.week_end}`;
 }
 
-function renderSidebar() {
+function renderAll() {
+  updateMeta();
+  renderDesktopSidebar();
+  renderMobileBottomNav();
+  renderMobileSubtab();
+  renderArticles();
+}
+
+/* ── 桌面版側欄 ── */
+function renderDesktopSidebar() {
   const sb = document.getElementById("sidebar");
   let html = `<div class="sidebar-section">${t("categories")}</div>`;
   data.categories.forEach((cat, ci) => {
-    const color = CAT_COLORS[cat.name] || "#888";
-    const total = cat.subtopics.reduce((s, sub) => s + (sub.articles ? sub.articles.length : 0), 0);
-    const isOpen = currentCat === ci;
+    const color = CAT_COLORS[cat.name]||"#888";
+    const total = cat.subtopics.reduce((s,sub)=>s+(sub.articles?.length||0),0);
+    const isOpen = currentCat===ci;
     html += `
-      <div class="cat-nav ${isOpen ? 'open' : ''}" onclick="toggleCat(${ci})">
+      <div class="cat-nav ${isOpen?'open':''}" onclick="selectCat(${ci})">
         <span class="cat-nav-left">
-          <span style="width:8px;height:8px;border-radius:50%;background:${color};display:inline-block;flex-shrink:0"></span>
+          <span style="width:8px;height:8px;border-radius:50%;background:${color};display:inline-block;"></span>
           ${catName(cat.name)}
         </span>
         <span class="cat-nav-right">
           <span class="nav-pill">${total}</span>
-          <span class="cat-arrow ${isOpen ? 'open' : ''}">▶</span>
+          <span class="cat-arrow ${isOpen?'open':''}">▶</span>
         </span>
       </div>
-      <div class="sub-nav-group ${isOpen ? 'open' : ''}" id="sub-group-${ci}">
-        ${cat.subtopics.map((sub, si) => `
-          <div class="sub-nav ${currentCat===ci && currentSub===si ? 'active' : ''}"
-               onclick="showSubtopic(${ci},${si})">
+      <div class="sub-nav-group ${isOpen?'open':''}" id="sg-${ci}">
+        ${cat.subtopics.map((sub,si)=>`
+          <div class="sub-nav ${currentCat===ci&&currentSub===si?'active':''}" onclick="selectSub(${ci},${si})">
             <span>${subName(sub.name)}</span>
-            <span class="sub-pill">${sub.articles ? sub.articles.length : 0}</span>
-          </div>
-        `).join("")}
+            <span class="sub-pill">${sub.articles?.length||0}</span>
+          </div>`).join("")}
       </div>`;
   });
   sb.innerHTML = html;
 }
 
-function toggleCat(ci) {
-  if (currentCat === ci) {
-    // 已開啟 → 收起
-    currentCat = null;
-    currentSub = null;
-  } else {
-    currentCat = ci;
-    currentSub = 0; // 預設選第一個子板塊
-  }
-  renderSidebar();
-  renderView();
+/* ── 手機版底部大類Tab ── */
+function renderMobileBottomNav() {
+  const nav = document.getElementById("bottom-nav");
+  nav.innerHTML = data.categories.map((cat,ci)=>`
+    <button class="bottom-nav-item ${currentCat===ci?'active':''}" onclick="selectCat(${ci})">
+      <span class="bottom-nav-icon">${CAT_ICONS[cat.name]||"📌"}</span>
+      <span class="bottom-nav-label">${catName(cat.name)}</span>
+    </button>`).join("");
 }
 
-function showSubtopic(ci, si) {
-  currentCat = ci;
-  currentSub = si;
-  renderSidebar();
-  renderView();
-}
-
-function renderView() {
-  const main = document.getElementById("main");
-  if (currentCat === null) {
-    main.innerHTML = `<div class="center"><span style="color:var(--text3);font-size:14px">← 請從左側選擇大類</span></div>`;
-    return;
-  }
+/* ── 手機版頂部子板塊Tab ── */
+function renderMobileSubtab() {
+  const tab = document.getElementById("mobile-subtab");
+  if (!data || currentCat===null) { tab.innerHTML=""; return; }
   const cat = data.categories[currentCat];
-  const color = CAT_COLORS[cat.name] || "#888";
-  const si = currentSub ?? 0;
-  const sub = cat.subtopics[si];
-  if (!sub) return;
+  tab.innerHTML = cat.subtopics.map((sub,si)=>`
+    <button class="subtab-btn ${currentSub===si?'active':''}" onclick="selectSub(${currentCat},${si})">
+      ${subName(sub.name)} <span style="opacity:0.6;font-size:10px;">${sub.articles?.length||0}</span>
+    </button>`).join("");
+  // 自動捲到選中的tab
+  setTimeout(()=>{
+    const active = tab.querySelector(".subtab-btn.active");
+    if(active) active.scrollIntoView({inline:"center",behavior:"smooth"});
+  },50);
+}
 
-  const articles = sub.articles || [];
-  let articlesHtml = "";
-  if (articles.length === 0) {
-    articlesHtml = `<div class="empty-state">${t("empty")}</div>`;
-  } else {
-    articlesHtml = articles.map(a => `
-      <div class="article">
-        <div class="article-meta">
-          <span class="outlet-name">${a.outlet || ""}</span>
-          <span class="pub-date">${a.published || ""}</span>
-        </div>
-        <a class="article-title" href="${a.url || '#'}" target="_blank" rel="noopener">${a.title || ""}</a>
-        ${a.summary ? `<p class="summary">${a.summary}</p>` : ""}
-      </div>`).join("");
-  }
+/* ── 文章列表 ── */
+function renderArticles() {
+  const main = document.getElementById("main");
+  if (currentCat===null) { main.innerHTML=`<div class="center">← 請選擇大類</div>`; return; }
+  const cat = data.categories[currentCat];
+  const color = CAT_COLORS[cat.name]||"#888";
+  const sub = cat.subtopics[currentSub??0];
+  if (!sub) return;
+  const arts = sub.articles||[];
+
+  const articlesHtml = arts.length===0
+    ? `<div class="empty-state">${t("empty")}</div>`
+    : arts.map(a=>`
+        <div class="article">
+          <div class="article-meta">
+            <span class="outlet-name">${a.outlet||""}</span>
+            <span class="pub-date">${a.published||""}</span>
+          </div>
+          <a class="article-title" href="${a.url||'#'}" target="_blank" rel="noopener">${a.title||""}</a>
+          ${a.summary?`<p class="summary">${a.summary}</p>`:""}
+        </div>`).join("");
 
   main.innerHTML = `
     <div class="page-header">
       <span class="page-dot" style="background:${color}"></span>
       <span class="page-title">${catName(cat.name)}</span>
-      <span class="page-sub">／ ${subName(sub.name)}</span>
-      <span class="page-count">${articles.length} ${t("articles")}</span>
+      <span class="page-sub" style="display:${isMobile()?'none':''};">／ ${subName(sub.name)}</span>
+      <span class="page-count">${arts.length} ${t("articles")}</span>
     </div>
     <div class="articles-container">${articlesHtml}</div>`;
 }
 
+function selectCat(ci) {
+  currentCat = ci;
+  currentSub = 0;
+  renderAll();
+  document.getElementById("main").scrollTop = 0;
+}
+
+function selectSub(ci, si) {
+  currentCat = ci;
+  currentSub = si;
+  renderDesktopSidebar();
+  renderMobileSubtab();
+  renderArticles();
+  document.getElementById("main").scrollTop = 0;
+}
+
+/* ── 往期 ── */
 async function showArchive() {
-  const modal = document.getElementById("archive-modal");
-  modal.style.display = "flex";
+  document.getElementById("archive-modal").classList.add("show");
   const list = document.getElementById("archive-list");
   try {
     const res = await fetch(ARCHIVE_INDEX);
     if (!res.ok) throw new Error("尚無往期記錄");
     const index = await res.json();
     if (!index.length) throw new Error("尚無往期記錄");
-    list.innerHTML = index.map(e => `
-      <div onclick="loadArchive('${e.file}','${e.week}')"
-           style="padding:10px 12px;border-radius:8px;cursor:pointer;border:1px solid var(--border);margin-bottom:8px;transition:background 0.15s;"
-           onmouseover="this.style.background='var(--surface2)'" onmouseout="this.style.background=''">
+    list.innerHTML = index.map(e=>`
+      <div class="archive-item" onclick="loadArchive('${e.file}','${e.week}')">
         <div style="font-size:13px;font-weight:600;">${e.week}</div>
         <div style="font-size:11px;color:var(--text3);">${e.date}</div>
       </div>`).join("");
   } catch(e) {
-    list.innerHTML = `<div style="color:var(--text3);font-size:13px;text-align:center;padding:20px;">${e.message}</div>`;
+    list.innerHTML = `<div style="color:var(--text3);text-align:center;padding:20px;">${e.message}</div>`;
   }
 }
 
 function closeArchive() {
-  document.getElementById("archive-modal").style.display = "none";
+  document.getElementById("archive-modal").classList.remove("show");
 }
 
 async function loadArchive(file, week) {
   closeArchive();
-  document.getElementById("main").innerHTML = `<div class="center"><div class="spinner"></div></div>`;
+  document.getElementById("main").innerHTML=`<div class="center"><div class="spinner"></div></div>`;
   try {
-    const res = await fetch(ARCHIVE_BASE_URL + file);
+    const res = await fetch(ARCHIVE_BASE_URL+file);
     if (!res.ok) throw new Error("載入失敗");
     data = await res.json();
-    document.getElementById("meta-text").textContent = `📁 往期：${week}`;
-    currentCat = 0; currentSub = 0;
-    renderSidebar(); renderView();
+    document.getElementById("meta-text").textContent = `📁 ${week}`;
+    currentCat=0; currentSub=0;
+    renderAll();
   } catch(e) {
-    document.getElementById("main").innerHTML = `<div class="center"><span style="color:#ef4444">${e.message}</span></div>`;
+    document.getElementById("main").innerHTML=`<div class="center"><span style="color:#ef4444">${e.message}</span></div>`;
   }
 }
 
+/* ── 初始化 ── */
 async function init() {
   try {
     const res = await fetch(DATA_URL);
     if (!res.ok) throw new Error(`${res.status}`);
     data = await res.json();
-    updateMeta();
-    renderSidebar();
-    // 預設打開第一個大類第一個子板塊
-    currentCat = 0;
-    currentSub = 0;
-    renderSidebar();
-    renderView();
+    renderAll();
   } catch(e) {
-    document.getElementById("main").innerHTML = `
+    document.getElementById("main").innerHTML=`
       <div class="center">
-        <span style="font-size:32px">⚠️</span>
+        <span style="font-size:28px">⚠️</span>
         <span style="color:#ef4444;font-weight:600">${t("err")}</span>
-        <span style="font-size:13px">${e.message}</span>
+        <span style="font-size:12px">${e.message}</span>
       </div>`;
-    document.getElementById("sidebar").innerHTML = "";
+    document.getElementById("sidebar").innerHTML="";
   }
 }
 
