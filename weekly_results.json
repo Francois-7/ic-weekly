@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07 18:00 UTC",
+  "generated_at": "2026-06-07 18:19 UTC",
   "week_start": "2026-05-31",
   "week_end": "2026-06-07",
-  "total": 1160,
+  "total": 1167,
   "categories": [
     {
       "name": "AIoT",
@@ -3291,6 +3291,13 @@
               "published": "2026-06-07",
               "outlet": "TechCrunch",
               "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\""
+            },
+            {
+              "title": "前沿 AI 模型能找出加密貨幣的最大漏洞。專家警告產業尚未做好準備",
+              "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
+              "published": "2026-06-07",
+              "outlet": "Decrypt",
+              "summary": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who "
             }
           ]
         },
@@ -3744,6 +3751,13 @@
               "published": "2026-06-05",
               "outlet": "Canary Media",
               "summary": "This article is part of our ​“Chart of the Week” series . Electric vehicles may be struggling to fin"
+            },
+            {
+              "title": "E-quipment 亮點：25 噸 LiuGong 870HE 電動輪式裝載機",
+              "url": "https://electrek.co/2026/06/07/e-quipment-highlight-liugong-870he-electric-wheel-loader/",
+              "published": "2026-06-07",
+              "outlet": "Electrek",
+              "summary": "Chinese equipment brand LiuGong is putting its 25-ton 870HE electric wheel loader to work at a STRAB"
             }
           ]
         },
@@ -7599,6 +7613,41 @@
               "published": "2026-06-07",
               "outlet": "Engadget",
               "summary": "Get ready to yell \"Yah yah yah yah yah\" all over again."
+            },
+            {
+              "title": "Persona 6 確實存在，但我們只知道這些",
+              "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
+              "published": "2026-06-07",
+              "outlet": "The Verge",
+              "summary": "This year's Summer Game Fest turned out to be a good one for fans of Japanese RPGs. First, the concl"
+            },
+            {
+              "title": "Persona 6 將以墓園視覺效果和毒性綠配色登場",
+              "url": "https://www.engadget.com/2189059/persona-6-is-coming-with-graveyard-visuals-and-a-toxic-green-color-scheme/",
+              "published": "2026-06-07",
+              "outlet": "Engadget",
+              "summary": "The teaser trailer for P6 is filled with headstones and eerie vibes."
+            },
+            {
+              "title": "以動作元素為主的 Hellblade 續作 Senua 將於 2027 年推出",
+              "url": "https://www.engadget.com/2189057/senua-an-action-heavy-hellblade-sequel-arrives-in-2027/",
+              "published": "2026-06-07",
+              "outlet": "Engadget",
+              "summary": "Ninja Theory's upcoming game is coming to Xbox Series X/S, PS5 and PC."
+            },
+            {
+              "title": "限量半透明綠色 Xbox Series X 和控制器將於今年秋季推出",
+              "url": "https://www.engadget.com/2189056/a-limited-edition-translucent-green-xbox-series-x-and-controller-are-coming-this-fall/",
+              "published": "2026-06-07",
+              "outlet": "Engadget",
+              "summary": "Xbox's 25th anniversary collection drops in November."
+            },
+            {
+              "title": "川普提前結束的「Meet the Press」訪談中的 5 個關鍵時刻",
+              "url": "https://www.axios.com/2026/06/07/trump-meet-the-press-five-moments-iran-weaponization",
+              "published": "2026-06-07",
+              "outlet": "Axios",
+              "summary": "President Trump abruptly ended a wide-ranging \"Meet the Press\" interview Sunday after defending pote"
             }
           ]
         }
