@@ -140,7 +140,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 </div>
 
 <script>
-const DATA_URL = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/weekly_results.json";
+const DATA_URL = "https://raw.githubusercontent.com/Francois-7/ic-weekly/main/results.json";
 
 // ── 介面文字翻譯 ──────────────────────────────────────────
 const I18N = {
@@ -348,7 +348,7 @@ function toggleSub(sid) {
 
 async function init() {
   try {
-    const res = await fetch();
+    const res = await fetch(DATA_URL);
     if (!res.ok) throw new Error(`${res.status}: ${res.statusText}`);
     data = await res.json();
     updateMeta();
