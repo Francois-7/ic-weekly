@@ -6185,24 +6185,6 @@
     "score": 3
   },
   {
-    "title": "Strava 歸咎於 zero-code AI 應用程式和爬蟲，同時收緊 API 存取",
-    "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
-    "content": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its developer hub, Strava […]",
-    "published": "2026-06-01",
-    "published_ts": 1780322804.0,
-    "outlet": "The Verge Wearables",
-    "fetched_at": "2026-06-07T16:25:40Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Strava因AI爬蟲問題收緊API存取，限制第三方應用程式。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "iOS Notification Forwarding 來到歐盟的 Amazfit 手錶",
     "url": "https://gadgetsandwearables.com/2026/06/06/ios-notification-forwarding-amazfit/",
     "content": "Amazfit Balance 3, Balance Ultra and Cheetah 2 Ultra now support iOS Notification Forwarding in the EU. That means iPhone The post iOS Notification Forwarding comes to Amazfit watches in the EU appeared first on Gadgets & Wearables .",
@@ -6768,24 +6750,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Quest 3 頭戴式裝置將前往國際太空站",
-    "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-    "content": "Two Quest 3 headsets are soon heading to the International Space Station to train astronauts for spacewalks, a collaboration between Meta and the ESA.",
-    "published": "2026-06-01",
-    "published_ts": 1780328241.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-07T16:25:42Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "Meta 與 ESA 合作，兩台 Quest 3 頭戴裝置將送往國際太空站供太空人進行太空漫步訓練。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
   },
   {
     "title": "這款厚實的小平板讓我的孩子收拾玩具",
@@ -12261,97 +12225,6 @@
     "score": 3
   },
   {
-    "title": "Nvidia RTX Spark 聽起來可能是一款出色的 Windows 晶片，甚至超越 AI",
-    "url": "https://9to5google.com/2026/06/01/nvidia-rtx-spark-windows-reveal/",
-    "content": "Microsoft, Nvidia, and MediaTek are working together on “RTX Spark,” a new chip for Windows PCs that’s all about AI, but if you look beyond that, it sounds like it might still be a good chip in general. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780330500.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Nvidia 與 Microsoft、MediaTek 合作開發 RTX Spark Windows 晶片。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Samsung 的 One UI 9 更新在開啟電源選單時強制啟用 Android 的鎖定模式",
-    "url": "https://9to5google.com/2026/06/01/one-ui-updates-lockdown-mode/",
-    "content": "Samsung has removed the “lockdown” option from One UI 9’s power menu. The security feature now activates automatically, whether you want it to or not. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780329343.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Samsung One UI 9 強制啟用鎖定模式。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "特價：Galaxy Z Fold 7 折價 $779 起、Tab S10 Lite $300、M8 Smart Monitor 5 折、Pixelsnap 保護殼 等",
-    "url": "https://9to5google.com/2026/06/01/deals-galaxy-z-fold-7-tab-s10-lite-m8-smart-monitor/",
-    "content": "Today’s 9to5Toys Lunch Break is headlined by Samsung Galaxy Z Fold 7 – we have the 256GB at $779 off and the 512GB at a whopping $819 off (Best Buy open-box) – as well as Samsung Galaxy Tab S10 Lite at $100 off . This morning we also spotted a chance to score FREE Amazon gift cards worth up to $300 with Samsung’s new 2026 4K and 6K gaming monitors alongside a giant 50% price drop on its 32-inch M8",
-    "published": "2026-06-01",
-    "published_ts": 1780328458.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Galaxy Z Fold 7 折價 $779 起等多款產品特價。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Xiaomi 成為最新在 Android 手機上透過 Quick Share 加入 AirDrop 支援的品牌",
-    "url": "https://9to5google.com/2026/06/01/xiaomi-17t-pro-airdrop-support/",
-    "content": "Android’s Quick Share function is rolling out a wave of compatibility updates so users can send and receive files and contacts over AirDrop. Xiaomi joins Google and Samsung with support for Apple’s AirDrop. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780324354.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Xiaomi 透過 Quick Share 加入 AirDrop 支援。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Galaxy Z Fold 8 更寬的新外形已在野外現身",
-    "url": "https://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/",
-    "content": "Samsung’s upcoming Galaxy Z Fold 8 is debuting a wider form factor we’ve not seen on Android in a few years and, ahead of its launch, the device has been spotted in the wild. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780322700.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Galaxy Z Fold 8 更寬新外形已在野外現身。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Anycubic Photon Mono 4 降至 $190 以下，省下零售價 21% — Amazon 特價這款入門級樹脂 3D 印表機省 $50",
     "url": "https://www.tomshardware.com/pc-components/anycubic-photon-mono-4-dips-below-usd190-saving-you-21-percent-off-its-retail-price-amazon-deal-saves-usd50-on-this-entry-level-resin-3d-printer",
     "content": "The Anycubic Photon Mono 4 is on-sale at $189.99, giving you a $50 discount and saving you 21% off its retail price.",
@@ -13397,25 +13270,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Dell 靠 AI 伺服器大量出貨創造獲利",
-    "url": "https://www.nextplatform.com/compute/2026/06/01/dell-makes-the-profits-up-in-volume-for-booming-ai-servers/5249707",
-    "content": "",
-    "published": "2026-06-01",
-    "published_ts": 1780326437.0,
-    "outlet": "The Next Platform",
-    "fetched_at": "2026-06-07T16:25:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "Dell 透過 AI 伺服器大量出貨創造獲利。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 4
   },
   {
     "title": "克服資料主權的權衡取捨",
@@ -15272,61 +15126,6 @@
     "category": "電動車",
     "subtopic": "綜合",
     "summary_zh": "Hyundai 在歐洲測試 IONIQ 6 偽裝車，驗證新款 high-tech SDV 系統。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Tesla FSD v14 太好用，讓我變得危險地自滿",
-    "url": "https://electrek.co/2026/06/01/tesla-fsd-dangerously-good-complacency-problem/",
-    "content": "I was the first journalist to test Tesla’s Autopilot before it launched over a decade ago. I’ve tested every version of Autopilot and “Full Self-Driving” since. FSD v14 is by far the most impressive — and that’s exactly what makes it the most dangerous. The danger isn’t that FSD v14 is bad. The danger is that it’s so good enough that it can make you stop paying attention — and Tesla is not doing e",
-    "published": "2026-06-01",
-    "published_ts": 1780334009.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "記者測試 Tesla FSD v14 後表示系統過於可靠，導致駕駛產生危險自滿。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "BYD 海外銷量大爆發，5 月首次突破 160,000 台",
-    "url": "https://electrek.co/2026/06/01/byds-overseas-sales-surge-to-over-160000-first-time/",
-    "content": "BYD posted higher sales growth in May for the first time in eight months, driven by record overseas demand. With orders for new vehicles equipped with its new battery and charging tech surging, BYD is now struggling to meet demand. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780331404.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "BYD 5 月海外銷量首次突破 160,000 台，帶動整體銷售成長。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Kia 的平價 EVs 快速普及，但這款可能會像「熱餅」一樣熱賣",
-    "url": "https://electrek.co/2026/06/01/kias-affordable-evs-catch-on-ev2-sell-like-hotcakes/",
-    "content": "Kia credited its growing lineup of mass-market EVs and hybrid SUVs after posting its third straight month of sales growth in May. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780324285.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Kia 連續三個月銷售成長，歸功於平價 EV 與 hybrid SUV 車款熱賣。",
     "tags": [
       "🏢品牌動態"
     ],
@@ -17444,38 +17243,6 @@
     "content": "The Trump administration plans to drop its controversial $1.8 billion \"weaponization\" fund the president sought to compensate alleged victims of prosecutorial misconduct under the Biden administration, two senior administration officials told Axios. \"It's dead for now,\" one of the sources said. Why it matters: Bashed as a political slush fund that could be tapped by those convicted in the Jan. 6 C",
     "published": "2026-06-01",
     "published_ts": 1780339396.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "聯準會官員警告AI經濟成本可能比效益更快到來",
-    "url": "https://www.axios.com/2026/06/01/ai-productivity-inflation",
-    "content": "Don't count on AI to solve America's inflation problem: That's the message from several Federal Reserve officials who warn that the promise of an AI-fueled productivity boom might not justify cheaper money. Why it matters: How AI shapes inflation and productivity will be a defining question for the Fed under the leadership of Kevin Warsh, who has staked out a case that the technology's supply-side",
-    "published": "2026-06-01",
-    "published_ts": 1780329305.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "聯準會消息",
-    "summary_zh": "聯準會官員警告AI帶來的經濟成本可能快於效益，無法解決通膨。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "黎巴嫩官員告知美國，真主黨準備與以色列全面停火",
-    "url": "https://www.axios.com/2026/06/01/lebanon-full-ceasefire-hezbollah-israel-nabih-berri",
-    "content": "The speaker of the Lebanese Parliament, Nabih Berri, told the Trump administration on Sunday that Hezbollah is ready for a full and immediate ceasefire with Israel and pledged to guarantee its implementation, Berri's top adviser Ali Hamdan told Axios. Why it matters: The fighting in Lebanon is escalating and threatening to derail the chances of a deal to end the war in Iran, particularly with Isra",
-    "published": "2026-06-01",
-    "published_ts": 1780327823.0,
     "outlet": "Axios",
     "fetched_at": "2026-06-07T16:25:53Z",
     "classified": true,
@@ -24535,6 +24302,446 @@
     "published_ts": 1780925650.0,
     "outlet": "CNBC Tech",
     "fetched_at": "2026-06-08T13:59:02Z",
+    "classified": false
+  },
+  {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq jump as chip stocks rebound, Iran and Israel exchange strikes",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-june-8-dow-sp-500-nasdaq-jump-085310403.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780908790.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "If Global Manufacturing Weakens, Here’s What Happens to This Copper ETF",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-manufacturing-weakens-happens-copper-170041267.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780938041.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Platinum forecast and tracker: How will platinum perform in 2026?",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/platinum-forecast-tracker-165256079.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937576.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "MP Materials Stock's Bull Signal Has Never Been Wrong",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-stocks-bull-signal-164948004.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937388.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "This AI Stock Took Sell-Off In Stride. It's At A New Buy Point.",
+    "url": "https://www.investors.com/research/ai-stock-comfort-systems-fix-stock/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937285.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "This Cybersecurity ETF Just Surged 39% in a Single Month. The YTD Is Even Better.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-etf-just-surged-39-170014445.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780938014.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Humans suddenly look better than AI when it comes to company costs — at least for now. Here’s the surprising change",
+    "url": "https://finance.yahoo.com/economy/policy/articles/humans-suddenly-look-better-ai-164000956.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780936800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "These Are 5 Of The Best Stocks To Buy Or Watch Now",
+    "url": "https://www.investors.com/research/best-stocks-to-buy-now/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780936533.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Texas regulators assess $1.1 million in oil and gas penalties",
+    "url": "https://finance.yahoo.com/sectors/energy/articles/texas-regulators-assess-1-1-163005495.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780936205.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Marvell to Join the S&P 500 as Stock Continues Absolute Heater",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-join-p-500-stock-162725643.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780936045.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "With SpaceX IPO Imminent, This Strategy In Options Trading Bets On Rotation Out Of Tesla Stock",
+    "url": "https://www.investors.com/research/options/tesla-stock-spacex-ipo-tsla-stock-options-trading/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935764.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Marriott, IBD Stock Of The Day, In Buy Zone Amid AI Volatility",
+    "url": "https://www.investors.com/research/ibd-stock-of-the-day/marriott-stock-buy-zone-hotels-ai-stocks/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935758.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Loop Capital Initiates Coverage of Synchrony Financial (SYF) Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/loop-capital-initiates-coverage-synchrony-161650362.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935410.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Cognizant Technology Solutions (CTSH) Announces Expanded Strategic Alliance with CrowdStrike",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/cognizant-technology-solutions-ctsh-announces-161643166.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935403.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "If This Wall Street Call is Right, Broadcom Stock Just Became a Historic Buy Opportunity",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-call-broadcom-stock-165557622.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937757.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "U.S. Bancorp (USB) Completes Acquisition of  BTIG, LLC",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-completes-acquisition-161629187.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935389.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Morgan Stanley Raises PT on Monster Beverage (MNST) Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-pt-monster-161622606.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935382.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Morgan Stanley Maintains Hold Rating on Fiserv (FISV) Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-maintains-hold-rating-161615273.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935375.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Deutsche Bank Raises PT on Delta Air Lines (DAL) Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-pt-delta-161608983.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935368.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "As Changing Fed Expectations Rattle Tech Stocks, This Cash-Generating Titan Is The Clear Winner",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/changing-fed-expectations-rattle-tech-165328112.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937608.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Goldman Sachs Maintains Buy Rating on Abbott Laboratories (ABT) Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-maintains-buy-rating-161601413.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935361.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Is The Williams Companies (WMB) One of the Best Blue Chip Stocks Under $100 to Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-wmb-one-best-161554384.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935354.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "CVS Health (CVS): One of the Best Blue Chip Stocks Under $100 to Buy Now",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-health-cvs-one-best-161545259.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935345.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Here’s Why Netflix (NFLX) Is One of the Best Blue Chip Stocks Under $100 to Buy Now",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-netflix-nflx-one-best-161538667.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935338.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Up 981%, Is Western Digital Stock Still a Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/981-western-digital-stock-still-165000741.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937400.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Is SoundHound (SOUN) an AI Bubble Stocks to Short Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-soun-ai-bubble-stocks-161518409.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935318.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Wolfspeed (WOLF) Expands in the Data Center Market With a Dedicated Team and New Office",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/wolfspeed-wolf-expands-data-center-161512029.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935312.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Ondas Inc (ONDS) Short Float Exceeds 30%, Should You Buy or Short?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-inc-onds-short-float-161506224.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935306.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Daily – Vickers Top Insider Picks for 06/08/2026",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47250_InsiderActivity_1780916305000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780916305.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "IonQ (IONQ) Short Float Near 20%, Is it An AI Bubble Stock to Short Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-short-float-near-161500718.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935300.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "The Cost Segregation Study a 58-Year-Old Landlord Just Used to Deduct $186,000 of Rental Depreciation in the First Year",
+    "url": "https://finance.yahoo.com/economy/policy/articles/cost-segregation-study-58-old-164807745.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937287.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX says it's worth $1.75 trillion. The 'dean of valuation' says that's half a trillion too high",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-says-worth-1-75-161500138.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935300.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Here’s What Needham Thinks About Applied Digital (APLD)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/needham-thinks-applied-digital-apld-161453925.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935293.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Seagate, Western Digital Stocks Climb As Analysts Hike Price Targets",
+    "url": "https://www.investors.com/news/technology/seagate-stock-western-digital-stock-ai-price-target-hikes/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935245.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "UiPath (PATH) Down More Than 28% YTD, Should You Short or Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-path-down-more-28-161354176.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935234.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Got $25,000? Broadcom or Qualcomm: The Clear Winner for Growth Investors This Year",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/got-25-000-broadcom-qualcomm-164729495.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937249.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Bitdeer Technologies (BTDR) Breaks Ground for a New Facility",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-technologies-btdr-breaks-ground-161345843.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935225.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Figma (FIG) Down More Than 38% YTD, Here’s What You Need to Know",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/figma-fig-down-more-38-161335483.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935215.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Nebius Group (NBIS) Up More Than 40% Over the Past Month, Here’s Why",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-more-40-161329376.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935209.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "B. Riley Raises PT on Core Scientific (CORZ), Here’s What You Need to Know",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/b-riley-raises-pt-core-161317976.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935197.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Quality Paid Again: SPHQ Beat the Index With Half the Drama",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/quality-paid-again-sphq-beat-164719850.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780937239.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "What does renters insurance cover?",
+    "url": "https://finance.yahoo.com/personal-finance/insurance/article/what-does-renters-insurance-cover-161057920.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780935057.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T17:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Convicted FTX founder Sam Bankman-Fried files formal request for Trump pardon",
+    "url": "https://www.cnbc.com/2026/06/08/sam-bankman-fried-files-formal-request-for-presidential-pardon-.html",
+    "content": "The cofounder of the now defunct FTX crypto exchange is currently serving a 25-year federal prison sentence.",
+    "published": "2026-06-08",
+    "published_ts": 1780939370.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-08T17:23:20Z",
+    "classified": false
+  },
+  {
+    "title": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
+    "url": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html",
+    "content": "While the central bank's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions deteriorated.",
+    "published": "2026-06-08",
+    "published_ts": 1780935192.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-06-08T17:23:20Z",
     "classified": false
   }
 ]
