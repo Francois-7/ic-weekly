@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07 18:19 UTC",
-  "week_start": "2026-05-31",
-  "week_end": "2026-06-07",
-  "total": 1167,
+  "generated_at": "2026-06-08 05:12 UTC",
+  "week_start": "2026-06-01",
+  "week_end": "2026-06-08",
+  "total": 1331,
   "categories": [
     {
       "name": "AIoT",
@@ -37,6 +37,20 @@
               "published": "2026-06-02",
               "outlet": "Axios",
               "summary": "President Trump signed a narrowed executive order on artificial intelligence and cybersecurity Tuesd"
+            },
+            {
+              "title": "GE Vernova Inc. (GEV) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-inc-gev-good-212358619.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Honeywell International Inc. (HON) 現在是值得買的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-good-212147412.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
             }
           ]
         },
@@ -329,13 +343,6 @@
               "published": "2026-06-01",
               "outlet": "9to5Google",
               "summary": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store"
-            },
-            {
-              "title": "Google Home Speaker 從一家零售商獲得六月發售日期",
-              "url": "https://9to5google.com/2026/05/31/google-home-speaker-release-date-june/",
-              "published": "2026-06-01",
-              "outlet": "9to5Google",
-              "summary": "The Google Home Speaker was first teased at Made by Google 2025 last August with Fitbit Air, Google’"
             }
           ]
         },
@@ -1236,13 +1243,6 @@
               "summary": "According to a new report, Honor is trying to bring its Android phones to Canada, or at least it’s t"
             },
             {
-              "title": "據稱有人在海中發現 Pixel Watch 5",
-              "url": "https://9to5google.com/2026/05/31/someone-allegedly-found-a-pixel-watch-5-in-the-ocean/",
-              "published": "2026-05-31",
-              "outlet": "9to5Google",
-              "summary": "Prototype devices find their way to leaking in a variety of different ways, such as the infamous iPh"
-            },
-            {
               "title": "從 iPhone 到 3.8 秒衝刺至 60 mph 的電動 SUV，Foxconn 都能製造",
               "url": "https://electrek.co/2026/06/04/from-iphone-to-an-electric-suv-that-sprints-to-60-mph-in-3-8-sec-foxconn-makes-it/",
               "published": "2026-06-04",
@@ -1262,6 +1262,27 @@
               "published": "2026-06-07",
               "outlet": "9to5Google",
               "summary": "Ever since the Pixel 10 was released last year, Qi2 magnets have been a love-hate relationship – I l"
+            },
+            {
+              "title": "我在 iPhone 和 Android 上使用自適應充電器一年了——但你應該這樣做嗎？",
+              "url": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
+              "published": "2026-06-08",
+              "outlet": "ZDNet",
+              "summary": "Adaptive charging aims to reduce battery wear by keeping speeds low, but are the optimizations worth"
+            },
+            {
+              "title": "我從不使用新 iPhone 直到更改這些設定——為什麼它們這麼重要",
+              "url": "https://www.zdnet.com/article/new-iphone-settings-i-immediately-change-why/",
+              "published": "2026-06-07",
+              "outlet": "ZDNet",
+              "summary": "A new iPhone works great out of the box. It's even better once you adjust the default settings and e"
+            },
+            {
+              "title": "每週優惠：Samsung Galaxy S26 Ultra 價格下跌，Google Pixel 10 Pro XL 仍更便宜",
+              "url": "https://www.gsmarena.com/weekly_deals_samsung_galaxy_s26_ultra_price_drops_the_google_pixel_10_pro_xl_is_still_cheaper-news-73144.php",
+              "published": "2026-06-07",
+              "outlet": "GSMArena",
+              "summary": "As a reminder, Amazon pulled Prime Day forward this year and it is now scheduled for June 23-26. The"
             }
           ]
         },
@@ -1435,6 +1456,13 @@
               "published": "2026-06-04",
               "outlet": "Tom's Hardware",
               "summary": "Qualcomm has Snapdragon C to compete in the exciting low-cost laptop market, but it's also looking t"
+            },
+            {
+              "title": "Apple 以 WWDC 2026 紀念品擁抱 Lil Finder Guy",
+              "url": "https://9to5mac.com/2026/06/07/apple-embraces-lil-finder-guy-with-wwdc-2026-swag/",
+              "published": "2026-06-07",
+              "outlet": "9to5Mac",
+              "summary": "There’s now a physical Apple pin for Lil Finder Guy, the adorable Finder-based Mac mascot who origin"
             }
           ]
         },
@@ -2868,6 +2896,13 @@
               "published": "2026-06-07",
               "outlet": "GSMArena",
               "summary": "10 years ago, Sony announced its MDR-1000X noise-canceling headphones in a bid to challenge Bose and"
+            },
+            {
+              "title": "Apple TV 在 Schmigadoon! 贏得 Tony 獎後成為 EGOT",
+              "url": "https://9to5mac.com/2026/06/07/apple-tv-is-now-an-egot-after-schmigadoons-tony-wins/",
+              "published": "2026-06-08",
+              "outlet": "9to5Mac",
+              "summary": "The Broadway adaptation of Apple TV’s Schmigadoon! won 4 Tony Awards tonight, officially making Appl"
             }
           ]
         }
@@ -2978,6 +3013,13 @@
               "published": "2026-06-04",
               "outlet": "Tom's Hardware",
               "summary": "TSMC says it does not have enough capacity to handle all the demand from AI hyperscalers, with CEO C"
+            },
+            {
+              "title": "Grid Dynamics Holdings Inc. (GDYN) 在 Microsoft Azure 上推出 AI Modernization Service",
+              "url": "https://finance.yahoo.com/sectors/technology/articles/grid-dynamics-holdings-inc-gdyn-173904686.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
             }
           ]
         },
@@ -3298,6 +3340,48 @@
               "published": "2026-06-07",
               "outlet": "Decrypt",
               "summary": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who "
+            },
+            {
+              "title": "Anthropic 和 Google 剛給投資人 22 億個購買 SpaceX IPO 的理由？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/did-anthropic-google-just-investors-195843785.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Everything-PR 列出塑造 AI 引擎言論的 100 人",
+              "url": "https://www.prnewswire.com/news-releases/everything-pr-names-the-100-people-shaping-what-ai-engines-say-302793684.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "Inaugural ranking maps lab principals, policy architects, discovery infrastructure builders, and the"
+            },
+            {
+              "title": "Eightco Holdings (NASDAQ: ORBS) 宣布總資產約 4.37 億美元，包括 OpenAI、Beast Industries、超過 16,000 ETH 和超過 2.83 億個 WLD 代幣",
+              "url": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-dichiara-un-patrimonio-complessivo-di-circa-437-milioni-di-dollari-tra-cui-openai-beast-industries-oltre-16-000-eth-e-oltre-283-milioni-di-token-wld-302793641.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "Composizione della tesoreria di Eightco al 3 giugno 2026: 90 milioni di dollari di azioni OpenAI (in"
+            },
+            {
+              "title": "Unisound 發布 U2：原生 Agentic 大模型，專為執行而建，能自主分解並完成複雜真實世界工作流程中的 100+ 步驟",
+              "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793573.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "HONG KONG, June 8, 2026 /PRNewswire/ -- Just now, Unisound officially released U2, its new-generatio"
+            },
+            {
+              "title": "Unisound 發布 U2：原生 Agentic 大模型，專為執行而建，能自主分解並完成複雜真實世界工作流程中的 100+ 步驟",
+              "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793560.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "HONG KONG, June 7, 2026 /PRNewswire/ -- Just now, Unisound officially released U2, its new-generatio"
+            },
+            {
+              "title": "OpenAI 計劃中的「superapp」更接近實現，因為一名員工表示「chat 已死」",
+              "url": "https://siliconangle.com/2026/06/07/openais-planned-superapp-gets-closer-one-employee-says-chat-dead/",
+              "published": "2026-06-07",
+              "outlet": "Silicon Angle",
+              "summary": "OpenAI Group PBC is still focused on its plans to transform ChatGPT into some kind of “superapp,” an"
             }
           ]
         },
@@ -3545,6 +3629,13 @@
               "published": "2026-06-07",
               "outlet": "Silicon Angle",
               "summary": "Agentic artificial intelligence is being misread as a set of separate battles – for example, Snowfla"
+            },
+            {
+              "title": "Nvidia 與韓國 SK hynix、Naver 和 Doosan 合作擴展該國 AI 基礎設施",
+              "url": "https://siliconangle.com/2026/06/07/nvidia-partners-south-koreas-sk-hynix-naver-doosan-expand-countrys-ai-infrastructure/",
+              "published": "2026-06-08",
+              "outlet": "Silicon Angle",
+              "summary": "Artificial intelligence chipmaker Nvidia Corp. today announced a slate of new partnerships with some"
             }
           ]
         }
@@ -3758,6 +3849,13 @@
               "published": "2026-06-07",
               "outlet": "Electrek",
               "summary": "Chinese equipment brand LiuGong is putting its 25-ton 870HE electric wheel loader to work at a STRAB"
+            },
+            {
+              "title": "週日調查：車隊需要什麼才能實現電動化 – 就在今天？",
+              "url": "https://electrek.co/2026/06/07/survey-sunday-what-will-it-take-for-fleets-to-realize-electric-works-today/",
+              "published": "2026-06-07",
+              "outlet": "Electrek",
+              "summary": "For the last few weeks, we’ve been running a sidebar survey about what Electrek readers think it wou"
             }
           ]
         },
@@ -4680,6 +4778,48 @@
               "published": "2026-06-05",
               "outlet": "CoinTelegraph",
               "summary": "ZEC market capitalization fell by almost $3 billion over the past 24 hours following the disclosure "
+            },
+            {
+              "title": "Exxon 在 2020 年被踢出 Dow，此後表現卻大幅超越 S&P 500 近兩倍",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-got-kicked-dow-2020-183812007.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "SpaceX 加入 S&P 500 ETFs 還需要一段時間",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/itll-awhile-spacex-joins-p-180500818.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "TKO 的強勁財報仍向華爾街發出警告",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/tkos-strong-earnings-sent-wall-200700857.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Citi 悄悄重設 2026 年剩餘時間的 S&P 500 目標價",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/citi-quietly-resets-p-500-210300000.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "市場崩跌讓華爾街準備迎接更動盪的時期",
+              "url": "https://www.wsj.com/finance/stocks/market-rout-leaves-wall-street-bracing-for-rockier-times-41feee60?siteid=yhoof2&yptr=yahoo",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "美股期貨漲跌互見，油價因新攻擊威脅與伊朗停火而飆升",
+              "url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+              "published": "2026-06-08",
+              "outlet": "MarketWatch",
+              "summary": "U.S. stock-index futures swung back for forth Sunday, after a massive tech selloff on Friday interru"
             }
           ]
         },
@@ -4692,13 +4832,6 @@
               "published": "2026-06-06",
               "outlet": "Wolf Street",
               "summary": "Inflation is the bane of the bond market. And it is now demanding multiple rate hikes, starting late"
-            },
-            {
-              "title": "美國政府上週出售7420億美元國債。T-bill收益率現低於激增通脹。債市押注升息",
-              "url": "https://wolfstreet.com/2026/05/31/us-government-sold-742-billion-of-treasury-securities-last-week-t-bill-yields-now-below-surging-inflation-bond-market-bets-on-rate-hikes/",
-              "published": "2026-05-31",
-              "outlet": "Wolf Street",
-              "summary": "The Fed is behind the curve, the bond market is saying, and it’s going to hike belatedly starting la"
             }
           ]
         },
@@ -4722,13 +4855,6 @@
               "published": "2026-06-01",
               "outlet": "Axios",
               "summary": "Don't count on AI to solve America's inflation problem: That's the message from several Federal Rese"
-            },
-            {
-              "title": "Jerome Powell警告聯準會信譽面臨風險",
-              "url": "https://www.axios.com/2026/06/01/powell-fed-warsh-trump",
-              "published": "2026-06-01",
-              "outlet": "Axios",
-              "summary": "In his first public remarks since the conclusion of his time as Federal Reserve chair, Jerome Powell"
             }
           ]
         },
@@ -4765,6 +4891,13 @@
               "published": "2026-06-05",
               "outlet": "CNBC Tech",
               "summary": "Sen. Elizabeth Warren is pressing Jensen Huang's Nvidia over export controls, China sales, Trump and"
+            },
+            {
+              "title": "Deere & Co (DE) 股票是關稅故事，以下是你需要知道的事",
+              "url": "https://finance.yahoo.com/economy/policy/articles/deere-co-stock-tariff-story-174642749.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
             }
           ]
         },
@@ -6761,13 +6894,6 @@
               "summary": "Plus, over $120 off a Samsung gaming monitor and a four-pack of Govee smart lights that you can snag"
             },
             {
-              "title": "普通恆溫器 vs. 智能恆溫器：你想知道的一切",
-              "url": "https://www.cnet.com/home/energy-and-utilities/regular-vs-smart-thermostats-my-complete-guide/",
-              "published": "2026-06-01",
-              "outlet": "CNET Smart Home",
-              "summary": "Smart thermostats offer huge upgrades to home heating and cooling, with some surprising cost savings"
-            },
-            {
               "title": "Anycubic Photon Mono 4 降至 $190 以下，省下零售價 21% — Amazon 特價這款入門級樹脂 3D 印表機省 $50",
               "url": "https://www.tomshardware.com/pc-components/anycubic-photon-mono-4-dips-below-usd190-saving-you-21-percent-off-its-retail-price-amazon-deal-saves-usd50-on-this-entry-level-resin-3d-printer",
               "published": "2026-06-07",
@@ -7053,13 +7179,6 @@
               "published": "2026-06-04",
               "outlet": "TrendForce Semiconductors",
               "summary": "TrendForce’s latest research reveals that the current AI notebook market is primarily driven by Inte"
-            },
-            {
-              "title": "TrendForce 表示合約價快速上漲帶動 1Q26 DRAM 產業季增 81%",
-              "url": "https://www.trendforce.com/presscenter/news/20260601-13070.html",
-              "published": "2026-06-01",
-              "outlet": "TrendForce Semiconductors",
-              "summary": "TrendForce’s latest survey reveals that the memory industry experienced a significant boost in 1Q26 "
             },
             {
               "title": "以色列在真主黨攻擊後襲擊貝魯特，可能引發伊朗回應",
@@ -7461,34 +7580,6 @@
               "summary": "Donald Trump shattered long-held political norms when Republicans elected him twice despite scandals"
             },
             {
-              "title": "美國推動黎巴嫩停火受阻，以色列考慮對貝魯特進行打擊",
-              "url": "https://www.axios.com/2026/06/01/lebanon-ceasefire-rubio-beirut-attacks",
-              "published": "2026-06-01",
-              "outlet": "Axios",
-              "summary": "The latest U.S. push for a ceasefire in Lebanon has fizzled just as Israel is expanding its ground i"
-            },
-            {
-              "title": "民主黨關於黨主席的內戰籠罩2028計劃",
-              "url": "https://www.axios.com/2026/05/31/democrats-fight-dnc-2028",
-              "published": "2026-05-31",
-              "outlet": "Axios",
-              "summary": "Democrats fighting over their strategy and leadership for 2028 are locked in on savaging — or saving"
-            },
-            {
-              "title": "川普健康報告留下關鍵空白未填",
-              "url": "https://www.axios.com/2026/05/31/trump-checkup-medical-questions-unanswered",
-              "published": "2026-05-31",
-              "outlet": "Axios",
-              "summary": "President Trump's medical checkups have turned into mini dramas pitting the public's right to know a"
-            },
-            {
-              "title": "前拜登助手給Jill的新書冷淡評價",
-              "url": "https://www.axios.com/2026/05/31/jill-biden-book-backlash",
-              "published": "2026-05-31",
-              "outlet": "Axios",
-              "summary": "Many former Biden aides think Jill Biden's new book is rewriting history, unhelpful to the Democrati"
-            },
-            {
               "title": "半導體股翻轉，Micron與Broadcom兩天內暴跌20%，拖累其他市場",
               "url": "https://wolfstreet.com/2026/06/05/semiconductor-stocks-roll-over-micron-broadcom-tank-20-in-2-days-drag-rest-of-market-along/",
               "published": "2026-06-05",
@@ -7648,6 +7739,993 @@
               "published": "2026-06-07",
               "outlet": "Axios",
               "summary": "President Trump abruptly ended a wide-ranging \"Meet the Press\" interview Sunday after defending pote"
+            },
+            {
+              "title": "VEA 是目前最聰明的投資選擇嗎？",
+              "url": "https://finance.yahoo.com/markets/world-indices/articles/vea-smartest-investment-now-184300045.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "HIVE Digital Technologies Ltd. (HIVE) 是否因強勁多元化的核心業務而成為值得購買的頂級低價股？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-ltd-hive-180043192.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "indie Semiconductor, Inc. (INDI) 是否因 400 億美元影像感測器商機而成為值得購買的頂級低價股",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/indie-semiconductor-inc-indi-top-180033786.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "GoodRx Holdings, Inc. (GDRX) 透過 Companion 強化 recurring revenue base",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/goodrx-holdings-inc-gdrx-strengthens-175929833.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Maravai Lifesciences Holdings Inc. (MRVI) 為何成為頂級投資人投資組合中的頂級低價股",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/why-maravai-lifesciences-holdings-inc-175916715.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Aclaris Therapeutics, Inc. (ACRS)：Stifel 看好的投資人投資組合中的頂級低價股",
+              "url": "https://finance.yahoo.com/sectors/healthcare/articles/aclaris-therapeutics-inc-acrs-top-175905265.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Cabaletta Bio Inc. (CABA) 這檔頂級低價股正瞄準 Rese-Cel 在自體免疫疾病的商業化上市",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/cabaletta-bio-inc-caba-top-175854899.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "鈾礦生產里程碑凸顯 Denison Mines Corp. (DNN) 為何是值得購買的頂級低價股",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-production-milestone-underscores-why-175843469.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Allogene Therapeutics, Inc. (ALLO) 這檔頂級低價股值得購買，因其強勁的 CAR T-Cell 產品組合",
+              "url": "https://finance.yahoo.com/sectors/healthcare/articles/allogene-therapeutics-inc-allo-top-175743599.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Goldman Sachs CEO 向股市投資人傳達直白訊息",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-ceo-sends-blunt-183300844.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Iovance Biotherapeutics, Inc. (IOVA) 這檔頂級低價股值得購買，因 Amtagvi 獲得強勁採用",
+              "url": "https://finance.yahoo.com/sectors/healthcare/articles/iovance-biotherapeutics-inc-iova-top-175734159.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Atai Beckley N.V. (ATAI) 這檔頂級低價股值得購買，有望創造持續的臨床與股東價值",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/atai-beckley-n-v-atai-175722971.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "根據億萬富翁 Bill Gates 的看法，McDonald’s Corp (MCD) 是值得購買的最佳股票之一嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-corp-mcd-one-best-174820587.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Wolfe Research 對 West Pharmaceutical Services Inc (WST) 股票發表看法",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-weighs-west-pharmaceutical-174809999.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "NUGT 周五暴跌 17%，而黃金僅下跌 3%：隱藏槓桿正在摧毀礦業 ETF 持有者",
+              "url": "https://finance.yahoo.com/markets/commodities/articles/nugt-collapsed-17-friday-while-183009050.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "終止卡車稅的法案對 Paccar Inc (PCAR) 股票有何重要性",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/why-bill-end-truck-tax-174752146.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Coupang Inc (CPNG) 在日本找到致勝公式",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/coupang-inc-cpng-finds-winning-174740943.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "FedEx Corp (FDX) 分拆貨運部門，別錯過重點",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-corp-fdx-spins-off-174730847.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Walmart Inc (WMT) 股票在五月回檔，分析師看好後續上漲空間",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-stock-pulled-174715327.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Nvidia CEO 剛剛稱這檔股票為下一個兆美元公司，現在是時候大舉買進嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-ceo-just-called-stock-182500877.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "考慮 Ecolab Inc (ECL) 股票？先看看 Impact Report",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/considering-ecolab-inc-ecl-stock-174659117.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Waste Management Inc (WM) 任命資深內部人士擔任 Chief Operating Officer",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/waste-management-inc-wm-picks-174603848.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Berkshire Hathaway (BRK.B)：Bill Gates 支持的股票，透過 Taylor Morrison 交易擴大住房押注",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-bill-174548460.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "忘掉 SCHD：DGRO 較寬鬆的品質篩選，在過去十年 quietly 帶來更高的總報酬",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/forget-schd-dgro-looser-quality-182343992.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Accenture Plc (ACN)：這檔無債務 IT 股票在面臨 downgrade 的情況下仍持續擴展 AI 能力",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-plc-acn-debt-free-174429364.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Cognizant Technology Solutions (CTSH)：這檔無債務 IT 股票正建立企業 AI 人才",
+              "url": "https://finance.yahoo.com/sectors/technology/articles/cognizant-technology-solutions-ctsh-debt-174340055.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Parsons Corporation (PSN)：這檔無債務 IT 股票獲得 9900 萬美元空軍合約支持",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/parsons-corporation-psn-debt-free-174246879.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Record-breaking Q1 業績證明 Innodata Inc. (INOD) 是值得現在購買的無債務股票",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/record-breaking-q1-results-assert-174207707.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "2 檔能創造百萬富翁的 AI 股票，值得持有下一個十年",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/2-millionaire-maker-ai-stocks-182000070.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Infosys Limited (INFY) 獲挪威 DNB Bank 委託，負責現代化金融犯罪作業",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/infosys-limited-infy-tapped-norway-174156191.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "WidePoint Corporation (WYY)：這檔無債務 IT 股票受惠於 DHS 預算動能",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/widepoint-corporation-wyy-debt-free-174146476.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Wipro Limited (WIT)：這檔無債務 IT 股票專注 AI 成長與股東報酬",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/wipro-limited-wit-debt-free-174044750.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Pony AI Inc. (PONY) 是否因強勁營收成長而成為值得購買的最佳無債務 IT 股票之一？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-inc-pony-one-173917394.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "ITA vs. ARKX：經驗證的國防承包商對抗對太空經濟的積極押注",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/ita-vs-arkx-proven-defense-181731234.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Wise Group PLC (WSE) 回應業務營運查詢，William Blair 維持長期展望正面",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/wise-group-plc-wse-responds-173854480.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Illinois Tool Works Inc. (ITW) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/illinois-tool-works-inc-itw-171828786.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Krystal Biotech, Inc. (KRYS) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/krystal-biotech-inc-krys-good-171815552.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "一個數字顯示德國汽車製造商陷入多大困境",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/one-number-shows-much-trouble-181700998.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Magna International Inc. (MGA) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/magna-international-inc-mga-good-171800221.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "PBF Energy Inc. (PBF) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-inc-pbf-good-171746891.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Pitney Bowes Inc. (PBI) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/pitney-bowes-inc-pbi-good-171734244.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Rambus Inc. (RMBS) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/rambus-inc-rmbs-good-stock-171720216.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Rollins, Inc. (ROL) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/rollins-inc-rol-good-stock-171706536.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Universal Health Services, Inc. (UHS) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/universal-health-services-inc-uhs-171653131.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Watsco, Inc. (WSO) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/watsco-inc-wso-good-stock-171636854.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Zscaler, Inc. (ZS) 是現在值得購買的股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-inc-zs-good-stock-171615440.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Micron 的股票今年上漲逾 270%。以下是它在 2026 年仍可能翻倍的原因。",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/microns-stock-over-270-heres-203100938.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "BBB Foods Inc. (TBBB) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/bbb-foods-inc-tbbb-good-201451661.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "UnitedHealth Group Incorporated (UNH) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-incorporated-unh-good-201437713.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Vir Biotechnology, Inc. (VIR) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/vir-biotechnology-inc-vir-good-201423806.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Bristow Group Inc. (VTOL) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/bristow-group-inc-vtol-good-201405157.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "三大雲端運算股票中，哪一支現在最適合買進？",
+              "url": "https://finance.yahoo.com/sectors/technology/articles/big-3-cloud-computing-stock-202900661.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Arista Networks, Inc. (ANET) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-good-201352864.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Bloom Energy Corporation (BE) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-good-stock-201339430.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Chord Energy Corporation (CHRD) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/chord-energy-corporation-chrd-good-201324415.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Cisco Systems, Inc. (CSCO) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-good-201310196.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "您的成年子女有慢性健康問題需要您的幫助。退休人士應該知道什麼",
+              "url": "https://finance.yahoo.com/sectors/healthcare/articles/adult-child-chronic-health-condition-202115735.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Fortinet, Inc. (FTNT) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-inc-ftnt-good-stock-201255001.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "GE Aerospace (GE) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-good-stock-201242126.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Gilead Sciences, Inc. (GILD) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/gilead-sciences-inc-gild-good-201132486.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "NIKE, Inc. (NKE) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/nike-inc-nke-good-stock-201117082.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Insperity, Inc. (NSP) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/insperity-inc-nsp-good-stock-201102151.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "PDD Holdings Inc. (PDD) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-pdd-good-201049250.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Planet Labs PBC (PL) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pbc-pl-good-201036993.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "PayPal Holdings, Inc. (PYPL) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-inc-pypl-good-201017819.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Roblox Corporation (RBLX) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-corporation-rblx-good-stock-200952371.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Republic Services, Inc. (RSG) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-inc-rsg-good-200936397.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Vistance Networks, Inc. (VISN) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/vistance-networks-inc-visn-good-200921263.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Cathie Wood 的 ARK 買進 Coinbase 和 Circle，同時減持 Archer 和 Baidu",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-ark-buys-coinbase-194600496.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Bybit 推出 IPO Express，提供 SpaceX 代幣化存取",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/bybit-launches-ipo-express-tokenized-194400932.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Mark Cuban 表示小型企業急需 AI 人才 — 這是求職者應該優先考慮的地方",
+              "url": "https://finance.yahoo.com/sectors/technology/articles/mark-cuban-says-small-businesses-184500292.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "PBW 年初至今上漲 34% 掩蓋了每一次利率週期重複的殘酷五年模式",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/pbw-34-date-gain-masks-200048746.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "SpaceX IPO 即將到來。這對加密貨幣意味著什麼？",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/spacex-ipo-coming-soon-does-193500739.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "財政部長 Scott Bessent 表示年輕人買彩票「讓我抓狂」— 敦促他們投資並「看著它成長」",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/treasury-secretary-scott-bessent-says-193137466.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "大家都盯著 SpaceX IPO — 但 Elon Musk 真正的「聖杯」可能在 2027 年落地，Dan Ives 表示",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/everyones-glued-spacex-ipo-elon-193134342.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Amazon、Alphabet 和 Microsoft 都在競相設計自己的 AI 晶片。這對 Nvidia 意味著什麼。",
+              "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-alphabet-microsoft-racing-design-223200752.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "SoundHound AI, Inc. (SOUN) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-inc-soun-good-212738180.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "VICI Properties Inc. (VICI) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-good-212722352.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Western Digital Corporation (WDC) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-good-212709268.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Autodesk, Inc. (ADSK) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/autodesk-inc-adsk-good-stock-212655292.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Visa 股票是投資無現金經濟的聰明方式嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-smart-way-invest-220400191.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "DNOW Inc. (DNOW) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/dnow-inc-dnow-good-stock-212640363.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "DigitalOcean Holdings, Inc. (DOCN) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/digitalocean-holdings-inc-docn-good-212626053.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "FinVolution Group (FINV) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/finvolution-group-finv-good-stock-212612068.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Global Ship Lease, Inc. (GSL) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/global-ship-lease-inc-gsl-212558171.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "在 SpaceX IPO 買進股票的 3 個理由 -- 以及 2 個等待的理由",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-spacex-stock-213500979.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "HEICO Corporation (HEI) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/heico-corporation-hei-good-stock-212544695.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Duolingo, Inc. (DUOL) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/duolingo-inc-duol-good-stock-212411055.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Klarna Group plc (KLAR) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/klarna-group-plc-klar-good-212344146.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "十名川普官員持有高達 4400 萬美元的 SpaceX IPO 股份：『沒有先例』，倫理律師表示",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/ten-trump-officials-sit-44-213121029.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Palantir Technologies Inc. (PLTR) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-good-212318080.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Synopsys, Inc. (SNPS) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-inc-snps-good-stock-212303825.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Spotify Technology S.A. (SPOT) 現在是買進的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/spotify-technology-spot-good-stock-212248755.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "TransAlta Corporation (TAC) 現在是值得買的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/transalta-corporation-tac-good-stock-212228652.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "如果只能選一個，這是我會買的 1 種加密貨幣",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-212700280.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Applied Materials, Inc. (AMAT) 現在是值得買的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-inc-amat-good-212213557.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "CoreWeave, Inc. (CRWV) 現在是值得買的好股票嗎？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-good-stock-212159416.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "戰後石油貿易可能與霍爾木茲之前完全不同",
+              "url": "https://finance.yahoo.com/sectors/energy/articles/post-war-oil-trade-could-210000522.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "科技 ETF 對決：SOXX 還是 IYW 現在對投資者來說是更好的選擇？",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/technology-etf-showdown-soxx-iyw-211041570.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "Dogecoin 真的能造就百萬富翁嗎？",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-really-millionaire-maker-210700620.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "讓 66 歲且前配偶仍在世的人每年多賺 14,400 美元的離婚配偶策略",
+              "url": "https://finance.yahoo.com/markets/options/articles/divorced-spouse-strategy-adds-14-210014265.html",
+              "published": "2026-06-07",
+              "outlet": "Yahoo Finance",
+              "summary": ""
+            },
+            {
+              "title": "卡內基美隆大學校友獲得東尼獎最佳音樂劇獎",
+              "url": "https://www.prnewswire.com/news-releases/carnegie-mellon-alumna-earns-tony-award-for-best-musical-302793667.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "CMU alumni recognized with 67 Tonys to date — onstage and behind the scenes NEW YORK and PITTSBURGH,"
+            },
+            {
+              "title": "Camel Energy GmbH 在 AABC Europe 2026 展示先進電池技術",
+              "url": "https://www.prnewswire.com/news-releases/camel-energy-gmbh-showcases-advanced-battery-technologies-at-aabc-europe-2026-302793659.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "MAINZ, Germany, June 8, 2026 /PRNewswire/ -- Camel Energy GmbH proudly participated in the Advanced "
+            },
+            {
+              "title": "獲勝公司將專注於可控制的事物，應對其餘部分，因為三重衝擊阻礙私募股權的最新復甦 --Bain & Company 2026 Midyear PE report",
+              "url": "https://www.prnewswire.com/news-releases/winning-firms-will-focus-on-what-they-can-control-weather-the-rest-as-triple-shock-brakes-private-equitys-latest-revival-bain--company-2026-midyear-pe-report-302793107.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "Trifecta of early-year shocks puts brakes on global PE's latest revival for a second consecutive yea"
+            },
+            {
+              "title": "銀行的輝煌一年——以及在成長、AI 和創新上轉變策略的時刻",
+              "url": "https://www.prnewswire.com/news-releases/a-banner-year-for-banksand-the-moment-to-shift-gears-on-growth-ai-and-innovation-302793381.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "BCG report finds that financial institutions delivered record shareholder returns in 2025; and for t"
+            },
+            {
+              "title": "IBM 新研究發現，隨著企業部署規模擴大，CIO 和 CTO 面臨日益擴大的 AI 控制差距",
+              "url": "https://www.prnewswire.com/news-releases/new-ibm-study-finds-cios-and-ctos-face-growing-ai-control-gap-as-enterprise-deployment-scales-302793417.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "Most surveyed technology leaders are accountable for systems they don't fully control Only 11% of re"
+            },
+            {
+              "title": "Afreximbank 加強與牙買加的合作，以推動貿易、投資和工業化",
+              "url": "https://www.prnewswire.com/news-releases/afreximbank-refuerza-su-colaboracion-con-jamaica-para-impulsar-el-comercio-la-inversion-y-la-industrializacion-891643670.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "Afreximbank sigue comprometida con promover el comercio intracaribeño y entre África y el Caribe med"
+            },
+            {
+              "title": "Aphranel® 慶祝其一週年",
+              "url": "https://www.prnewswire.com/news-releases/aphranel-celebra-su-primer-aniversario-302793634.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "- Aphranel® celebra su primer aniversario con la certificación EU MDR, el lanzamiento de Arc™ y la e"
+            },
+            {
+              "title": "Aphranel® 以歐盟 MDR 認證、Arc™ 推出以及交付超過 150,000 支注射器慶祝其一週年",
+              "url": "https://www.prnewswire.com/news-releases/aphranel-fete-son-premier-anniversaire-avec-la-certification-mdr-de-lue-le-lancement-darc-et-la-livraison-de-plus-de-150-000-seringues-302793630.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "SHANGHAI, 8 juin 2026 /PRNewswire/ -- Le 20 mai 2026, Aphranel® a célébré son premier anniversaire a"
+            },
+            {
+              "title": "90% 的公司增加對 KI 行銷的投資，但只有 12% 能衡量實際影響：Comviva 全球行銷主管調查報告",
+              "url": "https://www.prnewswire.com/news-releases/90--der-unternehmen-erhohen-ihre-investitionen-in-ki-marketing-aber-nur-12--konnen-die-tatsachliche-wirkung-messen-bericht-zur-globalen-umfrage-unter-marketingleitern-von-comviva-302793626.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "NEU-DELHI, 8. Juni 2026 /PRNewswire/ -- Auch wenn die Einführung von KI in allen Marketingbereichen "
+            },
+            {
+              "title": "感測遇上連接：Calterah 推出超強大 mmWave 雷達晶片，用於高性能 ADAS 和領先的 UWB 雷達解決方案",
+              "url": "https://www.prnewswire.com/news-releases/sensing-meets-connectivity-calterah-launches-ultra-powerful-mmwave-radar-chips-for-high-performance-adas-and-leading-edge-uwb-radar-solutions-302793622.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "SHANGHAI, June 8, 2026 /PRNewswire/ -- On June 5, 2026, Calterah, a global leader in mmWave radar ch"
+            },
+            {
+              "title": "BOSGAME 透過 Mini-PC VTA-439 推動日常用戶的實用本地 KI",
+              "url": "https://www.prnewswire.com/news-releases/bosgame-bringt-mit-dem-mini-pc-vta-439-praktische-lokale-ki-fur-alltagliche-nutzer-voran-302793614.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "SHENZHEN, China, 8. Juni 2026 /PRNewswire/ -- Die weltweite Nachfrage nach lokaler KI nimmt zu, was "
+            },
+            {
+              "title": "Cumbre AGP & DTx：HbA1c 降低 0.54%：數位療法中糖尿病照護的改變",
+              "url": "https://www.prnewswire.com/news-releases/cumbre-agp--dtx-reduccion-del-0-54-de-hba1c-el-cambio-en-el-cuidado-de-la-diabetes-en-terapias-digitales-302793608.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "-Cumbre AGP & DTx: Terapias digitales muestran una reducción del 0,54% de la HbA1c: el cambio en el "
+            },
+            {
+              "title": "數十年來，國際組織警告德國對待科學教會的方式",
+              "url": "https://www.prnewswire.com/news-releases/for-decades-international-bodies-warned-germany-over-its-treatment-of-scientologists-302793313.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "LOS ANGELES, June 7, 2026 /PRNewswire/ -- Today, the Church of Scientology International released th"
+            },
+            {
+              "title": "GIGABYTE 以 AI 驅動技術提升主機板性能",
+              "url": "https://www.prnewswire.com/news-releases/gigabyte-advances-motherboard-performance-with-ai-driven-technologies-302784633.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "TAIPEI, June 7, 2026 /PRNewswire/ -- GIGABYTE, the world's leading computer brand, continues to adva"
+            },
+            {
+              "title": "GIGABYTE 透過基於 AI 的技術改善主機板性能",
+              "url": "https://www.prnewswire.com/news-releases/gigabyte-ameliore-les-performances-des-cartes-meres-grace-a-des-technologies-basees-sur-lia-302793586.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "TAIPEI, 8 juin 2026 /PRNewswire/ -- GIGABYTE, la plus grande marque d'ordinateurs au monde, continue"
+            },
+            {
+              "title": "HTX 推出「Appreciation Program」，投入超過 1000 萬美元回饋用戶信任",
+              "url": "https://www.prnewswire.com/news-releases/htx-launches-appreciation-program-with-over-10-million-to-reward-user-trust-302793590.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "APIA, Samoa, June 7, 2026 /PRNewswire/ -- Amid the rapid iteration of the crypto industry and the co"
+            },
+            {
+              "title": "這是 Tokenpocalypse 的黎明嗎？",
+              "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+              "published": "2026-06-07",
+              "outlet": "TechCrunch",
+              "summary": "We're likely to see more price increases as the big AI companies plan to go public."
+            },
+            {
+              "title": "NASA 將穿著高科技 Prada 長內衣前往月球",
+              "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+              "published": "2026-06-07",
+              "outlet": "The Verge",
+              "summary": "We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) s"
+            },
+            {
+              "title": "Summer Game Fest 2026 的 7 大主要劇情線",
+              "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+              "published": "2026-06-07",
+              "outlet": "The Verge",
+              "summary": "The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic. The nearly wee"
+            },
+            {
+              "title": "RIP Anthony Head：我們最喜愛的 Buffy 的 Giles 的 10 個時刻",
+              "url": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
+              "published": "2026-06-07",
+              "outlet": "Ars Technica",
+              "summary": "Head's true genius—and that of his character, Giles—lay in quietly filling in the gaps in every scen"
+            },
+            {
+              "title": "為什麼我在家使用無線安全攝影機而非有線系統——經過多年測試後",
+              "url": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
+              "published": "2026-06-08",
+              "outlet": "ZDNet",
+              "summary": "After using multiple security cameras over the years, I've found the best arrangement for my home."
+            },
+            {
+              "title": "Amazon 以近 4 折出售 2TB Samsung SSD——而且對 PC 來說速度非常快",
+              "url": "https://www.zdnet.com/article/samsung-990-pro-ssd-deal-2026/",
+              "published": "2026-06-07",
+              "outlet": "ZDNet",
+              "summary": "Samsung's flagship 990 Pro SSD just dropped to a near-record low price. Here's the breakdown."
+            },
+            {
+              "title": "Apple WWDC 直播部落格：我們期待的一切，從 iOS 27 到 Siri 再到智慧眼鏡",
+              "url": "https://www.zdnet.com/article/apple-wwdc-live-blog-06-07-2026/",
+              "published": "2026-06-07",
+              "outlet": "ZDNet",
+              "summary": "ZDNET is on the ground at Apple Park to cover the company's annual developer conference live. Stay t"
+            },
+            {
+              "title": "去年我用 Apple CarPlay 開車超過 25,000 英里——這些 App 最不可或缺",
+              "url": "https://www.zdnet.com/article/carplay-best-apps-after-25000-miles-last-year/",
+              "published": "2026-06-07",
+              "outlet": "ZDNet",
+              "summary": "I spend a lot of time driving. These are the CarPlay apps that make every ride easy."
+            },
+            {
+              "title": "我使用了 AirPods Max 2——這是你需要的奢華耳機升級",
+              "url": "https://www.androidcentral.com/accessories/audio/i-used-the-airpods-max-2-this-is-the-luxury-headphone-upgrade-you-need",
+              "published": "2026-06-08",
+              "outlet": "Android Central",
+              "summary": "The AirPods Max 2 doesn't look any different to the Max, but it has plenty of upgrades that matter."
+            },
+            {
+              "title": "驚喜：Galaxy S26 FE 可能借用三星旗艦機的設計特色",
+              "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-fe-leaks-reveal",
+              "published": "2026-06-07",
+              "outlet": "Android Central",
+              "summary": "A new certification listing offers an early look at the upcoming Galaxy S26 FE."
+            },
+            {
+              "title": "Ambrosia Sky 的最終章節於 8 月 6 日推出",
+              "url": "https://www.engadget.com/2189084/ambrosia-sky-act-two-lands-on-august-6/",
+              "published": "2026-06-07",
+              "outlet": "Engadget",
+              "summary": "It'll come as a free update for players who own the game already."
+            },
+            {
+              "title": "Signet City 是 Citizen Sleeper 創作者的新「fungalpunk」RPG",
+              "url": "https://www.engadget.com/2186591/signet-city-is-a-new-fungalpunk-rpg-from-the-creator-of-citizen-sleeper/",
+              "published": "2026-06-07",
+              "outlet": "Engadget",
+              "summary": "Citizen Sleeper creator Gareth Damian Martin has revealed their latest game, Signet City. The new RP"
+            },
+            {
+              "title": "Therabody 的最新恢復工具將花費你 400 美元來冷卻手掌",
+              "url": "https://www.engadget.com/2189072/therabody-latest-recovery-tool-will-cost-you-400-to-cool-your-palms/",
+              "published": "2026-06-07",
+              "outlet": "Engadget",
+              "summary": "The CryoTherm Palm can switch between cold, heat and contrast therapy."
+            },
+            {
+              "title": "Undead Labs 終於在新預告片中展示 State of Decay 3 遊戲玩法",
+              "url": "https://www.engadget.com/2189069/undead-labs-finally-shows-off-state-of-decay-3-gameplay-in-new-trailer/",
+              "published": "2026-06-07",
+              "outlet": "Engadget",
+              "summary": "The game is slated for release in 2027."
+            },
+            {
+              "title": "Persona 4 Revival 獲得 2027 年 2 月的官方發行日期",
+              "url": "https://www.engadget.com/2189066/persona-4-revival-gets-an-official-release-date-for-february-2027/",
+              "published": "2026-06-07",
+              "outlet": "Engadget",
+              "summary": "The pre-order trailer also revealed new voice actors."
+            },
+            {
+              "title": "Nvidia 達成新的記憶體晶片交易——但 SK Hynix 和 Samsung 股價面臨沉重壓力",
+              "url": "https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories",
+              "published": "2026-06-08",
+              "outlet": "MarketWatch",
+              "summary": "South Korea’s once-hot Kospi index is headed for another day of sharp declines as the AI trade loses"
+            },
+            {
+              "title": "Wegovy 藥丸仍主導 GLP-1 藥丸市場",
+              "url": "https://www.marketwatch.com/story/the-wegovy-pill-is-still-dominating-the-glp-1-pill-market-f7add507?mod=mw_rss_topstories",
+              "published": "2026-06-07",
+              "outlet": "MarketWatch",
+              "summary": "It has remained a top choice among Americans trying to lose weight even after the launch of Foundayo"
+            },
+            {
+              "title": "美國各地兒童福祉下滑",
+              "url": "https://www.axios.com/2026/06/08/us-kids-count-data-book-child-well-being",
+              "published": "2026-06-08",
+              "outlet": "Axios",
+              "summary": "Children's wellbeing declined nationally from 2019 to 2024, with kids in 29 states faring worse than"
+            },
+            {
+              "title": "以色列在伊朗飛彈攻擊後襲擊伊朗軍事目標",
+              "url": "https://www.axios.com/2026/06/08/israel-strikes-iran-military-targets-after-iranian-missile-attack",
+              "published": "2026-06-08",
+              "outlet": "Axios",
+              "summary": "The Israeli Air Force conducted strikes on military targets in central and western Iran on Monday mo"
+            },
+            {
+              "title": "Trump 告訴 Netanyahu 不要襲擊伊朗",
+              "url": "https://www.axios.com/2026/06/07/trump-netanyahu-israel-iran-strikes-call",
+              "published": "2026-06-07",
+              "outlet": "Axios",
+              "summary": "President Trump told Israeli Prime Minister Benjamin Netanyahu Sunday not to retaliate against Iran'"
+            },
+            {
+              "title": "猶太裔民主黨人對反猶太主義和 2028 年發出警報",
+              "url": "https://www.axios.com/2026/06/07/jewish-democrats-israel-antisemitism",
+              "published": "2026-06-07",
+              "outlet": "Axios",
+              "summary": "A growing number of Jewish Democrats tell Axios they feel shunned — like unwelcome strangers in thei"
+            },
+            {
+              "title": "緬因州民主黨人策劃應對內布拉斯加州共和黨調整選舉團票數",
+              "url": "https://www.axios.com/2026/06/07/maine-democrats-nebraska-electoral-college",
+              "published": "2026-06-07",
+              "outlet": "Axios",
+              "summary": "Democrats in mostly blue Maine are threatening to retaliate if Republican-led Nebraska changes how i"
+            },
+            {
+              "title": "Trump 告訴 Axios 他將要求 Netanyahu 不要對伊朗反擊",
+              "url": "https://www.axios.com/2026/06/07/trump-israel-iran-missile-attack",
+              "published": "2026-06-07",
+              "outlet": "Axios",
+              "summary": "President Trump will call Israeli Prime Minister Benjamin Netanyahu and press him not to retaliate f"
+            },
+            {
+              "title": "伊朗自停火以來首次向以色列發射飛彈",
+              "url": "https://www.axios.com/2026/06/07/iran-israel-missiles-us-tehran-negotiations-ceasefire-risk",
+              "published": "2026-06-07",
+              "outlet": "Axios",
+              "summary": "Iran launched missiles at Israel on Sunday in retaliation for an Israeli strike in Beirut earlier in"
             }
           ]
         }
@@ -7973,6 +9051,41 @@
               "published": "2026-06-07",
               "outlet": "CoinDesk",
               "summary": ""
+            },
+            {
+              "title": "比特幣因伊朗-以色列互擊和韓國股市崩跌回落至 $63,000 以下",
+              "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash",
+              "published": "2026-06-08",
+              "outlet": "CoinDesk",
+              "summary": ""
+            },
+            {
+              "title": "比特幣在「超賣反彈」中重回 $63,000；韓國 KOSPI 暴跌 8%",
+              "url": "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&utm_medium=rss",
+              "published": "2026-06-08",
+              "outlet": "The Block",
+              "summary": "Presto's Min Jung told The Block that KOSPI's crash may have had some impact on bitcoin's recovery, "
+            },
+            {
+              "title": "紐約法官擱置尋求近 40,000 個比特幣錢包所有權的訴訟，定於 7 月聽證擬議法庭之友簡報",
+              "url": "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&utm_medium=rss",
+              "published": "2026-06-07",
+              "outlet": "The Block",
+              "summary": "The brief, filed by attorney Ian R. Cohen, argues New York's lost-and-found statute cannot be used t"
+            },
+            {
+              "title": "如果 Nasdaq 進一步下跌，比特幣會怎樣？",
+              "url": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "published": "2026-06-07",
+              "outlet": "CoinTelegraph",
+              "summary": "Bitcoin eyes a rally toward $92,630 as BTC defends key long-term support while the Nasdaq flashes de"
+            },
+            {
+              "title": "Strategy 的 Saylor 發出 BTC 購買信號，因優先股息支付日期投票逼近",
+              "url": "https://cointelegraph.com/news/strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-date-vote-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "published": "2026-06-07",
+              "outlet": "CoinTelegraph",
+              "summary": "Strategy’s top execs took to social media on Sunday to tout its Bitcoin strategy while shareholders "
             }
           ]
         },
@@ -8427,6 +9540,41 @@
               "published": "2026-06-07",
               "outlet": "The Block",
               "summary": "JPMorgan said crypto's outlook depends on Strategy's dividend plan and the Clarity Act, for which it"
+            },
+            {
+              "title": "主要加密貨幣承壓，因油價上漲 3%",
+              "url": "https://www.coindesk.com/tech/2026/06/08/major-cryptocurrencies-under-pressure-as-oil-jumps-3",
+              "published": "2026-06-08",
+              "outlet": "CoinDesk",
+              "summary": ""
+            },
+            {
+              "title": "Ways and Means 稅務法案快速回顧：加密貨幣現況",
+              "url": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
+              "published": "2026-06-07",
+              "outlet": "CoinDesk",
+              "summary": ""
+            },
+            {
+              "title": "什麼是加密貨幣市場結構？加密貨幣市場運作指南",
+              "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
+              "published": "2026-06-08",
+              "outlet": "The Block",
+              "summary": "Crypto market structure refers to the framework of participants, platforms, rules, and infrastructur"
+            },
+            {
+              "title": "代幣化公司 Securitize 清除 NYSE 上市的關鍵 SEC 障礙",
+              "url": "https://cointelegraph.com/news/securitize-gets-sec-nod-cantor-merger-nyse-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "published": "2026-06-08",
+              "outlet": "CoinTelegraph",
+              "summary": "The firm announced that the US securities regulator has declared its S-4 registration statement effe"
+            },
+            {
+              "title": "Justin Sun 的 HTX 在凍結爭議中下架 Trump 家族的 USD1",
+              "url": "https://cointelegraph.com/news/justin-suns-htx-delists-trump-familys-usd1-amid-freeze-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "published": "2026-06-08",
+              "outlet": "CoinTelegraph",
+              "summary": "HTX said World Liberty froze its addresses and has responded by delisting and suspending the platfor"
             }
           ]
         }
