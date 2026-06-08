@@ -170,6 +170,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
   </div>
   <div class="topbar-right">
     <button class="archive-btn" onclick="showArchive()">📁 往期</button>
+    <button class="archive-btn" id="filter-btn" onclick="toggleFilter()">☆ 精選模式</button>
     <button class="theme-btn" id="theme-btn" onclick="toggleTheme()">☀️</button>
     <select class="lang-select" id="lang-select" onchange="setLang(this.value)">
       <option value="zh-TW">繁中</option>
@@ -321,6 +322,16 @@ function renderMobileSubtab() {
 }
 
 /* ── 文章列表 ── */
+let filterMode = false; // false=全部，true=精選(score>=4)
+
+function toggleFilter() {
+  filterMode = !filterMode;
+  document.getElementById("filter-btn").textContent = filterMode ? "⭐ 精選中" : "☆ 精選模式";
+  document.getElementById("filter-btn").style.background = filterMode ? "var(--accent)" : "var(--surface2)";
+  document.getElementById("filter-btn").style.color = filterMode ? "white" : "var(--text2)";
+  renderArticles();
+}
+
 function renderArticles() {
   const main = document.getElementById("main");
   if (currentCat===null) { main.innerHTML=`<div class="center">← 請選擇大類</div>`; return; }
@@ -328,7 +339,10 @@ function renderArticles() {
   const color = CAT_COLORS[cat.name]||"#888";
   const sub = cat.subtopics[currentSub??0];
   if (!sub) return;
-  const arts = sub.articles||[];
+
+  // 精選模式過濾
+  let arts = sub.articles||[];
+  if (filterMode) arts = arts.filter(a=>(a.score||3)>=4);
 
   // 手機版子板塊Tab HTML
   const subtabHtml = `<div class="mobile-subtab" id="mobile-subtab">
@@ -340,15 +354,29 @@ function renderArticles() {
 
   const articlesHtml = arts.length===0
     ? `<div class="empty-state">${t("empty")}</div>`
-    : arts.map(a=>`
-        <div class="article">
+    : arts.map(a=>{
+        const isReuters = a.outlet==="Reuters"||a.outlet==="Bloomberg";
+        const outletBadge = isReuters
+          ? `<span style="color:#f59e0b;font-weight:700;font-size:11px;">⭐ ${a.outlet}</span>`
+          : `<span class="outlet-name">${a.outlet||""}</span>`;
+        const tags = (a.tags||[]).map(tag=>
+          `<span style="font-size:10px;padding:1px 6px;border-radius:4px;background:var(--surface2);color:var(--text2);">${tag}</span>`
+        ).join("");
+        const score = a.score||3;
+        const scoreColor = score>=4?"#22c55e":score===3?"#94a3b8":"#64748b";
+        return `
+        <div class="article" data-score="${score}">
           <div class="article-meta">
-            <span class="outlet-name">${a.outlet||""}</span>
-            <span class="pub-date">${a.published||""}</span>
+            ${outletBadge}
+            ${tags}
+            <span style="margin-left:auto;display:flex;align-items:center;gap:6px;">
+              <span style="font-size:10px;color:${scoreColor};font-weight:700;">★${score}</span>
+              <span class="pub-date">${a.published||""}</span>
+            </span>
           </div>
           <a class="article-title" href="${a.url||'#'}" target="_blank" rel="noopener">${a.title||""}</a>
           ${a.summary?`<p class="summary">${a.summary}</p>`:""}
-        </div>`).join("");
+        </div>`}).join("");
 
   main.innerHTML = `
     <div class="page-header">
