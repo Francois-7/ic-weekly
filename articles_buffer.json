@@ -5787,24 +5787,6 @@
     "score": 3
   },
   {
-    "title": "IEEE 會長的話：為孩子設計更安全的數位世界",
-    "url": "https://spectrum.ieee.org/ieee-presidents-note-june-2026",
-    "content": "Children born after 2013 are the first generation to grow up fully immersed in digital systems, which weren’t designed with them in mind. One‑third of the world’s Internet users are younger than 18, according to UNICEF , yet these systems shaping their daily lives were built for adults. They were optimized for engagement and designed long before people understood how profoundly digital environment",
-    "published": "2026-06-01",
-    "published_ts": 1780336802.0,
-    "outlet": "IEEE Spectrum",
-    "fetched_at": "2026-06-07T16:25:37Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "2013年後出生的兒童是首個完全浸潤數位系統的一代，IEEE呼籲設計更安全的數位環境。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "什麼是 Physical AI 以及它如何在工廠運作？",
     "url": "https://www.iiot-world.com/smart-manufacturing/physical-ai-manufacturing-robotics-roi/",
     "content": "Physical AI integrates artificial intelligence software with physical factory hardware, from robotic arms and mobile manipulators to quadruped sensor platforms, so machines can see, reason, and adapt to real-world conditions without human guidance at every step. Companies including Cambrian Vision (Germany), Inbold (France), and Path Robotics (US) are deploying these systems for tasks from flexibl",
@@ -5921,24 +5903,6 @@
     "category": "總體經濟",
     "subtopic": "綜合",
     "summary_zh": "LoRa Alliance公布三年計畫，聚焦改善LoRaWAN整合、上線流程與裝置生命週期管理。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "醫療保健 5 大最佳 HIPAA 合規軟體：安全、稽核就緒平台",
-    "url": "https://iotbusinessnews.com/2026/06/01/5-best-hipaa-compliance-software-for-healthcare-secure-audit-ready-platforms/",
-    "content": "This article reviews five leading HIPAA compliance software solutions ideal for various healthcare organisations, highlighting features like automation, coaching, audit readiness, and enterprise risk management. The post 5 Best HIPAA Compliance Software for Healthcare: Secure, Audit-Ready Platforms appeared first on IoT Business News .",
-    "published": "2026-06-01",
-    "published_ts": 1780338621.0,
-    "outlet": "IoT Business News",
-    "fetched_at": "2026-06-07T16:25:40Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "五款頂尖HIPAA合規軟體提供自動化與稽核功能，適合各類醫療機構使用。",
     "tags": [
       "📋政策法規"
     ],
@@ -12171,60 +12135,6 @@
     "score": 3
   },
   {
-    "title": "「Aviate」，一款類似 Flighty 的 Android app，隨著 Play Store 註冊而起飛 [圖庫]",
-    "url": "https://9to5google.com/2026/06/01/aviate-android-app-flighty-alternative/",
-    "content": "If there’s one app I’ve always been jealous of from the iPhone, it’s Flighty, a super-useful flight tracker that not only logs your flight history, but puts all of the information you might need in a single place alongside a UI that’s far better than anything your airline is offering up. But it’s never come to Android. The launch of “Aviate,” though, is as close to “Flighty for Android” as I’ve se",
-    "published": "2026-06-01",
-    "published_ts": 1780339500.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Aviate app 於 Play Store 註冊，類似 Flighty 功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "週一的 Android 應用程式特價與免費下載：House of Da Vinci 2、Deus Ex GO、Hitman GO、Thronefall 等",
-    "url": "https://9to5toys.com/2026/06/01/monday-android-app-deals-free-house-vinci-deus-ex-go-hitman/",
-    "content": "The Monday afternoon collection of Android game and app deals is now ready to roll, including titles like The House of Da Vinci 2, Deus Ex GO, Hitman GO, Thronefall, 20 Minutes Till Dawn, Dungeon Tracer: Puzzle RPG, Afterplace, SENTINEL 519: SAGA – GENESIS, and more. On your way, scope out Samsung’s 32-inch M8 Smart Monitor while it’s 50% off , these official Google Pixel 10 Pixelsnap cases down a",
-    "published": "2026-06-01",
-    "published_ts": 1780335950.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Android 應用程式特價包含多款遊戲。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Samsung Care+ 放寬 Galaxy 手機註冊年齡限制，註冊享折扣",
-    "url": "https://9to5google.com/2026/06/01/samsung-care-plus-open-enrollment-begins/",
-    "content": "Samsung Care+ Theft and Loss is normally reserved for new devices, but the company announced it’s opening open enrollment for the insurance plan until the end of this month. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780334641.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Samsung Care+ 放寬 Galaxy 手機註冊年齡限制。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Anycubic Photon Mono 4 降至 $190 以下，省下零售價 21% — Amazon 特價這款入門級樹脂 3D 印表機省 $50",
     "url": "https://www.tomshardware.com/pc-components/anycubic-photon-mono-4-dips-below-usd190-saving-you-21-percent-off-its-retail-price-amazon-deal-saves-usd50-on-this-entry-level-resin-3d-printer",
     "content": "The Anycubic Photon Mono 4 is on-sale at $189.99, giving you a $50 discount and saving you 21% off its retail price.",
@@ -15096,42 +15006,6 @@
     "score": 4
   },
   {
-    "title": "EcoFlow Hurricane Prep Sale：2,048Wh DELTA 2 Max power station $899、EGO 3,200 PSI pressure washer $699 新低，更多",
-    "url": "https://electrek.co/2026/06/01/ecoflow-hurricane-prep-sale-2048wh-delta-2-max-power-station-ego-3200-psi-pressure-washer-more/",
-    "content": "Happy June, everyone! We’re kicking off this week’s (and month’s) Green Deal coverage with the appropriately launched EcoFlow Hurricane Season Prep Sale that offers up to 61% power station discounts, like the 2,048Wh DELTA 2 Max Portable Power Station at its second-lowest $899 pricing, among many others. Right behind that, we spotted the second 2026 opportunity to grab EGO’s 3,200 PSI Electric Pre",
-    "published": "2026-06-01",
-    "published_ts": 1780336800.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "EcoFlow 推出 Hurricane Prep Sale，DELTA 2 Max 售價 $899 及 EGO 清洗機 $699 創低。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Hyundai 正在測試新款 high-tech SDV 系統，用於即將推出的 EVs [Images]",
-    "url": "https://electrek.co/2026/06/01/hyundai-testing-new-sdv-setup-upcoming-evs-images/",
-    "content": "A disguised IONIQ 6 was spotted near Hyundai’s R&D hub in Europe, revealing much more than a standard refresh model. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780336135.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Hyundai 在歐洲測試 IONIQ 6 偽裝車，驗證新款 high-tech SDV 系統。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Tesla Model Y 電池在 16,000 miles 後接受測試：多為 fast charging",
     "url": "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/",
     "content": "This Model Y was predominantly fast-charged for six months but its battery remains very healthy.",
@@ -16188,19 +16062,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "多虧兩項新法律，更多維吉尼亞人可以透過社區太陽能節省",
-    "url": "https://www.canarymedia.com/articles/emissions-reduction/california-controversial-cap-and-invest-program",
-    "content": "The California Air Resources Board on Friday approved major changes to the state’s cap-and-invest program , including a controversial plan to allow polluting industries to earn free emissions allowances if they invest in decarbonizing their facilities — a move critics say could undermine California’s decarbonization…",
-    "published": "2026-06-01",
-    "published_ts": 1780335000.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-06-07T16:25:51Z",
-    "classified": true,
-    "translated": false,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Prysmian 完成 Sofia 離岸風電場的電纜安裝",
     "url": "https://www.energymonitor.ai/news/rolls-royce-sunly-bess-latvia/",
     "content": "Rolls-Royce Power Systems and Sunly have formalised contracts for the construction of four large-scale battery storage facilities in Latvia.",
@@ -17200,55 +17061,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "獨家：Platner前往華府參加參議員會議和募款活動",
-    "url": "https://www.axios.com/2026/06/01/graham-platner-maine-democratic-senators",
-    "content": "Maine Democratic Senate primary frontrunner Graham Platner is scheduled to meet with Democratic senators in Washington on Tuesday afternoon, according to two people familiar with the plans. Why it matters: The long-planned meeting will give senators an opportunity to ask Platner directly about allegations that he sent sexually explicit text messages to as many as a dozen women in 2023, according t",
-    "published": "2026-06-01",
-    "published_ts": 1780343651.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Graham Platner週二下午赴華府與民主黨參議員會面並進行募款。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 1
-  },
-  {
-    "title": "伊朗威脅退出談判後，川普在黎巴嫩議題上約束Netanyahu",
-    "url": "https://www.axios.com/2026/06/01/trump-netanyahu-lebanon-israel-bomb-beirut",
-    "content": "President Trump on Monday hit the brakes on Israeli Prime Minister Benjamin Netanyahu's plan to bomb Hezbollah targets in Beirut after Iran threatened to abandon its negotiations with the U.S. over Israel's actions in Lebanon. An Israeli official told Axios the planned strikes on Beirut would not be happening. Why it matters: Trump's decision to rein in Netanyahu was a clear signal that he doesn't",
-    "published": "2026-06-01",
-    "published_ts": 1780340536.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "伊朗威脅退出談判後，川普阻止Netanyahu轟炸貝魯特真主黨目標。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 1
-  },
-  {
-    "title": "獨家：川普計劃取消「武器化」基金",
-    "url": "https://www.axios.com/2026/06/01/trump-weaponization-fund-drop",
-    "content": "The Trump administration plans to drop its controversial $1.8 billion \"weaponization\" fund the president sought to compensate alleged victims of prosecutorial misconduct under the Biden administration, two senior administration officials told Axios. \"It's dead for now,\" one of the sources said. Why it matters: Bashed as a political slush fund that could be tapped by those convicted in the Jan. 6 C",
-    "published": "2026-06-01",
-    "published_ts": 1780339396.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
   },
   {
     "title": "國債市場醞釀麻煩",
@@ -24742,6 +24554,176 @@
     "published_ts": 1780935192.0,
     "outlet": "CNBC Economy",
     "fetched_at": "2026-06-08T17:23:20Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: Metlife Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3186_AnalystReport_1780943646000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780943646.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: Hershey Co/The",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3064_AnalystReport_1780943646000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780943646.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Best high-yield savings interest rates today, Monday, June 8, 2026: Earn up to 4.1% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-june-8-2026-100000195.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780912800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: Shell Plc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3353_AnalystReport_1780943646000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780943646.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Best CD rates today, Monday, June 8, 2026: Lock in up to 4% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-june-8-2026-100000439.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780912800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Mortgage and refinance interest rates today, Monday, June 8, 2026: Purchase and refi rates very similar",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-june-8-2026-100000800.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780912800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Best money market account rates today, Monday, June 8, 2026: Earn up to 4.01% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-june-8-2026-100000546.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780912800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "HELOC and home equity loan rates, Monday, June 8, 2026: Looking back at May rates",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-june-8-2026-100000056.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780912800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: PPG Industries Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3328_AnalystReport_1780943646000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780943646.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Gold prices today, Monday, June 8: Lower to start the week following Israel, Iran missile strikes",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-8-lower-to-start-the-week-following-israel-iran-missile-strikes-110937603.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780916977.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Silver prices today, Monday, June 8, 2026: Much lower to start the week following Israel, Iran missile strikes",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-june-8-2026-much-lower-to-start-the-week-following-israel-iran-missile-strikes-112853793.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780918133.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Market Update: HSY, MET, PPG, SHEL, URI",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47262_MarketUpdate_1780942746000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780942746.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Your guide to managing crypto volatility with dollar-cost averaging",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/crypto-volatility-150304641.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780930984.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Digital wallet vs. traditional bank account: Which is best for your money?",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/digital-wallet-vs-traditional-bank-account-182017727.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780942817.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-08T20:01:17Z",
+    "classified": false
+  },
+  {
+    "title": "Apple shares reverse lower after big Siri news. Why we're not bothered",
+    "url": "https://www.cnbc.com/2026/06/08/apple-shares-reverse-lower-after-big-siri-news-why-were-not-bothered.html",
+    "content": "Apple delivered on what Wall Street was expecting: a complete artificial intelligence overhaul.",
+    "published": "2026-06-08",
+    "published_ts": 1780946820.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-08T20:01:18Z",
+    "classified": false
+  },
+  {
+    "title": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+    "url": "https://www.cnbc.com/2026/06/08/silicon-valleys-new-buyout-playbook-is-hitting-wall-street.html",
+    "content": "Instead of selling AI tools to companies, venture firms are buying legacy companies outright and rebuilding them around AI from the inside.",
+    "published": "2026-06-08",
+    "published_ts": 1780941673.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-08T20:01:18Z",
+    "classified": false
+  },
+  {
+    "title": "Judge blocks Trump's $100,000 H-1B visa fee",
+    "url": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html",
+    "content": "Trump had imposed the $100,000 fee in order to restrict the program, arguing that it has undermined U.S. security through the \"replacement of American workers.\"",
+    "published": "2026-06-08",
+    "published_ts": 1780947107.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-08T20:01:18Z",
     "classified": false
   }
 ]
