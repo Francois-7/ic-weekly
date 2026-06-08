@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-08 07:18 UTC",
+  "generated_at": "2026-06-08 07:50 UTC",
   "week_start": "2026-06-01",
   "week_end": "2026-06-08",
-  "total": 1358,
+  "total": 1366,
   "categories": [
     {
       "name": "AIoT",
@@ -559,6 +559,51 @@
         {
           "name": "機器人",
           "articles": [
+            {
+              "title": "LG Teams with NVIDIA to Shape the Future with M.A.P. (Mobility / AI Infra / Physical AI)",
+              "url": "https://www.prnewswire.com/news-releases/lg-teams-with-nvidia-to-shape-the-future-with-map-mobility--ai-infra--physical-ai-302793797.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "SEOUL, South Korea, June 8, 2026 /PRNewswire/ -- LG and NVIDIA are expanding their strategic collabo",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "TARS présente l'IA incarnée en situation réelle à la conférence ICRA 2026 sur la robotique",
+              "url": "https://www.prnewswire.com/news-releases/tars-presente-lia-incarnee-en-situation-reelle-a-la-conference-icra-2026-sur-la-robotique-302790687.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "TARS DexHand ouvre une nouvelle ère dans l'intégration main-cerveau VIENNE, 8 juin 2026 /PRNewswire/",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "TARS Brings Real-Life Embodied AI to ICRA 2026 Robotics Conference",
+              "url": "https://www.prnewswire.com/news-releases/tars-brings-real-life-embodied-ai-to-icra-2026-robotics-conference-302790438.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "TARS DexHand Signals a New Era of Hand-Brain Integration VIENNA, June 8, 2026 /PRNewswire/ -- TARS c",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "TARS Brings Real-Life Embodied AI to ICRA 2026 Robotics Conference",
+              "url": "https://www.prnewswire.com/news-releases/tars-brings-real-life-embodied-ai-to-icra-2026-robotics-conference-302790448.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "TARS DexHand Signals a New Era of Hand-Brain Integration VIENNA, June 8, 2026 /PRNewswire/ -- TARS c",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "TARS präsentiert auf der ICRA 2026 Robotics Conference realitätsnahe, verkörperte KI",
+              "url": "https://www.prnewswire.com/news-releases/tars-prasentiert-auf-der-icra-2026-robotics-conference-realitatsnahe-verkorperte-ki-302790800.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "TARS DexHand läutet eine neue Ära der Integration von Hand und Gehirn ein WIEN, 8. Juni 2026 /PRNews",
+              "tags": [],
+              "score": 3
+            },
             {
               "title": "Harbinger 為自主軍用卡車計畫備戰",
               "url": "https://electrek.co/2026/06/06/harbinger-gears-up-for-war-with-autonomous-military-truck-program/",
@@ -5794,6 +5839,15 @@
           "name": "電動車",
           "articles": [
             {
+              "title": "The 2027 Cadillac Lyriq Is Keeping A Big Feature All Other GM EVs Have Already Lost",
+              "url": "https://insideevs.com/news/798034/2027-cadillac-lyriq-apple-carplay-nacs/",
+              "published": "2026-06-08",
+              "outlet": "InsideEVs",
+              "summary": "The updated luxury electric crossover is also getting a Tesla-style charge port and a small price bu",
+              "tags": [],
+              "score": 3
+            },
+            {
               "title": "Tesla Model Y 電池在 16,000 miles 後接受測試：多為 fast charging",
               "url": "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/",
               "published": "2026-06-07",
@@ -6305,6 +6359,15 @@
         {
           "name": "綜合",
           "articles": [
+            {
+              "title": "Hampshire awards Believ major LEVI charging contract",
+              "url": "https://www.electrive.com/2026/06/08/hampshire-awards-believ-major-levi-charging-contract/",
+              "published": "2026-06-08",
+              "outlet": "electrive",
+              "summary": "Hampshire County Council has selected Believ to deploy 17,180 public EV charge points across the cou",
+              "tags": [],
+              "score": 3
+            },
             {
               "title": "新款 Danfoss 液壓泵將設備運行時間提升 50%",
               "url": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
@@ -7161,27 +7224,6 @@
                 "🏢品牌動態"
               ],
               "score": 3
-            },
-            {
-              "title": "Rolls-Royce 將為拉脫維亞的 Sunly 建造四座 BESS 設施",
-              "url": "https://www.canarymedia.com/articles/solar/attack-solar-myths-potato-farms",
-              "published": "2026-06-01",
-              "outlet": "Canary Media",
-              "summary": "Rolls-Royce 與 Sunly 簽約在拉脫維亞建造四座大型電池儲能設施。",
-              "tags": [
-                "📊有數字",
-                "🏢品牌動態"
-              ],
-              "score": 4
-            },
-            {
-              "title": "在對太陽能的新攻擊中，立法者散布關於馬鈴薯農場的神話",
-              "url": "https://www.canarymedia.com/articles/solar/two-new-laws-virginia-community-solar",
-              "published": "2026-06-01",
-              "outlet": "Canary Media",
-              "summary": "When Steve Ault got an offer about six years ago to lease a bit of his 100-acre family farm in Princ",
-              "tags": [],
-              "score": 3
             }
           ]
         },
@@ -7906,6 +7948,42 @@
               "tags": [
                 "⚠️供應鏈異動"
               ],
+              "score": 3
+            },
+            {
+              "title": "PATEO Teams Up with Xunce Technology and Saimo Technology to Define a New Paradigm for In-Vehicle AI Value Exchange",
+              "url": "https://www.prnewswire.com/news-releases/pateo-teams-up-with-xunce-technology-and-saimo-technology-to-define-a-new-paradigm-for-in-vehicle-ai-value-exchange-302793803.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "SHANGHAI, June 8, 2026 /PRNewswire/ -- On June 8, PATEO (02889.HK) disclosed a voluntary announcemen",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Veritone, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - VERI",
+              "url": "https://www.prnewswire.com/news-releases/veritone-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--veri-302793647.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "LOS ANGELES, June 8, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action laws",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "PATEO Teams Up with Xunce Technology and Saimo Technology to Define a New Paradigm for In-Vehicle AI Value Exchange",
+              "url": "https://www.prnewswire.com/news-releases/pateo-teams-up-with-xunce-technology-and-saimo-technology-to-define-a-new-paradigm-for-in-vehicle-ai-value-exchange-302793798.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "SHANGHAI, June 8, 2026 /PRNewswire/ -- On June 8, PATEO (02889.HK) disclosed a voluntary announcemen",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "SRAD Investors Have Opportunity to Join Sportradar Group AG Fraud Investigation with the Schall Law Firm",
+              "url": "https://www.prnewswire.com/news-releases/srad-investors-have-opportunity-to-join-sportradar-group-ag-fraud-investigation-with-the-schall-law-firm-302793644.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "LOS ANGELES, June 8, 2026 /PRNewswire/ -- The Schall Law Firm, a national shareholder rights litigat",
+              "tags": [],
               "score": 3
             },
             {
@@ -13675,17 +13753,6 @@
               "summary": "Amid improved automation and efficiencies, production rises, but employment doesn’t, or only a littl",
               "tags": [],
               "score": 3
-            },
-            {
-              "title": "我測試了 Eufy Omni S2，它在幾乎所有方面都表現出色，除了這一件事",
-              "url": "https://www.tomsguide.com/home/smart-home/i-tested-the-eufy-omni-s2-and-it-excels-in-just-about-everything-except-this-one-thing",
-              "published": "2026-06-01",
-              "outlet": "Tom's Guide Smart Home",
-              "summary": "Eufy Omni S2 在吸力、拖地與適應性上表現優異，唯獨在單一功能上仍有不足。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 2
             },
             {
               "title": "AI在你最需要時忽略宗教——而當你詢問轉換時卻會選邊站",
