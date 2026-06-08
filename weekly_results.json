@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-08 07:50 UTC",
+  "generated_at": "2026-06-08 07:57 UTC",
   "week_start": "2026-06-01",
   "week_end": "2026-06-08",
-  "total": 1366,
+  "total": 1373,
   "categories": [
     {
       "name": "AIoT",
@@ -560,48 +560,58 @@
           "name": "機器人",
           "articles": [
             {
-              "title": "LG Teams with NVIDIA to Shape the Future with M.A.P. (Mobility / AI Infra / Physical AI)",
+              "title": "LG 與 NVIDIA 合作以 M.A.P. (Mobility / AI Infra / Physical AI) 塑造未來",
               "url": "https://www.prnewswire.com/news-releases/lg-teams-with-nvidia-to-shape-the-future-with-map-mobility--ai-infra--physical-ai-302793797.html",
               "published": "2026-06-08",
               "outlet": "PR Newswire",
-              "summary": "SEOUL, South Korea, June 8, 2026 /PRNewswire/ -- LG and NVIDIA are expanding their strategic collabo",
-              "tags": [],
-              "score": 3
+              "summary": "LG 與 NVIDIA 擴大策略合作，涵蓋 Mobility、AI Infra 及 Physical AI 領域。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 4
             },
             {
-              "title": "TARS présente l'IA incarnée en situation réelle à la conférence ICRA 2026 sur la robotique",
+              "title": "TARS 在 ICRA 2026 機器人會議展示真實情境下的具身 AI",
               "url": "https://www.prnewswire.com/news-releases/tars-presente-lia-incarnee-en-situation-reelle-a-la-conference-icra-2026-sur-la-robotique-302790687.html",
               "published": "2026-06-08",
               "outlet": "PR Newswire",
-              "summary": "TARS DexHand ouvre une nouvelle ère dans l'intégration main-cerveau VIENNE, 8 juin 2026 /PRNewswire/",
-              "tags": [],
+              "summary": "TARS 在 ICRA 2026 展示 DexHand，開啟手腦整合新時代。",
+              "tags": [
+                "🏢品牌動態"
+              ],
               "score": 3
             },
             {
-              "title": "TARS Brings Real-Life Embodied AI to ICRA 2026 Robotics Conference",
+              "title": "TARS 在 ICRA 2026 機器人會議展示真實情境下的具身 AI",
               "url": "https://www.prnewswire.com/news-releases/tars-brings-real-life-embodied-ai-to-icra-2026-robotics-conference-302790438.html",
               "published": "2026-06-08",
               "outlet": "PR Newswire",
-              "summary": "TARS DexHand Signals a New Era of Hand-Brain Integration VIENNA, June 8, 2026 /PRNewswire/ -- TARS c",
-              "tags": [],
+              "summary": "TARS 在 ICRA 2026 展示 DexHand，開啟手腦整合新時代。",
+              "tags": [
+                "🏢品牌動態"
+              ],
               "score": 3
             },
             {
-              "title": "TARS Brings Real-Life Embodied AI to ICRA 2026 Robotics Conference",
+              "title": "TARS 在 ICRA 2026 機器人會議展示真實情境下的具身 AI",
               "url": "https://www.prnewswire.com/news-releases/tars-brings-real-life-embodied-ai-to-icra-2026-robotics-conference-302790448.html",
               "published": "2026-06-08",
               "outlet": "PR Newswire",
-              "summary": "TARS DexHand Signals a New Era of Hand-Brain Integration VIENNA, June 8, 2026 /PRNewswire/ -- TARS c",
-              "tags": [],
+              "summary": "TARS 在 ICRA 2026 展示 DexHand，開啟手腦整合新時代。",
+              "tags": [
+                "🏢品牌動態"
+              ],
               "score": 3
             },
             {
-              "title": "TARS präsentiert auf der ICRA 2026 Robotics Conference realitätsnahe, verkörperte KI",
+              "title": "TARS 在 ICRA 2026 機器人會議展示真實情境下的具身 AI",
               "url": "https://www.prnewswire.com/news-releases/tars-prasentiert-auf-der-icra-2026-robotics-conference-realitatsnahe-verkorperte-ki-302790800.html",
               "published": "2026-06-08",
               "outlet": "PR Newswire",
-              "summary": "TARS DexHand läutet eine neue Ära der Integration von Hand und Gehirn ein WIEN, 8. Juni 2026 /PRNews",
-              "tags": [],
+              "summary": "TARS 在 ICRA 2026 展示 DexHand，開啟手腦整合新時代。",
+              "tags": [
+                "🏢品牌動態"
+              ],
               "score": 3
             },
             {
@@ -2468,6 +2478,28 @@
                 "🏢品牌動態"
               ],
               "score": 3
+            },
+            {
+              "title": "效能或電池續航？部分 Galaxy S26 手機將不強迫用戶選擇",
+              "url": "https://www.androidauthority.com/samsung-galaxy-s26-new-performance-mode-3675304/",
+              "published": "2026-06-08",
+              "outlet": "Android Authority",
+              "summary": "Samsung 可能為 Galaxy S26 推出新效能設定檔，兼顧效能與電池續航。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 3
+            },
+            {
+              "title": "Google 舊款 Nest Mini 和 Audio 在新 Home 揚聲器到來前悄然退市",
+              "url": "https://www.androidauthority.com/new-google-home-speaker-nest-out-of-stock-3675300/",
+              "published": "2026-06-08",
+              "outlet": "Android Authority",
+              "summary": "Google 舊款 Nest Mini 及 Audio 產品在 Gemini 新 Home 揚聲器推出前悄然停產。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 2
             },
             {
               "title": "Oppo Pad 5 霧面顯示屏（又名 Air5）基準測試分數",
@@ -5458,6 +5490,24 @@
               "score": 5
             },
             {
+              "title": "Morning Bid: Blistering AI rally turns ugly",
+              "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-06-08/",
+              "published": "2026-06-08",
+              "outlet": "Reuters",
+              "summary": "亞洲科技股大跌，韓國KOSPI重挫逾8%觸發熔斷，AI熱潮急凍。",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Nvidia CEO says company is working with LG on humanoid robots and data centers",
+              "url": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-says-company-is-working-with-lg-humanoid-robots-data-centers-2026-06-08/",
+              "published": "2026-06-08",
+              "outlet": "Reuters",
+              "summary": "Nvidia與LG集團合作開發人形機器人及數據中心架構。",
+              "tags": [],
+              "score": 3
+            },
+            {
               "title": "Snowflake、Databricks 和模型製造商：代理客戶端和 AI 後端的戰鬥",
               "url": "https://siliconangle.com/2026/06/07/snowflake-databricks-model-makers-battle-agentic-client-ai-back-end/",
               "published": "2026-06-07",
@@ -5839,12 +5889,14 @@
           "name": "電動車",
           "articles": [
             {
-              "title": "The 2027 Cadillac Lyriq Is Keeping A Big Feature All Other GM EVs Have Already Lost",
+              "title": "2027 年 Cadillac Lyriq 保留其他 GM EVs 已失去的重要功能",
               "url": "https://insideevs.com/news/798034/2027-cadillac-lyriq-apple-carplay-nacs/",
               "published": "2026-06-08",
               "outlet": "InsideEVs",
-              "summary": "The updated luxury electric crossover is also getting a Tesla-style charge port and a small price bu",
-              "tags": [],
+              "summary": "更新版 Cadillac Lyriq 將配備 Tesla 式充電埠並小幅漲價。",
+              "tags": [
+                "🏢品牌動態"
+              ],
               "score": 3
             },
             {
@@ -6360,13 +6412,16 @@
           "name": "綜合",
           "articles": [
             {
-              "title": "Hampshire awards Believ major LEVI charging contract",
+              "title": "Hampshire 授予 Believ 重大 LEVI 充電合約",
               "url": "https://www.electrive.com/2026/06/08/hampshire-awards-believ-major-levi-charging-contract/",
               "published": "2026-06-08",
               "outlet": "electrive",
-              "summary": "Hampshire County Council has selected Believ to deploy 17,180 public EV charge points across the cou",
-              "tags": [],
-              "score": 3
+              "summary": "Hampshire County Council 選擇 Believ 在全郡部署 17,180 個公共 EV 充電點。",
+              "tags": [
+                "📊有數字",
+                "🏢品牌動態"
+              ],
+              "score": 5
             },
             {
               "title": "新款 Danfoss 液壓泵將設備運行時間提升 50%",
@@ -7677,6 +7732,15 @@
           "name": "關稅與貿易戰",
           "articles": [
             {
+              "title": "中國軍方徘徊 全球高管湧向台灣科技展",
+              "url": "https://www.reuters.com/world/asia-pacific/chinese-military-hovered-global-executives-flocked-taiwan-tech-show-2026-06-08/",
+              "published": "2026-06-08",
+              "outlet": "Reuters",
+              "summary": "Computex期間中國79架戰機近台，凸顯AI供應鏈風險。",
+              "tags": [],
+              "score": 3
+            },
+            {
               "title": "Warren邀請Nvidia執行長Jensen Huang參加關於中國AI晶片銷售的參議院聽證會",
               "url": "https://www.cnbc.com/2026/06/04/nvidia-ceo-jensen-huang-warren-senate-hearing-china-ai-chips.html",
               "published": "2026-06-05",
@@ -7766,6 +7830,39 @@
               "summary": "HTX 推出 Appreciation Program，投入超過 1000 萬美元回饋用戶。",
               "tags": [
                 "📊有數字",
+                "🏢品牌動態"
+              ],
+              "score": 4
+            },
+            {
+              "title": "PATEO 與 Xunce Technology 和 Saimo Technology 合作定義車載 AI 價值交換新典範",
+              "url": "https://www.prnewswire.com/news-releases/pateo-teams-up-with-xunce-technology-and-saimo-technology-to-define-a-new-paradigm-for-in-vehicle-ai-value-exchange-302793803.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "PATEO (02889.HK) 於6月8日宣布與Xunce Technology及Saimo Technology簽署三方戰略合作協議。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 4
+            },
+            {
+              "title": "PATEO 與 Xunce Technology 和 Saimo Technology 合作定義車載 AI 價值交換新典範",
+              "url": "https://www.prnewswire.com/news-releases/pateo-teams-up-with-xunce-technology-and-saimo-technology-to-define-a-new-paradigm-for-in-vehicle-ai-value-exchange-302793798.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "PATEO (02889.HK) 於6月8日宣布與Xunce Technology及Saimo Technology簽署三方戰略合作協議。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 4
+            },
+            {
+              "title": "Curasight 公布 uTREAT® 用於侵襲性腦癌的 Phase 1 臨床試驗初步結果",
+              "url": "https://www.prnewswire.com/news-releases/curasight-announces-preliminary-readout-from-its-phase-1-clinical-trial-with-utreat-in-aggressive-brain-cancer-glioblastoma-302793813.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "Curasight 宣布 uTREAT® 治療膠質母細胞瘤的 Phase 1 臨床試驗初步讀數結果令人鼓舞。",
+              "tags": [
                 "🏢品牌動態"
               ],
               "score": 4
@@ -7951,42 +8048,6 @@
               "score": 3
             },
             {
-              "title": "PATEO Teams Up with Xunce Technology and Saimo Technology to Define a New Paradigm for In-Vehicle AI Value Exchange",
-              "url": "https://www.prnewswire.com/news-releases/pateo-teams-up-with-xunce-technology-and-saimo-technology-to-define-a-new-paradigm-for-in-vehicle-ai-value-exchange-302793803.html",
-              "published": "2026-06-08",
-              "outlet": "PR Newswire",
-              "summary": "SHANGHAI, June 8, 2026 /PRNewswire/ -- On June 8, PATEO (02889.HK) disclosed a voluntary announcemen",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Veritone, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - VERI",
-              "url": "https://www.prnewswire.com/news-releases/veritone-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--veri-302793647.html",
-              "published": "2026-06-08",
-              "outlet": "PR Newswire",
-              "summary": "LOS ANGELES, June 8, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action laws",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "PATEO Teams Up with Xunce Technology and Saimo Technology to Define a New Paradigm for In-Vehicle AI Value Exchange",
-              "url": "https://www.prnewswire.com/news-releases/pateo-teams-up-with-xunce-technology-and-saimo-technology-to-define-a-new-paradigm-for-in-vehicle-ai-value-exchange-302793798.html",
-              "published": "2026-06-08",
-              "outlet": "PR Newswire",
-              "summary": "SHANGHAI, June 8, 2026 /PRNewswire/ -- On June 8, PATEO (02889.HK) disclosed a voluntary announcemen",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "SRAD Investors Have Opportunity to Join Sportradar Group AG Fraud Investigation with the Schall Law Firm",
-              "url": "https://www.prnewswire.com/news-releases/srad-investors-have-opportunity-to-join-sportradar-group-ag-fraud-investigation-with-the-schall-law-firm-302793644.html",
-              "published": "2026-06-08",
-              "outlet": "PR Newswire",
-              "summary": "LOS ANGELES, June 8, 2026 /PRNewswire/ -- The Schall Law Firm, a national shareholder rights litigat",
-              "tags": [],
-              "score": 3
-            },
-            {
               "title": "Camel Energy GmbH 在 AABC Europe 2026 展示先進電池技術",
               "url": "https://www.prnewswire.com/news-releases/camel-energy-gmbh-showcases-advanced-battery-technologies-at-aabc-europe-2026-302793659.html",
               "published": "2026-06-08",
@@ -8116,6 +8177,39 @@
               "summary": "Tethis 宣布於 EACR 會議商業推出 SmartBioSurface® 玻片。",
               "tags": [
                 "🏢品牌動態"
+              ],
+              "score": 2
+            },
+            {
+              "title": "Veritone, Inc. 遭證券法違規起訴 - 聯絡 DJS Law Group 討論您的權利 - VERI",
+              "url": "https://www.prnewswire.com/news-releases/veritone-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--veri-302793647.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "DJS Law Group 提醒投資者對 Veritone, Inc. 提起集體訴訟。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 2
+            },
+            {
+              "title": "SRAD 投資者可加入 Schall Law Firm 對 Sportradar Group AG 的詐欺調查",
+              "url": "https://www.prnewswire.com/news-releases/srad-investors-have-opportunity-to-join-sportradar-group-ag-fraud-investigation-with-the-schall-law-firm-302793644.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "Schall Law Firm 宣布調查 Sportradar Group AG 的股東權利訴訟索賠。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 2
+            },
+            {
+              "title": "PHR 投資者可由 Schall Law Firm 領導對 Phreesia, Inc. 的證券詐欺訴訟",
+              "url": "https://www.prnewswire.com/news-releases/phr-investors-have-opportunity-to-lead-phreesia-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302793646.html",
+              "published": "2026-06-08",
+              "outlet": "PR Newswire",
+              "summary": "Schall Law Firm 提醒投資者對 Phreesia, Inc. 提起集體訴訟。",
+              "tags": [
+                "📋政策法規"
               ],
               "score": 2
             },
