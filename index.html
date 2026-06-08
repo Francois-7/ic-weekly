@@ -27,7 +27,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .badge { background: var(--accent); color: white; font-size: 10px; padding: 2px 7px; border-radius: 20px; font-weight: 600; margin-left: 6px; }
 .topbar-right { display: flex; align-items: center; gap: 8px; }
 .meta-text { font-size: 10px; color: var(--text3); display: none; }
-.archive-btn { padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 600; cursor: pointer; border: 1px solid var(--border); background: var(--surface2); color: var(--text2); }
+.archive-btn { padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 600; cursor: pointer; border: 1px solid var(--border); background: var(--surface2); color: var(--text2); white-space: nowrap; }
 .lang-switcher { display: flex; gap: 2px; background: var(--surface2); border-radius: 8px; padding: 2px; }
 .lang-btn { padding: 3px 8px; border-radius: 5px; font-size: 11px; font-weight: 600; cursor: pointer; border: none; background: transparent; color: var(--text3); }
 .lang-btn.active { background: var(--accent); color: white; }
@@ -97,12 +97,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     display: flex;
     gap: 6px;
     overflow-x: auto;
-    padding: 10px 12px;
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    position: sticky;
-    top: 0;
-    z-index: 100;
+    padding: 10px 0 10px 0;
+    margin-bottom: 12px;
     scrollbar-width: none;
   }
   .mobile-subtab::-webkit-scrollbar { display: none; }
@@ -203,11 +199,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     <div class="center"><div class="spinner"></div></div>
   </nav>
 
-  <!-- 主內容區（手機版含頂部子板塊Tab） -->
+  <!-- 主內容區 -->
   <div style="flex:1;display:flex;flex-direction:column;overflow:hidden;">
-    <!-- 手機版子板塊Tab -->
-    <div class="mobile-subtab" id="mobile-subtab"></div>
-    <!-- 文章列表 -->
     <main class="main" id="main">
       <div class="center"><div class="spinner"></div></div>
     </main>
@@ -273,7 +266,6 @@ function renderAll() {
   updateMeta();
   renderDesktopSidebar();
   renderMobileBottomNav();
-  renderMobileSubtab();
   renderArticles();
 }
 
@@ -343,6 +335,14 @@ function renderArticles() {
   if (!sub) return;
   const arts = sub.articles||[];
 
+  // 手機版子板塊Tab HTML
+  const subtabHtml = `<div class="mobile-subtab" id="mobile-subtab">
+    ${cat.subtopics.map((s,si)=>`
+      <button class="subtab-btn ${currentSub===si?'active':''}" onclick="selectSub(${currentCat},${si})">
+        ${subName(s.name)} <span style="opacity:0.6;font-size:10px;">${s.articles?.length||0}</span>
+      </button>`).join("")}
+  </div>`;
+
   const articlesHtml = arts.length===0
     ? `<div class="empty-state">${t("empty")}</div>`
     : arts.map(a=>`
@@ -362,7 +362,14 @@ function renderArticles() {
       <span class="page-sub" style="display:${isMobile()?'none':''};">／ ${subName(sub.name)}</span>
       <span class="page-count">${arts.length} ${t("articles")}</span>
     </div>
+    ${subtabHtml}
     <div class="articles-container">${articlesHtml}</div>`;
+
+  // 捲到選中的subtab
+  setTimeout(()=>{
+    const active = document.querySelector("#mobile-subtab .subtab-btn.active");
+    if(active) active.scrollIntoView({inline:"center",behavior:"smooth"});
+  },50);
 }
 
 function selectCat(ci) {
@@ -376,7 +383,6 @@ function selectSub(ci, si) {
   currentCat = ci;
   currentSub = si;
   renderDesktopSidebar();
-  renderMobileSubtab();
   renderArticles();
   document.getElementById("main").scrollTop = 0;
 }
