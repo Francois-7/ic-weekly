@@ -13,6 +13,12 @@
   --bottom-nav-h: 60px;
   --top-sub-h: 44px;
 }
+/* 日間模式 */
+body.light {
+  --bg: #f8fafc; --surface: #ffffff; --surface2: #f1f5f9;
+  --border: #e2e8f0; --text: #0f172a; --text2: #475569;
+  --text3: #94a3b8; --accent: #6366f1;
+}
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
 
 /* ── Topbar ── */
@@ -144,8 +150,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     padding: 6px 2px;
   }
   .bottom-nav-item.active { background: var(--surface2); }
-  .bottom-nav-icon { font-size: 18px; line-height: 1; }
-  .bottom-nav-label { font-size: 9px; color: var(--text3); font-weight: 600; }
+  .bottom-nav-icon { font-size: 20px; line-height: 1; display: block; }
+  .bottom-nav-label { font-size: 9px; color: var(--text3); font-weight: 600; display: block; margin-top: 2px; }
   .bottom-nav-item.active .bottom-nav-label { color: var(--accent); }
 
   /* 手機版article稍微簡化 */
@@ -170,6 +176,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
   <div class="topbar-right">
     <span class="meta-text" id="meta-text"></span>
     <button class="archive-btn" onclick="showArchive()">📁 往期</button>
+    <button class="archive-btn" id="theme-btn" onclick="toggleTheme()">☀️</button>
     <div class="lang-switcher">
       <button class="lang-btn active" onclick="setLang('zh-TW')">繁</button>
       <button class="lang-btn" onclick="setLang('zh-CN')">简</button>
@@ -412,8 +419,27 @@ async function loadArchive(file, week) {
   }
 }
 
+/* ── 日夜模式 ── */
+function toggleTheme() {
+  const isLight = document.body.classList.toggle("light");
+  document.getElementById("theme-btn").textContent = isLight ? "🌙" : "☀️";
+  localStorage.setItem("theme", isLight ? "light" : "dark");
+}
+
+function initTheme() {
+  // 優先用上次選擇，否則跟隨系統
+  const saved = localStorage.getItem("theme");
+  const preferLight = window.matchMedia("(prefers-color-scheme: light)").matches;
+  const useLight = saved ? saved === "light" : preferLight;
+  if (useLight) {
+    document.body.classList.add("light");
+    document.getElementById("theme-btn").textContent = "🌙";
+  }
+}
+
 /* ── 初始化 ── */
 async function init() {
+  initTheme();
   try {
     const res = await fetch(DATA_URL);
     if (!res.ok) throw new Error(`${res.status}`);
