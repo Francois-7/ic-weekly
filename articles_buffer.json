@@ -1515,19 +1515,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "歐元區通脹率達到3.2%，因伊朗戰爭推升能源成本",
-    "url": "https://www.cnbc.com/2026/06/02/inflation-euro-zone-iran-energy-costs.html",
-    "content": "Energy costs in the region surged by an annual rate of 10.9% in May.",
-    "published": "2026-06-02",
-    "published_ts": 1780393628.0,
-    "outlet": "CNBC Economy",
-    "fetched_at": "2026-06-07T16:25:34Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Bronstein, Gewirtz & Grossman LLC敦促GeneDx Holdings Corp.投資人採取行動：已提起集體訴訟指控投資人受損",
     "url": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-genedx-holdings-corp-investors-to-act-class-action-filed-alleging-investor-harm-302792165.html",
     "content": "NEW YORK, June 7, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against GeneDx Holdings Corp. (NASDAQ: WGS) and certain of its officers. This lawsuit seeks to recover damages...",
@@ -4895,24 +4882,6 @@
     "score": 3
   },
   {
-    "title": "Samsung 在 One UI 9 中改變您關閉 Galaxy 的方式以保護您",
-    "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-is-changing-how-you-turn-off-your-galaxy-in-one-ui-9-for-your-protection",
-    "content": "Samsung was spotted adding changes to the power-off process of phones in One UI 9, and it has the users' security in mind.",
-    "published": "2026-06-02",
-    "published_ts": 1780393620.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-06-07T16:25:35Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Samsung One UI 9 調整 Galaxy 關機流程以強化安全性。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "據報 OpenAI 將對 ChatGPT 進行重大 overhaul",
     "url": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
     "content": "The revamped AI tool will roll out in the coming weeks, according to The Financial Times.",
@@ -5733,24 +5702,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Direct-to-Cell 技術：為舊有裝置啟用衛星連接",
-    "url": "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/",
-    "content": "Direct-to-cell technology uses LEO satellites as spaceborne cell towers. It delivers LTE services to existing smartphones without hardware changes, bridging global coverage gaps. What Attendees will Learn How DTC works as a spaceborne cell tower — LEO satellites carry LTE eNodeB payloads in regenerative mode. How they serve unmodified phones using quasi-earth-fixed multi-beam antennas. How the sat",
-    "published": "2026-06-02",
-    "published_ts": 1780394402.0,
-    "outlet": "IEEE Spectrum",
-    "fetched_at": "2026-06-07T16:25:37Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Direct-to-Cell技術利用LEO衛星作為基地台，讓現有智慧手機無需硬體改動即可使用LTE服務。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
     "title": "什麼是 Physical AI 以及它如何在工廠運作？",
     "url": "https://www.iiot-world.com/smart-manufacturing/physical-ai-manufacturing-robotics-roi/",
     "content": "Physical AI integrates artificial intelligence software with physical factory hardware, from robotic arms and mobile manipulators to quadruped sensor platforms, so machines can see, reason, and adapt to real-world conditions without human guidance at every step. Companies including Cambrian Vision (Germany), Inbold (France), and Path Robotics (US) are deploying these systems for tasks from flexibl",
@@ -5803,24 +5754,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "預測性維護 ROI：高階主管指南",
-    "url": "https://www.iiot-world.com/predictive-analytics/predictive-maintenance/predictive-maintenance-roi-executive-guide/",
-    "content": "Manufacturing executives today are navigating a severely stressed business environment. Facilities face margin pressures, patchy demand recovery, extreme energy volatility, and supply chain disruptions. Compounding these challenges is a massive skilled labor shortage: more than 30% of maintenance and operator positions remain unfilled. Equipment reliability has become a top-level business priority",
-    "published": "2026-06-02",
-    "published_ts": 1780387213.0,
-    "outlet": "IIoT World",
-    "fetched_at": "2026-06-07T16:25:38Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "製造業高層在利潤壓力與需求波動下，透過預測性維護提升設備投資報酬率。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
   },
   {
     "title": "連接式酒精監測安裝基數在北美和歐洲達到約 56 萬台",
@@ -6387,24 +6320,6 @@
       "🏢品牌動態"
     ],
     "score": 4
-  },
-  {
-    "title": "‘Spatial’ 社交 XR 平台結束 Metaverse 野心，轉向企業",
-    "url": "https://roadtovr.com/spatial-social-xr-enterprise-pivot/",
-    "content": "Spatial, the parent company to Animal Company studio Wooster Games, announced it’s closing down its own Spatial Creator platform, ending free and pro subscription tiers and discontinuing 3D world hosting next month—effectively ending the platform’s metaverse ambitions. Spatial, which released its app at the height of the COVID-19 pandemic in late 2020, confirmed that Enterprise […] The post ‘Spati",
-    "published": "2026-06-02",
-    "published_ts": 1780397002.0,
-    "outlet": "Road to VR",
-    "fetched_at": "2026-06-07T16:25:41Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "Spatial 關閉 Creator 平台，結束 Metaverse 野心轉向企業。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "合作 VR 恐怖提取遊戲 Inwigo 本週末進行免費遊戲測試",
@@ -10551,25 +10466,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Amazon Prime Day 2026 日期公布，避免與重大活動衝突",
-    "url": "https://9to5mac.com/2026/06/02/amazon-prime-day-2026-dates-announced-avoiding-major-event-clashes/",
-    "content": "The dates for Amazon Prime Day 2026 have now been announced, with the company stating it is bringing the event forward from its traditional July timing in order to avoid clashing with a couple of major events. Amazon had previously announced earlier timings but not stated the dates. The company has now said that it wanted to avoid the FIFA World Cup and the 250th anniversary US Independence Day … ",
-    "published": "2026-06-02",
-    "published_ts": 1780397448.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Amazon 公布 2026 年 Prime Day 日期，提前舉行以避免與重大活動衝突。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
   },
   {
     "title": "Galaxy S26 FE 在實機圖中洩露，配備更新、略顯奇特的相機凸起",
@@ -15807,19 +15703,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "數據中心正成為電力市場的決定性力量——再生能源能跟得上嗎？",
-    "url": "https://www.energymonitor.ai/analysis/powering-data-centres/",
-    "content": "AI-driven growth in computing is turning data centres into one of the largest new sources of electricity demand – can renewables keep up?",
-    "published": "2026-06-02",
-    "published_ts": 1780389468.0,
-    "outlet": "Energy Monitor",
-    "fetched_at": "2026-06-07T16:25:51Z",
-    "classified": true,
-    "translated": false,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
     "title": "以色列在真主黨攻擊後襲擊貝魯特，可能引發伊朗回應",
     "url": "https://www.axios.com/2026/06/07/israel-strikes-lebanon-beirut-iran-response-trump",
     "content": "Israel struck Beirut's southern suburbs Sunday in retaliation to a Hezbollah missile attack on northern Israel, Israeli officials said. Why it matters: Iran threatened last week to launch a missile attack against Israel if it attacks Beirut. Such a move could unravel U.S.–Iran negotiations and reignite the war. Israel notified the Trump administration before the strike, a U.S. official and two oth",
@@ -16538,102 +16421,6 @@
       "📋政策法規"
     ],
     "score": 3
-  },
-  {
-    "title": "Just lead: 當今CEO應對當前局勢的6種方法",
-    "url": "https://www.axios.com/2026/06/02/ceo-leadership-employees-communication",
-    "content": "This is Axios CEO Jim VandeHei's plan to help CEOs and other leaders navigate this moment. This call to action, which got a sneak peek over the weekend in his C-Suite newsletter, is a follow-up to our Monday column, \" The Rattled Generation .\" Watch Jim's video . Americans have lost faith in almost every binding institution and leader — except the CEO. The 2026 Edelman Trust Barometer is unambiguo",
-    "published": "2026-06-02",
-    "published_ts": 1780393440.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Axios CEO提出6種方法協助CEO因應當前局勢。",
-    "score": 1
-  },
-  {
-    "title": "民主黨關於黨未來的鬥爭將在週二的選票上見分曉",
-    "url": "https://www.axios.com/2026/06/02/democrats-primaries-progressives-moderates",
-    "content": "The battle for the soul of the Democratic Party is on the ballot Tuesday, with at least a half-dozen primaries across the country testing which wing of the party has the most juice heading into the 2026 midterms. Why it matters: Progressive and moderate Democrats have been locked in a fierce debate over how to rebuild the party's brand since its candidates lost to Donald Trump for a second time in",
-    "published": "2026-06-02",
-    "published_ts": 1780392007.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Anthropic在IPO前遭遇AI支出反彈",
-    "url": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage",
-    "content": "Anthropic filed paperwork to go public just as corporate America is entering its AI sticker shock phase. Why it matters: Companies are Anthropic's biggest customers. If they dial down their AI spend, that could weaken the AI lab's revenue just as the it prepares to IPO. Driving the news: Hours after Anthropic filed its pre-IPO paperwork, OpenAI CEO Sam Altman told CNBC that corporate concern over ",
-    "published": "2026-06-02",
-    "published_ts": 1780391584.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic提交IPO文件，企業正進入AI支出震驚階段。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "美國製造業復甦混亂不清",
-    "url": "https://www.axios.com/2026/06/02/manufacturing-ism-trump-iran",
-    "content": "Data: Institute for Supply Management via FactSet ; Chart: Courtenay Brown/Axios This is the chart that White House economic officials want you to see: A closely watched industry survey suggests a long U.S. manufacturing slump is giving way to a factory rebound. Why it matters: By this measure, the manufacturing recession is over. Activity across the sector expanded for a fifth straight month in M",
-    "published": "2026-06-02",
-    "published_ts": 1780391407.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "獨家報導：上班族擁抱OpenAI的Codex",
-    "url": "https://www.axios.com/2026/06/02/openai-codex-knowledge-workers",
-    "content": "Knowledge workers now make up roughly one-fifth of OpenAI's Codex users and are growing more than three times as fast as developers, according to a new OpenAI report shared first with Axios. Why it matters: AI has made it easier to crank out documents, emails, decks and dashboards, and OpenAI is now betting agents can help workers make sense of them. The big picture: Previous waves of workplace so",
-    "published": "2026-06-02",
-    "published_ts": 1780390807.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "上班族已占OpenAI Codex用戶約五分之一，成長速度為開發者三倍以上。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "新任「60 Minutes」負責人面臨反彈，員工譴責變革",
-    "url": "https://www.axios.com/2026/06/02/60-minutes-nick-bilton-cbs-news",
-    "content": "Nick Bilton , the newly installed executive producer of \"60 Minutes,\" faces a crisis of confidence as senior CBS News staffers openly rebuke his appointment amid broader backlash to changes at the show and network. Why it matters: \"60 Minutes\" has spent more than 50 consecutive seasons as the top-rated news program in the country. Its insular culture within CBS News is what insiders credit for pre",
-    "published": "2026-06-02",
-    "published_ts": 1780390208.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Nick Bilton新任60 Minutes執行製作人，CBS資深員工公開反對其任命引發信任危機。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 1
   },
   {
     "title": "國債市場醞釀麻煩",
@@ -33088,5 +32875,225 @@
     "translated": true,
     "category": "總體經濟",
     "subtopic": "關稅與貿易戰"
+  },
+  {
+    "title": "CyberCube lands first Austrian client",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/cybercube-lands-first-austrian-client-102738280.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781000858.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Oil falls as investors await clarity after Iran-Israel halt attacks",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/oil-rises-slightly-investors-await-004702356.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781000671.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Analysis-Alberta pitches cheap natural gas for data center boom, at odds with Canada's clean power aims",
+    "url": "https://finance.yahoo.com/news/analysis-alberta-pitches-cheap-natural-101727917.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781000648.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Analysis-Short-sellers to tread carefully as Musk's SpaceX debuts",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-short-sellers-tread-carefully-100115819.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999275.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Best money market account rates today, Tuesday, June 9, 2026: Earn up to 4.01% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-june-9-2026-100000352.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999200.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Are You a New Stock Market Investor in June 2026? Here's Warren Buffett's Advice.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-investor-june-2026-102300830.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781000580.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Best CD rates today, Tuesday, June 9, 2026: Lock in up to 4% APY today",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-june-9-2026-100000440.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999200.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "HELOC and home equity loan rates today, Tuesday, June 9, 2026: Home equity activity driven by low rates",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-june-9-2026-100000258.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999200.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Best high-yield savings interest rates today, Tuesday, June 9, 2026: Earn up to 4.10% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-9-2026-100000388.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999200.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Mortgage and refinance rates today, Tuesday, June 9, 2026: Rates on the rise",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-june-9-2026-100000893.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999200.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "IGI secures approval to open insurance office in India’s GIFT City",
+    "url": "https://finance.yahoo.com/economy/policy/articles/igi-secures-approval-open-insurance-102109182.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781000469.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as AI trade takes center stage",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-ai-trade-takes-center-stage-225640973.html",
+    "content": "",
+    "published": "2026-06-08",
+    "published_ts": 1780959400.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "We’re in our 60s, have $70,000 in savings and Social Security of about $3,780/month. How can we survive?",
+    "url": "https://finance.yahoo.com/sectors/healthcare/articles/60s-70-000-savings-social-091500406.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780996500.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Stocks get a boost from tech dip-buying; bonds flag",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-tentative-bounce-bonds-012110402.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780996313.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "AI agents could match human workforce in future, TCS Chairman Chandrasekaran says",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/indias-tcs-chairman-expects-ai-074336738.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780991941.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Why Nio Stock Skid 12% in May Despite 129% Growth in EV Sales",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-nio-stock-skid-12-102009207.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781000409.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "The Surprising Reason the SpaceX IPO Could Be Fueling the Bitcoin Sell-Off",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/surprising-reason-spacex-ipo-could-102000796.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781000400.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "GDS and Vnet Rally on Reports of Major China Data Center Investment Plan",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/gds-vnet-rally-reports-major-101047119.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999847.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "My Favorite S&P 500 Stock to Buy During the Dip",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/favorite-p-500-stock-buy-100500409.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999500.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Oxford Instruments H2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oxford-instruments-h2-earnings-call-100450340.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999490.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "Oil Retreats as Markets Assess Fragile Iran-Israel Ceasefire",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/oil-retreats-markets-assess-fragile-100040942.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999240.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
+  },
+  {
+    "title": "VPK Group takes full ownership of Fencor Packaging Group",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vpk-group-takes-full-ownership-100001667.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1780999201.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T10:51:57Z",
+    "classified": false
   }
 ]
