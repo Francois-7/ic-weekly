@@ -4687,115 +4687,6 @@
     "score": 3
   },
   {
-    "title": "Google 快速推出 Android 17 Beta 4.1 以解決推出前的問題",
-    "url": "https://www.androidcentral.com/apps-software/android-os/googles-got-a-quick-android-17-beta-4-1-rolling-out-to-address-issues-before-launch",
-    "content": "Google's Android 17 received a Beta 4.1 patch for enrolled testers ahead of its expected debut in mid-2026.",
-    "published": "2026-06-02",
-    "published_ts": 1780427653.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-06-07T16:25:35Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Google 發布 Android 17 Beta 4.1 修補程式，供測試者使用，預計 2026 年中正式推出。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "我戴了 007 First Light 中 James Bond 的智慧眼鏡，現在您也可以",
-    "url": "https://www.androidcentral.com/wearables/even-realities-g2-007-first-light",
-    "content": "How well do display smart glasses work? Even Realities G2 does things differently, including a smart ring for gesture control that even James Bond loves.",
-    "published": "2026-06-02",
-    "published_ts": 1780427649.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-06-07T16:25:35Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Even Realities G2 智慧眼鏡支援手勢控制，包含智慧戒指操作，類似 007 電影中的科技。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "討厭 Google 現在所做的一切？這款 Android 手機矛盾地正是您需要的",
-    "url": "https://www.androidcentral.com/phones/murena-fairphone-6-hands-on",
-    "content": "The Fairphone 6 is Murena's latest attempt at giving Android users more control over their smartphone data, and it's designed to stick around for years.",
-    "published": "2026-06-02",
-    "published_ts": 1780423320.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-06-07T16:25:35Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Fairphone 6 由 Murena 推出，強調用戶資料控制權與長時間支援，適合注重隱私的 Android 用戶。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Meta AI 被用來竊取許多知名 Instagram 帳戶，人們想要答案",
-    "url": "https://www.androidcentral.com/apps-software/meta/meta-ai-was-used-to-steal-many-high-profile-instagram-accounts-and-people-want-answers",
-    "content": "Meta's AI was reportedly responsible for aiding hackers in stealing user Instagram accounts, as no human workers are part of the process.",
-    "published": "2026-06-02",
-    "published_ts": 1780423213.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-06-07T16:25:35Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Meta AI 據報協助駭客竊取 Instagram 帳戶，且過程中無人工介入，引發用戶質疑。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Android 的六月大更新讓孩子們這個夏天保持安全，為手機新增「Fake Call」保護",
-    "url": "https://www.androidcentral.com/apps-software/android-os/android-big-june-drop-kids-safe-adds-fake-call-protections",
-    "content": "A big June Android Drop is on the way to phones this week, and Google detailed safety features for kids, call protections for phones, and more.",
-    "published": "2026-06-02",
-    "published_ts": 1780423200.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-06-07T16:25:35Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Android 六月更新新增兒童安全功能與「Fake Call」保護機制，本週將推送至手機。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Google 的六月 Android 更新將您的手機變成更聰明的購物和閱讀伴侶",
-    "url": "https://www.androidcentral.com/apps-software/android-os/googles-june-android-drop-turns-your-phone-into-a-smarter-shopping-and-reading-companion",
-    "content": "Google’s latest Android Drop packs smarter outfit search, an AI-powered digital wardrobe, enhanced reading tools, and new emoji mashups.",
-    "published": "2026-06-02",
-    "published_ts": 1780423200.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-06-07T16:25:35Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Google 六月 Android 更新加入 AI 智慧穿搭建議、數位衣櫥與強化閱讀工具等功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "據報 OpenAI 將對 ChatGPT 進行重大 overhaul",
     "url": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
     "content": "The revamped AI tool will roll out in the coming weeks, according to The Financial Times.",
@@ -9908,79 +9799,6 @@
     "score": 2
   },
   {
-    "title": "iOS 27 可能透過一項升級讓 AirPods 變得更強大",
-    "url": "https://9to5mac.com/2026/06/02/ios-27-could-make-airpods-a-lot-more-powerful-with-one-upgrade/",
-    "content": "iOS 27’s unveiling is almost here , and Siri’s major overhaul is set to make not only the iPhone feel far more powerful, but AirPods too. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780428313.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "iOS 27 的 Siri 大改版預計同步強化 AirPods 功能表現。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Microsoft CEO：我們正從 OS 和 app 轉向 agents",
-    "url": "https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/",
-    "content": "Today, Microsoft Build brought the announcement of Project Solara, a new chip-to-cloud platform for AI agents. With the reveal, Microsoft CEO Satya Nadella shared an interesting quote on the company’s vision for an agent-first computing future. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780426321.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Microsoft Build 發表 Project Solara，CEO 宣布從 OS 與 app 轉向 AI agents。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Perplexity Computer 增加在本地和雲端模型之間分割任務的能力",
-    "url": "https://9to5mac.com/2026/06/02/perplexity-computer-adding-ability-to-split-tasks-between-local-and-cloud-models/",
-    "content": "Perplexity has announced a major new feature coming soon to Perplexity Computer: the ability to split tasks between local and cloud models. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780422940.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Perplexity Computer 新功能可將任務分割在本地與雲端模型之間執行。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "DuckDuckGo 在 Google 的 AI 搜尋大改版後持續在 iPhone 上成長",
-    "url": "https://9to5mac.com/2026/06/02/duckduckgo-keeps-surging-on-iphone-after-googles-ai-search-overhaul/",
-    "content": "DuckDuckGo is riding a fresh wave of user interest after Google’s AI-heavy search overhaul demoed at Google I/O. Here’s the latest data on the search engine’s recent success, which is especially strong among iPhone users. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780422786.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Google AI 搜尋改版後，DuckDuckGo 在 iPhone 用戶數持續成長。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Galaxy S26 FE 在實機圖中洩露，配備更新、略顯奇特的相機凸起",
     "url": "https://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/",
     "content": "Ahead of its launch sometime later this year, Samsung’s Galaxy S26 FE has surfaced online early, showcasing a familiar, but slightly updated design. more…",
@@ -11141,60 +10959,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Google 推出 Pixel Buds Pro 2 和 Pixel Buds 2a 更新 [U]",
-    "url": "https://9to5google.com/2026/06/02/pixel-buds-pro-2-2a-update/",
-    "content": "Google on Wednesday afternoon announced a new software update for the Pixel Buds Pro 2 and Pixel Buds 2a. Related : Google Pixel Buds app update brings new gradient icon more…",
-    "published": "2026-06-02",
-    "published_ts": 1780428840.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Google 發布 Pixel Buds Pro 2 與 Pixel Buds 2a 軟體更新。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "六月 Android Drop：Quick Share AirDrop 擴展、Play Books 中的 AI 等，Android 17 即將推出",
-    "url": "https://9to5google.com/2026/06/02/june-2026-android-drop/",
-    "content": "Google today announced the latest spring features with the June Android Drop. At the same time, Google teased that “even more exciting updates [are] coming soon in Android 17.” more…",
-    "published": "2026-06-02",
-    "published_ts": 1780423200.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Google 推出六月 Android Drop，Quick Share 支援 AirDrop 並預告 Android 17。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Google Phone app 推出使用 RCS 的 Android 假來電偵測",
-    "url": "https://9to5google.com/2026/06/02/google-phone-fake-call-detection/",
-    "content": "Phone by Google wants to combat the “growing threat of impersonation scams” and protect Android users against “sophisticated, AI-powered deepfake attacks” with fake call detection. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780423200.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Google Phone app 新增 RCS 假來電偵測功能，防範 AI 深偽詐騙。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
   },
   {
     "title": "Anycubic Photon Mono 4 降至 $190 以下，省下零售價 21% — Amazon 特價這款入門級樹脂 3D 印表機省 $50",
@@ -13752,79 +13516,6 @@
     "summary_zh": "加州 Long Beach 市將新增 6 台 Beam Global 離網太陽能儲能 EV 充電器。",
     "tags": [
       "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Electrify America 正在改變 EV charging 的支付方式",
-    "url": "https://electrek.co/2026/06/02/electrify-america-is-changing-how-you-pay-for-ev-charging/",
-    "content": "Electrify America is changing how EV drivers pay for charging sessions, and it’s ditching one of the more confusing parts of its app in the process. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780427568.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Electrify America 簡化 EV 充電支付流程，移除 App 中較混亂的支付選項。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Lectric 剛推出新的 e-bike 公司，可能會撼動 premium market",
-    "url": "https://electrek.co/2026/06/02/lectric-just-launched-a-new-e-bike-company-and-it-could-shake-up-the-premium-market/",
-    "content": "When a new e-bike company launches, it’s usually not a huge deal. The industry sees new brands appear all the time, many of them little more than a logo slapped onto an existing bike from a Chinese catalog. But Monarc isn’t just another startup hoping to make a splash – it’s all but guaranteed to set off a tsunami. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780426800.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Lectric 推出新 e-bike 品牌，預計將以高性價比衝擊 premium 市場。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Anker 推出 SOLIX S2000 power station + bundles，從獨家 $598 起",
-    "url": "https://electrek.co/2026/06/02/anker-solix-s2000-power-station-bundles-from-exclusive-598-ego-z6-zero-turn-riding-mower-more/",
-    "content": "We’ve got some exciting Green Deals in our Tuesday edition this week, starting with Anker’s newly launched SOLIX S2000 Portable Power Station + bundles that start from $598 using our exclusive code (beating the standard $680 launch pricing). From there, we also spotted EGO’s Z6 56V 42-inch Cordless Electric Zero Turn Riding Mower with 6x batteries and an 880W wall charger hitting a new $4,499 low ",
-    "published": "2026-06-02",
-    "published_ts": 1780423200.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Anker 推出 SOLIX S2000 發電站組合，獨家售價自 598 美元起。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Subaru 的新 EVs 已經超越 Solterra 的銷量",
-    "url": "https://electrek.co/2026/06/02/subarus-new-evs-already-outselling-solterra/",
-    "content": "Just two months after arriving at dealerships, Subaru’s new electric SUVs are outselling the Solterra. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780422854.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Subaru 新款電動 SUV 上市兩個月，銷量已超越 Solterra。",
-    "tags": [
       "🏢品牌動態"
     ],
     "score": 3
@@ -33178,6 +32869,46 @@
     "published_ts": 1781018816.0,
     "outlet": "CNBC Tech",
     "fetched_at": "2026-06-09T17:52:40Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: Humana Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3068_AnalystReport_1781026875000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781026875.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T19:56:18Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: Enbridge Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3799_AnalystReport_1781026875000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781026875.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T19:56:18Z",
+    "classified": false
+  },
+  {
+    "title": "Market Update: ENB, AAPL, DVN, HUM",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47276_MarketUpdate_1781025975000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781025975.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-09T19:56:18Z",
+    "classified": false
+  },
+  {
+    "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect",
+    "url": "https://www.cnbc.com/2026/06/09/the-may-inflation-numbers-are-due-out-wednesday-morning-heres-what-to-expect.html",
+    "content": "If the Wall Street consensus is correct, the consumer price index is expected to show inflation running at a 4.2% annual rate.",
+    "published": "2026-06-09",
+    "published_ts": 1781034599.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-06-09T19:56:19Z",
     "classified": false
   }
 ]
