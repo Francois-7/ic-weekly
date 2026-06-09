@@ -11971,43 +11971,6 @@
     "score": 2
   },
   {
-    "title": "Walmart 現在販售 Google TV 電視組，起價 $250，包括「The Fresco」藝術電視 [圖庫]",
-    "url": "https://9to5google.com/2026/06/01/walmart-google-tv-the-fresco-art-tv/",
-    "content": "As rumored , Walmart has quietly debuted a collection of Onn-branded TV sets that are all powered by Google TV, with prices starting as low as $248. more…",
-    "published": "2026-06-02",
-    "published_ts": 1780362900.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Walmart 以 $250 起價販售 Google TV 電視組。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Android 2026 年六月 Google System Updates 有什麼新功能",
-    "url": "https://9to5google.com/2026/06/01/june-2026-google-system-updates/",
-    "content": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers. more…",
-    "published": "2026-06-01",
-    "published_ts": 1780358113.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Android 2026 年六月 Google System Updates 公布新功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Anycubic Photon Mono 4 降至 $190 以下，省下零售價 21% — Amazon 特價這款入門級樹脂 3D 印表機省 $50",
     "url": "https://www.tomshardware.com/pc-components/anycubic-photon-mono-4-dips-below-usd190-saving-you-21-percent-off-its-retail-price-amazon-deal-saves-usd50-on-this-entry-level-resin-3d-printer",
     "content": "The Anycubic Photon Mono 4 is on-sale at $189.99, giving you a $50 discount and saving you 21% off its retail price.",
@@ -16762,37 +16725,6 @@
       "🏢品牌動態"
     ],
     "score": 1
-  },
-  {
-    "title": "緬因州參議院初選前，民主黨人遭遇Platner最後一刻焦慮",
-    "url": "https://www.axios.com/2026/06/02/democrats-graham-platner-maine-senate-mills",
-    "content": "Democrats have been caught in the bind Senate Minority Leader Chuck Schumer (D-N.Y.) sought to avoid when he backed Gov. Janet Mills over Graham Platner in the Maine Senate race. Why it matters: Democrats must now support an untested and largely unvetted outsider as he faces intense media scrutiny over his relationship with women in a must-win race. ⏰ Maine's Democratic primary to take on Sen. Sus",
-    "published": "2026-06-02",
-    "published_ts": 1780359351.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Chuck Schumer支持Janet Mills而非Graham Platner，民主黨在緬因州參議院初選陷入困境。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 1
-  },
-  {
-    "title": "眾議院民主黨人為何「密切」關注加州國會初選",
-    "url": "https://www.axios.com/2026/06/01/california-election-matsui-thompson-sherman",
-    "content": "House Democrats are looking to Tuesday's primaries in California as a major test of the anti-incumbency sentiment among their voters. Why it matters: This will be the first time in the 2026 election when multiple House Democrats in their 70s and 80s face off against primary insurgents who have hammered them for their lengthy tenures. California Democratic Reps. Mike Thompson, Doris Matsui and Brad",
-    "published": "2026-06-01",
-    "published_ts": 1780357699.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
   },
   {
     "title": "國債市場醞釀麻煩",
@@ -24493,6 +24425,36 @@
     "published_ts": 1780952074.0,
     "outlet": "CNBC Tech",
     "fetched_at": "2026-06-08T23:08:07Z",
+    "classified": false
+  },
+  {
+    "title": "Asia chip-linked shares recover after U.S. peers bounce back",
+    "url": "https://www.cnbc.com/2026/06/09/asia-tech-stocks-rebound-after-wall-street-chip-shares-recover-.html",
+    "content": "In the U.S., chip stocks powered gains on Monday, helping the S&P 500 gain 0.3%, while the tech-heavy Nasdaq Composite advanced 0.86%.",
+    "published": "2026-06-09",
+    "published_ts": 1780968356.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-09T02:05:55Z",
+    "classified": false
+  },
+  {
+    "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC",
+    "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+    "content": "Perplexity CEO Aravind Srinivas' comments come after AI giant Anthropic confidentially filed to go public.",
+    "published": "2026-06-09",
+    "published_ts": 1780965883.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-09T02:05:55Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says sovereign AI is Nvidia's powerful new growth driver",
+    "url": "https://www.cnbc.com/2026/06/08/jim-cramer-says-sovereign-ai-is-nvidias-powerful-new-growth-driver.html",
+    "content": "CNBC's Jim Cramer said Nvidia's growing sovereign AI business could help reduce the company's dependence on hyperscalers.",
+    "published": "2026-06-08",
+    "published_ts": 1780959601.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-09T02:05:55Z",
     "classified": false
   }
 ]
