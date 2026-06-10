@@ -1458,24 +1458,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "ADP報告指出，5月民間就業人數增加12.2萬人，高於預期",
-    "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html",
-    "content": "Unlike prior months, where job growth was concentrated in healthcare and a few other sectors, gains were more broad-based.",
-    "published": "2026-06-03",
-    "published_ts": 1780496924.0,
-    "outlet": "CNBC Economy",
-    "fetched_at": "2026-06-07T16:25:34Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "ADP報告顯示5月美國民間就業增加12.2萬人，高於市場預期且分布更廣。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
-  },
-  {
     "title": "美國針對強迫勞動貿易行為，對60個經濟體提出新關稅",
     "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html",
     "content": "USTR has proposed a 10% duty rate for economies that have adopted a full or partial prohibition on forced labor trade, and 12.5% for all other economies.",
@@ -4595,25 +4577,6 @@
     "score": 3
   },
   {
-    "title": "Verizon 悄悄推出交易，讓您免費獲得 Google Pixel 10 Pro 以及 $100 禮品卡 — 他們甚至會免除啟用費",
-    "url": "https://www.androidcentral.com/phones/google-pixel/verizon-google-pixel-10-pro-deal-free-phone-w-gift-card-2026",
-    "content": "Add a line with an eligible unlimited plan and Verizon will give you a free Google Pixel 10 Pro and $100 gift card, just for kicks.",
-    "published": "2026-06-03",
-    "published_ts": 1780499910.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-06-07T16:25:35Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Verizon 推出促銷活動，申辦指定無限方案即可免費取得 Google Pixel 10 Pro 與 $100 禮品卡，並免除啟用費。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "據報 OpenAI 將對 ChatGPT 進行重大 overhaul",
     "url": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
     "content": "The revamped AI tool will roll out in the coming weeks, according to The Financial Times.",
@@ -5620,24 +5583,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "LPDDR6 路線圖指向資料中心",
-    "url": "https://www.eetimes.com/lpddr6-roadmap-leads-to-the-data-center/",
-    "content": "Low-power memory has evolved from its mobile device roots to meet the demands of AI data centers. The post LPDDR6 Roadmap Leads to the Data Center appeared first on EE Times .",
-    "published": "2026-06-03",
-    "published_ts": 1780497000.0,
-    "outlet": "EE Times",
-    "fetched_at": "2026-06-07T16:25:40Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機記憶體",
-    "summary_zh": "低功耗記憶體LPDDR6從行動裝置轉向AI資料中心需求。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "是的，Oura Ring 5 明顯更小",
     "url": "https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions",
     "content": "This is not an Oura Ring 5 review. That's coming later, once I've had enough time to really test the new durability and battery life claims, plus the new software updates that start rolling out today. In the meantime, I did want to provide an answer to a burning question that I've seen asked in […]",
@@ -5668,24 +5613,6 @@
     "category": "總體經濟",
     "subtopic": "綜合",
     "summary_zh": "整理適用Apple與Android手機的最佳Bluetooth追蹤器推薦。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Supernatural 畢竟還沒死",
-    "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
-    "content": "A few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks like Supernatural is getting a second chance. Today, […]",
-    "published": "2026-06-03",
-    "published_ts": 1780498800.0,
-    "outlet": "The Verge Wearables",
-    "fetched_at": "2026-06-07T16:25:40Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "Meta雖曾暫停Supernatural VR健身遊戲，但目前尚未完全結束。",
     "tags": [
       "🏢品牌動態"
     ],
@@ -6094,25 +6021,6 @@
     "score": 3
   },
   {
-    "title": "I Am Cat 是五月 PlayStation VR2 下載量最多的遊戲",
-    "url": "https://www.uploadvr.com/i-am-cat-was-the-most-downloaded-playstation-vr2-game-in-may/",
-    "content": "Following a May 6 shadow drop, I am Cat scampers up to the number one spot for PlayStation VR2.",
-    "published": "2026-06-03",
-    "published_ts": 1780503452.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-07T16:25:42Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "I Am Cat 成為五月 PlayStation VR2 下載量最多的遊戲。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "這款厚實的小平板讓我的孩子收拾玩具",
     "url": "https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review",
     "content": "Never underestimate the power that a cheap tablet holds over a kid under six. The Skylight Buddy is a device with one job: to be a cute little guy that helps your kid track routines and chores. It's $139.99, plus an optional subscription. And to my surprise, even though it offers a pretty limited set […]",
@@ -6124,24 +6032,6 @@
     "translated": false,
     "category": "手機",
     "subtopic": "平板與筆記本產品"
-  },
-  {
-    "title": "Dreame 的 L20 Ultra 掃地機器人以 280 美元是無可匹敵的優惠",
-    "url": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
-    "content": "The Dreame L20 Ultra isn’t the company’s newest model, but it’s still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance thanks to its included trash bin and AI obstacle avoidance. Verge readers can get for its best-ever price right now. Originally $1,400 when it launched in 2023, […]",
-    "published": "2026-06-03",
-    "published_ts": 1780498390.0,
-    "outlet": "The Verge Smart Home",
-    "fetched_at": "2026-06-07T16:25:42Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Dreame L20 Ultra 掃地機器人目前售價 280 美元，具強大吸塵與拖地功能。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
   },
   {
     "title": "太陽能板在陰天仍能幫您省錢——天氣會造成多大的差異",
@@ -6274,37 +6164,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "不要讓黑暗愚弄你。以破紀錄的30美元價格入手 Blink 有線泛光燈攝像頭",
-    "url": "https://www.cnet.com/deals/blink-wired-floodlight-camera-deal/",
-    "content": "Your porch will see fewer surprises with this $30 Blink Wired Floodlight camera that serves double duty.",
-    "published": "2026-06-03",
-    "published_ts": 1780504320.0,
-    "outlet": "CNET Smart Home",
-    "fetched_at": "2026-06-07T16:25:43Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Blink 有線泛光燈攝像頭以破紀錄 30 美元價格開賣，可同時提供照明與監控功能。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "如何正確安裝家庭安全攝像頭，由一個用各種方式安裝過的人",
-    "url": "https://www.cnet.com/home/security/how-to-mount-a-home-security-camera-the-right-way-from-someone-whos-done-it-every-way/",
-    "content": "From adhesive mounts to permanent screw-in bases, here's which security camera installation method works best and when.",
-    "published": "2026-06-03",
-    "published_ts": 1780491667.0,
-    "outlet": "CNET Smart Home",
-    "fetched_at": "2026-06-07T16:25:43Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
   },
   {
     "title": "iPhone Fold 照片洩露，Nvidia RTX Spark 正式發布，第23週回顧",
@@ -9256,170 +9115,6 @@
     "score": 4
   },
   {
-    "title": "CardioBot 整合了我最喜歡的 Apple Health 指標之一，提供更深入的心臟洞察",
-    "url": "https://9to5mac.com/2026/06/03/cardiobot-integrates-one-of-my-favorite-apple-health-metrics-for-deeper-heart-insight/",
-    "content": "Ever want to do more with your health data that Apple Watch gathers? CardioBot has long been a great way to unlock new insight into your heart health. The latest version integrates one of my favorite Apple Health metrics using Apple Watch. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780502552.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "CardioBot 整合 Apple Health 心臟數據，提供更深入健康洞察。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "iOS 26 的 CarPlay 新增了本來就該存在的設定",
-    "url": "https://9to5mac.com/2026/06/03/carplay-in-ios-26-added-new-setting-that-should-have-always-existed/",
-    "content": "While I’m eagerly awaiting iOS 27’s upgrades for CarPlay , I recently had my first hands-on experience with a new CarPlay setting that arrived in iOS 26, and it’s one that should have existed all along. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780501418.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "iOS 26 CarPlay 新增實用設定，改善使用者體驗。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "9to5Mac Daily：2026 年 6 月 3 日 – MacBook Neo 出貨等更多資訊",
-    "url": "https://9to5mac.com/2026/06/03/daily-june-3-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by CardPointers : The best way to maximize your credit card rewards. 9to5Mac Daily listeners can exclusively save 30% and get a $100 Savings Card. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780501234.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "平板與筆記本產品",
-    "summary_zh": "9to5Mac Daily 整理 2026 年 6 月 3 日 MacBook Neo 出貨等重點新聞。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "優惠：Prime Day 提前 AirPods 折扣、24GB MacBook Air、Apple Watch Ultra 3、Apple 線材 $7.50 起，更多",
-    "url": "https://9to5mac.com/2026/06/03/early-prime-day-deals-airpods-macbook-apple-watch-ultra/",
-    "content": "Amazon’s early Amazon Prime Day deals are now live alongside a solid price drop on AirPods Pro 3 (or up to $100 off via Amazon Resale – details here ) and the return of AirPods 4 at nearly 25% off. Today’s 9to5Toys Lunch Break aso features the most affordable 15-inch 24GB M5 MacBook Air at $200 off ($400 under the model Amazon sells), the black Apple Watch Ultra 3 at over $200 off and the most aff",
-    "published": "2026-06-03",
-    "published_ts": 1780500630.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Amazon Prime Day 提前開賣，AirPods 與 24GB MacBook Air 等 Apple 產品享折扣。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "據傳 iOS 27 將為 Apple Wallet 新增兩項重大功能",
-    "url": "https://9to5mac.com/2026/06/03/ios-27-will-reportedly-add-two-major-new-features-to-apple-wallet/",
-    "content": "We’re just a few days away from Apple’s official iOS 27 announcement . The update is expected to introduce new features across many Apple apps and Siri. Apple Wallet is one of the most important apps for many iPhone users, and iOS 27 will reportedly add two key new features. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780499288.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "iOS 27 預計為 Apple Wallet 新增兩項重大功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "這些 iPhone、iPad、Mac 可能不支援 Apple 的新軟體",
-    "url": "https://9to5mac.com/2026/06/03/these-iphones-ipads-macs-may-not-support-apples-new-software/",
-    "content": "Next week Apple will unveil iOS 27, iPadOS 27, and macOS 27 at WWDC , but rumors indicate certain iPhone, Mac, and iPad models won’t support the new software. Here’s what to expect. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780498444.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "WWDC 將公布 iOS 27 等新系統，部分舊款 iPhone、iPad、Mac 恐不支援。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Apple Vision Pro 新增免費原生 app，帶你體驗沉浸式私人飛行",
-    "url": "https://9to5mac.com/2026/06/03/apple-vision-pro-gains-a-free-native-app-that-takes-you-on-an-immersive-private-flight/",
-    "content": "There’s just something special about Apple Vision Pro and airplanes. From turning in-flight entertainment into a cinematic experience to supporting the world’s most advanced flight simulator, Apple Vision Pro has earned its wings. Now there’s a new native app that’s free to download and experience that takes Apple Vision Pro users on an immersive private flight from the comfort of your living room",
-    "published": "2026-06-03",
-    "published_ts": 1780497087.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "Apple Vision Pro 新增免費原生 app，提供沉浸式私人飛行體驗。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "新 Apple TV 驚悚片聽起來像是今年夏天必看首選，這裡有評論",
-    "url": "https://9to5mac.com/2026/06/03/new-apple-tv-thriller-sounds-like-the-first-must-watch-of-summer-reviews-here/",
-    "content": "Cape Fear premieres this week on Apple TV , a new psychological thriller inspired by Martin Scorsese’s 1991 film. Reviews debuted today, and it sounds like Cape Fear has all the makings of the first must-watch show of the summer. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780496308.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Cape Fear 心理驚悚片本週在 Apple TV+ 首播，影評今日解禁。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "今日 Apple Watch 推出全球跑步日挑戰，Fitness+ 同時新增新運動",
-    "url": "https://9to5mac.com/2026/06/03/global-running-day-challenge-coming-to-apple-watch-next-week/",
-    "content": "June is here, and with the new month comes the next Apple Watch activity challenge. Meanwhile, Apple Fitness+ has added a new treadmill workout for subscribers. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780493813.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-07T16:25:44Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Apple Watch 六月推出全球跑步日挑戰，Fitness+ 新增跑步機課程。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Galaxy S26 FE 在實機圖中洩露，配備更新、略顯奇特的相機凸起",
     "url": "https://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/",
     "content": "Ahead of its launch sometime later this year, Samsung’s Galaxy S26 FE has surfaced online early, showcasing a familiar, but slightly updated design. more…",
@@ -10286,206 +9981,6 @@
     "summary_zh": "Android Canary 2606 擴展 Pixel 裝置的 Dynamic Color 主題功能。",
     "tags": [
       "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Amazon 現在生成假產品圖像，這是迄今最蠢的 AI 應用之一 [影片]",
-    "url": "https://9to5google.com/2026/06/03/amazon-search-ai-images-fake-products/",
-    "content": "AI can be useful in a lot of places, but there are many scenarios where it doesn’t make sense. Amazon, having been stuffing its app full of AI lately, is now going to use AI to generate images of fake products as you type in search terms. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780505100.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Amazon 使用 AI 生成假產品圖像引發爭議。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "新的 Google Labs「Dreambeans」app 就像超個人化的 Google Now",
-    "url": "https://9to5google.com/2026/06/03/google-labs-dreambeans/",
-    "content": "Google Labs today announced an experimental Dreambeans app on Android and iOS to “proactively dream up personalized daily stories that cut through the clutter and connect you to what matters.” more…",
-    "published": "2026-06-03",
-    "published_ts": 1780504999.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Google Labs 推出 Dreambeans app，提供個人化每日故事。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "面對公眾反對，Google 表示將在資料中心補充比使用更多的水",
-    "url": "https://9to5google.com/2026/06/03/google-says-it-will-replenish-more-water-than-it-uses-at-data-centers-amid-public-pushback/",
-    "content": "There’s been a lot of pushback in recent months around the impact of AI data centers on local communities, with the use of water being a key issue for many. Google, in an expension of its “water stewardship” programs, is making commitments that include replenishing more water than it uses at its data center sites. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780503600.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Google 承諾在資料中心補充比使用更多的水以回應反對。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "「Galaxy Z Fold 8 Ultra」已確認，可能讓 Samsung 最有趣的折疊機擁有無聊的名字",
-    "url": "https://9to5google.com/2026/06/03/galaxy-z-fold-8-ultra-name-confirmed/",
-    "content": "Samsung is planning two Galaxy Z Fold 8 models for launch this year, and one is confirmed to have “Ultra” in the name. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780503137.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Samsung 確認今年推出兩款 Galaxy Z Fold 8，其中一款命名含 Ultra。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "優惠：Amazon 提前 Prime Day 折扣、Pixel 10 系列最高減 $615、Best Buy 世界盃特賣等",
-    "url": "https://9to5google.com/2026/06/03/deals-amazon-early-prime-day-discounts-pixel-10/",
-    "content": "Today’s 9to5Toys Lunch Break is headlined by Amazon’s early Amazon Prime Day deals and the ongoing Google Pixel 10 series at up to $300 off right now – just keep in mind these open-box units are up to $615 off . We also have this deal on LG’s gram Book 15-inch touchscreen laptop at $550 ($150 off) and the now live Best Buy World Cup 26 sale – TVs $1,600 off, Beats, Ninja cookers, Plus memberships,",
-    "published": "2026-06-03",
-    "published_ts": 1780501056.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Amazon 提前 Prime Day 優惠，Pixel 10 系列最高減 $615。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Ultrahuman 表示最近的安全漏洞未影響密碼或信用卡",
-    "url": "https://9to5google.com/2026/06/03/ultrahuman-hacked-passwords-payment-information-safe/",
-    "content": "Ultrahuman’s user database was recently hacked, and the smart ring company says there was “no evidence of misuse.” more…",
-    "published": "2026-06-03",
-    "published_ts": 1780501044.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Ultrahuman 用戶資料庫遭駭，但無證據顯示密碼或信用卡遭濫用。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Lenovo 已將最新 Legion Tab 折扣至 $699，同時悄悄更新前代產品",
-    "url": "https://9to5google.com/2026/06/03/lenovo-is-already-discounting-its-latest-legion-tab-to-699-alongside-a-quiet-last-gen-refresh/",
-    "content": "The new Lenovo Legion Tab (Gen 5) is a hard sell at $849, but a discount to $699 makes it a lot more palatable. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780500300.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Lenovo Legion Tab Gen 5 降價至 $699，原售價 $849。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "搭載 Snapdragon X2 Elite 的 Microsoft Surface Pro 洩露，六月發布日期 [圖庫]",
-    "url": "https://9to5google.com/2026/06/03/microsoft-surface-pro-with-snapdragon-x2-elite-leaks-with-june-release-date-gallery/",
-    "content": "A new leak reveals Microsoft’s next-gen Surface Pro that’s powered by the Snapdragon X2 Elite and due to be released very soon. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780499700.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "平板與筆記本產品",
-    "summary_zh": "Microsoft 次世代 Surface Pro 搭載 Snapdragon X2 Elite，預計六月發布。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Pixel 11 桌布洩露，顏色非常低調 [圖庫]",
-    "url": "https://9to5google.com/2026/06/03/pixel-11-wallpapers-have-leaked-with-very-muted-colors-gallery/",
-    "content": "Following some previous appearances, the entire library of Pixel 11 wallpapers have now made their way online, but they’re pretty subdued and, frankly, a little boring. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780498500.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Pixel 11 系列桌布庫已外流，色調低調簡約。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "這些 Android 手機支援與 iPhone 和 Mac 的 AirDrop 分享",
-    "url": "https://9to5google.com/2026/06/03/android-airdrop-list-of-supported-devices/",
-    "content": "Google cracked the code on making Android’s Quick Share feature work with Apple’s AirDrop, and the list of compatible devices continues to grow. Here’s every Android device currently compatible with AirDrop. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780496822.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Google Quick Share 功能擴展，支援與 Apple AirDrop 跨平台分享。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "據報導，Google 正從 Play Store 開發者購買 Android app 程式碼以訓練 AI 模型",
-    "url": "https://9to5google.com/2026/06/03/google-android-app-code-ai-models/",
-    "content": "With coding having emerged as one of the best use cases for LLMs, Google is reportedly looking to train its AI models with code from actual Android app developers, but is at least paying them to do so. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780496100.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-07T16:25:45Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Google 向 Play Store 開發者購買 Android app 程式碼，用於訓練 AI 模型。",
-    "tags": [
       "🏢品牌動態"
     ],
     "score": 3
@@ -12780,56 +12275,6 @@
     "score": 4
   },
   {
-    "title": "為何這家高端電動自行車製造商將車架黏合在一起",
-    "url": "https://electrek.co/2026/06/03/why-this-premium-e-bike-maker-glues-its-bike-frames-together/",
-    "content": "When most people think about how a bicycle frame is built, they probably imagine sparks flying from a welding torch. That’s certainly how the vast majority of aluminum bike frames are made. But one British e-bike company is taking a very different approach, and it has more in common with Aston Martin sports cars and aerospace engineering than traditional bicycle manufacturing. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780505280.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": false,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Kia 的電動廂型車現以 7 人座版本推出，售價低於 5 萬美元",
-    "url": "https://electrek.co/2026/06/03/kias-electric-van-now-available-7-seater-for-under-50000/",
-    "content": "The PV5 is already a hit, but now you can buy Kia’s electric van with three rows of seating and enough room for seven. more…",
-    "published": "2026-06-03",
-    "published_ts": 1780503966.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Kia 推出 PV5 電動廂型車 7 人座版本，售價低於 5 萬美元。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Tesla 追溯性在車主多年前簽署的 FSD 合約中加入「supervised」",
-    "url": "https://electrek.co/2026/06/03/tesla-retroactively-modified-fsd-contracts-supervised/",
-    "content": "Tesla has retroactively modified “Full Self-Driving” purchase agreements to add “supervised” language that did not exist when owners originally bought the product. In some cases, the original documents have been made entirely inaccessible. Electrek has confirmed the issue with multiple owners. The contracts in question were signed between 2016 and early 2024, when Tesla sold the package as “Full S",
-    "published": "2026-06-03",
-    "published_ts": 1780491259.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "Tesla 追溯修改 FSD 合約，加入 supervised 字樣，引發車主不滿。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Tesla Model Y 電池在 16,000 miles 後接受測試：多為 fast charging",
     "url": "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/",
     "content": "This Model Y was predominantly fast-charged for six months but its battery remains very healthy.",
@@ -13096,42 +12541,6 @@
     "tags": [
       "📊有數字",
       "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "超高里程 EVs 教我們關於 battery degradation 的知識",
-    "url": "https://insideevs.com/features/797638/high-mileage-ev-battery-degradation/",
-    "content": "Real-world data and expert battery testing show that even heavily used EVs often lose range gradually rather than suddenly failing.",
-    "published": "2026-06-03",
-    "published_ts": 1780504962.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "真實數據顯示高里程EVs電池續航多緩慢衰退而非突然失效。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "為 EV 投保仍然貴很多，但情況正在改變",
-    "url": "https://insideevs.com/news/797585/ev-ownership-insurance-price-expensive/",
-    "content": "Newer EVs cost about 18% more to insure than gas vehicles. Here's why.",
-    "published": "2026-06-03",
-    "published_ts": 1780494873.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "新款EVs保險費仍比燃油車貴約18%，但差距正逐步縮小。",
-    "tags": [
-      "📊有數字"
     ],
     "score": 4
   },
@@ -13579,91 +12988,6 @@
     "summary_zh": "GaN4EmoBiL 展示 800 伏雙向 DC 充電器，適用電動車雙向充電應用。",
     "tags": [
       "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "政治人物將盧森堡充電樞紐變成意外的聚會點",
-    "url": "https://www.electrive.com/2026/06/03/vw-starts-series-production-of-id-polo-and-cupra-raval/",
-    "content": "Seat has announced the start of production for the Volkswagen ID. Polo and the Cupra Raval in Martorell, Spain. For the VW Group, the two compact electric models are among the most important launches of the year. Initially, both vehicles will be built with the larger battery version, while lower-cost variants are set to follow later.",
-    "published": "2026-06-03",
-    "published_ts": 1780500407.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": false,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Nissan 探討在 Sunderland 為 Chery 進行合約製造",
-    "url": "https://www.electrive.com/2026/06/03/politicians-turn-luxembourg-charging-hub-into-unexpected-meeting-point/",
-    "content": "Several EU commissioners have reportedly complained that their electric service cars cannot complete the regular trip between Brussels and Strasbourg without stopping to charge at a rest area in Luxembourg. Apparently, the rest area on the 440-kilometer route has now become a frequently used charging spot for politicians.",
-    "published": "2026-06-03",
-    "published_ts": 1780497000.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Nissan 與 Chery 正洽談在英國 Sunderland 廠為 Chery 乘用車進行合約製造。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Palmer Energy Technology 收購 Kleandrive",
-    "url": "https://www.electrive.com/2026/06/03/gan4emobil-showcases-800-volt-bidirectional-dc-charger/",
-    "content": "As part of the GaN4EmoBiL project, Fraunhofer IAF and Ambibox have developed a power electronic module based on gallium nitride for bidirectional DC charging systems with 800 volts. A demonstrator will be presented next week at the PCIM trade fair in Nuremberg.",
-    "published": "2026-06-03",
-    "published_ts": 1780495200.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "儲能樁",
-    "summary_zh": "Palmer Energy Technology 收購 Kleandrive 業務與資產，聚焦電動巴士重置技術。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "印度：Tata Motors 將授權 Chery JLR 的 Freelander 平台",
-    "url": "https://www.electrive.com/2026/06/03/palmer-energy-technology-acquires-kleandrive/",
-    "content": "UK clean energy and battery technology company Palmer Energy Technology (PETL) has acquired the business and assets of UK electric bus repower specialist Kleandrive through administration. The deal is intended to preserve British engineering capabilities in heavy-duty vehicle electrification and retrofit solutions.",
-    "published": "2026-06-03",
-    "published_ts": 1780493136.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Tata Motors 授權 Chery JLR Freelander 平台，用於印度市場新車開發。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "NYC 的大型清潔電力線路正式啟用",
-    "url": "https://www.electrive.com/2026/06/03/india-tata-motors-to-license-chery-jlrs-freelander-platform/",
-    "content": "Tata Motors has confirmed plans to license Chery JLR (CJLR)'s new platform, primarily developed for the new Freelander brand. The Indian automaker will use the platform for EVs under its new Avinya brand.",
-    "published": "2026-06-03",
-    "published_ts": 1780491000.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "紐約大型清潔電力線路啟用，強化區域再生能源供應能力。",
-    "tags": [
-      "📊有數字"
     ],
     "score": 3
   },
@@ -14280,65 +13604,6 @@
     "translated": false,
     "category": "總體經濟",
     "subtopic": "綜合"
-  },
-  {
-    "title": "MAGA 不買單川普臉上 250 美元鈔票",
-    "url": "https://www.axios.com/2026/06/03/trump-250-dollar-bill-maga-resistance",
-    "content": "Over a quarter of President Trump's MAGA loyalists don't want the Treasury to print $250 bills with his face on them, according to a new YouGov poll. Why it matters: Trump enjoys 91% approval overall among his most loyal base, but less than half of self-identified MAGA Republicans want to see Trump's face on cash . By the numbers: Roughly 26% of MAGA supporters oppose putting Trump's face on the c",
-    "published": "2026-06-03",
-    "published_ts": 1780504612.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "民調顯示超過四分之一MAGA支持者反對印製川普250美元鈔票。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2
-  },
-  {
-    "title": "新預測為全球經濟列出 2 條崎嶇道路",
-    "url": "https://www.axios.com/2026/06/03/economic-outlook-oecd-iran",
-    "content": "The Iran war has divided the global outlook into two tracks: A modest slowdown if the conflict ends soon or a severe hit, with some economies near recession, if it drags on and the disruption deepens. Why it matters: Either path leaves the global economy worse off than before the war, with slower growth and hotter inflation. The scenarios determine the scale of the damage. It's the latest reminder",
-    "published": "2026-06-03",
-    "published_ts": 1780502105.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "眾議院民主黨老將在加州反擊",
-    "url": "https://www.axios.com/2026/06/03/democrats-california-primary-matsui-sherman-gomez",
-    "content": "The California primaries were supposed to be the first major triumph of younger Democrats' campaign to oust aging House incumbents . That's not how it's shaking out. Why it matters: The old guard is proving they still have some fight, defying a \"generational change\" year for the party grassroots. Rep. Brad Sherman's (D-Calif.) campaign crowed that the results in his district were a \"direct repudia",
-    "published": "2026-06-03",
-    "published_ts": 1780502018.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Scott Pelley 在激烈交流後被「60 分鐘」解雇",
-    "url": "https://www.axios.com/2026/06/03/60-minutes-scott-pelley-cbs-fired-bari-weiss-nick-bilton",
-    "content": "Nick Bilton, the newly installed executive producer of \" 60 Minutes ,\" has fired Scott Pelley after the veteran anchor assailed him in front of staff members during a meeting on Bilton's first day on the job. Why it matters: The leaked exchange showed how little confidence top talent has in the new management team at \" 60 Minutes \" and CBS News. Pelley told Bilton he lacked relevant expertise and ",
-    "published": "2026-06-03",
-    "published_ts": 1780494433.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-07T16:25:53Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "60 Minutes新製片人因激烈衝突解雇資深主播Scott Pelley。",
-    "score": 1
   },
   {
     "title": "國債市場醞釀麻煩",
@@ -41886,6 +41151,416 @@
     "published_ts": 1781095454.0,
     "outlet": "CNBC Economy",
     "fetched_at": "2026-06-10T12:48:59Z",
+    "classified": false
+  },
+  {
+    "title": "What the $38 billion Visa, Mastercard swipe fee settlement means for credit card users",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/what-the-38-billion-visa-mastercard-swipe-fee-settlement-means-for-credit-card-users-164015738.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109615.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq slide as CPI report lands, US-Iran truce teeters",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-june-10-dow-sp-500-nasdaq-may-cpi-report-215056384.html",
+    "content": "",
+    "published": "2026-06-09",
+    "published_ts": 1781041856.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Google and Meta denied new trial in youth social media addiction case",
+    "url": "https://finance.yahoo.com/news/google-meta-denied-trial-youth-163334154.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109214.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Where Will Amazon Stock Be in 3 Years?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/where-amazon-stock-3-years-164300561.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109780.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Robinhood Enters This Hot, Lucrative Market. The Stock Is Jumping.",
+    "url": "https://www.investors.com/news/robinhood-stock-undewriter-hot-ipo-market/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781108623.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "1 Plain-As-Day Dividend King to Buy and Never Sell That Has Paid a Continuous Dividend Since 1891",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/1-plain-day-dividend-king-163955363.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109595.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Resurgence of flesh-eating New World screwworm in Texas could take a bite out of consumer stocks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/resurgence-flesh-eating-world-screwworm-162000705.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781108400.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "What is this 'buy, borrow, die' strategy that everyone keeps talking about — and that billionaires like Jeff Bezos deny?",
+    "url": "https://finance.yahoo.com/economy/policy/articles/buy-borrow-die-strategy-everyone-161500661.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781108100.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Applied Materials, Other Chip Gear Stocks At Record Highs",
+    "url": "https://www.investors.com/news/technology/applied-materials-chip-gear-peers-record-highs/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781107962.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Wall Street is interested in prediction markets — but the rules are still being written",
+    "url": "https://finance.yahoo.com/markets/article/wall-street-is-interested-in-prediction-markets--but-the-rules-are-still-being-written-160437743.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781107477.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Why Uranium Energy Stock Is Plummeting Again Today",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-uranium-energy-stock-plummeting-163947974.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109587.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "A mariner put 10% of her paycheck into SpaceX for 2 years. As it goes public — she won't say what her shares are worth",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mariner-put-10-her-paycheck-160000498.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781107200.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "I Would Rebuild My Portfolio With Just These 3 Stocks If I Lost Everything Tomorrow",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rebuild-portfolio-just-3-stocks-163911142.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109551.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Infrastructure Software Stocks Look Strong. Snowflake Among Analyst's 'Fab Five' To Watch.",
+    "url": "https://www.investors.com/news/technology/snowflake-stock-mongodb-fab-five-infrastructure-software/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781106791.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "OpenAI expects to go public 'within the next year,' the Information reports",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/openai-expects-public-within-next-154927345.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781106567.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon LTL Freight Launch Is Pothole For These S&P 500 Stocks",
+    "url": "https://www.investors.com/news/amazon-ltl-freight-launch-fedex-freight-odfl-saia/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781106127.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer Says He Is Not Changing His “Own NVIDIA, Don’t Trade It” View",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-not-changing-153910392.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105950.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "The SpaceX IPO Could Make Thousands of Employees Millionaires -- but Should Retail Investors Buy In?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-thousands-employees-163700719.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109420.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer Says He “Cannot Recommend the Stock of Tractor Supply Until I know More”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-cannot-recommend-153909835.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105949.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer on Cboe Global: “It Suddenly Became a Very Ugly Chart”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cboe-global-suddenly-153907206.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105947.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer on Galaxy Digital’s CEO: “Mike Is a Very Smart Guy”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-galaxy-digital-ceo-153905894.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105945.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer Recommends IBM Over Xanadu Quantum",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-recommends-ibm-over-153904634.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105944.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Microsoft Stock Price Prediction: A New Record High on the Horizon?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-price-prediction-record-163637737.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109397.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer on Costco: “I Think That You Buy Some Here”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-costco-think-buy-153901851.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105941.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer on Home Depot: “I Think That This Is a Good Level”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-think-153902284.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105942.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer Says Jim Conroy Is “Doing an Incredible Job at Ross Stores”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-jim-conroy-153859390.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105939.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer Believes “Innio Is Worth Owning Here”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-innio-worth-153857803.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105937.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Caterpillar Stock Nearing 52-Week High: Buy, Sell or Hold?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-stock-nearing-52-week-163000942.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781109000.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer on ServiceNow: “It’s Expensive, That’s the Problem”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-servicenow-expensive-problem-153856912.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105936.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer Explains How Cerebras Systems Price Misallocation Hurt Retail Investors",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-cerebras-systems-153854819.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105934.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer Says “The Ease With Which Google Raised the Cash Was Incredible”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-ease-google-153852678.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105932.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer Notes “Of the Big-Cap Stocks, Apple Had Been the Cleanest Story”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-big-cap-153851782.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105931.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer on e.l.f. Beauty: “I Don’t Want to Touch It”",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-e-l-f-153849070.html",
+    "content": "",
+    "published": "2026-06-10",
+    "published_ts": 1781105929.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Cramer still likes recently spun FedEx Freight despite the emergence of new rival",
+    "url": "https://www.cnbc.com/2026/06/10/cramer-still-likes-fedex-freight-despite-emergence-of-new-rival.html",
+    "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published": "2026-06-10",
+    "published_ts": 1781109187.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Sen. Warren calls on SEC to delay SpaceX IPO, flagging concerns about valuation and governance",
+    "url": "https://www.cnbc.com/2026/06/10/spacex-elizabeth-warren-elon-musk-sec-ipo.html",
+    "content": "Sen. Elizabeth Warren noted Elon Musk's \"uniquely unchecked\" power as SpaceX's majority shareholder and other concerns in a letter to the SEC.",
+    "published": "2026-06-10",
+    "published_ts": 1781110377.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others",
+    "url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
+    "content": "Investors have rushed to back companies in the physical AI space",
+    "published": "2026-06-10",
+    "published_ts": 1781110240.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs",
+    "url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+    "content": "Palantir CEO Alex Karp says AI will drive the most important political decisions in the U.S. and shouldn't be decided by party lines.",
+    "published": "2026-06-10",
+    "published_ts": 1781107801.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX primed for double-digit pop on first day, if 'perps' trading is any guide",
+    "url": "https://www.cnbc.com/2026/06/10/spacex-ipo-primed-for-double-digit-pop-on-first-day-perpetual-futures.html",
+    "content": "Crypto traders are currently pricing the SpaceX pre-IPO perpetual future on Hyperliquid at $162, about 20% above the company's fixed IPO share price of $135.",
+    "published": "2026-06-10",
+    "published_ts": 1781106481.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Autonomous EV freight trucking company Einride rises sharply in first trade on Nasdaq",
+    "url": "https://www.cnbc.com/2026/06/10/einride-autonomous-freight-truck-first-trade-nasdaq-spac.html",
+    "content": "Self-driving freight truck technology company Einride rose significant in its first day of trading on the Nasdaq after a SPAC deal.",
+    "published": "2026-06-10",
+    "published_ts": 1781110189.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon trucking expansion sparks freight stock sell-off",
+    "url": "https://www.cnbc.com/2026/06/10/amazon-trucking-expansion-freight-stock-selloff.html",
+    "content": "Amazon has been spinning out more of its in-house logistics offerings for others to access, posing a growing threat to industry incumbents.",
+    "published": "2026-06-10",
+    "published_ts": 1781100665.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-10T16:54:11Z",
+    "classified": false
+  },
+  {
+    "title": "AI will help young workers 'mature' faster by automating grunt work, Thoma Bravo says, amid youth job crisis",
+    "url": "https://www.cnbc.com/2026/06/10/ai-youth-uneployment-automation-thoma-bravo.html",
+    "content": "\"If you look at our associates, they're spending a lot less time doing models or comparables than before,\" Orlando Bravo, founder of Thoma Bravo, told CNBC.",
+    "published": "2026-06-10",
+    "published_ts": 1781095257.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-10T16:54:11Z",
     "classified": false
   }
 ]
