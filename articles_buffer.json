@@ -5299,24 +5299,6 @@
     "score": 3
   },
   {
-    "title": "Agentic AI 在智慧工廠的現實",
-    "url": "https://www.iiot-world.com/smart-manufacturing/agentic-ai-reality-smart-factory/",
-    "content": "The industrial sector is flooded with claims about fully autonomous operations, but for manufacturing executives, separating marketing from operational reality is critical. Despite the billions projected for artificial intelligence this year, the factory floor remains a complex, physical environment that does not easily bend to software trends. Only 20% to 25% of manufacturers have reached […] The",
-    "published": "2026-06-04",
-    "published_ts": 1780560048.0,
-    "outlet": "IIoT World",
-    "fetched_at": "2026-06-07T16:25:38Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "製造業高層需分辨行銷與實際營運，Agentic AI在智慧工廠的落地仍面臨挑戰。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "連接式酒精監測安裝基數在北美和歐洲達到約 56 萬台",
     "url": "https://iotbusinessnews.com/2026/06/06/connected-alcohol-monitoring-installed-base-reaches-about-560000-units-in-north-america-and-europe/",
     "content": "Berg Insight reports that connected alcohol monitoring solutions totaled roughly 560,000 units in North America and Europe in 2025, mainly used for compliance, supervision, and safety in various institutional settings. The post Connected Alcohol Monitoring Installed Base Reaches About 560,000 Units in North America and Europe appeared first on IoT Business News .",
@@ -5328,25 +5310,6 @@
     "translated": false,
     "category": "總體經濟",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Origin Energy 將使用 Landis+Gyr 改裝 IoT 模組數位化澳洲瓦斯計量",
-    "url": "https://iotbusinessnews.com/2026/06/04/origin-energy-to-digitise-australian-gas-metering-with-landisgyr-retrofit-iot-modules/",
-    "content": "Origin Energy and Landis+Gyr collaborate to digitise Australia's gas metering by retrofitting IoT modules on existing meters, enabling remote readings and enhancing data accuracy without meter replacement. The post Origin Energy to Digitise Australian Gas Metering with Landis+Gyr Retrofit IoT Modules appeared first on IoT Business News .",
-    "published": "2026-06-04",
-    "published_ts": 1780561615.0,
-    "outlet": "IoT Business News",
-    "fetched_at": "2026-06-07T16:25:40Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Origin Energy與Landis+Gyr合作，在澳洲既有瓦斯表加裝IoT模組，實現遠端讀表數位化。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 4
   },
   {
     "title": "地緣政治、AI 和 Jensen Huang 推動電子業的搖滾時代",
@@ -5433,19 +5396,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "歐洲電子廢棄物困境",
-    "url": "https://www.eetimes.com/european-electronic-waste-dilemma/",
-    "content": "European electronic waste is being collected, but the economics of recycling are complex. The post European Electronic Waste Dilemma appeared first on EE Times .",
-    "published": "2026-06-04",
-    "published_ts": 1780558200.0,
-    "outlet": "EE Times",
-    "fetched_at": "2026-06-07T16:25:40Z",
-    "classified": true,
-    "translated": false,
-    "category": "總體經濟",
-    "subtopic": "綜合"
   },
   {
     "title": "是的，Oura Ring 5 明顯更小",
@@ -10313,25 +10263,6 @@
     "score": 3
   },
   {
-    "title": "NVIDIA 加入 Windows on Arm 生態系，TrendForce 預估 Arm-Based AI 筆電滲透率將於 2029 年達 34.2%",
-    "url": "https://www.trendforce.com/presscenter/news/20260604-13081.html",
-    "content": "TrendForce’s latest research reveals that the current AI notebook market is primarily driven by Intel, AMD, Apple, and Qualcomm. However, as it stands, the industry still lacks products capable of fully demonstrating the value of on-device AI computing at scale and creating compelling upgrade incentives for consumers.",
-    "published": "2026-06-04",
-    "published_ts": 1780556274.0,
-    "outlet": "TrendForce Semiconductors",
-    "fetched_at": "2026-06-07T16:25:46Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "NVIDIA 加入 Windows on Arm 生態，TrendForce 預估 2029 年 Arm AI 筆電滲透率達 34.2%。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "晶片產能限制抑制 AI 支出成長",
     "url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
     "content": "",
@@ -11774,43 +11705,6 @@
     "score": 3
   },
   {
-    "title": "Polestar 2 將重返北美市場",
-    "url": "https://insideevs.com/news/797786/polestar-2-return-canada/",
-    "content": "The fan favorite EV is going back on sale in North America, thanks to Canada’s openness to Chinese-built electric cars.",
-    "published": "2026-06-04",
-    "published_ts": 1780560986.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "Polestar 2因加拿大開放中國製電動車，將重返北美銷售。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Volvo XC60 Plug-In Hybrid 將大幅提升續航：報告",
-    "url": "https://insideevs.com/news/797776/2028-volvo-xc60-t8-phev-range-increase-report/",
-    "content": "The current XC60 T8 plug-in hybrid can go 35 miles on electric power. The 2028 model will reportedly nearly triple that.",
-    "published": "2026-06-04",
-    "published_ts": 1780556665.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "氫能車與混動車",
-    "summary_zh": "2028年Volvo XC60 T8插電式混合動力車純電續航將近三倍增至約105英里。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "馬來西亞：Stellantis 開始 Leapmotor C10 的本地組裝",
     "url": "https://www.electrive.com/2026/06/06/malaysia-stellantis-starts-local-assembly-of-leapmotor-c10/",
     "content": "Stellantis has started assembling the Leapmotor C10 in Malaysia, aiming to strengthen its presence in the ASEAN region. The mid-size SUV is the brand's first locally built model in the region.",
@@ -12185,61 +12079,6 @@
     "score": 4
   },
   {
-    "title": "EZO 在英格蘭中部地區獲得 1.76 億英鎊合約",
-    "url": "https://www.electrive.com/2026/06/04/nissan-explores-contract-manufacturing-for-chery-in-sunderland/",
-    "content": "Nissan and Chery have officially confirmed that they are negotiating a potential contract manufacturing agreement for Chery passenger vehicles at Nissan's plant in Sunderland, UK. Nissan had previously announced plans to reduce its own production at the factory to a single production line.",
-    "published": "2026-06-04",
-    "published_ts": 1780561617.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "EZO 取得 1.76 億英鎊合約，將在英格蘭中部四個議會區部署及營運 EV 充電設施。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
-  },
-  {
-    "title": "印度：Toyota 推出 Urban Cruiser Ebella 作為其首款 EV",
-    "url": "https://www.electrive.com/2026/06/04/ezo-secures-176m-contract-in-englands-midlands/",
-    "content": "UK charging provider EZO has secured a £176 million contract to deploy and operate EV charging infrastructure across four Midlands councils. The 15-year project will add 250 rapid and ultra-rapid chargers and support more than two million residents.",
-    "published": "2026-06-04",
-    "published_ts": 1780559346.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "儲能樁",
-    "summary_zh": "Toyota 印度合資公司推出 Urban Cruiser Ebella，作為品牌首款電動車。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "i-charging 推出適用於汽車和卡車的 500 kW 充電系統",
-    "url": "https://www.electrive.com/2026/06/04/india-toyota-launches-the-urban-cruiser-ebella-as-its-first-ev/",
-    "content": "Toyota Kirloskar Motor (TKM), the Japanese automaker's joint venture in India, has launched the Urban Cruiser Ebella as its first EV. It is the same zero-emission sub-compact SUV marketed as the Urban Cruiser globally.",
-    "published": "2026-06-04",
-    "published_ts": 1780554369.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-06-07T16:25:50Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "i-charging 推出 AiO 500 充電系統，最大輸出功率達 500 kW，適用汽車與卡車。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "俄亥俄州阻擋了大量風能和太陽能。其居民付出代價。",
     "url": "https://www.canarymedia.com/articles/transmission/new-york-clean-power-transmission",
     "content": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. New York City has a lot to celebrate this week. The Knicks are in the finals, the Mets actually won a game, and the city is now a big step closer to meeting its clean energy targets. Tons of clean…",
@@ -12279,50 +12118,6 @@
     "subtopic": "電動車"
   },
   {
-    "title": "公用事業公司在 PJM 沒有分享智慧電表數據。這是個問題。",
-    "url": "https://www.canarymedia.com/articles/batteries/north-carolina-electric-co-ops-grid-batteries",
-    "content": "In July 2022, a fierce summer storm rocked Wake Electric , a North Carolina cooperative serving nearly 60,000 households and other customers from the dense suburbs of Raleigh, the state capital, to rural areas along the Virginia border and in the coastal plain. Wind downed lines and knocked out power for thousands…",
-    "published": "2026-06-04",
-    "published_ts": 1780558200.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-06-07T16:25:51Z",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "綜合",
-    "summary_zh": "PJM 區域公用事業未分享智慧電表數據，影響電網管理效率。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 2
-  },
-  {
-    "title": "陽台太陽能在您的州處於什麼地位？",
-    "url": "https://www.canarymedia.com/articles/utilities/utilities-not-sharing-smart-meter-data",
-    "content": "Utilities have spent nearly $6 billion to install roughly 12 million smart meters at homes and businesses across PJM Interconnection, the biggest U.S. energy market. These devices are meant to help their customers use energy more efficiently and save money. But within much of PJM’s 13-state territory, these devices…",
-    "published": "2026-06-04",
-    "published_ts": 1780558200.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-06-07T16:25:51Z",
-    "classified": true,
-    "translated": false,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "眾議院通過兩黨措施以加速地熱能源項目",
-    "url": "https://www.canarymedia.com/articles/solar/states-passing-balcony-solar-laws",
-    "content": "This article was originally published on April 6, 2026, and last updated on June 4, 2026. Balcony solar is one of the hottest ideas in renewable energy right now. Boosters say the systems — DIY kits that can be plugged right into a standard outlet — save users money without any need for subsidies, government…",
-    "published": "2026-06-04",
-    "published_ts": 1780556400.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-06-07T16:25:51Z",
-    "classified": true,
-    "translated": false,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Prysmian 完成 Sofia 離岸風電場的電纜安裝",
     "url": "https://www.energymonitor.ai/news/rolls-royce-sunly-bess-latvia/",
     "content": "Rolls-Royce Power Systems and Sunly have formalised contracts for the construction of four large-scale battery storage facilities in Latvia.",
@@ -12335,24 +12130,6 @@
     "category": "新能源",
     "subtopic": "儲能",
     "summary_zh": "Prysmian 完成 RWE 1.4GW Sofia 離岸風電場海底電纜安裝。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "EDF 和 Masdar 簽署 BigBeau Solar+Storage 輸出的 15 年 PPA",
-    "url": "https://www.energymonitor.ai/news/prysmian-completes-cable-installation-sofia/",
-    "content": "Prysmian Group has completed its cable installation contract for RWE’s 1.4GW Sofia offshore wind farm on Dogger Bank in the North Sea.",
-    "published": "2026-06-04",
-    "published_ts": 1780558849.0,
-    "outlet": "Energy Monitor",
-    "fetched_at": "2026-06-07T16:25:51Z",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "風能",
-    "summary_zh": "EDF 與 Masdar 簽署 BigBeau Solar+Storage 15 年購電協議。",
     "tags": [
       "📊有數字"
     ],
@@ -50112,5 +49889,15 @@
     "translated": true,
     "category": "半導體",
     "subtopic": "供應鏈"
+  },
+  {
+    "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ",
+    "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+    "content": "OpenAI is reportedly mulling drastic price cuts to its AI models, as it looks to woo consumers from rival AI company Anthropic, the WSJ reported on Wednesday.",
+    "published": "2026-06-11",
+    "published_ts": 1781148296.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-11T08:28:17Z",
+    "classified": false
   }
 ]
