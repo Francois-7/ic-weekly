@@ -13,42 +13,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Amazon、Alphabet 和 Microsoft 都在競相設計自己的 AI 晶片。這對 Nvidia 意味著什麼。",
-    "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-alphabet-microsoft-racing-design-223200752.html",
-    "content": "",
-    "published": "2026-06-07",
-    "published_ts": 1780871520.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-06-07T22:54:28Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Amazon、Alphabet 和 Microsoft 競相設計 AI 晶片，影響 Nvidia",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Visa 股票是投資無現金經濟的聰明方式嗎？",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-smart-way-invest-220400191.html",
-    "content": "",
-    "published": "2026-06-07",
-    "published_ts": 1780869840.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-06-07T22:54:28Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "分析 Visa 股票是否為投資無現金經濟的聰明方式",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Everything-PR 列出塑造 AI 引擎言論的 100 人",
     "url": "https://www.prnewswire.com/news-releases/everything-pr-names-the-100-people-shaping-what-ai-engines-say-302793684.html",
     "content": "Inaugural ranking maps lab principals, policy architects, discovery infrastructure builders, and the editorial substrate behind ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews. Methodology published. MIAMI, June 8, 2026 /PRNewswire/ -- Everything-PR, the intelligence platform...",
@@ -386,73 +350,6 @@
     "score": 3
   },
   {
-    "title": "Unisound 發布 U2：原生 Agentic 大模型，專為執行而建，能自主分解並完成複雜真實世界工作流程中的 100+ 步驟",
-    "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793560.html",
-    "content": "HONG KONG, June 7, 2026 /PRNewswire/ -- Just now, Unisound officially released U2, its new-generation general-purpose large language model. As a native agentic large model built for individuals, developers, and organizations, U2 is guided by a clear technical proposition: high...",
-    "published": "2026-06-08",
-    "published_ts": 1780884180.0,
-    "outlet": "PR Newswire",
-    "fetched_at": "2026-06-08T05:12:59Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Unisound 發布原生 Agentic 大模型 U2，可自主完成 100+ 步驟真實世界工作流程。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "NASA 將穿著高科技 Prada 長內衣前往月球",
-    "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
-    "content": "We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that astronauts will wear underneath it when Artemis IV returns humans to the Moon in 2028. The LCVG is the all-important base layer that will keep the crew […]",
-    "published": "2026-06-07",
-    "published_ts": 1780870601.0,
-    "outlet": "The Verge",
-    "fetched_at": "2026-06-08T05:12:59Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Axiom Space 與 Prada 合作，為 NASA 開發 AxEMU 太空衣內層液體冷卻服。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "我在 iPhone 和 Android 上使用自適應充電器一年了——但你應該這樣做嗎？",
-    "url": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
-    "content": "Adaptive charging aims to reduce battery wear by keeping speeds low, but are the optimizations worth it? Here's my verdict.",
-    "published": "2026-06-08",
-    "published_ts": 1780880443.0,
-    "outlet": "ZDNet",
-    "fetched_at": "2026-06-08T05:13:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "自適應充電器降低電池磨損，作者使用一年後給出評測結論。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "為什麼我在家使用無線安全攝影機而非有線系統——經過多年測試後",
-    "url": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
-    "content": "After using multiple security cameras over the years, I've found the best arrangement for my home.",
-    "published": "2026-06-08",
-    "published_ts": 1780876848.0,
-    "outlet": "ZDNet",
-    "fetched_at": "2026-06-08T05:13:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "我使用了 AirPods Max 2——這是你需要的奢華耳機升級",
     "url": "https://www.androidcentral.com/accessories/audio/i-used-the-airpods-max-2-this-is-the-luxury-headphone-upgrade-you-need",
     "content": "The AirPods Max 2 doesn't look any different to the Max, but it has plenty of upgrades that matter.",
@@ -484,43 +381,6 @@
     "subtopic": "美股"
   },
   {
-    "title": "Nvidia 達成新的記憶體晶片交易——但 SK Hynix 和 Samsung 股價面臨沉重壓力",
-    "url": "https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories",
-    "content": "South Korea’s once-hot Kospi index is headed for another day of sharp declines as the AI trade loses steam.",
-    "published": "2026-06-08",
-    "published_ts": 1780884180.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-08T05:13:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Nvidia 簽署新記憶體晶片交易，SK Hynix 與 Samsung 股價面臨壓力。",
-    "tags": [
-      "📊有數字",
-      "⚠️供應鏈異動"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Wegovy 藥丸仍主導 GLP-1 藥丸市場",
-    "url": "https://www.marketwatch.com/story/the-wegovy-pill-is-still-dominating-the-glp-1-pill-market-f7add507?mod=mw_rss_topstories",
-    "content": "It has remained a top choice among Americans trying to lose weight even after the launch of Foundayo, Eli Lilly’s GLP-1 pill.",
-    "published": "2026-06-07",
-    "published_ts": 1780875300.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-08T05:13:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Wegovy 持續主導 GLP-1 減重藥丸市場，領先 Eli Lilly 新品。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Apple TV 在 Schmigadoon! 贏得 Tony 獎後成為 EGOT",
     "url": "https://9to5mac.com/2026/06/07/apple-tv-is-now-an-egot-after-schmigadoons-tony-wins/",
     "content": "The Broadway adaptation of Apple TV’s Schmigadoon! won 4 Tony Awards tonight, officially making Apple TV an EGOT winner. Here’s what that means. more…",
@@ -533,43 +393,6 @@
     "category": "手機",
     "subtopic": "綜合",
     "summary_zh": "Apple TV 劇集 Schmigadoon! 奪 4 座 Tony 獎，使 Apple TV 成為 EGOT 贏家。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Nvidia 與韓國 SK hynix、Naver 和 Doosan 合作擴展該國 AI 基礎設施",
-    "url": "https://siliconangle.com/2026/06/07/nvidia-partners-south-koreas-sk-hynix-naver-doosan-expand-countrys-ai-infrastructure/",
-    "content": "Artificial intelligence chipmaker Nvidia Corp. today announced a slate of new partnerships with some of South Korea’s biggest technology, including the memory chip supplier SK hynix Inc., internet giant Naver Corp. and the multinational conglomerate Doosan Group. The deals came during a high-profile trip by Nvidia Chief Executive Jensen Huang to the country. He arrived […] The post Nvidia partners",
-    "published": "2026-06-08",
-    "published_ts": 1780882216.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-08T05:13:13Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "Nvidia 與 SK hynix、Naver、Doosan 簽署合作，擴展韓國 AI 基礎設施。",
-    "tags": [
-      "🏢品牌動態",
-      "⚠️供應鏈異動"
-    ],
-    "score": 5
-  },
-  {
-    "title": "OpenAI 計劃中的「superapp」更接近實現，因為一名員工表示「chat 已死」",
-    "url": "https://siliconangle.com/2026/06/07/openais-planned-superapp-gets-closer-one-employee-says-chat-dead/",
-    "content": "OpenAI Group PBC is still focused on its plans to transform ChatGPT into some kind of “superapp,” and it will have a heavy focus on artificial intelligence agents and autonomous coding bots, according to a new report in the Financial Times this weekend. By launching a superapp, the company hopes to be able to better […] The post OpenAI’s planned ‘superapp’ gets closer as one employee says ‘chat is",
-    "published": "2026-06-07",
-    "published_ts": 1780875615.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-08T05:13:13Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 持續推動 ChatGPT 轉型 superapp，員工稱 chat 已死並聚焦 AI 功能。",
     "tags": [
       "🏢品牌動態"
     ],
@@ -600,24 +423,6 @@
     "translated": true,
     "category": "總體經濟",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Trump 告訴 Netanyahu 不要襲擊伊朗",
-    "url": "https://www.axios.com/2026/06/07/trump-netanyahu-israel-iran-strikes-call",
-    "content": "President Trump told Israeli Prime Minister Benjamin Netanyahu Sunday not to retaliate against Iran's missile attack and allow more time for diplomacy, according to a senior U.S. official and an Israeli source familiar with details of the call. Why it matters: Trump's effort to restrain an Israeli response signals his administration's push to keep escalating Israel-Iran tensions from derailing ong",
-    "published": "2026-06-07",
-    "published_ts": 1780874085.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-08T05:13:18Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Trump 要求 Netanyahu 暫緩對伊朗報復，給予外交更多時間。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
   },
   {
     "title": "主要加密貨幣承壓，因油價上漲 3%",
@@ -662,19 +467,6 @@
       "📊有數字"
     ],
     "score": 4
-  },
-  {
-    "title": "什麼是加密貨幣市場結構？加密貨幣市場運作指南",
-    "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
-    "content": "Crypto market structure refers to the framework of participants, platforms, rules, and infrastructure that comprise the digital asset markets. It includes crypto exchanges, brokers, custodians, market makers, token issuers, investors, and the regulators that oversee them. When lawmakers and analysts talk about “crypto market structure,” they are usually talking about who is allowed to do […]",
-    "published": "2026-06-08",
-    "published_ts": 1780884308.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-06-08T05:13:20Z",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
   },
   {
     "title": "代幣化公司 Securitize 清除 NYSE 上市的關鍵 SEC 障礙",
@@ -52996,5 +52788,25 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
+  },
+  {
+    "title": "Oil executives send a blunt message to Americans on gas prices",
+    "url": "https://finance.yahoo.com/sectors/energy/articles/oil-executives-send-blunt-message-200700286.html",
+    "content": "",
+    "published": "2026-06-14",
+    "published_ts": 1781467620.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-15T02:14:31Z",
+    "classified": false
+  },
+  {
+    "title": "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
+    "url": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
+    "content": "Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable in the workforce.",
+    "published": "2026-06-14",
+    "published_ts": 1781445810.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-15T02:14:31Z",
+    "classified": false
   }
 ]
