@@ -1,73 +1,5 @@
 [
   {
-    "title": "克服資料主權的權衡取捨",
-    "url": "https://intelligence.theregister.com/paper/view/20260",
-    "content": "What does data sovereignty actually mean for your network, which trade-offs are unavoidable? Learn more.",
-    "published": "2026-06-10",
-    "published_ts": 1781049600.0,
-    "outlet": "The Next Platform",
-    "fetched_at": "2026-06-07T16:25:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Entergy CEO 駁斥 AI 資料中心推升電費的擔憂",
-    "url": "https://www.cnbc.com/2026/06/09/entergy-ceo-pushes-back-fears-ai-data-centers-drive-up-electricity-bills.html",
-    "content": "Entergy CEO Drew Marsh said data centers can be a win for local communities rather than a burden on residents.",
-    "published": "2026-06-09",
-    "published_ts": 1781045367.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-09T23:10:52Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Entergy CEO 表示資料中心可為地方社區帶來利益而非負擔。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer 稱科技股正失去領漲特質",
-    "url": "https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html",
-    "content": "CNBC's Jim Cramer said tech stocks are losing key traits that fueled their leadership since 2023.",
-    "published": "2026-06-09",
-    "published_ts": 1781044241.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-09T23:10:52Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Jim Cramer 指出科技股自 2023 年以來領漲的特質正在消失。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "Super Micro 股價因 70 億美元融資計畫而下跌",
-    "url": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
-    "content": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
-    "published": "2026-06-09",
-    "published_ts": 1781044165.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-09T23:10:52Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "伺服器",
-    "summary_zh": "Super Micro 宣布 70 億美元融資計畫，同時推廣 AI 伺服器訂單。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
     "title": "Hard Rock International 推出「All Teams. One Place.」活動",
     "url": "https://www.prnewswire.com/news-releases/hard-rock-international-lautet-mit-der-kampagne-all-teams-one-place-den-summer-of-soccer-ein-302796209.html",
     "content": "Vollständige Pressemeldung HOLLYWOOD, Florida, 10. Juni 2026 /PRNewswire/ -- Hard Rock International hat heute seine Kampagne „All Teams. One Place.\" vorgestellt, mit der das größte globale Fußballturnier dieses Sommers gefeiert wird. Die Kampagne basiert auf einer Partnerschaft mit dem...",
@@ -376,60 +308,6 @@
     "score": 2
   },
   {
-    "title": "Rakuten Medical 宣布執行長交接以強化全球生技公司營運執行與組織紀律",
-    "url": "https://www.prnewswire.com/news-releases/rakuten-medical-announces-executive-leadership-transition-to-enhance-operational-execution-and-organizational-discipline-as-a-global-scalable-biotech-company-302796048.html",
-    "content": "Minami Maeda appointed as CEO to drive faster, more focused execution toward U.S. commercial launch Mickey Mikitani will continue to provide strategic direction and remains committed to Rakuten Medical's corporate mission of \"Conquering Cancer\" as Executive Chairman New structure...",
-    "published": "2026-06-10",
-    "published_ts": 1781057580.0,
-    "outlet": "PR Newswire",
-    "fetched_at": "2026-06-10T04:57:30Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Minami Maeda 獲任命為 Rakuten Medical CEO，Mickey Mikitani 繼續提供策略指導。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Chinese cities shift from expansion to high-quality development",
-    "url": "https://www.prnewswire.com/news-releases/chinese-cities-shift-from-expansion-to-high-quality-development-302796047.html",
-    "content": "BEIJING, June 9, 2026 /PRNewswire/ -- This is a report from China SCIO China's State Council has unveiled the country's first national-level specialized plan on urban renewal, outlining a roadmap for building people-centered cities that are innovative, livable, beautiful, resilient,...",
-    "published": "2026-06-10",
-    "published_ts": 1781057520.0,
-    "outlet": "PR Newswire",
-    "fetched_at": "2026-06-10T04:57:30Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "中國國務院發布首個國家級專項規劃，推動城市從擴張轉向高品質發展。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "GIGABYTE EVENT 於 COMPUTEX 2026 推出「ENTER INFINITY」完整新產品陣容",
-    "url": "https://www.prnewswire.com/news-releases/gigabyte-event-devoile-un-ensemble-complet-de-nouveaux-produits-avec--enter-infinity--au-computex-2026-302796038.html",
-    "content": "TAIPEI, 10 juin 2026 /PRNewswire/ -- GIGABYTE, la plus grande marque d'ordinateurs au monde, présente aujourd'hui sa gamme de produits la plus complète à ce jour sous le thème « ENTER INFINITY ». Célébrant son 40e anniversaire, l'entreprise a également présenté la série INFINITY, qui...",
-    "published": "2026-06-10",
-    "published_ts": 1781056860.0,
-    "outlet": "PR Newswire",
-    "fetched_at": "2026-06-10T04:57:30Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "GIGABYTE 在 COMPUTEX 2026 發表最完整產品線，涵蓋多款新硬體。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
     "url": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
     "content": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.",
@@ -446,60 +324,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Google just fired a warning shot in the AI subscription price wars",
-    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-    "content": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-    "published": "2026-06-10",
-    "published_ts": 1781051170.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-06-10T04:57:30Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Google 大幅調降入門級 AI 訂閱方案價格，引發 AI 訂閱價格戰。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "content": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-    "published": "2026-06-09",
-    "published_ts": 1781047071.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-06-10T04:57:30Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Justin Ernest 透過 Sabertooth VC 在無傳統基金下投資近5億美元於 Anthropic 等新創。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "我試用了 Siri AI，到目前為止它確實有效",
-    "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-    "content": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After […]",
-    "published": "2026-06-09",
-    "published_ts": 1781048580.0,
-    "outlet": "The Verge",
-    "fetched_at": "2026-06-10T04:57:30Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "用戶測試 Siri AI 功能，認為其表現符合預期。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
   },
   {
     "title": "Gmail隱藏技巧可產生近乎無限的email ID",
@@ -520,24 +344,6 @@
     "score": 2
   },
   {
-    "title": "Conan O'Brien為AI資安公司主持教育影片",
-    "url": "https://www.engadget.com/2191051/conan-o-brien-is-hosting-educational-videos-for-an-ai-cybersecurity-company/",
-    "content": "At long last, a corporate training you might actually enjoy.",
-    "published": "2026-06-09",
-    "published_ts": 1781045621.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-06-10T04:57:31Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Conan O'Brien為AI資安公司主持企業教育影片。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 1
-  },
-  {
     "title": "Oracle 股價因 AI 熱潮上漲，現在需交付匹配的財報",
     "url": "https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories",
     "content": "Oracle’s fourth-quarter earnings call will deliver critical updates about the progress of its data-center build-out and the financial impact of its AI pivot.",
@@ -555,80 +361,6 @@
       "🏢品牌動態"
     ],
     "score": 4
-  },
-  {
-    "title": "擬議聯邦預算削減可能取消42,000名弱勢老年人的就業培訓",
-    "url": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
-    "content": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027 — just as more stringent work requirements for food aid and healthcare coverage go into effect.",
-    "published": "2026-06-10",
-    "published_ts": 1781055060.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-10T04:57:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "川普2027年預算提案將取消低收入老年人的就業培訓計劃，影響42,000人。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Super Micro 股價因70億美元增資而暴跌，儘管積壓訂單強勁",
-    "url": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
-    "content": "Super Micro looks to raise equity as it faces staggering AI demand but also an intense cash burn",
-    "published": "2026-06-10",
-    "published_ts": 1781050320.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-10T04:57:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Super Micro 計劃籌資70億美元因應 AI 需求，但現金消耗激烈導致股價下跌。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "此股市策略提供低成本 AI 曝險，並凸顯封閉式基金優勢",
-    "url": "https://www.marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories",
-    "content": "The fund is diversified and has been an excellent performer, highlighting the advantages of a closed-end structure.",
-    "published": "2026-06-09",
-    "published_ts": 1781047020.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-10T04:57:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "某基金多元化投資並表現優異，突顯封閉式基金的優勢。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2
-  },
-  {
-    "title": "The Met's Immersive Future Extends Beyond The Museum",
-    "url": "https://www.uploadvr.com/the-mets-immersive-future-extends-beyond-the-museum/",
-    "content": "The Metropolitan Museum of Art is extending its reach beyond New York with a new immersive experience bringing the iconic Temple of Dendur to Quest headsets and the web.",
-    "published": "2026-06-09",
-    "published_ts": 1781044844.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-10T04:57:52Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "大都會博物館將Dendur神殿沉浸式體驗帶到Quest頭戴裝置，擴展博物館外應用",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
   },
   {
     "title": "Honor adds Virtual Permissions feature to MagicOS that protects your private data",
@@ -667,60 +399,6 @@
     "score": 3
   },
   {
-    "title": "Opera 更新 Android 版瀏覽器 加入新起始頁與足球中心",
-    "url": "https://www.gsmarena.com/opera_for_android_updated_with_a_new_start_page_and_football_hub-news-73201.php",
-    "content": "Opera has updated its mobile browser on Android with a new design as well as a specialized hub for the upcoming 2026 FIFA World Cup matches. Starting with the design, the new Opera for Android features a design that is very much based on Chrome for Android. This includes a search bar, an AI mode button, as well as a private browsing mode button. You can also customize your pinned sites here by cha",
-    "published": "2026-06-10",
-    "published_ts": 1781055062.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-06-10T04:57:54Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Opera 更新 Android 瀏覽器，新增 2026 FIFA 世界盃專屬足球中心。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Samsung Galaxy S27 首次出現在 IMEI 資料庫",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s27_surfaces_for_the_first_time-news-73200.php",
-    "content": "The upcoming Samsung Galaxy S27 has now been spotted in the GSM Association's IMEI database. This confirms its name and its model number, that is SM-S952 with a letter affixed to that, which signifies which market(s) it's intended for. The specific model in the IMEI database is the SM-S952U, as you can see in the screenshot below. This one is going to US carriers. Of course, having this confirmati",
-    "published": "2026-06-10",
-    "published_ts": 1781049723.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-06-10T04:57:54Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Samsung Galaxy S27 型號 SM-S 首次登錄 GSM 協會 IMEI 資料庫。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Apple 推出 App Store 個人化推薦功能",
-    "url": "https://www.gsmarena.com/apple_launches_personalized_recommendations_for_the_app_store-news-73202.php",
-    "content": "At its Worldwide Developers Conference, Apple announced a new feature coming to its App Store: Personalized Collections. In fact, these are app and game recommendations tailored to you. They will be based on your interests, and will come with App Notes that explain why specific apps are recommended. The tailored recommendations can appear on the Apps, Games, and Search tabs, and they will evolve o",
-    "published": "2026-06-09",
-    "published_ts": 1781044261.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-06-10T04:57:54Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Apple 在 WWDC 宣布 App Store 新增 Personalized Collections 個人化推薦。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Instagram 現可手動重新排列 Photos 網格",
     "url": "https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/",
     "content": "Instagram is rolling out one of its most requested features: the ability to manually reorder posts on your profile grid. Here’s how to do it. more…",
@@ -733,132 +411,6 @@
     "category": "手機",
     "subtopic": "綜合",
     "summary_zh": "Instagram 推出使用者最期待功能，可手動排序個人檔案貼文網格。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Siri AI 可能在長時間對話後顯示休息提醒",
-    "url": "https://9to5mac.com/2026/06/09/siri-ai-might-display-break-reminders-if-conversations-go-on-for-too-long/",
-    "content": "iOS 27 includes code references to break reminders that Siri may display after especially long conversations. Here are the details. more…",
-    "published": "2026-06-10",
-    "published_ts": 1781056192.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-10T04:57:55Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "iOS 27 程式碼顯示 Siri 將在長時間對話後提醒使用者休息。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Apple 收緊 App Review Guidelines 打擊「不增加 App Store 價值」應用",
-    "url": "https://9to5mac.com/2026/06/09/apple-tightens-app-review-guidelines-against-apps-that-do-not-add-value-to-the-app-store/",
-    "content": "Apple has updated its App Store Review Guidelines with new language targeting apps that it says “do not add value to the App Store.” Here are the details. more…",
-    "published": "2026-06-09",
-    "published_ts": 1781049242.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-10T04:57:55Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Apple 更新 App Store 審查指南，針對不增加平台價值的應用程式。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Report: iPhone production grew 20% in Q1, countering global smartphone dip",
-    "url": "https://9to5mac.com/2026/06/09/report-iphone-production-grew-20-in-q1-countering-global-smartphone-dip/",
-    "content": "A new TrendForce report shows Apple’s iPhone production growing sharply in Q1, even as rising memory costs put pressure on the broader smartphone market. Here are the details. more…",
-    "published": "2026-06-09",
-    "published_ts": 1781047461.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-10T04:57:55Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "TrendForce 報告指出 Q1 iPhone 產量成長 20%，逆勢超越全球智慧手機市場。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
-  },
-  {
-    "title": "WWDC26: The Talk Show 直播將以 Theater App 支援 Apple Vision Pro",
-    "url": "https://9to5mac.com/2026/06/09/wwdc-2026-the-talk-show-livestream-returning-to-theater-for-apple-vision-pro/",
-    "content": "Missing out on this week’s WWDC fun in California? Apple Vision Pro users can virtually join tonight’s The Talk Show livestream with the Theater app . more…",
-    "published": "2026-06-09",
-    "published_ts": 1781046215.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-10T04:57:55Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "Apple Vision Pro 使用者可透過 Theater App 虛擬參加 The Talk Show 直播。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "WWDC26: Apple 發布 Platforms State of the Union 5 分鐘精華回顧",
-    "url": "https://9to5mac.com/2026/06/09/wwdc26-watch-apples-short-recap-of-this-years-platforms-state-of-the-union/",
-    "content": "If you missed yesterday’s hour-long WWDC26: Platforms State of the Union, which followed the keynote, Apple has published a 5-minute recap of the most important announcements. Watch it below. more…",
-    "published": "2026-06-09",
-    "published_ts": 1781045205.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-10T04:57:55Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Apple 公布 WWDC26 Platforms State of the Union 5 分鐘精華影片。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Philips Hue 智慧燈具可即時反應直播體育賽事",
-    "url": "https://9to5mac.com/2026/06/09/philips-hue-smart-lights-will-soon-be-able-to-react-to-live-sports-events-in-real-time/",
-    "content": "Signify, the firm behind Philips Hue, is launching a new Sports Live feature that connects lighting effects to real-time live sports data. The new feature arrives in time for the 2026 FIFA World Cup kickoff. more…",
-    "published": "2026-06-09",
-    "published_ts": 1781044147.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-10T04:57:55Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧家庭產品",
-    "summary_zh": "Signify 推出 Philips Hue Sports Live 功能，燈光效果即時連結賽事數據。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Google Chat 圖示調整避免與 Google Messages 混淆",
-    "url": "https://9to5google.com/2026/06/09/google-chat-messages-icon/",
-    "content": "With the new Workspace icons fully rolled out, Google is now tweaking how Chat appears in the Android status bar to look less like Messages. more…",
-    "published": "2026-06-10",
-    "published_ts": 1781050135.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-10T04:57:55Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Google 調整 Chat 圖示，讓 Android 狀態列顯示更清楚區分。",
     "tags": [
       "🏢品牌動態"
     ],
@@ -881,116 +433,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Google’s Gemini 3.5 Live Translate enables realistic translation at the speed of natural conversations",
-    "url": "https://siliconangle.com/2026/06/09/googles-gemini-3-5-live-translate-enables-realistic-real-time-translation-speed-natural-conversations/",
-    "content": "Google LLC’s newest artificial intelligence tool promises to bring real-time translation to every smartphone user, enabling more natural and fluid conversations between speakers of different languages. That’s according to a new blog post today that announced the arrival of Gemini 3.5 Live Translate, which explained that it’s the company’s most advanced audio model for speech-to-speech translation ",
-    "published": "2026-06-10",
-    "published_ts": 1781054615.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-10T04:58:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Google Gemini 3.5 Live Translate提供即時自然對話翻譯功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Enterprises rethink FinOps as AI shifts cost dynamics",
-    "url": "https://siliconangle.com/2026/06/09/ai-cost-management-finopsx/",
-    "content": "AI is reshaping AI cost management, forcing organizations to rethink how they create and measure value. As AI spending accelerates, enterprises are seeking new ways to connect AI investments with measurable business outcomes. AI has made cost management far more complex than traditional cloud and SaaS spending, which was largely driven by users and systems […] The post Enterprises rethink FinOps a",
-    "published": "2026-06-10",
-    "published_ts": 1781054029.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-10T04:58:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "AI改變成本結構，企業重新思考FinOps成本管理策略。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "NinjaOne raises $400M+ for its endpoint management platform",
-    "url": "https://siliconangle.com/2026/06/09/ninjaone-raises-400m-endpoint-management-platform/",
-    "content": "NinjaOne Inc., a startup with a platform for managing information technology infrastructure, today announced that it has raised more than $400 million in secondary funding. The share sale marks the second extension of a Series C round that the company first closed in 2024. NinjaOne nabbed a separate $500 million follow-on investment last February. Its […] The post NinjaOne raises $400M+ for its en",
-    "published": "2026-06-10",
-    "published_ts": 1781053512.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-10T04:58:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "NinjaOne為端點管理平台募資逾4億美元。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Decentralized lending protocol Morpho raises $175M to build the world’s biggest open credit network",
-    "url": "https://siliconangle.com/2026/06/09/decentralized-lending-protocol-morpho-raises-175m-build-worlds-biggest-open-credit-network/",
-    "content": "The decentralized lending protocol Morpho, widely regarded as the closest competitor to Aave, said today it has raised $175 million in funding that increases its valuation to more than $2 billion. Paradigm, a16z crypto and Ribbit Capital co-led the round, according to a report by Fortune. Additional participation came from Apollo Funds, Circle Ventures, VanEck, […] The post Decentralized lending p",
-    "published": "2026-06-09",
-    "published_ts": 1781047687.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-10T04:58:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "DeFi",
-    "summary_zh": "去中心化借貸協議Morpho募資1.75億美元，打造全球最大開放信用網絡。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Anthropic sets AI performance records with new Mythos 5, Fable 5 frontier models",
-    "url": "https://siliconangle.com/2026/06/09/anthropic-sets-ai-performance-records-new-mythos-5-fable-5-frontier-models/",
-    "content": "Anthropic PBC today introduced Claude Mythos 5 and Claude Fable 5, two large language models that it says outperform the competition across a wide range of benchmarks. The LLMs are derived from the Claude Mythos Preview algorithm that the company debuted in April. The model made headlines for its ability to find highly complicated cybersecurity […] The post Anthropic sets AI performance records wi",
-    "published": "2026-06-09",
-    "published_ts": 1781047460.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-10T04:58:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic推出Claude Mythos 5與Fable 5，刷新AI效能紀錄。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "SailPoint shares fall despite earnings beat and raised guidance",
-    "url": "https://siliconangle.com/2026/06/09/sailpoint-shares-fall-despite-earnings-beat-raised-guidance/",
-    "content": "Shares in SailPoint Inc. fell more than 11% today after the identity security company beat analyst expectations on revenue and adjusted earnings and raised its outlook, in a selloff that pointed to investor expectations the results did not clear. For its fiscal 2027 first quarter ended April 30, the company reported adjusted earnings of five […] The post SailPoint shares fall despite earnings beat",
-    "published": "2026-06-09",
-    "published_ts": 1781044338.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-10T04:58:00Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "SailPoint財報優於預期且上調財測，股價仍下跌逾11%。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
   },
   {
     "title": "Solar + storage 占美國 Q1 新增電網容量 91%",
@@ -1083,42 +525,6 @@
     "score": 1
   },
   {
-    "title": "Steve Hilton與Xavier Becerra角逐加州州長",
-    "url": "https://www.axios.com/local/san-diego/2026/06/10/california-governor-race-runoff-steve-hilton-xavier-becerra-election-2026",
-    "content": "Republican Steve Hilton and Democrat Xavier Becerra are headed to the California governor's race in November, according to the Associated Press . The big picture: With 91% of the vote counted as of Tuesday evening: Hilton has 25% of the vote and Becerra 27.9%. The top two vote-getters, regardless of party, face off in November. Context: It took a week of vote counting for the winners to emerge, fu",
-    "published": "2026-06-10",
-    "published_ts": 1781055234.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-10T04:58:04Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Steve Hilton與Xavier Becerra將角逐11月加州州長選舉。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Graham Platner贏得緬因州關鍵參議院提名",
-    "url": "https://www.axios.com/2026/06/10/democrats-graham-platner-maine-senate-primary",
-    "content": "Graham Platner , a scandal-plagued Marine combat veteran, won Maine's Democratic Senate primary Tuesday in a race that's seen as the party's best Senate pickup opportunity in November. Why it matters: Many Democratic strategists and elected officials worry that Platner has too much baggage to defeat Sen. Susan Collins (R-Maine) — and that his candidacy will doom the party's chances of retaking the",
-    "published": "2026-06-10",
-    "published_ts": 1781055201.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-10T04:58:04Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Graham Platner贏得緬因州民主黨參議院初選提名。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
     "title": "Kalshi requires traders to disclose employers to curb insider trading in sensitive markets",
     "url": "https://www.theblock.co/post/404199/kalshi-requires-employer-disclosure?utm_source=rss&utm_medium=rss",
     "content": "The prediction markets platform also introduced a risk-scoring system and whistleblower tools to ensure market integrity.",
@@ -1131,43 +537,6 @@
     "category": "加密貨幣",
     "subtopic": "綜合",
     "summary_zh": "Kalshi要求交易者揭露雇主，以遏止敏感市場內線交易。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Washington man gets 5 years for helping $100 million crypto money laundering scheme",
-    "url": "https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&utm_medium=rss",
-    "content": "Geoffrey K. Auyeung helped overseas fraudsters launder $100 million in scam proceeds through crypto and bank accounts, according to the DOJ.",
-    "published": "2026-06-10",
-    "published_ts": 1781056607.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-06-10T04:58:06Z",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合",
-    "summary_zh": "華盛頓男子因協助1億美元加密洗錢案被判5年徒刑。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "House crypto tax hearing reveals divide over urgency in advancing legislation",
-    "url": "https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&utm_medium=rss",
-    "content": "A House committee hearing on the taxation of digital assets offered a glimpse into lawmakers' views, highlighting rifts in approaches.",
-    "published": "2026-06-10",
-    "published_ts": 1781051482.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-06-10T04:58:06Z",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合",
-    "summary_zh": "眾議院加密稅務聽證會顯示立法 urgency 存在分歧。",
     "tags": [
       "📋政策法規"
     ],
@@ -47178,5 +46547,75 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
+  },
+  {
+    "title": "Jim Cramer says SpaceX investors aren't buying earnings — they're buying Elon Musk",
+    "url": "https://www.cnbc.com/2026/06/16/jim-cramer-spacex-investors-buying-elon-musk.html",
+    "content": "CNBC's Jim Cramer said SpaceX investors are betting on Elon Musk's vision and track record, rather than the company's current earnings power.",
+    "published": "2026-06-16",
+    "published_ts": 1781649725.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-17T02:14:01Z",
+    "classified": false
+  },
+  {
+    "title": "Anthropic's Fable shutdown is a big moment for open-source AI",
+    "url": "https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
+    "content": "Anthropic’s Fable shutdown could boost open-source AI, but many of the models gaining traction are Chinese.",
+    "published": "2026-06-16",
+    "published_ts": 1781649272.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-17T02:14:01Z",
+    "classified": false
+  },
+  {
+    "title": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+    "url": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html",
+    "content": "Databricks is seeing higher growth as AI agents assist with data analysis, but all that activity is significantly increasing costs.",
+    "published": "2026-06-16",
+    "published_ts": 1781648728.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-17T02:14:01Z",
+    "classified": false
+  },
+  {
+    "title": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
+    "url": "https://www.cnbc.com/2026/06/16/intel-begins-production-of-18a-p-inches-closer-to-possible-apple-deal.html",
+    "content": "Intel is entering production of 18A-P, its most-advanced chip node that could be the target of a coming deal with Apple",
+    "published": "2026-06-16",
+    "published_ts": 1781643602.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-17T02:14:01Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX's blistering start still faces key tests that will determine the stock's true value",
+    "url": "https://www.cnbc.com/2026/06/16/spacexs-blistering-start-still-faces-key-tests-that-will-determine-the-stocks-true-value.html",
+    "content": "SpaceX's stock has yet to face true price discovery.",
+    "published": "2026-06-16",
+    "published_ts": 1781641835.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-17T02:14:01Z",
+    "classified": false
+  },
+  {
+    "title": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+    "url": "https://www.cnbc.com/2026/06/16/usdepartment-of-justice-calls-for-dismissal-of-naacp-xai-lawsuit-.html",
+    "content": "The DOJ is asking a Mississippi federal court to dismiss a lawsuit filed by the NAACP against Elon Musk's xAI, now owned by SpaceX.",
+    "published": "2026-06-16",
+    "published_ts": 1781650316.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-17T02:14:01Z",
+    "classified": false
+  },
+  {
+    "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
+    "url": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
+    "content": "Snap is launching its first AR glasses geared toward the broader public instead of developers.",
+    "published": "2026-06-16",
+    "published_ts": 1781646995.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-17T02:14:01Z",
+    "classified": false
   }
 ]
