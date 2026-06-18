@@ -1,23 +1,5 @@
 [
   {
-    "title": "Jim Cramer 說 SpaceX 最大風險之一是這群投資人",
-    "url": "https://www.cnbc.com/2026/06/10/jim-cramer-says-one-of-spacexs-biggest-risks-is-this-group-of-investors.html",
-    "content": "CNBC's Jim Cramer said one of the biggest risks facing the SpaceX IPO is speculators who may rush to sell shares shortly after the stock begins trading.",
-    "published": "2026-06-10",
-    "published_ts": 1781132401.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-10T23:19:03Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Jim Cramer 警告投機者可能在 SpaceX 上市後立即賣股。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
     "title": "Zemcelpro®（UM171 細胞療法）在加拿大簽署授權與供應協議",
     "url": "https://www.prnewswire.com/news-releases/lizenz--und-liefervereinbarungen-fur-zemcelpro-um171-zelltherapie-in-kanada-bekannt-gegeben-302797642.html",
     "content": "- Zemcelpro® (dorocubicel), auch bekannt als UM171-Zelltherapie, hat kürzlich von der Europäischen Kommission eine bedingte Marktzulassung in Europa erhalten - Medexus wurden exklusive Lizenz- und Liefervereinbarungen für die kanadischen Vermarktungsrechte an Zemcelpro® eingeräumt...",
@@ -419,96 +401,6 @@
     "score": 2
   },
   {
-    "title": "xAI 解雇舉報 Grok 安全疑慮的工程師，遭新訴訟指控",
-    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "content": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-    "published": "2026-06-10",
-    "published_ts": 1781130679.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-06-11T05:09:31Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "前 xAI 工程師控訴因舉報 Grok 安全問題而被解雇，提起訴訟並控告 SpaceX。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 3
-  },
-  {
-    "title": "為什麼Andrew Yang選擇自己創業而非等待華盛頓",
-    "url": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
-    "content": "Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all saying versions of the same thing. An entrepreneur at heart, […]",
-    "published": "2026-06-10",
-    "published_ts": 1781130252.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-06-11T05:09:31Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Andrew Yang因自動化與AI將掏空勞動市場而展開2020總統競選活動。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Bluesky is getting ‘communities’",
-    "url": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
-    "content": "Bluesky will be getting \"communities,\" which will function as smaller spaces where you can \"go deeper and hang out with people who care about the same stuff\" sometime this year, according to head of product Alex Benzer. They will be built on the decentralized AT Protocol that underpins Bluesky, with Benzer saying that \"it's a […]",
-    "published": "2026-06-11",
-    "published_ts": 1781136348.0,
-    "outlet": "The Verge",
-    "fetched_at": "2026-06-11T05:09:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Bluesky將推出「社群」功能，讓用戶可深入與同好交流討論。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Framework delays its first Laptop 13 Pro shipments by a month",
-    "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
-    "content": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some shipments could slip to early August. If you're not in the first batch, your Laptop 13 Pro shifts from […]",
-    "published": "2026-06-10",
-    "published_ts": 1781133171.0,
-    "outlet": "The Verge",
-    "fetched_at": "2026-06-11T05:09:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "平板與筆記本產品",
-    "summary_zh": "Framework Laptop 13 Pro首批量產出貨延遲一個月，原訂6月推出。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Apple’s new Siri AI knows when to shut up",
-    "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-    "content": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery and wordy. While a more […]",
-    "published": "2026-06-10",
-    "published_ts": 1781131937.0,
-    "outlet": "The Verge",
-    "fetched_at": "2026-06-11T05:09:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Apple新版Siri AI已推出，使用者初步體驗顯示其互動表現改善。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Nike Promo Codes and Discounts: 30% for June 2026",
     "url": "https://www.wired.com/story/nike-promo-code/",
     "content": "Check out our deals for Nike this June 2026, including 15% off select purchases.",
@@ -725,296 +617,6 @@
     "score": 3
   },
   {
-    "title": "GPT-5.5 在 Agents’ Last Exam 基準測試中擊敗 Claude Fable 5",
-    "url": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark",
-    "content": "Researchers from the University of California, Berkeley's Center for Responsible, Decentralized Intelligence (RDI), alongside an advisory committee of over 300 domain experts, have launched Agents’ Last Exam (ALE) —a grueling new benchmark built to measure whether artificial intelligence can actually execute economically valuable, long-horizon professional workflows. In a shocking upset, OpenAI’s ",
-    "published": "2026-06-10",
-    "published_ts": 1781133360.0,
-    "outlet": "VentureBeat",
-    "fetched_at": "2026-06-11T05:09:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "GPT-5.5 在 Berkeley 新推出的 Agents’ Last Exam 基準測試中勝過 Claude Fable 5。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Alpine Linux 適合桌面使用但有單一限制",
-    "url": "https://www.zdnet.com/article/alpine-linux-crazy-fast-distro-for-your-desktop/",
-    "content": "Known primarily for containers and servers, Alpine Linux isn't always considered for traditional desktop use. I think this lightweight distro could be your daily driver. Here's why.",
-    "published": "2026-06-11",
-    "published_ts": 1781136039.0,
-    "outlet": "ZDNet",
-    "fetched_at": "2026-06-11T05:09:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Alpine Linux 以輕量快速著稱，適合桌面使用但存在單一使用限制。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Windows 11 六月更新降低延遲、加速搜尋並修補數百漏洞",
-    "url": "https://www.engadget.com/2191909/windows-11-sucks-slightly-less-now-thanks-to-a-june-update/",
-    "content": "The update brings a low-latency profile, speeds up search, and patches hundreds of flaws.",
-    "published": "2026-06-10",
-    "published_ts": 1781135468.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-06-11T05:09:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Windows 11 更新加入低延遲模式、加快搜尋速度並修復數百個安全漏洞。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Xbox CEO 公開信表示目前利潤率「無法持續」",
-    "url": "https://www.engadget.com/2191897/xbox-ceo-says-current-margins-cannot-continue-in-public-letter-to-staff/",
-    "content": "The more things change, the more they stay the same.",
-    "published": "2026-06-10",
-    "published_ts": 1781132700.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-06-11T05:09:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Xbox CEO 發公開信指出目前利潤率無法持續，需調整營運策略。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "加拿大提出法案禁止 16 歲以下用戶使用社群媒體",
-    "url": "https://www.engadget.com/2191879/canada-announces-bill-banning-social-media-for-anyone-under-16/",
-    "content": "The regulation also imposes new safety expectations on 'AI chatbot services.'",
-    "published": "2026-06-10",
-    "published_ts": 1781130597.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-06-11T05:09:32Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "加拿大新法案禁止 16 歲以下使用社群媒體，並對 AI 聊天機器人訂定安全規範。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
-    "url": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
-    "content": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
-    "published": "2026-06-11",
-    "published_ts": 1781136900.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-11T05:09:33Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "水管工收取 160 美元維修馬桶水箱卻造成新問題。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 1
-  },
-  {
-    "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
-    "url": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
-    "content": "“My sister thinks Medicaid will take the house my mom and I own together.”",
-    "published": "2026-06-10",
-    "published_ts": 1781135280.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-11T05:09:33Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "母親與子女共有房屋，Medicaid 是否會強制出售。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
-    "title": "When a World Cup team loses, its country’s stock market also goes down. Here’s the weird reason why.",
-    "url": "https://www.marketwatch.com/story/the-weird-reason-why-a-teams-world-cup-loss-can-trigger-a-sharp-drop-in-stock-prices-ac385f51?mod=mw_rss_topstories",
-    "content": "Soccer’s premier tournament brings a hidden danger to your investment portfolio.",
-    "published": "2026-06-10",
-    "published_ts": 1781133900.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-11T05:09:33Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "世界盃球隊落敗時其國家股市也會跟著下跌。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Social Security is facing a 22% cliff — 4 ways to build an income stream Washington can’t touch",
-    "url": "https://www.marketwatch.com/story/social-security-could-face-an-automatic-22-cut-in-2032-these-4-moves-will-protect-your-retirement-a00f9463?mod=mw_rss_topstories",
-    "content": "The countdown to insolvency is accelerating — and the rules of retirement planning just broke.",
-    "published": "2026-06-10",
-    "published_ts": 1781133840.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-11T05:09:33Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Social Security 面臨 22% 斷崖，4 種方法建立不受華府影響的收入。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Thinking about insider trading on prediction markets? Kalshi wants to make an example of you.",
-    "url": "https://www.marketwatch.com/story/thinking-about-insider-trading-on-prediction-markets-kalshi-wants-to-make-an-example-of-you-74d50486?mod=mw_rss_topstories",
-    "content": "Prediction-market companies are identifying hundreds of cases of suspected insider trading.",
-    "published": "2026-06-10",
-    "published_ts": 1781133720.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-11T05:09:33Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Kalshi 將對預測市場內線交易採取法律行動。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Oracle’s stock slides after earnings, as the steep price of AI spooks investors",
-    "url": "https://www.marketwatch.com/story/oracles-stock-slides-after-earnings-as-the-steep-price-of-ai-spooks-investors-0653b309?mod=mw_rss_topstories",
-    "content": "Oracle blew past earnings expectations and grew its contract pipeline to $638 billion, but Wall Street is concerned about its rising AI costs.",
-    "published": "2026-06-10",
-    "published_ts": 1781133420.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-11T05:09:33Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Oracle 財報優於預期但 AI 成本上升導致股價下滑，合約管道達 6380 億美元。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Micron, Intel drag the tech sector into a new bearish phase. Will the correction last this time?",
-    "url": "https://www.marketwatch.com/story/micron-intel-drag-the-tech-sector-into-a-new-bearish-phase-will-the-correction-last-this-time-9ba4f3f5?mod=mw_rss_topstories",
-    "content": "The selloff in the tech sector that has heightened investor anxiety over the past week graduated to a new phase on Wednesday: The pullback is over, and it’s now officially a correction.",
-    "published": "2026-06-10",
-    "published_ts": 1781132280.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-06-11T05:09:33Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "Micron 與 Intel 拖累科技股進入新一波熊市階段。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "What Might Meta Connect 2026, Set For September 23, Bring?",
-    "url": "https://www.uploadvr.com/meta-connect-2026-dates-confirmed/",
-    "content": "Meta Connect 2026 takes place September 23 and 24. Here's a rundown of what it might bring.",
-    "published": "2026-06-11",
-    "published_ts": 1781140225.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-11T05:09:39Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "Meta Connect 2026 將於9月23-24日舉行，預期公布多項新產品。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Meta Smart Glasses Daily Usage Tripled Year-Over-Year",
-    "url": "https://www.uploadvr.com/meta-smart-glasses-daily-usage-tripled-year-over-year/",
-    "content": "Meta said daily usage of its smart glasses tripled year-over-year, and that it remains \"one of the fastest growing categories of consumer electronics ever\".",
-    "published": "2026-06-11",
-    "published_ts": 1781138851.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-11T05:09:39Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "Meta 表示智慧眼鏡每日使用量年增三倍，為成長最快的消費性電子類別之一。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Google Gemini Smart Glasses 秋季推出對抗 Meta",
-    "url": "https://www.uploadvr.com/gemini-smart-glasses-are-launching-in-fall-to-take-on-ray-ban-meta/",
-    "content": "Google-powered smart glasses from Warby Parker and Gentle Monster are launching this fall to take on Ray-Ban Meta.",
-    "published": "2026-06-11",
-    "published_ts": 1781138281.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-11T05:09:39Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "Google攜手Warby Parker與Gentle Monster，Gemini智慧眼鏡秋季推出挑戰Ray-Ban Meta。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Outblast Impressions: Old-School Challenge Meets New-School Immersion",
-    "url": "https://www.uploadvr.com/outblast-impressions-old-school-challenge-meets-new-school-immersion/",
-    "content": "Developer Rhino Rock Studios brings side-shooter action to VR with Outblast, a retro sci-fi title that puts you in the role of a pilot charged with stopping a rogue intelligence.",
-    "published": "2026-06-10",
-    "published_ts": 1781130080.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-11T05:09:39Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合",
-    "summary_zh": "Rhino Rock Studios推出VR射擊遊戲Outblast，玩家扮演太空戰鬥機飛行員。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "The new Tecno Pova 8 boasts an 8,000mAh battery, Alive Matrix Display on its back",
     "url": "https://www.gsmarena.com/the_new_tecno_pova_8_boasts_an_8000mah_battery_alive_matrix_display_on_its_back-news-73218.php",
     "content": "With the Pova 7, Tecno took a page out of Nothing’s book with the Delta Light Interface, a triangular strip of light with 104 LEDs. Now the company is going to the next level with the Alive Matrix Display. This is a small dot-matrix display in the third “lens” of the camera island (there’s only one actual camera on there, despite appearances). The new Tecno Pova 8 is an upgrade over the Pova 7 in ",
@@ -1046,42 +648,6 @@
     "category": "手機",
     "subtopic": "手機晶片",
     "summary_zh": "Honor Win 2規格再次外流，傳聞將推出Win Pad Mini。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "The wide Samsung Galaxy Z Fold8 and the Galaxy Watch Ultra 2 receive new certifications",
-    "url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
-    "content": "Samsung's upcoming wide-format Galaxy Z Fold, most recently believed to be called Galaxy Z Fold8 (while the successor in form to the Galaxy Z Fold7 would be the Galaxy Z Fold8 Ultra), has now been certified for sale in India by BIS. It has the model number SM-F971B. The certification doesn't reveal any specs, but according to previous rumors the device will sport a 7.6-inch inner display with a 4:",
-    "published": "2026-06-11",
-    "published_ts": 1781139662.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-06-11T05:09:41Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Samsung Galaxy Z Fold8與Galaxy Watch Ultra 2取得新認證。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Google expands Gemini in Chrome to many more countries",
-    "url": "https://www.gsmarena.com/google_expands_gemini_in_chrome_to_many_more_countries-news-73221.php",
-    "content": "Google's Gemini in Chrome is now available in many more countries than before. The AI chatbot is now built into the browser on desktop and iOS in Latin America, Africa, and the Middle East. The full list of countries is available here. Unfortunately, the EU still isn't getting it. Maybe later. Gemini in Chrome first launched in the US last year, before expanding to Canada, New Zealand, and India b",
-    "published": "2026-06-10",
-    "published_ts": 1781132497.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-06-11T05:09:41Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Google將Gemini聊天機器人擴展至拉丁美洲等多國Chrome瀏覽器。",
     "tags": [
       "🏢品牌動態"
     ],
@@ -1142,78 +708,6 @@
     "score": 4
   },
   {
-    "title": "OmniOutliner 6.2 支援 11 種語言",
-    "url": "https://9to5mac.com/2026/06/10/omnioutliner-6-2-is-now-available-in-11-languages/",
-    "content": "OmniGroup’s legendary outlining tool just got even more useful and accessible to users around the world, with expanded localization support across Mac, iPad, iPhone, and Apple Vision Pro. Here are the details. more…",
-    "published": "2026-06-11",
-    "published_ts": 1781140089.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-11T05:09:42Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "OmniOutliner 6.2 新增 11 種語言在地化支援。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Comulytic Note Pro 評測：會議 AI 助手首選",
-    "url": "https://9to5mac.com/2026/06/10/review-comulytic-note-pro-is-now-my-official-sidekick-for-any-meeting/",
-    "content": "I spent the last month trying out the Comulytic Note Pro , a credit card-sized AI recording transcriber, summarizer, and all-around assistant. Here are my takeaways. more…",
-    "published": "2026-06-11",
-    "published_ts": 1781136185.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-11T05:09:42Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "Comulytic Note Pro 信用卡大小 AI 錄音轉錄工具評測。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "MSI PRO MA 27 吋 Mac 專用螢幕評測",
-    "url": "https://9to5mac.com/2026/06/10/the-perfect-27-in-mac-focused-monitor-for-work-and-more-video/",
-    "content": "When you’re using Apple hardware, you just want things to work – to feel native and seamless – and that’s exactly what MSI had in mind with the PRO MAX 271UPXW12G monitor. Boasting a pixel-dense 4K resolution on a 27-in screen with a QD-OLED display, this MSI monitor is designed for easy macOS integration and offers a wide variety of thoughtful features. It’s a productivity-focused monitor that mi",
-    "published": "2026-06-10",
-    "published_ts": 1781130600.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-11T05:09:42Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合",
-    "summary_zh": "MSI PRO MA 27 吋螢幕專為 Mac 設計，操作原生流暢。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "‘HeyPolo’ is a privacy-first family safety & location sharing app from the team behind Surfshark",
-    "url": "https://9to5google.com/2026/06/10/heypolo-family-location-sharing-app-surfshark/",
-    "content": "Our smartphones can do a lot, but perhaps one of the most underrated things they can do is offer some serious peace of mind for families. That’s a big part of the reason that location sharing apps have been popular for years, but many of them can also be a privacy nightmare. That’s the problem HeyPolo from Surfshark aims to fill – a privacy-first family safety app. more…",
-    "published": "2026-06-10",
-    "published_ts": 1781130600.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-11T05:09:42Z",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Surfshark團隊推出HeyPolo應用程式，強調隱私優先的家庭安全與定位分享功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Thriving Through Volatility: The Everpure Advantage in an Uncertain Market",
     "url": "https://intelligence.theregister.com/paper/view/20338",
     "content": "Learn how a consumption-based operating model provides flexibility, improves efficiency, and brings predictability to infrastructure investments.",
@@ -1249,262 +743,6 @@
       "🏢品牌動態"
     ],
     "score": 4
-  },
-  {
-    "title": "With chatbot regulation, Canada proposes a ban on social media for under 16s",
-    "url": "https://siliconangle.com/2026/06/10/chatbot-regulation-canada-proposes-ban-social-media-16s/",
-    "content": "The government of Canada announced today that it’s mulling a ban on social media for children under 16, though unlike some other countries that have already introduced such a ban, Canada has said the social media platforms can keep serving children if they can prove they’re safe. In what’s fast becoming a global effort to […] The post With chatbot regulation, Canada proposes a ban on social media ",
-    "published": "2026-06-11",
-    "published_ts": 1781143670.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "加拿大政府擬禁止16歲以下兒童使用社群媒體，並推動chatbot監管。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Anthropic’s Dario Amodei wants governments to have the power to block ‘dangerous’ AI systems",
-    "url": "https://siliconangle.com/2026/06/10/anthropics-dario-amodei-wants-governments-power-block-dangerous-ai-systems/",
-    "content": "Anthropic PBC Chief Executive Dario Amodei is calling on the U.S. government to block the deployment of dangerous artificial intelligence models in the same way as it prevents unsafe airplanes from taking off. In a new post today on his personal blog, Amodei (pictured) said there need to be mandatory third-party audits of frontier AI […] The post Anthropic’s Dario Amodei wants governments to have ",
-    "published": "2026-06-11",
-    "published_ts": 1781143133.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic執行長Dario Amodei呼籲美國政府有權封鎖危險AI模型部署。",
-    "tags": [
-      "📋政策法規",
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Google open-sources speedy DiffusionGemma text diffusion model",
-    "url": "https://siliconangle.com/2026/06/10/google-open-sources-speedy-diffusiongemma-text-diffusion-model/",
-    "content": "Google LLC today released DiffusionGemma, a large language model based on an emerging machine learning approach known as text diffusion. The company says the algorithm can generate text four times faster than traditional LLMs. Furthermore, DiffusionGemma does so using less RAM. The model’s memory efficiency enables it to run on high-end consumer graphics cards that […] The post Google open-sources",
-    "published": "2026-06-11",
-    "published_ts": 1781138530.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Google開源DiffusionGemma文字擴散模型，採用新興機器學習方法。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Oracle’s AI investments spook investors despite impressive earnings and revenue beats",
-    "url": "https://siliconangle.com/2026/06/10/oracles-ai-investments-spook-investors-despite-another-impressive-earnings-revenue-beat/",
-    "content": "Shares of Oracle Corp. fell 9% in late trading today even though it surpassed Wall Street’s expectations on earnings and revenue and raised its profit forecast for the next financial year. The problem: The database and cloud infrastructure giant revealed plans to raise even more debt to fund its ongoing artificial intelligence data center buildout. The […] The post Oracle’s AI investments spook in",
-    "published": "2026-06-10",
-    "published_ts": 1781134987.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Oracle財報與營收優於預期但AI投資使股價下跌9%。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery",
-    "url": "https://siliconangle.com/2026/06/10/microsoft-patches-record-200-plus-vulnerabilities-ai-accelerates-bug-discovery/",
-    "content": "Microsoft Corp. has patched more than 200 security vulnerabilities, the most the company has ever fixed in a single Patch Tuesday, as researchers say artificial intelligence bug-hunting is the reason the number keeps climbing. The previous record was 175 fixes, set last October. This month’s batch carried 38 critical flaws and Microsoft shipped several of them […] The post Microsoft patches record",
-    "published": "2026-06-10",
-    "published_ts": 1781132402.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "Microsoft單次Patch Tuesday修補超過200個安全漏洞，創歷史新高。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Neura Robotics to raise up to $1.4B from Nvidia-backed consortium",
-    "url": "https://siliconangle.com/2026/06/10/neura-robotics-raise-1-4b-nvidia-backed-consortium/",
-    "content": "Automation startup Neura Robotics GmbH is raising a funding round worth up to $1.4 billion from a group of prominent investors. The company detailed today that the consortium includes Amazon.com Inc., Nvidia Corp., Qualcomm Technologies Inc. and cryptocurrency issuer Tether. The round is also expected to draw contributions from outside the tech sector. The European […] The post Neura Robotics to r",
-    "published": "2026-06-10",
-    "published_ts": 1781131778.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "機器人",
-    "summary_zh": "Neura Robotics將從NVIDIA支持的財團募資最高$1.4B。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Securing the AI workforce: Zscaler’s zero-trust play for agentic AI",
-    "url": "https://siliconangle.com/2026/06/10/securing-ai-workforce-zscalers-zero-trust-play-agentic-ai/",
-    "content": "Since Zscaler Inc.‘s launch, the company’s mission has been to disrupt traditional access and security with its Zero Trust platform. At its user event, Zenith Live, in Las Vegas, the company made its case for what its next act would look like: becoming the foundational “zero trust for agentic AI” platform. For enterprises, the keynote by […] The post Securing the AI workforce: Zscaler’s zero-trust",
-    "published": "2026-06-10",
-    "published_ts": 1781130689.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "Zscaler以Zero Trust平台因應agentic AI工作負載安全需求。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Visa partners with OpenAI to let AI agents make payments for users",
-    "url": "https://siliconangle.com/2026/06/10/visa-partners-openai-let-ai-agents-make-payments-users/",
-    "content": "Visa Inc. has struck a deal with OpenAI Group PBC to let artificial intelligence agents make payments for users, bringing one of the world’s largest payment networks into ChatGPT’s push toward agentic commerce. The companies announced the partnership at the Visa Payments Forum today in San Francisco. Under the agreement, Visa’s payment tools will be […] The post Visa partners with OpenAI to let AI",
-    "published": "2026-06-10",
-    "published_ts": 1781130624.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Visa與OpenAI合作，讓AI代理為用戶執行支付動作。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Automated governance is FinOps’ next frontier as AI spend spirals beyond engineering teams",
-    "url": "https://siliconangle.com/2026/06/10/automated-governance-controls-cloud-ai-infrastructure-finopsx/",
-    "content": "Artificial intelligence is creating a new class of cloud cost problem — one that no longer belongs exclusively to engineers. As AI tools put spend capabilities into the hands of sales, finance and executive teams, the need for automated governance has become as urgent as the innovation it is meant to protect. The FinOps Foundation’s […] The post Automated governance is FinOps’ next frontier as AI ",
-    "published": "2026-06-10",
-    "published_ts": 1781129960.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-11T05:09:48Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "AI支出超出工程團隊，FinOps自動化治理成為下一波重點。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "GM 與Peak Energy合作開發不含鋰的鈉離子電池",
-    "url": "https://electrek.co/2026/06/10/gm-sodium-ion-battery-peak-energy/",
-    "content": "GM has partnered with Peak Energy to develop next-generation sodium-ion battery cells, but they’re not going into EVs – they’re for grid-scale energy storage projects. GM Ventures is making a strategic investment in Peak Energy. more…",
-    "published": "2026-06-10",
-    "published_ts": 1781133688.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-11T05:09:49Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車核心零部件",
-    "summary_zh": "GM 與Peak Energy合作開發鈉離子電池，目標用於電網規模儲能而非電動車。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "BYD 將5分鐘Flash快充技術引進加拿大",
-    "url": "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/",
-    "content": "BYD is preparing to bring its megawatt “Flash Charging” network, which can add about 250 miles (400 km) of range in 5 minutes, to Canada – the first confirmed deployment in North America. The plan was revealed through a new BYD job posting in Toronto for a manager tasked with executing “BYD’s flash charging network expansion strategy and business growth across Canada.” more…",
-    "published": "2026-06-10",
-    "published_ts": 1781132652.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-11T05:09:49Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "BYD 計畫把每5分鐘增加250英里續航的Flash Charging網路首度部署至加拿大。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "A YouTuber Debunked Donut Lab's Solid State Claims. It Reveals Something Huge About Lithium Batteries",
-    "url": "https://insideevs.com/news/798393/donut-lab-solid-state-debunked-lithium-ion-battery/",
-    "content": "Donut Lab claimed to have made the world's first production-ready solid state battery. An in-depth investigation suggests otherwise.",
-    "published": "2026-06-11",
-    "published_ts": 1781138681.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-06-11T05:09:49Z",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合",
-    "summary_zh": "YouTuber 調查顯示 Donut Lab 宣稱的固態電池並非量產就緒，揭露鋰電池關鍵問題",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "美軍連續第二晚轟炸伊朗",
-    "url": "https://www.axios.com/2026/06/10/trump-iran-strike-situation-room-meeting",
-    "content": "The U.S. military launched strikes on Iran on Wednesday for the second consecutive evening. U.S. officials said the intent was to pressure Tehran to sign a deal, but the strikes also carry a risk of military escalation. The big picture: U.S. officials said they expected an Iranian response, possibly targeting U.S. bases, as happened Tuesday. Tehran announced Wednesday night its military had target",
-    "published": "2026-06-11",
-    "published_ts": 1781140581.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-11T05:09:52Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "美軍連續第二晚對伊朗發動空襲，目的是向德黑蘭施壓。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
-    "title": "House Democrats 繳納 DCCC 會費情況曝光",
-    "url": "https://www.axios.com/2026/06/11/house-democrats-dccc-dues-aoc-jeffries-pelosi",
-    "content": "House Democrats' threat to withhold their dues to the Democratic Congressional Campaign Committee unless it stops intervening in primaries comes as they are already struggling to get some members to cough up, Axios has found. Why it matters: This isn't the DCCC's only source of income, but it is a significant one. More than half of House Democrats had paid less than 50% of their expected dues as o",
-    "published": "2026-06-11",
-    "published_ts": 1781139673.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-11T05:09:52Z",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "summary_zh": "眾議院民主黨議員以停止干預初選為條件，威脅拒繳 DCCC 會費。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
   },
   {
     "title": "XRP守住1.10美元上方 ETF資金流入增加但交易員仍謹慎",
@@ -1598,42 +836,6 @@
     "score": 4
   },
   {
-    "title": "XRP 交易需求暴跌 91.5% 交易員聚焦 0.65 美元支撐",
-    "url": "https://cointelegraph.com/markets/xrp-transaction-demand-drops-915-as-063-support-zone-draws-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "XRP network activity and investor profitability fall to record lows, leading traders to focus on the $1 to $0.65 zone.",
-    "published": "2026-06-11",
-    "published_ts": 1781136501.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-06-11T05:09:57Z",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合",
-    "summary_zh": "XRP 網路活動與獲利能力跌至歷史低點，交易員關注 1 至 0.65 美元區間。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "CFTC 提議框架 優先體育賽事合約而非賭博",
-    "url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The proposed rules would preserve election markets and allow many sports-based prediction contracts while limiting bets that could encourage manipulation.",
-    "published": "2026-06-10",
-    "published_ts": 1781130600.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-06-11T05:09:57Z",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合",
-    "summary_zh": "CFTC 提出新規則，保留選舉市場並允許多數體育預測合約，限制操縱風險。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "中國對磷化銦出口管制威脅AI資料中心部署",
     "url": "https://www.reuters.com/world/china/chinas-control-over-indium-phosphide-exports-threatens-ai-data-centre-rollout-2026-06-11/",
     "content": "中國自2025年2月起限制磷化銦出口，Coherent警告短缺威脅AI資料中心建置。",
@@ -1662,24 +864,6 @@
       "🏢品牌動態"
     ],
     "score": 4,
-    "translated": true
-  },
-  {
-    "title": "美股今日：道瓊、S&P 500、那斯達克在美國完成新一輪伊朗打擊後上漲",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-june-11-dow-sp-500-nasdaq-222511784.html",
-    "content": "",
-    "published": "2026-06-10",
-    "published_ts": 1781130311.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-06-11T14:44:45Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "美股三大指數在美國完成新一輪伊朗打擊後同步上漲。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3,
     "translated": true
   },
   {
@@ -45522,5 +44706,85 @@
       "🏢品牌動態"
     ],
     "score": 3
+  },
+  {
+    "title": "Jim Cramer says this chipmaker is still a buy after soaring more than 200% this year",
+    "url": "https://www.cnbc.com/2026/06/17/jim-cramer-intel.html",
+    "content": "CNBC's Jim Cramer named Intel as his top stock pick, arguing that investors should focus on the company's future AI opportunities.",
+    "published": "2026-06-17",
+    "published_ts": 1781734670.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-18T02:12:05Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX adds longtime Elon Musk ally Roelof Botha to board",
+    "url": "https://www.cnbc.com/2026/06/17/spacex-adds-long-time-elon-musk-ally-roelof-botha-to-board.html",
+    "content": "Roelof Botha, who worked with Elon Musk at PayPal in the dot-com era before becoming a prominent venture capitalist, is joining the SpaceX board.",
+    "published": "2026-06-17",
+    "published_ts": 1781734844.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-18T02:12:05Z",
+    "classified": false
+  },
+  {
+    "title": "Here’s our monthly update on all 35 portfolio stocks, including Cramer's favorite name to buy",
+    "url": "https://www.cnbc.com/2026/06/17/heres-our-monthly-update-on-all-35-portfolio-stocks-including-cramers-favorite-name-to-buy.html",
+    "content": "Jim Cramer and Jeff Marks covered their latest thinking on all of the Investing Club's stocks during the June Monthly Meeting.",
+    "published": "2026-06-17",
+    "published_ts": 1781722970.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-18T02:12:05Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'",
+    "url": "https://www.cnbc.com/2026/06/17/amazon-ai-frontier-openai-anthropic.html",
+    "content": "Amazon's Nova2 model is behind the latest releases from LLM leaders OpenAI and Anthropic.",
+    "published": "2026-06-17",
+    "published_ts": 1781717850.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-18T02:12:05Z",
+    "classified": false
+  },
+  {
+    "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
+    "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
+    "content": "Tech leaders and heads of state, including President Donald Trump, joined a meeting about AI standards at the G7 Summit.",
+    "published": "2026-06-17",
+    "published_ts": 1781728947.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-18T02:12:05Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
+    "url": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
+    "content": "Quantum computing is becoming an increasingly competitive field, with tech giants including Microsoft, Google and IBM developing the technology.",
+    "published": "2026-06-17",
+    "published_ts": 1781718202.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-18T02:12:05Z",
+    "classified": false
+  },
+  {
+    "title": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+    "url": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html",
+    "content": "Allbirds became NewBird AI in April and said it would trade shoes for AI compute infrastructure.",
+    "published": "2026-06-17",
+    "published_ts": 1781726427.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-18T02:12:05Z",
+    "classified": false
+  },
+  {
+    "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+    "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+    "content": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
+    "published": "2026-06-17",
+    "published_ts": 1781740293.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-06-18T02:12:05Z",
+    "classified": false
   }
 ]
