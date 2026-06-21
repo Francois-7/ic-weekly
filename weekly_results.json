@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-21 05:45 UTC",
-  "week_start": "2026-06-14",
-  "week_end": "2026-06-21",
-  "total": 2685,
+  "generated_at": "2026-06-22 05:50 UTC",
+  "week_start": "2026-06-15",
+  "week_end": "2026-06-22",
+  "total": 2660,
   "categories": [
     {
       "name": "AIoT",
@@ -1026,45 +1026,45 @@
                 "🏢品牌動態"
               ],
               "score": 2
-            },
-            {
-              "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
-              "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
-              "published": "2026-06-14",
-              "outlet": "ZDNet",
-              "summary": "健康穿戴裝置收集個人資料引發隱私權疑慮",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 2
-            },
-            {
-              "title": "Which Oura Ring 5 color should you buy?",
-              "url": "https://www.androidcentral.com/wearables/oura-ring/which-oura-ring-5-color-should-you-buy",
-              "published": "2026-06-14",
-              "outlet": "Android Central",
-              "summary": "Oura Ring 5提供多種顏色選擇供消費者挑選",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 2
-            },
-            {
-              "title": "Fitbit新健康教練比我媽還煩",
-              "url": "https://www.androidauthority.com/fitbit-new-health-coach-worse-than-my-mom-3668153/",
-              "published": "2026-06-14",
-              "outlet": "Android Authority",
-              "summary": "用戶抱怨Fitbit健康教練不斷發出關機與休息提醒。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 2
             }
           ]
         },
         {
           "name": "機器人",
           "articles": [
+            {
+              "title": "TechCrunch Mobility：新robotaxi評分顯示中國主導地位",
+              "url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+              "published": "2026-06-21",
+              "outlet": "TechCrunch",
+              "summary": "中國在robotaxi領域取得主導地位。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 3
+            },
+            {
+              "title": "Roomba如何開啟機器人革命",
+              "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+              "published": "2026-06-21",
+              "outlet": "The Verge",
+              "summary": "Roomba開啟家用機器人吸塵器革命。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 2
+            },
+            {
+              "title": "Roborock 進軍邁阿密，舉辦社群教室、商場快閃與旗艦機器人展示",
+              "url": "https://www.androidauthority.com/roborock-miami-mall-pop-up-robots-3679647/",
+              "published": "2026-06-21",
+              "outlet": "Android Authority",
+              "summary": "Roborock 於邁阿密舉辦活動展示最新掃地機器人並提供抽獎。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 2
+            },
             {
               "title": "Uber Technologies, Inc. (UBER) 因 Robotaxi 成長前景成最佳下跌股",
               "url": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-inc-uber-one-121200444.html",
@@ -1651,17 +1651,6 @@
               "published": "2026-06-15",
               "outlet": "GSMArena",
               "summary": "Honor Robot Phone 亮相上海國際電影節，並確認將於第三季正式推出。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 2
-            },
-            {
-              "title": "週日調查：你還相信Elon Musk嗎",
-              "url": "https://electrek.co/2026/06/14/survey-sunday-do-you-still-believe-in-elon-musk/",
-              "published": "2026-06-14",
-              "outlet": "Electrek",
-              "summary": "Electrek讀者調查是否仍相信Elon Musk自駕與火星願景。",
               "tags": [
                 "🏢品牌動態"
               ],
@@ -2336,28 +2325,6 @@
                 "🏢品牌動態"
               ],
               "score": 1
-            },
-            {
-              "title": "我讓Claude審計混亂的Home Assistant設定，結果令人警醒",
-              "url": "https://www.androidauthority.com/using-claude-fix-home-assistant-smart-home-3674998/",
-              "published": "2026-06-14",
-              "outlet": "Android Authority",
-              "summary": "Claude協助清理Home Assistant智慧家庭設定，提升系統效率。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 2
-            },
-            {
-              "title": "Google讓我更想放棄Google Home轉用Amazon Alexa",
-              "url": "https://www.androidauthority.com/google-home-vs-alexa-switching-2026-3675758/",
-              "published": "2026-06-14",
-              "outlet": "Android Authority",
-              "summary": "Google Home選擇減少、硬體老化，使用體驗持續惡化。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 2
             }
           ]
         },
@@ -2699,6 +2666,72 @@
           "name": "手機產品",
           "articles": [
             {
+              "title": "超越Siri：iOS 27將為iPhone帶來實用AI功能",
+              "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+              "published": "2026-06-21",
+              "outlet": "TechCrunch",
+              "summary": "蘋果iOS 27將推出多項實用AI功能。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 3
+            },
+            {
+              "title": "Deals: Samsung 最新 Galaxy Z 摺疊機降價，iPhone 17 Pro、Pixel 10 Pro、Xiaomi 17T Pro 同步特價",
+              "url": "https://www.gsmarena.com/deals_samsungs_latest_galaxy_z_foldables_discounted_iphone_17_pro_pixel_10_pro_xiaomi_17t_pro_also_o-news-73369.php",
+              "published": "2026-06-21",
+              "outlet": "GSMArena",
+              "summary": "Samsung Galaxy Z Fold7 與 Flip7 因新機將上市持續降價促銷。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 3
+            },
+            {
+              "title": "Acoustic mapping app 串聯數千舊 Android 手機偵測 Shahed 無人機",
+              "url": "https://www.tomshardware.com/tech-industry/drones/acoustic-mapping-app-uses-thousands-of-networked-old-android-phones-to-hunt-shahed-drones-crowd-sourced-microphone-network-spots-small-low-rcs-military-targets",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "眾包麥克風網路利用舊 Android 手機定位低 RCS 無人機。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 3
+            },
+            {
+              "title": "購買二手iPhone比以往更有意義",
+              "url": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
+              "published": "2026-06-21",
+              "outlet": "Wired",
+              "summary": "蘋果即將漲價，二手iPhone更具吸引力。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 2
+            },
+            {
+              "title": "Weekly poll: 你用什麼裝置玩遊戲？手機、平板、PC 或主機？",
+              "url": "https://www.gsmarena.com/weekly_poll_what_device_do_you_use_for_gaming_a_smartphone_tablet_pc_or_console-news-73339.php",
+              "published": "2026-06-21",
+              "outlet": "GSMArena",
+              "summary": "本週民調詢問使用者主要遊戲裝置選擇。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 2
+            },
+            {
+              "title": "Weekly poll results: iOS 27 反應普通",
+              "url": "https://www.gsmarena.com/weekly_poll_results_ios_27_is_okay_just_okay-news-73340.php",
+              "published": "2026-06-21",
+              "outlet": "GSMArena",
+              "summary": "iOS 27 民調結果顯示多數 iPhone 用戶評價普通偏正面。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 2
+            },
+            {
               "title": "OnePlus N6's charging speed officially confirmed, chipset revealed by Geekbench",
               "url": "https://www.gsmarena.com/oneplus_n6_charging_speed_key_specs_geekbench-news-73370.php",
               "published": "2026-06-20",
@@ -2716,6 +2749,17 @@
               "published": "2026-06-20",
               "outlet": "GSMArena",
               "summary": "Samsung為Galaxy Z Fold7、A56、S23與S24系列測試One UI 9測試版。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 3
+            },
+            {
+              "title": "Deals: Samsung Galaxy S25 FE 價格再降，OnePlus 15 系列與 Nothing 手機特價中",
+              "url": "https://www.gsmarena.com/deals_samsung_galaxy_s25_fe_price_drops_again_oneplus_15_and_15r_nothing_phones_are_on_sale-news-73353.php",
+              "published": "2026-06-20",
+              "outlet": "GSMArena",
+              "summary": "Samsung Galaxy S25 FE 再次降價，Prime Day 前多款手機同步促銷。",
               "tags": [
                 "🏢品牌動態"
               ],
@@ -3800,28 +3844,6 @@
               "score": 1
             },
             {
-              "title": "研究人員回收舊手機組成低成本資料中心運算平台",
-              "url": "https://www.tomshardware.com/desktops/servers/researchers-recycle-old-phones-and-cluster-them-into-computing-platforms-says-processors-on-modern-smartphones-deliver-higher-single-core-performance-than-comparable-multicore-servers",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "UC San Diego團隊用2023年舊手機組成伺服器，單核效能優於多核伺服器。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 4
-            },
-            {
-              "title": "Should you wait for the Samsung Galaxy Z Flip 8?",
-              "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-wait-for-the-samsung-galaxy-z-flip-8",
-              "published": "2026-06-14",
-              "outlet": "Android Central",
-              "summary": "三星Galaxy Z Flip 8即將上市但恐有漲價疑慮",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
-            },
-            {
               "title": "第 24 週熱門手機排行榜前 10 名",
               "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_24-news-73265.php",
               "published": "2026-06-14",
@@ -3831,23 +3853,23 @@
                 "📊有數字"
               ],
               "score": 3
-            },
-            {
-              "title": "iOS 27在iPhone主畫面新增全新App",
-              "url": "https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-              "published": "2026-06-13",
-              "outlet": "9to5Mac",
-              "summary": "Apple於WWDC發表iOS 27，新增多項Siri與Apple Intelligence功能。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
             }
           ]
         },
         {
           "name": "平板與筆記本產品",
           "articles": [
+            {
+              "title": "Lenovo Idea Tab Plus 成預算 Android 平板，Samsung 應警惕",
+              "url": "https://www.androidauthority.com/lenovo-idea-tab-plus-review-3674214/",
+              "published": "2026-06-21",
+              "outlet": "Android Authority",
+              "summary": "Lenovo Idea Tab Plus 以高性價比挑戰 Samsung 平板市場。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 3
+            },
             {
               "title": "The best UK Amazon Prime Day tech deals 2026 — epic savings on premium gaming PCs and laptops, peripherals, 3D printers at Currys, Argos, Scan and CCL, too",
               "url": "https://www.tomshardware.com/pc-components/best-uk-amazon-prime-day-tech-deals",
@@ -4353,39 +4375,6 @@
                 "🏢品牌動態"
               ],
               "score": 1
-            },
-            {
-              "title": "AMD嘲諷Apple MacBook Neo無法執行75%頂級PC遊戲",
-              "url": "https://www.tomshardware.com/laptops/macbooks/amd-taunts-apples-macbook-neo-for-failing-to-run-75-percent-of-top-pc-games-only-5-out-of-the-20-top-pc-games-work-on-the-neo-while-all-run-on-amds-budget-offerings",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "20款頂級PC遊戲僅5款可在MacBook Neo執行，AMD預算產品全數支援。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 4
-            },
-            {
-              "title": "iOS 27發表、Galaxy S27洩露，第24週回顧",
-              "url": "https://www.gsmarena.com/ios_27_announced_galaxy_s27_leaks_week_24_in_review-news-73261.php",
-              "published": "2026-06-14",
-              "outlet": "GSMArena",
-              "summary": "Apple在WWDC發表iOS 27多項更新，包含新Siri與Apple Intelligence功能。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
-            },
-            {
-              "title": "我把7年老Android平板改造成Kindle殺手",
-              "url": "https://www.androidauthority.com/kindle-vs-old-android-tablet-3675935/",
-              "published": "2026-06-14",
-              "outlet": "Android Authority",
-              "summary": "用戶分享Android設定，讓老平板功能超越Kindle。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 2
             }
           ]
         },
@@ -4432,6 +4421,17 @@
         {
           "name": "手機晶片",
           "articles": [
+            {
+              "title": "Redmi Turbo 5 and Sharp Aquos R11、DJI Osmo Pocket 4P 正式發表，Week 25 回顧",
+              "url": "https://www.gsmarena.com/redmi_turbo_5_and_sharp_aquos_r11_dji_osmo_pocket_4p_official_week_25_in_review-news-73364.php",
+              "published": "2026-06-21",
+              "outlet": "GSMArena",
+              "summary": "Sharp 推出 Aquos R11 旗艦機，主打 38.5MP 長焦鏡頭升級。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 3
+            },
             {
               "title": "Samsung still hasn’t fixed Exynos overheating issues, and it’s ruining my Galaxy S26",
               "url": "https://www.androidauthority.com/samsung-exynos-2600-overheating-3677429/",
@@ -4603,6 +4603,96 @@
         {
           "name": "綜合",
           "articles": [
+            {
+              "title": "I changed one Android 17 setting and made my Pixel home screen so much cleaner",
+              "url": "https://www.androidcentral.com/apps-software/android-os/i-made-my-pixel-home-screen-cleaner-android-17-app-names",
+              "published": "2026-06-21",
+              "outlet": "Android Central",
+              "summary": "Google upgraded Pixel home screen customization tools with Android 17, and you can now simplify how ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Android 17 is off to a rough start with new Pixel touchscreen complaints",
+              "url": "https://www.androidcentral.com/apps-software/android-os/android-17-is-off-to-a-rough-start-with-new-pixel-touchscreen-complaints",
+              "published": "2026-06-21",
+              "outlet": "Android Central",
+              "summary": "Android 17 is giving some Pixel phones serious touchscreen problems, and until Google rolls out a fi",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Motorola Edge 70 Pro in for review",
+              "url": "https://www.gsmarena.com/motorola_edge_70_pro_in_for_review-news-73363.php",
+              "published": "2026-06-21",
+              "outlet": "GSMArena",
+              "summary": "This is the Motorola Edge 70 Pro. It launched back in April, and it costs €540 with 8GB of RAM, and ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "I’ve used Android for years — these are 7 buried features I wish everyone would use",
+              "url": "https://www.androidauthority.com/buried-android-features-you-need-try-3676379/",
+              "published": "2026-06-21",
+              "outlet": "Android Authority",
+              "summary": "These tricks make using my phone so much easier.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "5 abandoned Android launchers I wish were still alive today",
+              "url": "https://www.androidauthority.com/abandoned-android-launchers-3678128/",
+              "published": "2026-06-21",
+              "outlet": "Android Authority",
+              "summary": "From scribble search to smart screens, launchers of the 2010s innovated like no other.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Sideloading Android apps is great — until you have to update them. Here’s my fix",
+              "url": "https://www.androidauthority.com/obtainium-how-to-add-update-android-apps-3677522/",
+              "published": "2026-06-21",
+              "outlet": "Android Authority",
+              "summary": "You can’t go back once you try it.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "I’ve had the Pixel 10 for 10 months, and I’m still confused by its best camera feature",
+              "url": "https://www.androidauthority.com/10-months-later-pixel-10-best-camera-feature-missing-3673818/",
+              "published": "2026-06-21",
+              "outlet": "Android Authority",
+              "summary": "Auto Best Take? Are you there?",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "5 apps you should use instead of Google Password Manager",
+              "url": "https://www.androidauthority.com/best-google-password-manager-alternatives-3676990/",
+              "published": "2026-06-21",
+              "outlet": "Android Authority",
+              "summary": "It may be time to ditch Google Password Manager.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "I love Duolingo, but its XP Boosts are driving me mad",
+              "url": "https://www.androidauthority.com/duolingo-xp-boost-ux-trap-3674572/",
+              "published": "2026-06-21",
+              "outlet": "Android Authority",
+              "summary": "The app’s instant-activation multipliers turn a quiet moment of self-improvement into a stressful, t",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "RIP Nest Mini – The Google Home Speaker isn’t a replacement, but hopefully the start of a new era",
+              "url": "https://9to5google.com/2026/06/21/nest-mini-google-home-speaker-replacement-new-era/",
+              "published": "2026-06-21",
+              "outlet": "9to5Google",
+              "summary": "The Google Home Speaker finally has a release date and, with it, Google has also ended its long-runn",
+              "tags": [],
+              "score": 3
+            },
             {
               "title": "I installed Android 17 on my Pixel 10, and now I'm about to step up my social media game",
               "url": "https://www.androidcentral.com/apps-software/android-os/google-pixel-10-android-17-screen-reactions",
@@ -7743,114 +7833,6 @@
               "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes ",
               "tags": [],
               "score": 3
-            },
-            {
-              "title": "Deals: Pixel 10 phones come with price cuts and a free Google TV Streamer, Galaxy S26+ discounted",
-              "url": "https://www.gsmarena.com/deals_pixel_10_phones_come_with_price_cuts_and_a_free_google_tv_streamer_galaxy_s26_discounted-news-73255.php",
-              "published": "2026-06-14",
-              "outlet": "GSMArena",
-              "summary": "Mexico and South Africa kicked off the FIFA World Cup on Friday. Germany’s first match is this Sunda",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Weekly poll: what do you think about iOS 27?",
-              "url": "https://www.gsmarena.com/weekly_poll_what_do_you_think_about_ios_27-news-73232.php",
-              "published": "2026-06-14",
-              "outlet": "GSMArena",
-              "summary": "It was a busy week over at Cupertino, California – the annual WWDC introduced the latest versions of",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Weekly poll results: the Motorola Razr Fold is pricey, but may have a future despite its flaws",
-              "url": "https://www.gsmarena.com/weekly_poll_results_the_motorola_razr_fold_is_pricey_but_may_have_a_future_despite_its_flaws-news-73234.php",
-              "published": "2026-06-14",
-              "outlet": "GSMArena",
-              "summary": "Like with other book-style foldables, Motorola Razr Fold’s biggest flaw is its price – indeed, in la",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "I can’t quit Google News — but these 5 things make me want to",
-              "url": "https://www.androidauthority.com/google-news-features-wish-list-2026-3674121/",
-              "published": "2026-06-14",
-              "outlet": "Android Authority",
-              "summary": "Google News is great, but with these five features, it could be even better.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "The reMarkable Paper Pure made me want to start writing things down again",
-              "url": "https://www.androidauthority.com/remarkable-paper-pure-review-2-3672921/",
-              "published": "2026-06-14",
-              "outlet": "Android Authority",
-              "summary": "A refreshingly simple take on digital note-taking.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "I’ve got to hand it to the SwitchBot Lock Vision Pro and its palm-vein authentication",
-              "url": "https://www.androidauthority.com/switchbot-lock-vision-pro-review-3670529/",
-              "published": "2026-06-14",
-              "outlet": "Android Authority",
-              "summary": "Pretend you're using The Force to open your front door.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "5 hidden features I didn’t know my Samsung phone had",
-              "url": "https://www.androidauthority.com/hidden-features-samsung-phone-3672514/",
-              "published": "2026-06-14",
-              "outlet": "Android Authority",
-              "summary": "My phone can do what?",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Apple still has three unannounced iOS 27 features in the pipeline: report",
-              "url": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/",
-              "published": "2026-06-14",
-              "outlet": "9to5Mac",
-              "summary": "Apple wrapped up its WWDC 2026 keynote this week, outlining all of its major new software features f",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Google ads tease next Pixel Drop with Screen Reactions and Gemini Omni [Video]",
-              "url": "https://9to5google.com/2026/06/14/google-ads-tease-next-pixel-drop-with-screen-reactions-and-gemini-omni-video/",
-              "published": "2026-06-14",
-              "outlet": "9to5Google",
-              "summary": "We’re due for Google’s next Pixel Drop and, thanks to some early ads, we now know that Screen Reacti",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Sundar Pichai on ‘California optimism’ & doing hard, exciting work at 2026 Stanford Commencement Address",
-              "url": "https://9to5google.com/2026/06/14/sundar-pichai-2026-stanford/",
-              "published": "2026-06-14",
-              "outlet": "9to5Google",
-              "summary": "Alphabet and Google CEO Sundar Pichai today gave the commencement speech to Stanford University’s Cl",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "The ‘Galaxy Z Fold 8 Ultra’ has the potential to be a cruel joke",
-              "url": "https://9to5google.com/2026/06/14/galaxy-z-fold-8-ultra-problems/",
-              "published": "2026-06-14",
-              "outlet": "9to5Google",
-              "summary": "There are actual reasons to get excited about Samsung’s upcoming foldables but, the more I think abo",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "AirPods Pro 3 are getting even better with iOS 27, order them today at their lowest price ever",
-              "url": "https://9to5mac.com/2026/06/13/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/",
-              "published": "2026-06-13",
-              "outlet": "9to5Mac",
-              "summary": "While we are still slightly under a couple weeks out from Amazon’s massive summer sale event , the b",
-              "tags": [],
-              "score": 3
             }
           ]
         }
@@ -7861,23 +7843,23 @@
       "subtopics": [
         {
           "name": "HPC",
-          "articles": [
-            {
-              "title": "Apple將1999年Power Mac G4出口禁令變行銷金礦",
-              "url": "https://www.tomshardware.com/tech-industry/apple-made-marketing-gold-from-the-power-mac-g4-supercomputer-export-ban-in-1999-pentagon-banned-sales-of-the-400-mhz-g4-in-50-countries-when-it-launched-and-became-the-first-pc-to-be-classed-as-a-weapon",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "1999年Pentagon禁止400MHz G4在50國銷售，Apple以此宣傳。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 3
-            }
-          ]
+          "articles": []
         },
         {
           "name": "數據中心",
           "articles": [
+            {
+              "title": "Tesla 計畫銷售模組化 AI 資料中心硬體「Megapod」",
+              "url": "https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/",
+              "published": "2026-06-21",
+              "outlet": "Electrek",
+              "summary": "Tesla 申請 Megapod 商標，計畫推出模組化 AI 資料中心硬體。",
+              "tags": [
+                "🏢品牌動態",
+                "📊有數字"
+              ],
+              "score": 4
+            },
             {
               "title": "China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX — Beijing's forced chip and satellite alliance announced a week before Musk’s AI1 reveal",
               "url": "https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal",
@@ -8381,17 +8363,6 @@
                 "🏢品牌動態"
               ],
               "score": 2
-            },
-            {
-              "title": "Amazon稱資料中心耗水量僅占美國草坪澆水0.075%",
-              "url": "https://www.tomshardware.com/desktops/servers/amazon-says-its-data-centers-consume-only-0-075-percent-of-the-water-americans-use-for-watering-their-lawns-and-gardens-company-also-boasts-of-its-improvements-in-water-efficiency",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "Amazon每年資料中心冷卻用水25億加侖，強調水資源效率改善。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 4
             }
           ]
         },
@@ -8469,6 +8440,39 @@
         {
           "name": "AI公司",
           "articles": [
+            {
+              "title": "當川普政府打擊Anthropic，誰將受益？",
+              "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+              "published": "2026-06-21",
+              "outlet": "TechCrunch",
+              "summary": "川普政府對Anthropic採取行動，可能改變AI產業格局。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 3
+            },
+            {
+              "title": "Age of Empires II 山羊被用作 AI 神經網路建構模組",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/age-of-empires-iis-goats-used-as-ai-building-blocks-to-build-a-neural-network-goaty-experiment-mocks-the-idea-of-chatbot-consciousness-microsoft-ai-researchers-project-makes-an-absurdist-point-about-ai-consciousness",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "Microsoft AI 研究員以 Age of Empires II 山羊實驗嘲諷聊天機器人意識。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 2
+            },
+            {
+              "title": "28個技巧讓ChatGPT提示更進階",
+              "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+              "published": "2026-06-21",
+              "outlet": "Wired",
+              "summary": "分享28個進階ChatGPT提示工程技巧。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 1
+            },
             {
               "title": "Eightco Holdings (NASDAQ: ORBS) 宣布總資產約 4.72 億美元，包含 OpenAI、Beast Industries、超過 1.6 萬 ETH 及 2.83 億 WLD 代幣",
               "url": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-dichiara-un-patrimonio-complessivo-di-circa-472-milioni-di-dollari-tra-cui-openai-beast-industries-oltre-16-000-eth-e-piu-di-283-milioni-di-token-wld-302805821.html",
@@ -9336,75 +9340,6 @@
                 "🏢品牌動態"
               ],
               "score": 2
-            },
-            {
-              "title": "China may have accessed Mythos",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-              "published": "2026-06-14",
-              "outlet": "The Verge",
-              "summary": "白宮因擔憂中國取得Anthropic Mythos而祭出出口限制",
-              "tags": [
-                "⚠️供應鏈異動",
-                "📋政策法規"
-              ],
-              "score": 5
-            },
-            {
-              "title": "As Anthropic suspends access to new models, India debates its AI future",
-              "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-              "published": "2026-06-14",
-              "outlet": "TechCrunch",
-              "summary": "Anthropic暫停新模型存取引發印度AI未來討論",
-              "tags": [
-                "🏢品牌動態",
-                "📋政策法規"
-              ],
-              "score": 4
-            },
-            {
-              "title": "OpenAI遭42州檢察長大規模調查，IPO申報後數日收到傳票",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-hit-with-sweeping-probe-from-massive-coalition-of-42-us-state-attorneys-general-just-days-after-reported-ipo-filing-subpoena-targets-chatgpt-makers-ads-data-practices-handling-of-minors-model-sycophancy-and-safety-policies",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "OpenAI被傳喚文件，調查廣告、數據處理、未成年保護與安全政策。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 4
-            },
-            {
-              "title": "美政府警告Anthropic Fable 5遭破解但公司拒絕修復",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-adviser-david-sacks-says-anthropic-refused-to-fix-fable-5-jailbreak-before-us-export-controls",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "Anthropic拒絕修復Claude Fable 5漏洞，美方隨後實施出口管制。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 4
-            },
-            {
-              "title": "Amazon警告引發美國對Anthropic AI模型的打壓",
-              "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "published": "2026-06-14",
-              "outlet": "CoinTelegraph",
-              "summary": "Amazon CEO Andy Jassy等科技業者呼籲，Trump政府暫停外國取得Anthropic Fable 5與Mythos 5模型。",
-              "tags": [
-                "🏢品牌動態",
-                "📋政策法規"
-              ],
-              "score": 4
-            },
-            {
-              "title": "Scoop: Anthropic派員飛往華府處理白宮爭端",
-              "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
-              "published": "2026-06-14",
-              "outlet": "Axios",
-              "summary": "Anthropic資深技術人員前往華府與白宮官員會面，試圖解決頂尖模型爭議。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
             }
           ]
         },
@@ -10149,15 +10084,6 @@
                 "🏢品牌動態"
               ],
               "score": 2
-            },
-            {
-              "title": "10 best practices for optimizing generative and agentic AI costs",
-              "url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/",
-              "published": "2026-06-14",
-              "outlet": "Silicon Angle",
-              "summary": "As enterprises scale initiatives, the cost of developing, deploying and operating generative artific",
-              "tags": [],
-              "score": 3
             }
           ]
         }
@@ -10169,6 +10095,28 @@
         {
           "name": "電動車",
           "articles": [
+            {
+              "title": "From labs to logistics: 中國測試鈉電池於重型卡車",
+              "url": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
+              "published": "2026-06-21",
+              "outlet": "Electrek",
+              "summary": "中國開始在重型卡車實測鈉電池，目標降低電動車成本。",
+              "tags": [
+                "⚠️供應鏈異動"
+              ],
+              "score": 4
+            },
+            {
+              "title": "Tesla 駕駛稱德州致命車禍發生前 Autopilot 處於開啟狀態",
+              "url": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
+              "published": "2026-06-21",
+              "outlet": "Electrek",
+              "summary": "德州 Katy 一起 Tesla 撞屋事故，駕駛表示事故前 Autopilot 已啟動。",
+              "tags": [
+                "⚠️供應鏈異動"
+              ],
+              "score": 3
+            },
             {
               "title": "Tesla Model Y 電池測試看起來糟糕 然後退化幾乎停止",
               "url": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/",
@@ -10748,28 +10696,6 @@
                 "📋政策法規"
               ],
               "score": 3
-            },
-            {
-              "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-              "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-              "published": "2026-06-14",
-              "outlet": "TechCrunch",
-              "summary": "SpaceX在交通領域超越Tesla的最新發展",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
-            },
-            {
-              "title": "低里程2025 Tesla Model Y 18個月後續航大幅下降",
-              "url": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/",
-              "published": "2026-06-14",
-              "outlet": "InsideEVs",
-              "summary": "Tesla Model Y行駛13,000英里後，電池健康測試結果被車主認為無法接受。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 3
             }
           ]
         },
@@ -11113,6 +11039,15 @@
         {
           "name": "綜合",
           "articles": [
+            {
+              "title": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
+              "url": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
+              "published": "2026-06-21",
+              "outlet": "Electrek",
+              "summary": "Royal Enfield’s long-awaited entry into the electric motorcycle market has officially begun. The com",
+              "tags": [],
+              "score": 3
+            },
             {
               "title": "The Volvo EX60 And EX90 Get An Important EV Fast-Charging Upgrade",
               "url": "https://insideevs.com/news/799188/volvo-ex60-ex90-ev-plug-and-charge/",
@@ -12021,42 +11956,6 @@
               "summary": "The U.S. now has over 250,000 charging hookups across Level 1, Level 2, and DC fast chargers.",
               "tags": [],
               "score": 3
-            },
-            {
-              "title": "Trump tried to kill solar’s 5% safe harbor, a federal court brought it back",
-              "url": "https://electrek.co/2026/06/14/trump-tried-to-kill-solars-5-safe-harbor-a-federal-court-brought-it-back/",
-              "published": "2026-06-14",
-              "outlet": "Electrek",
-              "summary": "With less than a month left before the key, July 4th Federal Clean Energy tax-credit deadline , a fe",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Scania scores 105 unit electric semi truck deal [video]",
-              "url": "https://electrek.co/2026/06/14/scania-scores-105-unit-electric-semi-truck-deal-video/",
-              "published": "2026-06-14",
-              "outlet": "Electrek",
-              "summary": "The bulk transport experts at Wibax have placed what’s being a “landmark” order with Swedish truck b",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Why pushback is growing against New Jersey’s crazy e-bike law",
-              "url": "https://electrek.co/2026/06/13/why-pushback-is-growing-against-new-jerseys-crazy-e-bike-law/",
-              "published": "2026-06-14",
-              "outlet": "Electrek",
-              "summary": "New Jersey’s controversial new e-bike law was pitched as a way to improve safety, but with its July ",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Buried in negative equity? These EV deals can help get you out of that gas guzzler",
-              "url": "https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/",
-              "published": "2026-06-14",
-              "outlet": "Electrek",
-              "summary": "The biggest obstacle to buying an EV isn’t always range anxiety, it’s the negative equity on their c",
-              "tags": [],
-              "score": 3
             }
           ]
         }
@@ -12375,6 +12274,161 @@
         {
           "name": "美股",
           "articles": [
+            {
+              "title": "Micron財報成為市場焦點，獲利成長逼近1,000%",
+              "url": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
+              "published": "2026-06-21",
+              "outlet": "MarketWatch",
+              "summary": "Micron獲利成長接近1,000%，對S&P 500影響重大。",
+              "tags": [
+                "📊有數字",
+                "🏢品牌動態"
+              ],
+              "score": 5
+            },
+            {
+              "title": "分析師警告：若美國股市崩跌50%，比特幣價格可能跌至24K美元",
+              "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+              "published": "2026-06-21",
+              "outlet": "CoinTelegraph",
+              "summary": "分析師指出若美股崩跌50%，比特幣最壞情況可能跌至24K美元。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 4
+            },
+            {
+              "title": "ADMA投資人可領導ADMA Biologics, Inc.證券詐欺訴訟",
+              "url": "https://www.prnewswire.com/news-releases/adma-investors-have-opportunity-to-lead-adma-biologics-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302805651.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "Rosen Law Firm提醒ADMA Biologics投資人可提起證券詐欺集體訴訟。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 2
+            },
+            {
+              "title": "Polymarket據報支付金錢讓人發佈假投注影片",
+              "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+              "published": "2026-06-21",
+              "outlet": "The Verge",
+              "summary": "Polymarket被指支付創作者製作假投注影片。",
+              "tags": [
+                "⚠️供應鏈異動"
+              ],
+              "score": 2
+            },
+            {
+              "title": "Polymarket據報支付創作者發佈假投注影片",
+              "url": "https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/",
+              "published": "2026-06-21",
+              "outlet": "Engadget",
+              "summary": "華爾街日報調查顯示Polymarket支付1,105支假影片。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 2
+            },
+            {
+              "title": "今日最佳高收益儲蓄利率，2026年6月21日週日：最高可達4.10% APY",
+              "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-june-21-2026-100000731.html",
+              "published": "2026-06-21",
+              "outlet": "Yahoo Finance",
+              "summary": "今日高收益儲蓄帳戶最高年化收益率達4.10%。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 1
+            },
+            {
+              "title": "今日最佳CD利率，2026年6月21日週日：最高可鎖定4% APY",
+              "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-june-21-2026-100000246.html",
+              "published": "2026-06-21",
+              "outlet": "Yahoo Finance",
+              "summary": "今日CD產品最高年化收益率可達4%。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 1
+            },
+            {
+              "title": "今日房貸與再融資利率，2026年6月21日週日：較上週上升",
+              "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-june-21-2026-100000082.html",
+              "published": "2026-06-21",
+              "outlet": "Yahoo Finance",
+              "summary": "房貸利率較上週上升，無具體數字。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 1
+            },
+            {
+              "title": "孤獨危機嚴重，立法者準備投入數百萬美元因應",
+              "url": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
+              "published": "2026-06-21",
+              "outlet": "MarketWatch",
+              "summary": "美國立法者擬投入數百萬美元對抗孤獨危機。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 1
+            },
+            {
+              "title": "母親為已故祖母銀行帳戶共同持有人，是否應與兄弟姐妹分享遺產？",
+              "url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
+              "published": "2026-06-21",
+              "outlet": "MarketWatch",
+              "summary": "遺囑要求遺產平均分配給子女。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 1
+            },
+            {
+              "title": "Newsom 為 2028 初選擁抱 Biden",
+              "url": "https://www.axios.com/2026/06/21/newsom-biden-democrats-2028-primary",
+              "published": "2026-06-21",
+              "outlet": "Axios",
+              "summary": "加州州長 Newsom 選擇在 2028 總統初選前支持 Biden。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 1
+            },
+            {
+              "title": "Inside U.S.-Iran talks in Switzerland",
+              "url": "https://www.axios.com/2026/06/21/us-iran-talks-jd-vance-switzerland-lebanon-nuclear",
+              "published": "2026-06-21",
+              "outlet": "Axios",
+              "summary": "美伊雙方在瑞士進行馬拉松式談判，目標 60 天內達成新核協議。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 1
+            },
+            {
+              "title": "U.S. and Iran launch direct negotiations in Switzerland",
+              "url": "https://www.axios.com/2026/06/20/vance-iran-talks-switzerland",
+              "published": "2026-06-21",
+              "outlet": "Axios",
+              "summary": "美國副總統 Vance 與伊朗代表於瑞士 Bürgenstock 展開直接談判。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 1
+            },
+            {
+              "title": "The clock is ticking on Trump's border wall",
+              "url": "https://www.axios.com/2026/06/21/trump-border-wall-mullin-construction-mexico",
+              "published": "2026-06-21",
+              "outlet": "Axios",
+              "summary": "國土安全部長承諾邊境牆一年內完工，實際進度仍存疑。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 1
+            },
             {
               "title": "SpaceX 股價每上漲 $1 為 Elon Musk 增加 $4.76B 身家",
               "url": "https://finance.yahoo.com/markets/stocks/articles/1-gain-spacex-stock-adds-124500506.html",
@@ -12697,6 +12751,30 @@
               "score": 2
             },
             {
+              "title": "LCID投資人若損失逾10萬美元可領導Lucid Group, Inc.證券詐欺訴訟",
+              "url": "https://www.prnewswire.com/news-releases/lcid-deadline-lcid-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-lucid-group-inc-securities-fraud-lawsuit-302805467.html",
+              "published": "2026-06-20",
+              "outlet": "PR Newswire",
+              "summary": "Rosen Law Firm提醒LCID投資人若損失逾10萬美元可領導集體訴訟。",
+              "tags": [
+                "📊有數字",
+                "🏢品牌動態"
+              ],
+              "score": 2
+            },
+            {
+              "title": "CVLT投資人若損失逾10萬美元可領導Commvault Systems, Inc.證券詐欺訴訟",
+              "url": "https://www.prnewswire.com/news-releases/cvlt-deadline-cvlt-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-commvault-systems-inc-securities-fraud-lawsuit-302805470.html",
+              "published": "2026-06-20",
+              "outlet": "PR Newswire",
+              "summary": "Rosen Law Firm提醒CVLT投資人若損失逾10萬美元可領導集體訴訟。",
+              "tags": [
+                "📊有數字",
+                "🏢品牌動態"
+              ],
+              "score": 2
+            },
+            {
               "title": "「金錢能帶來快樂」：我們沒有繼承人，透過捐贈讓世界更好",
               "url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
               "published": "2026-06-20",
@@ -12770,6 +12848,17 @@
               "outlet": "Axios",
               "summary": "2026世界盃將吸引大量遊客造訪美國，成為美國軟實力重要時刻。",
               "tags": [],
+              "score": 1
+            },
+            {
+              "title": "Rosen Law Firm鼓勵America's Car-Mart, Inc.投資人查詢證券集體訴訟調查",
+              "url": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-americas-car-mart-inc-investors-to-inquire-about-securities-class-action-investigation--crmt-302805571.html",
+              "published": "2026-06-20",
+              "outlet": "PR Newswire",
+              "summary": "Rosen Law Firm持續調查CRMT潛在證券索賠。",
+              "tags": [
+                "🏢品牌動態"
+              ],
               "score": 1
             },
             {
@@ -16212,62 +16301,6 @@
               "score": 1
             },
             {
-              "title": "Best high-yield savings interest rates today, Sunday, June 14, 2026: Earn up to 4.1% APY",
-              "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-june-14-2026-100000814.html",
-              "published": "2026-06-14",
-              "outlet": "Yahoo Finance",
-              "summary": "2026年6月14日高收益儲蓄利率最高可達4.1% APY",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 4
-            },
-            {
-              "title": "Best CD rates today, Sunday, June 14, 2026: Lock in up to 4% APY",
-              "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-june-14-2026-100000615.html",
-              "published": "2026-06-14",
-              "outlet": "Yahoo Finance",
-              "summary": "2026年6月14日CD利率最高鎖定4% APY",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 4
-            },
-            {
-              "title": "GeneDx Holdings Corp. (WGS) Class Action Lawsuit: Investors Face August 3, 2026, Deadline",
-              "url": "https://www.prnewswire.com/news-releases/genedx-holdings-corp-wgs-class-action-lawsuit-investors-face-august-3-2026-deadline--contact-kessler-topaz-meltzer--check-llp-302799554.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "GeneDx (WGS)投資人須在2026年8月3日前參與集體訴訟",
-              "tags": [
-                "📊有數字",
-                "📋政策法規"
-              ],
-              "score": 4
-            },
-            {
-              "title": "Trump says U.S. had reached peace deal with Iran",
-              "url": "https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories",
-              "published": "2026-06-14",
-              "outlet": "MarketWatch",
-              "summary": "川普宣布美國與伊朗達成和平協議結束荷莫茲海峽衝突",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 4
-            },
-            {
-              "title": "華爾街與加密貨幣交匯，tokenized treasury市場達146億美元",
-              "url": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
-              "published": "2026-06-14",
-              "outlet": "CoinDesk",
-              "summary": "tokenized treasury市場規模已達146億美元，華爾街與加密市場加速融合。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 4
-            },
-            {
               "title": "Stock market today: Dow, S&P 500, Nasdaq soar on US-Iran pact to reopen Hormuz",
               "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html",
               "published": "2026-06-14",
@@ -16280,105 +16313,6 @@
               "score": 4
             },
             {
-              "title": "Mortgage and refinance interest rates today, Sunday, June 14, 2026: Rates not moving much week-over-week",
-              "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-june-14-2026-100000833.html",
-              "published": "2026-06-14",
-              "outlet": "Yahoo Finance",
-              "summary": "2026年6月14日房貸與再融資利率週變化不大",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 3
-            },
-            {
-              "title": "HELOC and home equity loan rates Sunday, June 14, 2026: Truist stays Yahoo's top HELOC lender in June",
-              "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-june-14-2026-100000809.html",
-              "published": "2026-06-14",
-              "outlet": "Yahoo Finance",
-              "summary": "Truist在2026年6月持續為Yahoo最佳HELOC貸款機構",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
-            },
-            {
-              "title": "VRRM Investors Have Opportunity to Lead Verra Mobility Corporation Securities Fraud Lawsuit",
-              "url": "https://www.prnewswire.com/news-releases/vrrm-investors-have-opportunity-to-lead-verra-mobility-corporation-securities-fraud-lawsuit-302799485.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "Verra Mobility (VRRM)投資人可領導證券詐欺集體訴訟",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 3
-            },
-            {
-              "title": "Rosen Law Firm Encourages Disc Medicine, Inc. Investors to Inquire About Securities Class Action Investigation - IRON",
-              "url": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-disc-medicine-inc-investors-to-inquire-about-securities-class-action-investigation--iron-302799479.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "Rosen Law Firm調查Disc Medicine (IRON)證券集體訴訟",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 3
-            },
-            {
-              "title": "SpaceX顯示投資人仍追逐高風險項目，Fed本週可能考驗此理論",
-              "url": "https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories",
-              "published": "2026-06-14",
-              "outlet": "MarketWatch",
-              "summary": "高利率可能使支撐牛市的AI成長故事更難成立。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
-            },
-            {
-              "title": "美伊結束戰爭協議「現已就位」：巴基斯坦總理",
-              "url": "https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump",
-              "published": "2026-06-14",
-              "outlet": "Axios",
-              "summary": "巴基斯坦總理宣布美伊已宣告結束敵對行動，正式簽署儀式預計舉行。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 3
-            },
-            {
-              "title": "Trump若無SAVE America Act投票法案將不支持FISA續約",
-              "url": "https://www.axios.com/2026/06/14/trump-fisa-renewal-save-america-act",
-              "published": "2026-06-14",
-              "outlet": "Axios",
-              "summary": "Trump要求國會將其全面投票改革法案附加於關鍵監控權限續約立法中。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 3
-            },
-            {
-              "title": "Trump向Axios表示Netanyahu「毫無判斷力」但美伊協議仍將進行",
-              "url": "https://www.axios.com/2026/06/14/trump-netanyahu-iran-deal-israel-beirut-strike",
-              "published": "2026-06-14",
-              "outlet": "Axios",
-              "summary": "Trump告訴Axios美伊結束戰爭協議仍預計週日簽署，不受以色列行動影響。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 3
-            },
-            {
-              "title": "Trump批評以色列貝魯特攻擊並敦促停火",
-              "url": "https://www.axios.com/2026/06/14/israel-beirut-strike-iran-deal-signing",
-              "published": "2026-06-14",
-              "outlet": "Axios",
-              "summary": "以色列對貝魯特真主黨目標進行報復攻擊後，伊朗威脅美伊協議。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 3
-            },
-            {
               "title": "油價因美伊協議宣布下跌",
               "url": "https://www.axios.com/2026/06/14/oil-prices-us-iran-war-hormuz-strait-peace-deal",
               "published": "2026-06-14",
@@ -16388,70 +16322,6 @@
                 "📊有數字"
               ],
               "score": 3
-            },
-            {
-              "title": "我們以為找到完美豪華退休社區，卻背負數百萬美元債務",
-              "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
-              "published": "2026-06-14",
-              "outlet": "MarketWatch",
-              "summary": "退休社區住戶若離開將損失約8萬美元入住費，擔心被套牢。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 2
-            },
-            {
-              "title": "如何從401(k)提取額外資金而不觸發Medicare保費上升",
-              "url": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
-              "published": "2026-06-14",
-              "outlet": "MarketWatch",
-              "summary": "用戶詢問一次性從401(k)提款避免提高Medicare保費的方法。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 2
-            },
-            {
-              "title": "Scoop: Trump幕僚擔憂Haberman與Swan取得Situation Room錄音",
-              "url": "https://www.axios.com/2026/06/14/trump-situation-room-tapes-haberman-swan-regime-change",
-              "published": "2026-06-14",
-              "outlet": "Axios",
-              "summary": "白宮高層認為紐約時報記者取得Situation Room會議錄音用於報導。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 2
-            },
-            {
-              "title": "Creeping screwworm: Trump的新政治麻煩",
-              "url": "https://www.axios.com/2026/06/14/screwworm-trump-usda-rollins-response",
-              "published": "2026-06-14",
-              "outlet": "Axios",
-              "summary": "screwworm已進入美國，對Trump與共和黨構成政治困擾。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 2
-            },
-            {
-              "title": "Oil executives send a blunt message to Americans on gas prices",
-              "url": "https://finance.yahoo.com/sectors/energy/articles/oil-executives-send-blunt-message-200700286.html",
-              "published": "2026-06-14",
-              "outlet": "Yahoo Finance",
-              "summary": "石油高管向美國民眾傳達汽油價格相關訊息",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 2
-            },
-            {
-              "title": "丈夫拒賣房導致我們無法同住，結婚十年是否為紅旗",
-              "url": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-              "published": "2026-06-14",
-              "outlet": "MarketWatch",
-              "summary": "夫妻婚後十年仍維持兩地居住，丈夫每天往返20英里。",
-              "tags": [],
-              "score": 1
             }
           ]
         },
@@ -16491,23 +16361,56 @@
                 "📊有數字"
               ],
               "score": 2
-            },
-            {
-              "title": "Pimco警告債務市場違約重新開始，公布債券巨頭應對計畫",
-              "url": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
-              "published": "2026-06-14",
-              "outlet": "MarketWatch",
-              "summary": "Pimco建議投資人增加固定收益配置，因股票估值過高。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 3
             }
           ]
         },
         {
           "name": "總體數據",
           "articles": [
+            {
+              "title": "John Ternus 接任 Apple CEO 後將重振設計團隊重要性",
+              "url": "https://9to5mac.com/2026/06/21/john-ternus-apple-design-team-influence/",
+              "published": "2026-06-21",
+              "outlet": "9to5Mac",
+              "summary": "Mark Gurman 報導 John Ternus 上任後將強化 Apple 設計團隊角色。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 4
+            },
+            {
+              "title": "Sony Xperia 1 VIII仍是粉絲向手機",
+              "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+              "published": "2026-06-21",
+              "outlet": "The Verge",
+              "summary": "Sony Xperia 1 VIII進行外觀與規格大幅更新。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 2
+            },
+            {
+              "title": "Dash瞄準菲律賓作為加密支付市場",
+              "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+              "published": "2026-06-21",
+              "outlet": "CoinTelegraph",
+              "summary": "Dash評估菲律賓作為加密支付市場，當地監管正簡化企業註冊。",
+              "tags": [
+                "🏢品牌動態"
+              ],
+              "score": 2
+            },
+            {
+              "title": "Welcome to America, World Cup visitors. Don't forget to tip.",
+              "url": "https://www.axios.com/2026/06/21/world-cup-service-fees-tipping-culture",
+              "published": "2026-06-21",
+              "outlet": "Axios",
+              "summary": "世界盃訪客需適應美國小費文化。",
+              "tags": [
+                "📋政策法規"
+              ],
+              "score": 1
+            },
             {
               "title": "Mississippi Department of Revenue balances cloud modernization with security-first AI adoption",
               "url": "https://siliconangle.com/2026/06/20/government-ai-adoption-pureaccelerate/",
@@ -17049,23 +16952,23 @@
                 "🏢品牌動態"
               ],
               "score": 2
-            },
-            {
-              "title": "美國政府本週出售6460億美元國債",
-              "url": "https://wolfstreet.com/2026/06/13/us-government-sold-646-billion-of-treasury-securities-this-week-2nd-wave-of-inflation-of-approaches-10-year-treasury-yield/",
-              "published": "2026-06-13",
-              "outlet": "Wolf Street",
-              "summary": "美國財政部本週淨增發590億美元長期債券，10年期公債殖利率面臨壓力。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 4
             }
           ]
         },
         {
           "name": "聯準會消息",
           "articles": [
+            {
+              "title": "本輪牛市不會因Warsh聯準會升息而結束",
+              "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
+              "published": "2026-06-21",
+              "outlet": "MarketWatch",
+              "summary": "Warsh可能以升息威脅為主，股市仍有望上漲。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 3
+            },
             {
               "title": "Fed 的 Warsh 時代出現新氛圍 — 對投資人未必是壞事",
               "url": "https://finance.yahoo.com/markets/article/the-feds-warsh-era-clearly-has-a-new-vibe--and-thats-not-all-bad-for-investors-110147708.html",
@@ -17563,17 +17466,6 @@
                 "📋政策法規"
               ],
               "score": 2
-            },
-            {
-              "title": "真正的Kevin Warsh請站出來？首次Fed會議前，經濟學家不知所措",
-              "url": "https://www.marketwatch.com/story/will-the-real-kevin-warsh-please-stand-up-ahead-of-his-first-fed-meeting-economists-honestly-dont-know-what-to-expect-6fa95c8c?mod=mw_rss_topstories",
-              "published": "2026-06-14",
-              "outlet": "MarketWatch",
-              "summary": "Kevin Warsh將主持首次Fed會議，經濟學家對其政策方向感到不確定。",
-              "tags": [
-                "📋政策法規"
-              ],
-              "score": 3
             }
           ]
         },
@@ -17742,6 +17634,29 @@
           "name": "日圓走勢與日本經濟",
           "articles": [
             {
+              "title": "日本企業養老基金計劃配置1%加密資產：Nikkei",
+              "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+              "published": "2026-06-21",
+              "outlet": "CoinTelegraph",
+              "summary": "日本企業養老基金資產約涵蓋1200家中小企業，計劃配置1%於加密貨幣。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 5
+            },
+            {
+              "title": "與芬太尼相關的中國網絡與日本加密詐騙有關，涉及假「Zksync.jp」代幣：Nikkei",
+              "url": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss",
+              "published": "2026-06-21",
+              "outlet": "The Block",
+              "summary": "與芬太尼相關的中國犯罪集團散布假「zksync.jp」代幣，全球加密用戶損失超過100萬美元。",
+              "tags": [
+                "📊有數字",
+                "⚠️供應鏈異動"
+              ],
+              "score": 4
+            },
+            {
               "title": "比特幣在日本央行升息至31年高點後上漲",
               "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high",
               "published": "2026-06-16",
@@ -17774,6 +17689,375 @@
         {
           "name": "綜合",
           "articles": [
+            {
+              "title": "Monster Energy's Manel Kape Stops Kyoji Horiguchi at UFC Fight Night 279 in Las Vegas",
+              "url": "https://www.prnewswire.com/news-releases/monster-energys-manel-kape-stops-kyoji-horiguchi-at-ufc-fight-night-279-in-las-vegas-302805892.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "32-Year-Old from Luanda, Angola, Earns TKO Victory and $100,000 Performance of the Night Bonus LAS V",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Roofing Expert Matt Waligorski of Livonia Outlines What Makes a Roofer Truly Trustworthy for HelloNation",
+              "url": "https://www.prnewswire.com/news-releases/roofing-expert-matt-waligorski-of-livonia-outlines-what-makes-a-roofer-truly-trustworthy-for-hellonation-302779373.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "LIVONIA, Mich., June 21, 2026 /PRNewswire/ -- What qualities define a truly trustworthy roofer, and ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Growing Interest in Liver Wellness Leads Consumers to Explore PureHealth Research Liver Health Supplements",
+              "url": "https://www.prnewswire.com/news-releases/growing-interest-in-liver-wellness-leads-consumers-to-explore-purehealth-research-liver-health-supplements-302805647.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "MANASSAS, Va., June 21, 2026 /PRNewswire/ -- What does it actually mean to feel \"off\" after a heavy ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "DIE VIVATECH 2026 FEIERT IHR 10-JÄHRIGES JUBILÄUM MIT EINER REKORDAUSGABE VON MEHR ALS 200.000 BESUCHERN",
+              "url": "https://www.prnewswire.com/news-releases/die-vivatech-2026-feiert-ihr-10-jahriges-jubilaum-mit-einer-rekordausgabe-von-mehr-als-200-000-besuchern-302805880.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "Mit dabei waren Emmanuel Macron und Narendra Modi, der indische Premierminister PARIS, 21. Juni 2026",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Father's Day Gifts Are Shifting Toward Wellness: CINCOM Encourages Families to Give Dad a Moment to Recover",
+              "url": "https://www.prnewswire.com/news-releases/fathers-day-gifts-are-shifting-toward-wellness-cincom-encourages-families-to-give-dad-a-moment-to-recover-302805777.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "NEW YORK, June 21, 2026 /PRNewswire/ -- As Father's Day approaches, more families are rethinking wha",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Las Vegas Review-Journal Unveils \"Top 100 Restaurants\" 2026",
+              "url": "https://www.prnewswire.com/news-releases/las-vegas-review-journal-unveils-top-100-restaurants-2026-302804653.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "Annual dining guide curated by food and beverage writer Johnathan L. Wright celebrates Southern Neva",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Boutiqaat Positioned for a New Era of Expansion Following Reported IPO Plans",
+              "url": "https://www.prnewswire.com/news-releases/boutiqaat-positioned-for-a-new-era-of-expansion-following-reported-ipo-plans-302805876.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "Bloomberg reports that Goldman Sachs is working on a potential IPO for Boutiqaat, which could take p",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Xinhua Silk Road: Grand Dragon Boat Festival celebration kicks off in Yichang, C China's Hubei",
+              "url": "https://www.prnewswire.com/news-releases/xinhua-silk-road-grand-dragon-boat-festival-celebration-kicks-off-in-yichang-c-chinas-hubei-302805870.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "BEIJING, June 21, 2026 /PRNewswire/ -- A grand opening ceremony of a cultural festival and a nationa",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "/C O R R E C C I O N -- Rokid/",
+              "url": "https://www.prnewswire.com/news-releases/rokid-llega-a-paris-vivatech-2026-y-se-asocia-con-krysto-302803438.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "En el comunicado de prensa \"Rokid llega a París VivaTech 2026 y se asocia con Krysto para ampliar la",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "THE WEEKND KICKS OFF EUROPEAN LEG OF RECORD-BREAKING AFTER HOURS TIL DAWN TOUR WITH TWO SOLD-OUT SHOWS AT COPENHAGEN'S PARKEN STADIUM",
+              "url": "https://www.prnewswire.com/news-releases/the-weeknd-kicks-off-european-leg-of-record-breaking-after-hours-til-dawn-tour-with-two-sold-out-shows-at-copenhagens-parken-stadium-302805856.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "€1 From Every Ticket Sold Across the European Tour Supports the World Food Programme Through the XO ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "THE WEEKND KICKS OFF EUROPEAN LEG OF RECORD-BREAKING AFTER HOURS TIL DAWN TOUR WITH TWO SOLD-OUT SHOWS AT COPENHAGEN'S PARKEN STADIUM",
+              "url": "https://www.prnewswire.com/news-releases/the-weeknd-kicks-off-european-leg-of-record-breaking-after-hours-til-dawn-tour-with-two-sold-out-shows-at-copenhagens-parken-stadium-302805855.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "€1 From Every Ticket Sold Across the European Tour Supports the World Food Programme Through the XO ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "REPT BATTERO renforce son partenariat avec l'Inter Milan et présente ses dernières innovations au salon Intersolar Europe 2026",
+              "url": "https://www.prnewswire.com/news-releases/rept-battero-renforce-son-partenariat-avec-linter-milan-et-presente-ses-dernieres-innovations-au-salon-intersolar-europe-2026-302805851.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "MUNICH, 21 juin 2026 /PRNewswire/ -- Alors que le monde entier a cet été les yeux rivés sur le plus ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "/C O R R E C T I O N -- Rokid/",
+              "url": "https://www.prnewswire.com/news-releases/rokid-participe-au-vivatech-2026-a-paris-et-sassocie-a-krysto-pour-etendre-la-disponibilite-de-ses-lunettes-connectees-en-france-302804490.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "In der Pressemitteilung „Rokid kommt zur VivaTech 2026 nach Paris und kooperiert mit Krysto ein, um ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "CureGene Achieves First Participant Dosed in U.S. Pivotal Trial for Evategrel (CG-0255), a Best-in-Class Antiplatelet Drug, Accelerating Global Commercialization",
+              "url": "https://www.prnewswire.com/news-releases/curegene-achieves-first-participant-dosed-in-us-pivotal-trial-for-evategrel-cg-0255-a-best-in-class-antiplatelet-drug-accelerating-global-commercialization-302805841.html",
+              "published": "2026-06-21",
+              "outlet": "PR Newswire",
+              "summary": "SHANGHAI, June 20, 2026 /PRNewswire/ -- CureGene Pharmaceutical today announced that the first parti",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+              "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+              "published": "2026-06-21",
+              "outlet": "TechCrunch",
+              "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+              "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+              "published": "2026-06-21",
+              "outlet": "TechCrunch",
+              "summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, whil",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Bose thinks it can be a media company for some reason",
+              "url": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
+              "published": "2026-06-21",
+              "outlet": "The Verge",
+              "summary": "The history books are littered with the corpses of corporate record labels started by companies that",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
+              "url": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+              "published": "2026-06-21",
+              "outlet": "The Verge",
+              "summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of t",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Electric air taxis are stuck in the courtroom",
+              "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+              "published": "2026-06-21",
+              "outlet": "The Verge",
+              "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Wooting 60HE v2: Peak Keyboard Perfection",
+              "url": "https://www.wired.com/review/review-wooting-60he-v2/",
+              "published": "2026-06-21",
+              "outlet": "Wired",
+              "summary": "Wooting’s 60HE v2 isn’t just a terrific Hall Effect keyboard. It’s a fantastic keyboard period.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "The Best NAS Devices for Your Home After Months of Testing",
+              "url": "https://www.wired.com/story/best-nas-devices/",
+              "published": "2026-06-21",
+              "outlet": "Wired",
+              "summary": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing,",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "If You’re Searching for a New Skillet, Consider Stainless Steel",
+              "url": "https://www.wired.com/story/stainless-steel-skillets-are-great/",
+              "published": "2026-06-21",
+              "outlet": "Wired",
+              "summary": "Stainless-steel pans may lack nonstick coatings, but they’re unfussy, they sear well, and they’re bu",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "A Critical Deadline Is Approaching for Windows and Linux Security",
+              "url": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
+              "published": "2026-06-21",
+              "outlet": "Wired",
+              "summary": "The cryptographic keys that secure your computer's boot sequence will start to expire on June 24. He",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Trump admin’s coal investments assist plants with repeated violations",
+              "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+              "published": "2026-06-21",
+              "outlet": "Ars Technica",
+              "summary": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+              "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+              "published": "2026-06-21",
+              "outlet": "Ars Technica",
+              "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprisin",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "I always change these 7 phone privacy settings on every new device - here's why",
+              "url": "https://www.zdnet.com/article/phone-privacy-settings-to-disable-review-avoid-exposing-data/",
+              "published": "2026-06-21",
+              "outlet": "ZDNet",
+              "summary": "Your phone holds a lot of personal information, from where you go to who you talk to every day. Here",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones",
+              "url": "https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair/",
+              "published": "2026-06-21",
+              "outlet": "ZDNet",
+              "summary": "As audio quality reaches technological limits, brands are exploring alternative features.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "I tested the new modular ThinkPad, and it's the repairable future I've been hoping for",
+              "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
+              "published": "2026-06-21",
+              "outlet": "ZDNet",
+              "summary": "Unveiled at CES, the 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-si",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "NASA's Perseverance rover has traveled the distance of a marathon on Mars",
+              "url": "https://www.engadget.com/2198455/nasa-perseverance-rover-has-traveled-the-distance-of-a-marathon-on-mars/",
+              "published": "2026-06-21",
+              "outlet": "Engadget",
+              "summary": "It did so in just five years.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "I’ve Gathered 30 of the Best Amazon Device Prime Day Deals: Save on Ring, Kindle and More",
+              "url": "https://www.cnet.com/deals/best-early-prime-day-amazon-device-deals-2026-06-21/",
+              "published": "2026-06-21",
+              "outlet": "CNET Smart Home",
+              "summary": "Prime Day kicks off on Tuesday, but these Amazon device deals are up for grabs today.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Cooler Master NR2 Pro mini-ITX system packing an RTX 5080 is $400 off in Newegg deal — grab a compact yet powerful liquid cooled gaming PC for $2,799.99",
+              "url": "https://www.tomshardware.com/pc-components/cooler-master-nr2-pro-mini-itx-system-packing-an-rtx-5080-is-usd400-off-in-newegg-deal-grab-a-compact-yet-powerful-liquid-cooled-gaming-pc-for-usd2-799-99",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "The Cooler Master NR2 Pro combines a Gigabyte RTX 5080, Intel Core Ultra 7 265F, 2TB Gen 4.0 SSD, an",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Corsair’s tiny touchscreen display is on sale at 20% off ahead of Prime Day — get the Xeneon Edge 14.5-inch LCD touchscreen for just $199.99.",
+              "url": "https://www.tomshardware.com/pc-components/corsairs-tiny-touchscreen-display-is-on-sale-at-20-percent-off-ahead-of-prime-day-get-the-xeneon-edge-14-5-inch-lcd-touchscreen-for-just-usd199-99",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "Corsair just put a 20% discount on the 14.5-inch Xeneon Edge touchscreen display. This brings its pr",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Ingenious modder converts countertop ice machine into an RTX 3060 GPU cooler with a beer fridge thermostat — mod reduces temps by up to 62% in games, Cyberpunk 2077 runs at 22°C",
+              "url": "https://www.tomshardware.com/pc-components/gpus/ingenious-modder-converts-countertop-ice-machine-into-an-rtx-3060-gpu-cooler-with-a-beer-fridge-thermostat-mod-reduces-temps-by-up-to-62-percent-in-games-cyberpunk-2077-runs-at-22-c",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "Turns out, an ice machine can cool a GPU perfectly fine as long as you're willing to modify it to th",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Open-source Vulkan driver NVK gains experimental DLSS support — bringing Nvidia’s upscaling tech to Linux via imported CUDA binaries",
+              "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-nvidia-vulkan-driver-nvk-gains-experimental-dlss-support-by-importing-pre-baked-cuda-binaries",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "NVK, the community-built open-source Vulkan driver for Nvidia GPUs in Mesa, has gained experimental ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Ubisoft co-founder Claude Guillemot dies in plane crash —  French publisher established in 1986 became one of the biggest entertainment companies in the world",
+              "url": "https://www.tomshardware.com/video-games/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash-french-publisher-established-in-1986-became-one-of-the-biggest-entertainment-companies-in-the-world",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "Ubisoft co-founder Claude Guillemot was killed when his twin-engine private plane crashed enroute to",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Samsung's 32-inch 1440p 165 Hz gaming monitor falls to its lowest price yet with 46% off for Prime Day — grab the curved Odyssey G55C at just $189.99",
+              "url": "https://www.tomshardware.com/pc-components/samsungs-32-inch-1440p-165-hz-gaming-monitor-falls-to-its-lowest-price-yet-with-46-percent-off-for-prime-day-grab-the-curved-odyssey-g55c-at-just-usd189-99",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "Featuring a 32-inch 1000R curved QHD panel, 165 Hz refresh rate, 1 ms MPRT response time, and AMD Fr",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "One of our favorite budget gaming keyboards drops back down to its lowest-ever price of $45 at Amazon — RK R65 packs lubed switches, metallic knob, and gasket mount for excellent sound and feel",
+              "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/one-of-our-favorite-budget-gaming-keyboards-drops-back-down-to-its-lowest-ever-price-of-usd45-at-amazon-rk-r65-packs-lubed-switches-metallic-knob-and-gasket-mount-for-excellent-sound-and-feel",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "Our favorite 60% budget gaming keyboard, the Royal Kludge R65, is back down to just $44 with coupon ",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Dramatically redesigned GMKtec EVO-X3 shown bearing Lisa Su’s signature of approval — flagship AI mini PC workstation is built around AMD’s Ryzen AI Max+ 395 'Strix Halo' processor, again",
+              "url": "https://www.tomshardware.com/desktops/mini-pcs/dramatically-redesigned-gmktec-evo-x3-shown-bearing-lisa-sus-signature-of-approval-flagship-ai-mini-pc-workstation-is-built-around-amds-ryzen-ai-max-395-strix-halo-processor-again",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "GMKtec's dramatically redesigned EVO-X3 'Strix Halo' Mini PC gets Lisa Su’s signature of approval.",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Samsung and SK hynix bonuses for chip workers flagged as a national inflation risk — Bank of Korea projects full-year inflation significantly above its 2% target",
+              "url": "https://www.tomshardware.com/tech-industry/bank-of-korea-flags-samsung-and-sk-hynix-chip-bonuses-as-a-national-inflation-risk",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "The Bank of Korea has named performance bonuses at Samsung Electronics and SK hynix as a risk to the",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Telehealth doctor treats patients using Razer Naga gaming mouse — 12-button MMO thumb grid simplifies medical workflow, automates medical scripting",
+              "url": "https://www.tomshardware.com/peripherals/gaming-mice/telehealth-doctor-treats-patients-using-razer-naga-gaming-mouse-12-button-mmo-thumb-grid-simplifies-medical-workflow-automates-medical-scripting",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "Dr. James Ries says that his Razer Naga V2 MMO gaming mouse helps him treat patients by keeping rele",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Creality Falcon T1 review: Modular laser engraving",
+              "url": "https://www.tomshardware.com/maker-stem/creality-falcon-t1-review",
+              "published": "2026-06-21",
+              "outlet": "Tom's Hardware",
+              "summary": "The Creality Falcon T1 is a galvo laser engraver that uses swappable diode, fiber, UV, and MOPA lase",
+              "tags": [],
+              "score": 3
+            },
             {
               "title": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert",
               "url": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
@@ -18266,6 +18550,15 @@
               "published": "2026-06-20",
               "outlet": "Tom's Hardware",
               "summary": "Chinese defense supplier Harbin Xinguang Optic-Electronics Technology demo’d two man-portable anti-d",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "VIA Investors Have Opportunity to Lead Via Transportation, Inc. Securities Lawsuit",
+              "url": "https://www.prnewswire.com/news-releases/via-investors-have-opportunity-to-lead-via-transportation-inc-securities-lawsuit-302805482.html",
+              "published": "2026-06-20",
+              "outlet": "PR Newswire",
+              "summary": "NEW YORK, June 20, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, reminds p",
               "tags": [],
               "score": 3
             },
@@ -23272,510 +23565,6 @@
               "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experien",
               "tags": [],
               "score": 3
-            },
-            {
-              "title": "Trump heads to G7 summit in France as world awaits Iran deal",
-              "url": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
-              "published": "2026-06-14",
-              "outlet": "CNBC Tech",
-              "summary": "The Iran war has drawn the world's focus, but the G7 is also likely to address Russia's war against ",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
-              "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
-              "published": "2026-06-14",
-              "outlet": "CNBC Tech",
-              "summary": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever",
-              "url": "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
-              "published": "2026-06-14",
-              "outlet": "CNBC Tech",
-              "summary": "SpaceX and Google have a long and complicated relationship, but they were both celebrating this week",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Employment Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, File Suit Against Empyrean Anaheim Resort, Inc., for Alleged Failure to Provide Required Meal Periods and Rest Periods",
-              "url": "https://www.prnewswire.com/news-releases/employment-law-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-file-suit-against-empyrean-anaheim-resort-inc-for-alleged-failure-to-provide-required-meal-periods-and-rest-periods-302799488.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "Empyrean Anaheim Resort, Inc. allegedly failed to provide employees with accurate wages due to misse",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Phreesia Deadline: PHR Investors with Losses in Excess of $100K Have Opportunity to Lead Phreesia, Inc. Securities Fraud Lawsuit",
-              "url": "https://www.prnewswire.com/news-releases/phreesia-deadline-phr-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-phreesia-inc-securities-fraud-lawsuit-302799473.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "NEW YORK, June 14, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, remi",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Concept Study Identifies Potential Refining Pathway at Shaakichiuwaanaan to Battery-Grade Lithium Carbonate",
-              "url": "https://www.prnewswire.com/news-releases/concept-study-identifies-potential-refining-pathway-at-shaakichiuwaanaan-to-battery-grade-lithium-carbonate-302799679.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "Study highlights potential to produce a value-added lithium chemical at site, offering further oppor",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Die Menarini Group präsentiert auf dem Kongress der European Hematology Association (EHA) 2026 Daten aus der Phase-3-Studie SENTRY zur Kombination von Selinexor und Ruxolitinib bei Myelofibrose",
-              "url": "https://www.prnewswire.com/news-releases/die-menarini-group-prasentiert-auf-dem-kongress-der-european-hematology-association-eha-2026-daten-aus-der-phase-3-studie-sentry-zur-kombination-von-selinexor-und-ruxolitinib-bei-myelofibrose-302799749.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "Die Kombination aus Selinexor und Ruxolitinib erreichte den ersten koprimären Endpunkt und zeigte in",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Muscle Growth Supplements Featuring Magnesium, Ashwagandha and Omega-3s Are Highlighted by PureHealth Research",
-              "url": "https://www.prnewswire.com/news-releases/muscle-growth-supplements-featuring-magnesium-ashwagandha-and-omega-3s-are-highlighted-by-purehealth-research-302794157.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "MANASSAS, Va., June 14, 2026 /PRNewswire/ -- Strength, mobility, and recovery are getting more atten",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Rosen Law Firm Encourages FLOW Cryptocurrency Investors to Inquire About Securities Class Action Investigation",
-              "url": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-flow-cryptocurrency-investors-to-inquire-about-securities-class-action-investigation-302799481.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "NEW YORK, June 14, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, cont",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Orbis International's Flying Eye Hospital Arrives in Peru to Expand Access to Essential Eye Care",
-              "url": "https://www.prnewswire.com/news-releases/orbis-internationals-flying-eye-hospital-arrives-in-peru-to-expand-access-to-essential-eye-care-302799740.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "With support from Alcon, FedEx, and OMEGA, the Orbis Flying Eye Hospital returns to Peru to carry ou",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "SAMARITAN'S PURSE EBOLA TREATMENT CENTERS OPEN IN THE EPICENTER OF THE DEADLY OUTBREAK",
-              "url": "https://www.prnewswire.com/news-releases/samaritans-purse-ebola-treatment-centers-open-in-the-epicenter-of-the-deadly-outbreak-302799738.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "BOONE, N.C., June 14, 2026 /PRNewswire/ -- Samaritan's Purse has established two Ebola Treatment Cen",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Tradr to Ring Opening Bell at Cboe to Celebrate SpaceX ETF Launches",
-              "url": "https://www.prnewswire.com/news-releases/tradr-to-ring-opening-bell-at-cboe-to-celebrate-spacex-etf-launches-302799509.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "Tradr ETFs will ring Cboe's Opening Bell on June 15 to celebrate the launch of SPCM and SPCG, ETFs p",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Menarini Group Reports Data from the Phase 3 SENTRY Trial of Selinexor Plus Ruxolitinib in Myelofibrosis at The European Hematology Association (EHA) 2026 Congress",
-              "url": "https://www.prnewswire.com/news-releases/menarini-group-reports-data-from-the-phase-3-sentry-trial-of-selinexor-plus-ruxolitinib-in-myelofibrosis-at-the-european-hematology-association-eha-2026-congress-302799732.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "The combination of selinexor plus ruxolitinib met the first co-primary endpoint demonstrating a stat",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "RiderNav presenta sus pantallas inteligentes de 7 pulgadas para motocicletas en el Mid-Summer Riding Festival",
-              "url": "https://www.prnewswire.com/news-releases/ridernav-presenta-sus-pantallas-inteligentes-de-7-pulgadas-para-motocicletas-en-el-mid-summer-riding-festival-302799641.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "SHENZHEN, China, 14 de junio de 2026 /PRNewswire/ -- RiderNav lanzó hoy su Mid-Summer Ride Festival,",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "AFX accelera l'espansione globale guidata dall'esperto del settore Ken C",
-              "url": "https://www.prnewswire.com/news-releases/afx-accelera-lespansione-globale-guidata-dallesperto-del-settore-ken-c-302799711.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "ROAD TOWN, Isole Vergini Britanniche, 14 giugno 2026 /PRNewswire/ -- AFX, sovrana L1 ad alte prestaz",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "AFX beschleunigt globale Expansion mit Branchenveteran Ken C als Leiter für Wachstum",
-              "url": "https://www.prnewswire.com/news-releases/afx-beschleunigt-globale-expansion-mit-branchenveteran-ken-c-als-leiter-fur-wachstum-302799708.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "ROAD TOWN, Britische Jungferninseln, 14. Juni 2026 /PRNewswire/ -- AFX, eine leistungsstarke souverä",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "AFX accélère son expansion mondiale sous la houlette de Ken C pour mener à bien sa croissance",
-              "url": "https://www.prnewswire.com/news-releases/afx-accelere-son-expansion-mondiale-sous-la-houlette-de-ken-c-pour-mener-a-bien-sa-croissance-302799707.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "ROAD TOWN, Îles Vierges britanniques, 14 juin 2026 /PRNewswire/ -- AFX, une plateforme souveraine de",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Lilly's Jaypirca (pirtobrutinib) significantly reduced the risk of disease progression or death by 45% when added to a venetoclax time-limited regimen in people with previously treated CLL/SLL",
-              "url": "https://www.prnewswire.com/news-releases/lillys-jaypirca-pirtobrutinib-significantly-reduced-the-risk-of-disease-progression-or-death-by-45-when-added-to-a-venetoclax-time-limited-regimen-in-people-with-previously-treated-cllsll-302799348.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "BRUIN CLL-322 is the first Phase 3 study to demonstrate superiority over a venetoclax-containing con",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Bitmine Immersion Technologies gibt erste Dividendenausschüttung und Notierung der Vorzugsaktien der Serie A an der NYSE bekannt",
-              "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-gibt-erste-dividendenausschuttung-und-notierung-der-vorzugsaktien-der-serie-a-an-der-nyse-bekannt-302799704.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "Der Vorstand von Bitmine beschließt die erste Bardividendenausschüttung auf die 9,50 %-Vorzugsaktien",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Bitmine Immersion Technologies annonce les premiers dividendes et la cotation au NYSE de ses actions privilégiées de série A",
-              "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-annonce-les-premiers-dividendes-et-la-cotation-au-nyse-de-ses-actions-privilegiees-de-serie-a-302799703.html",
-              "published": "2026-06-14",
-              "outlet": "PR Newswire",
-              "summary": "Le conseil d'administration de Bitmine annonce le versement des premiers dividendes en espèces sur l",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "UK may ban social media for children under 16",
-              "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
-              "published": "2026-06-14",
-              "outlet": "TechCrunch",
-              "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "As AI companies race to go public, who else is along for the ride?",
-              "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-              "published": "2026-06-14",
-              "outlet": "TechCrunch",
-              "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-              "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-              "published": "2026-06-14",
-              "outlet": "TechCrunch",
-              "summary": "The new Sonos Play can act as a portable speaker inside and outside your home.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-              "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-              "published": "2026-06-14",
-              "outlet": "TechCrunch",
-              "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "The FBI built a small town to simulate cyberattacks",
-              "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
-              "published": "2026-06-14",
-              "outlet": "The Verge",
-              "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think o",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Conclave is the sound of a NYC summer block party",
-              "url": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
-              "published": "2026-06-14",
-              "outlet": "The Verge",
-              "summary": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety ",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "How to watch most of the World Cup matches with free trials",
-              "url": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale",
-              "published": "2026-06-14",
-              "outlet": "The Verge",
-              "summary": "Hoping to catch some World Cup matches while spending as little money as possible? You have a few op",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "The impossible dream of the universal remote",
-              "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
-              "published": "2026-06-14",
-              "outlet": "The Verge",
-              "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stu",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Solid-state batteries still aren’t ready, but gels are",
-              "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
-              "published": "2026-06-14",
-              "outlet": "The Verge",
-              "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)",
-              "url": "https://www.wired.com/gallery/best-gifts-for-men-2026/",
-              "published": "2026-06-14",
-              "outlet": "Wired",
-              "summary": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, w",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
-              "url": "https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/",
-              "published": "2026-06-14",
-              "outlet": "Wired",
-              "summary": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-l",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Suunto Spark Review: The Perfect Pair for Runs and Rides",
-              "url": "https://www.wired.com/review/suunto-spark/",
-              "published": "2026-06-14",
-              "outlet": "Wired",
-              "summary": "Suunto swaps bone for air conduction, giving these open-ear earbuds a perfect fit for the great outd",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher?",
-              "url": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
-              "published": "2026-06-14",
-              "outlet": "Wired",
-              "summary": "President Donald Trump says a secret mission moved 100 million barrels of oil through the blocked St",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
-              "url": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
-              "published": "2026-06-14",
-              "outlet": "Wired",
-              "summary": "This handheld device combines red light therapy, microcurrents, sonic vibration, warmth, and a serum",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster",
-              "url": "https://www.wired.com/gallery/best-coffee-makers/",
-              "published": "2026-06-14",
-              "outlet": "Wired",
-              "summary": "The old-fashioned drip coffee maker has come a long way. These impressive machines can turn your bar",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Škoda’s New EV Will Likely Be Its Most Expensive Yet",
-              "url": "https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/",
-              "published": "2026-06-14",
-              "outlet": "Wired",
-              "summary": "The Škoda Peaq, which will debut this summer as the European automaker’s flagship model, seats seven",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
-              "url": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-              "published": "2026-06-14",
-              "outlet": "Ars Technica",
-              "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and ",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "MCP solved tool calling. A2A solved coordination. What solves transport?",
-              "url": "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport",
-              "published": "2026-06-14",
-              "outlet": "VentureBeat",
-              "summary": "The history of distributed computing is one of protocol proliferation followed by consolidation. Com",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "After a month with a foldable phone, I can't justify buying an 'Ultra' model anymore",
-              "url": "https://www.zdnet.com/article/motorolas-razr-plus-is-heavily-underrated/",
-              "published": "2026-06-14",
-              "outlet": "ZDNet",
-              "summary": "Motorola's Razr+ is not the awkward middle child of its series; it arguably offers the best balance ",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "This is the most unique Bluetooth tracker I've tested by far - and it outlasts the AirTag",
-              "url": "https://www.zdnet.com/article/ugreen-finetrack-2-tracker-tag-review/",
-              "published": "2026-06-14",
-              "outlet": "ZDNet",
-              "summary": "The Ugreen FineTrack 2 has several unique features that make it stand out against Apple's AirTags.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "A rare sticker-sealed copy of Super Mario Bros. just sold for $3 million",
-              "url": "https://www.engadget.com/2193909/a-rare-sticker-sealed-copy-of-super-mario-bros-just-sold-for-3-million/",
-              "published": "2026-06-14",
-              "outlet": "Engadget",
-              "summary": "Mamma mia!",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Kindle Unlimited costs $11.99 per month, but here's how to pay less",
-              "url": "https://www.engadget.com/2193475/kindle-unlimited-cheaper-pay-less/",
-              "published": "2026-06-14",
-              "outlet": "Engadget",
-              "summary": "Here are some ways you can get a Kindle Unlimited membership at a discounted price.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Apple reportedly has three more iOS 27 features coming in the fall",
-              "url": "https://www.engadget.com/2193891/apple-reportedly-has-three-more-ios-27-features-coming-in-the-fall/",
-              "published": "2026-06-14",
-              "outlet": "Engadget",
-              "summary": "Apple is still holding some of its iOS 27 cards close to its chest.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Anbernic now has a store page where you can buy replacement parts for its handhelds",
-              "url": "https://www.engadget.com/2193871/anbernic-now-has-a-store-page-where-you-can-buy-replacement-parts-for-its-handhelds/",
-              "published": "2026-06-14",
-              "outlet": "Engadget",
-              "summary": "Customers can order new joysticks, batteries, screens and more.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Your Kindle could unlock thousands of free books: These are the best places to find them",
-              "url": "https://www.engadget.com/2192697/kindle-free-books-guide/",
-              "published": "2026-06-14",
-              "outlet": "Engadget",
-              "summary": "Our self-proclaimed Scroogian (cheapskate) book-loving writer has put together a guide on finding fr",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Apple TV 4K multiview: How to watch four live sports feeds at once",
-              "url": "https://www.engadget.com/2192442/apple-tv-4k-multiview-sports-live-events/",
-              "published": "2026-06-14",
-              "outlet": "Engadget",
-              "summary": "Our expert sports fan made a detailed guide on what sports you can watch on Apple TV in multiview an",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Intel's upcoming 'Raptor Lake Next' will reportedly top out at 20 cores and retain Core 200 branding — Lineup may include a special 10-core SKU with 24MB of L3 cache",
-              "url": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-raptor-lake-next-will-reportedly-top-out-at-20-cores-and-retain-core-200-branding-lineup-may-include-a-special-10-core-sku-with-24mb-of-l3-cache",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "Intel's Raptor Lake family might be coming back for a third time and sit alongside Nova Lake on shel",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Computer History Museum recalls ‘astonishing’ retro haul recovered from abandoned German warehouse — over 2,000 artifacts spanning the 1930s to 1980s required seven tractor-trailers after a WWII bomb scare",
-              "url": "https://www.tomshardware.com/tech-industry/computer-history-museum-recalls-astonishing-retro-haul-recovered-from-abandoned-german-warehouse-over-2-000-artifacts-spanning-the-1930s-to-1980s-required-seven-tractor-trailers-after-a-wwii-bomb-scare",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "The Computer History Museum recalls one of its biggest ever retro treasure troves. This ‘astonishing",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Snapmaker launches $150,000 Innovation Fund for open source 3D printing — cash rewards target developers backing the U1 toolchanger across Klipper, OrcaSlicer, and Moonraker ecosystems",
-              "url": "https://www.tomshardware.com/3d-printing/snapmaker-launches-usd150-000-innovation-fund-for-open-source-3d-printing-cash-rewards-target-developers-backing-the-u1-toolchanger-across-klipper-orcaslicer-and-moonraker-ecosystems",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "Snapmaker celebrates 10 years in business by sponsoring open-source developers and you.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Grab this MSI Codex Z2 16-thread gaming Ryzen PC with a 2TB SSD at a $400 discount — system packs a Ryzen 8700F, 16GB DDR5, and RTX 5060 Ti 8GB for $1,499",
-              "url": "https://www.tomshardware.com/pc-components/grab-this-msi-codex-z2-16-thread-gaming-ryzen-pc-with-a-2tb-ssd-at-a-usd400-discount-system-packs-a-ryzen-8700f-16gb-ddr5-and-rtx-5060-ti-8gb-for-usd1-499",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "MSI's prebuilt gaming desktop pairs a Zen 4 processor with Nvidia's latest RTX 5060 Ti graphics card",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "New 3D printer tech uses elliptical laser beams to stir molten metal and create ‘alloys-on-demand’ — existing machinery can implement technique in software meaning for more convenient, stronger alloy printing",
-              "url": "https://www.tomshardware.com/3d-printing/nist-gets-metal-3d-printers-to-mix-alloys-mid-print-by-rewriting-the-lasers-path",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "NIST has demonstrated a metal 3D printing method that stirs molten metal during the print by sending",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on",
-              "url": "https://www.tomshardware.com/software/windows/microsoft-is-reportedly-testing-copilot-ai-features-with-discrete-gpus-instead-of-npus-a-feature-available-on-windows-app-sdk-with-a-windows-insider-experimental-channel-build-and-developer-mode-turned-on",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "Microsoft is experimenting with Windows AI features on non-Copilot devices, finally allowing AI feat",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "AI cryptomining network's 320,000 RTX 3090-class GPUs allegedly burn 112 megawatts of power on ‘zero useful AI computation’ — GPU rental costs jump 38%, but Pearl’s cards are doing random matrix math, study claims",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cryptomining-networks-320-000-rtx-3090-class-gpus-allegedly-burn-112-megawatts-of-power-on-zero-useful-ai-computation-pearls-gpus-are-doing-random-matrix-math-study-claims",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "A preprint claims Pearl’s AI mining network consumes 320,000 GPU-equivalents and 112 MW while produc",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Razer Kiyo V2 X Review: Auto-focus for life",
-              "url": "https://www.tomshardware.com/peripherals/webcams/razer-kiyo-v2-x-review",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "Razer's Kiyo V2 X is the most budget-friendly of its current webcam lineup; it records video at 1440",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Hardcore SpongeBob speedrunners smudged Xbox optical disks with sweat and grease to exploit 'lag clip' trick — filthy smeared disks cut gameplay times in ultimate pursuit of speed",
-              "url": "https://www.tomshardware.com/video-games/console-gaming/hardcore-spongebob-speedrunners-smudged-xbox-optical-disks-to-exploit-lag-clip-trick-filthy-disks-smeared-with-grease-and-sweat-cut-gameplay-times-in-ultimate-pursuit-of-speed",
-              "published": "2026-06-14",
-              "outlet": "Tom's Hardware",
-              "summary": "A grease smear-induced optical disc reading quirk can save speedrunners lots of time in SpongeBob Sq",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
-              "url": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
-              "published": "2026-06-14",
-              "outlet": "CNBC Tech",
-              "summary": "Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable ",
-              "tags": [],
-              "score": 3
             }
           ]
         }
@@ -23787,6 +23576,51 @@
         {
           "name": "比特幣",
           "articles": [
+            {
+              "title": "加密寒冬下比特幣ETF 30天內流出創紀錄64億美元",
+              "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+              "published": "2026-06-21",
+              "outlet": "CoinTelegraph",
+              "summary": "美上市比特幣ETF 30天淨流出64億美元，為2024年推出以來最大規模。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 5
+            },
+            {
+              "title": "自STRC推出以來比特幣價格下跌逾40%：Strategy「沒事」嗎？",
+              "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+              "published": "2026-06-21",
+              "outlet": "CoinTelegraph",
+              "summary": "自STRC推出後比特幣價格已下跌逾40%，Strategy比特幣購買放緩。",
+              "tags": [
+                "📊有數字",
+                "🏢品牌動態"
+              ],
+              "score": 4
+            },
+            {
+              "title": "Bitcoin 持穩在 64,000 美元附近，Hormuz 威脅影響美伊停火談判",
+              "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+              "published": "2026-06-21",
+              "outlet": "CoinDesk",
+              "summary": "比特幣價格維持在 64,000 美元附近，受美伊談判與 Hormuz 威脅影響。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 3
+            },
+            {
+              "title": "交易員指出「可疑」BTC價格上漲，比特幣可能觸及66K美元高點",
+              "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+              "published": "2026-06-21",
+              "outlet": "CoinTelegraph",
+              "summary": "交易員標記比特幣價格上漲可疑，預測可能達到66K美元頂點。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 3
+            },
             {
               "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
               "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
@@ -24823,50 +24657,6 @@
                 "🏢品牌動態"
               ],
               "score": 2
-            },
-            {
-              "title": "Bitcoin挖礦難度2026年第二次大幅下調10%",
-              "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-14",
-              "outlet": "The Block",
-              "summary": "Bitcoin挖礦難度下降10%，現存礦工每單位算力可多獲得約11%比特幣。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 4
-            },
-            {
-              "title": "Bitcoin若觸發歷史模式可能跌至48000美元",
-              "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered",
-              "published": "2026-06-14",
-              "outlet": "CoinDesk",
-              "summary": "Bitcoin可能觸發歷史走勢模式，價格恐下探至48000美元。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 3
-            },
-            {
-              "title": "StanChart尋找BTC觸底三項指標",
-              "url": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "published": "2026-06-14",
-              "outlet": "CoinTelegraph",
-              "summary": "Standard Chartered分析師表示加密貨幣價格已見本輪週期低點，冬季結束。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
-            },
-            {
-              "title": "Bitcoin逼近65000美元",
-              "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "published": "2026-06-14",
-              "outlet": "CoinTelegraph",
-              "summary": "Trump表示Hormuz海峽將在美伊和平協議中對所有人開放，Bitcoin維持高檔。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 3
             }
           ]
         },
@@ -25166,17 +24956,6 @@
                 "🏢品牌動態"
               ],
               "score": 2
-            },
-            {
-              "title": "Trump支持的World Liberty Financial將以USD1 stablecoin支付UFC獎金",
-              "url": "https://www.theblock.co/post/404697/trump-backed-world-liberty-financial-to-fund-ufc-fighter-bonuses-in-usd1-stablecoin-at-white-house-event?utm_source=rss&utm_medium=rss",
-              "published": "2026-06-14",
-              "outlet": "The Block",
-              "summary": "World Liberty Financial在白宮南草坪活動以USD1 stablecoin支付UFC戰士獎金。",
-              "tags": [
-                "🏢品牌動態"
-              ],
-              "score": 3
             }
           ]
         },
@@ -25221,6 +25000,28 @@
         {
           "name": "以太坊",
           "articles": [
+            {
+              "title": "臭名昭著的「三明治攻擊」機器人Jaredfromsubway.eth遭利用損失750萬美元",
+              "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+              "published": "2026-06-21",
+              "outlet": "CoinTelegraph",
+              "summary": "Jaredfromsubway.eth在2024年11月至2025年10月負責70%以太坊三明治攻擊，損失750萬美元。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 4
+            },
+            {
+              "title": "Ethereum 最大「三明治」機器人遭駭，損失 750 萬美元",
+              "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+              "published": "2026-06-21",
+              "outlet": "CoinDesk",
+              "summary": "Ethereum 最大三明治 bot 遭詭異攻擊，損失 750 萬美元。",
+              "tags": [
+                "📊有數字"
+              ],
+              "score": 3
+            },
             {
               "title": "前EF貢獻者：Ethereum 9個月內恐面臨核心開發資金危機",
               "url": "https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor?utm_source=rss&utm_medium=rss",
@@ -25397,17 +25198,6 @@
                 "🏢品牌動態"
               ],
               "score": 2
-            },
-            {
-              "title": "Ethereum量子防護帳戶成本僅7美分",
-              "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "published": "2026-06-14",
-              "outlet": "CoinTelegraph",
-              "summary": "Ethereum SPHINCS-提案可將後量子簽章驗證成本降至7美分。",
-              "tags": [
-                "📊有數字"
-              ],
-              "score": 4
             }
           ]
         },
@@ -25471,6 +25261,42 @@
           "name": "綜合",
           "articles": [
             {
+              "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
+              "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
+              "published": "2026-06-21",
+              "outlet": "CoinDesk",
+              "summary": "",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
+              "url": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss",
+              "published": "2026-06-21",
+              "outlet": "The Block",
+              "summary": "An X account using the bot's name claimed a $15 million loss and offered a $1 million bounty, but ev",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
+              "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+              "published": "2026-06-21",
+              "outlet": "Decrypt",
+              "summary": "Both models trade word-by-word generation for parallel denoising. Only one of them does it without l",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
+              "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+              "published": "2026-06-21",
+              "outlet": "Decrypt",
+              "summary": "New research outlines how chatbot behaviors, including personalization, mirroring, and excessive agr",
+              "tags": [],
+              "score": 3
+            },
+            {
               "title": "AI is making crypto security cheaper, faster and harder to ignore",
               "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
               "published": "2026-06-20",
@@ -25530,6 +25356,15 @@
               "published": "2026-06-20",
               "outlet": "Decrypt",
               "summary": "OpenRouter's compound-model API stacks budget AI models—and beat GPT-5.5 and Claude Opus 4.8 outrigh",
+              "tags": [],
+              "score": 3
+            },
+            {
+              "title": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
+              "url": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&utm_medium=rss",
+              "published": "2026-06-20",
+              "outlet": "The Block",
+              "summary": "Secret Network says about $770,000 of the stolen funds still sits in the attacker's Axelar wallet, a",
               "tags": [],
               "score": 3
             },
@@ -27051,69 +26886,6 @@
               "published": "2026-06-15",
               "outlet": "Decrypt",
               "summary": "The three crypto market overhangs of the Iran War, SpaceX IPO and ETF outflows appear to be lifting.",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Summer of crypto (regs): State of Crypto",
-              "url": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
-              "published": "2026-06-14",
-              "outlet": "CoinDesk",
-              "summary": "",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
-              "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
-              "published": "2026-06-14",
-              "outlet": "CoinDesk",
-              "summary": "",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
-              "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
-              "published": "2026-06-14",
-              "outlet": "CoinDesk",
-              "summary": "",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
-              "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "published": "2026-06-14",
-              "outlet": "CoinTelegraph",
-              "summary": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of Nor",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
-              "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "published": "2026-06-14",
-              "outlet": "CoinTelegraph",
-              "summary": "Crypto analyst Michaël van de Poppe said a peace deal, which would reopen the Strait of Hormuz, woul",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Reve 2.0 Review: The Best AI Image Generator for Layout Control",
-              "url": "https://decrypt.co/371033/reve-2-review-best-ai-image-generator-layout-control",
-              "published": "2026-06-14",
-              "outlet": "Decrypt",
-              "summary": "The startup that beat Midjourney at a penny per image is back with a 4K model that plans pictures li",
-              "tags": [],
-              "score": 3
-            },
-            {
-              "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
-              "url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
-              "published": "2026-06-14",
-              "outlet": "Decrypt",
-              "summary": "Tokenized Pokémon card sales have skyrocketed over the past year, fueled by a wave of speculation an",
               "tags": [],
               "score": 3
             }
