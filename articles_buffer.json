@@ -1,23 +1,5 @@
 [
   {
-    "title": "Thriving Through Volatility: The Everpure Advantage in an Uncertain Market",
-    "url": "https://intelligence.theregister.com/paper/view/20338",
-    "content": "Learn how a consumption-based operating model provides flexibility, improves efficiency, and brings predictability to infrastructure investments.",
-    "published": "2026-06-15",
-    "published_ts": 1781481600.0,
-    "outlet": "The Next Platform",
-    "fetched_at": "2026-06-11T05:09:47Z",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合",
-    "summary_zh": "Everpure推出用量計費營運模式，提升基礎設施投資彈性與可預測性。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Nvidia joins Wall Street's AI funding wave",
     "url": "https://finance.yahoo.com/markets/article/nvidia-joins-wall-streets-ai-funding-wave-163231887.html",
     "content": "",
@@ -31,25 +13,6 @@
     "summary_zh": "Nvidia加入華爾街AI融資浪潮",
     "tags": [
       "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq soar on US-Iran pact to reopen Hormuz",
-    "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html",
-    "content": "",
-    "published": "2026-06-14",
-    "published_ts": 1781477271.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-06-15T16:48:48Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "美伊協議重啟荷莫茲海峽，Dow、S&P 500、Nasdaq大漲",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
     ],
     "score": 4,
     "translated": true
@@ -3288,24 +3251,6 @@
     "score": 5
   },
   {
-    "title": "第 24 週熱門手機排行榜前 10 名",
-    "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_24-news-73265.php",
-    "content": "As the hype surrounding the Xiaomi 17T pair died down a little, the Samsung Galaxy A57 returned to the top of our trending chart. The 17T Pro took the silver medal, while the Galaxy S26 Ultra completed the podium. [#InlinePriceWidget, 14379, 1#] Xiaomi 17T is now fourth, sitting ahead of the Galaxy A17 and the Apple iPhone 17 Pro Max. Redmi Note 15 took the seventh spot, followed by the Motorola M",
-    "published": "2026-06-14",
-    "published_ts": 1781478662.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-06-16T06:33:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Samsung Galaxy A57 重返熱門榜首，Xiaomi 17T 系列話題降溫後排名下滑。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
     "title": "Facebook is taking a page from Google’s playbook with these new features",
     "url": "https://www.androidauthority.com/new-trio-of-facebook-ai-features-3677656/",
     "content": "These features aim to enhance search on Facebook and give you more creative tools for stories.",
@@ -4677,24 +4622,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "白宮要求 Anthropic 停用新 frontier 模型，突遭出口禁令影響",
-    "url": "https://siliconangle.com/2026/06/14/white-house-forces-anthropic-disable-new-frontier-models-following-abrupt-export-ban/",
-    "content": "Anthropic PBC was forced just to abruptly pull the plug on foreign access to two of its most powerful artificial intelligence models, Fable 5 and Mythos 5, just days after it launched them. The sudden decision just before the weekend to do so came shortly after the U.S. Commerce Department issued a sweeping export control […] The post White House forces Anthropic to disable new frontier models fol",
-    "published": "2026-06-15",
-    "published_ts": 1781481643.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-16T06:33:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "關稅與貿易戰",
-    "summary_zh": "Anthropic 因出口禁令被迫停止 Fable 5 與 Myth 等兩款 frontier 模型的海外存取。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
     "title": "Toyota reveals prices for its first electric pickup",
     "url": "https://electrek.co/2026/06/15/toyota-reveals-prices-for-first-electric-pickup/",
     "content": "The Hilux BEV arrives as Toyota’s first fully electric pickup and body-on-frame EV. Is it worth the price?",
@@ -5397,24 +5324,6 @@
     "score": 1
   },
   {
-    "title": "油價因美伊協議宣布下跌",
-    "url": "https://www.axios.com/2026/06/14/oil-prices-us-iran-war-hormuz-strait-peace-deal",
-    "content": "Crude oil prices fell over 4% to their lowest levels in over three months Sunday after the U.S. and Iran agreed to a ceasefire extension that could lead to the reopening of the Strait of Hormuz. Why it matters: Severe restrictions on oil traffic through the strait since the conflict began in late February have created an unprecedented energy shock that's a drag on the global economy. The oil price",
-    "published": "2026-06-14",
-    "published_ts": 1781478669.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-16T06:33:38+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "美伊停火協議延長消息公布後，原油價格單日重挫逾4%。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
     "title": "政府動用戰略石油儲備壓制油價",
     "url": "https://wolfstreet.com/2026/06/15/government-uses-strategic-petroleum-reserve-as-cudgel-to-beat-down-oil-price-mania-worked-for-second-time/",
     "content": "A new role for the SPR. It wasn’t designed for that.",
@@ -5719,24 +5628,6 @@
       "📊有數字"
     ],
     "score": 5
-  },
-  {
-    "title": "比特幣因伊朗和平協議消息大漲，荷莫茲海峽將開放",
-    "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
-    "content": "",
-    "published": "2026-06-15",
-    "published_ts": 1781482090.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-06-16T06:33:41+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "伊朗和平協議消息推升比特幣上漲，荷莫茲海峽預計開放。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
   },
   {
     "title": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
@@ -6266,24 +6157,6 @@
       "📊有數字"
     ],
     "score": 4
-  },
-  {
-    "title": "Bitcoin Covenants Part 1：探索 Bitcoin 網路複雜支出條件新可能性",
-    "url": "https://cointelegraph.com/research/bitcoin-covenants-part-1-exploring-new-possibilities-for-complex-spending-conditions-on-the-bitcoin-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "A single missing feature in Bitcoin Script has spawned twelve competing proposals. Cointelegraph Research gives an overview.",
-    "published": "2026-06-15",
-    "published_ts": 1781481600.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-06-16T06:33:42+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Bitcoin Script 單一缺失功能已衍生出十二種競爭性提案，Cointelegraph Research 提供概覽。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
   },
   {
     "title": "Elon Musk 再次敗訴，法官駁回 xAI 對 OpenAI 商業機密訴訟",
@@ -40937,5 +40810,15 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
+  },
+  {
+    "title": "HELOC and home equity loan rates Sunday, June 21, 2026: See Yahoo's top HELOC and HEL lenders for June '26",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-june-21-2026-100000525.html",
+    "content": "",
+    "published": "2026-06-21",
+    "published_ts": 1782036000.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-06-22T02:27:48Z",
+    "classified": false
   }
 ]
