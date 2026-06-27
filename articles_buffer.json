@@ -1,24 +1,5 @@
 [
   {
-    "title": "Cathie Wood 拋售近 $60 million 熱門成長股",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html",
-    "content": "",
-    "published": "2026-06-19",
-    "published_ts": 1781908380.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-06-20T02:00:52Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Cathie Wood 近乎拋售6000萬美元熱門成長股。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
     "title": "SpaceX 股價每上漲 $1 為 Elon Musk 增加 $4.76B 身家",
     "url": "https://finance.yahoo.com/markets/stocks/articles/1-gain-spacex-stock-adds-124500506.html",
     "content": "",
@@ -869,42 +850,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "他讓免費影片播放器順暢運作，現在要為機器人做到同樣的事",
-    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-    "content": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
-    "published": "2026-06-20",
-    "published_ts": 1781916464.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-06-21T05:45:26+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "機器人",
-    "summary_zh": "Jean-Baptiste Kempf 開發 Kyber 基礎設施層，控制遠端機器人裝置。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "從 PGP 到 Mythos：出口管制未能阻止任何人的簡史",
-    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "content": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-    "published": "2026-06-19",
-    "published_ts": 1781908814.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-06-21T05:45:26+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "過去 30 年網路安全軟體出口管制均告失敗，Anthropic 情況亦然。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "The Atlantic created a searchable database of the music used to train AI",
     "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
     "content": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over […]",
@@ -1366,34 +1311,6 @@
     "score": 2
   },
   {
-    "title": "Is Robotic Surgery Worth Traveling Abroad for? – Patient Guide",
-    "url": "https://roboticsandautomationnews.com/2026/06/20/is-robotic-surgery-worth-traveling-abroad-for-patient-guide/102667/",
-    "content": "For most people, the idea of traveling abroad for robotic surgery usually comes up after hearing that the wait is too long, the technology isn’t available locally, or the surgeon who specializes in this procedure is booked for months. That’s when patients begin to wonder if the same operation might be easier – or simply […]",
-    "published": "2026-06-20",
-    "published_ts": 1781916220.0,
-    "outlet": "Robotics & Automation",
-    "fetched_at": "2026-06-21T05:45:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "機器人",
-    "summary_zh": "探討海外機械人手術的可行性，主要因國內等候時間過長或技術不足。",
-    "score": 1
-  },
-  {
-    "title": "How Distressed M&A Transactions Differ from Standard Acquisition Processes",
-    "url": "https://roboticsandautomationnews.com/2026/06/20/how-distressed-ma-transactions-differ-from-standard-acquisition-processes/102664/",
-    "content": "A standard acquisition process is designed to maximize seller value. A distressed deal is designed to preserve value before it erodes further, satisfy creditor priorities, or stabilize a business under financial pressure. That difference changes everything: who controls the process, how much information buyers receive, how fast decisions must be made, and which risks matter […]",
-    "published": "2026-06-20",
-    "published_ts": 1781915262.0,
-    "outlet": "Robotics & Automation",
-    "fetched_at": "2026-06-21T05:45:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合"
-  },
-  {
     "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
     "url": "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship",
     "content": "Salome Mikadze-Struk is no stranger to adversity. The daughter of refugees, she built a software-development business as an undergraduate at the height of the COVID-19 pandemic and kept it running despite the outbreak of war in her native Ukraine . Now, she’s drawing on her experiences to mentor tech-startup founders and speak publicly about the importance of resilience in entrepreneurship . Mikad",
@@ -1424,19 +1341,6 @@
       "🏢品牌動態"
     ],
     "score": 4
-  },
-  {
-    "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
-    "url": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
-    "content": "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Signal to Canadian Semiconductor Industry appeared first on EE Times .",
-    "published": "2026-06-19",
-    "published_ts": 1781906400.0,
-    "outlet": "EE Times",
-    "fetched_at": "2026-06-21T05:45:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
   },
   {
     "title": "The waist sensor is the real story in Amazfit Helio Strap Pro vs Helio Strap",
@@ -1473,24 +1377,6 @@
       "🏢品牌動態"
     ],
     "score": 2
-  },
-  {
-    "title": "Galaxy Watch 9 rumours expose Samsung’s squircle problem",
-    "url": "https://gadgetsandwearables.com/2026/06/20/samsung-galaxy-watch-9-rumour/",
-    "content": "An unofficial Galaxy Watch 9 image has triggered a fresh argument over Samsung’s smartwatch design direction. The image is not The post Galaxy Watch 9 rumours expose Samsung’s squircle problem appeared first on Gadgets & Wearables .",
-    "published": "2026-06-19",
-    "published_ts": 1781909799.0,
-    "outlet": "Gadgets & Wearables",
-    "fetched_at": "2026-06-21T05:45:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Galaxy Watch 9傳聞圖曝光，引發三星智慧錶方圓設計爭議。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "Shop the Top 25+ Amazon Device Prime Day Deals Now With Savings on Ring, Kindle and More",
@@ -1647,19 +1533,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Ultrahuman launches M2 Live metabolic health platform for continuous glucose monitoring",
-    "url": "https://www.gsmarena.com/ultrahuman_launches_m2_livemetabolic_health_platform_for_continuous_glucose_monitoring-news-73360.php",
-    "content": "Ultrahuman is best-known for its smart rings, but the company recently branched out with a red light therapy device. Today, the company is introducing the Ultrahuman M2 Live, a platform for continuous glucose monitoring. This is actually based on the Lingo Glucose Biosensor by Abbott. It’s available over-the-counter and does not require a prescription. M2 can also work with Abbott’s Libre 3 Plus s",
-    "published": "2026-06-19",
-    "published_ts": 1781910001.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-06-21T05:45:41+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Love NotebookLM but hate giving Google your data? I found a great open-source alternative",
     "url": "https://www.androidauthority.com/notebooklm-alternative-open-notebook-hands-on-3677932/",
     "content": "Open Notebook works a lot like NotebookLM, but it can hook up to both cloud and local AI models.",
@@ -1808,19 +1681,6 @@
     "score": 2
   },
   {
-    "title": "Bear app developers announce Lettera, a beautiful Markdown editor for Mac",
-    "url": "https://9to5mac.com/2026/06/19/bear-app-developers-announce-lettera-a-beautiful-markdown-editor-for-mac/",
-    "content": "Available now in beta, Lettera is a standalone Markdown editor app built around the same editor that powers Bear 2. Here are the details.",
-    "published": "2026-06-19",
-    "published_ts": 1781910294.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-21T05:45:41+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Galaxy Watch 9 and Ultra 2 leaks reveal more changes, no Classic after all [Gallery]",
     "url": "https://9to5google.com/2026/06/20/samsung-galaxy-watch-9-changes-leak/",
     "content": "Ahead of Samsung’s July event, new leaks are revealing a few more details about Galaxy Watch 9 and Galaxy Watch Ultra 2.",
@@ -1850,21 +1710,6 @@
     "translated": true,
     "category": "手機",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Pixelated 105: An Android 17 summer",
-    "url": "https://9to5google.com/2026/06/19/pixelated-105-an-android-17-summer/",
-    "content": "Welcome to episode 105 of Pixelated, a podcast by 9to5Google . This week, Abner, Damien, and Will return to talk all through the launch of Android 17. From general improvements to Pixel-specific changes, there’s plenty to dig through. Plus, Pixel Screenshots goes cloud, Google’s new smart speaker goes up for pre-order, and it might be easier than ever to jump back and forth between Android and iOS",
-    "published": "2026-06-20",
-    "published_ts": 1781913953.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-21T05:45:42+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧家庭產品",
-    "summary_zh": "Pixelated播客第105集討論Android 17推出與相關功能更新。",
-    "score": 1
   },
   {
     "title": "Get AMD's flagship Ryzen 7 9800X3D with 32GB of DDR5 memory and an MSI B850 Wi-Fi 7 motherboard at a discount — Micro Center bundles are now available on Amazon",
@@ -2107,19 +1952,6 @@
       "📋政策法規"
     ],
     "score": 2
-  },
-  {
-    "title": "Elastic reportedly acquires site reliability engineering startup Deductive AI",
-    "url": "https://siliconangle.com/2026/06/19/elastic-reportedly-acquires-site-reliability-engineering-startup-deductive-ai/",
-    "content": "Elastic NV has reportedly acquired Deductive AI Inc., a startup with a platform that helps enterprises fix errors in their technology infrastructure. TechCrunch on Thursday cited a source as saying that the deal is worth up to $85 million. That’s reportedly more than double the valuation Deductive received after its seed round last year. The […] The post Elastic reportedly acquires site reliabilit",
-    "published": "2026-06-19",
-    "published_ts": 1781912627.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-21T05:45:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
   },
   {
     "title": "The Volvo EX60 And EX90 Get An Important EV Fast-Charging Upgrade",
@@ -2460,19 +2292,6 @@
     "content": "Two Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency.",
     "published": "2026-06-20",
     "published_ts": 1781932363.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-06-21T05:45:52+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
-    "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "content": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
-    "published": "2026-06-20",
-    "published_ts": 1781919699.0,
     "outlet": "CoinTelegraph",
     "fetched_at": "2026-06-21T05:45:52+08:00",
     "classified": true,
@@ -45765,5 +45584,95 @@
       "🏢品牌動態"
     ],
     "score": 4
+  },
+  {
+    "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
+    "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+    "content": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
+    "published": "2026-06-27",
+    "published_ts": 1782520490.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
+  },
+  {
+    "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
+    "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+    "content": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
+    "published": "2026-06-26",
+    "published_ts": 1782511893.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
+  },
+  {
+    "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+    "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+    "content": "Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.",
+    "published": "2026-06-26",
+    "published_ts": 1782512967.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
+  },
+  {
+    "title": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will?",
+    "url": "https://www.cnbc.com/2026/06/26/metas-flurry-of-ai-initiatives-this-month-hasnt-helped-lift-the-stock-what-will.html",
+    "content": "Meta has to justify its AI spending to unlock the struggling stock.",
+    "published": "2026-06-26",
+    "published_ts": 1782495909.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
+  },
+  {
+    "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+    "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+    "content": "OpenAI said it previewed the new models' capabilities with the government ahead of the launch.",
+    "published": "2026-06-26",
+    "published_ts": 1782493364.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
+  },
+  {
+    "title": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies'",
+    "url": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
+    "content": "\"This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not,\" President Donald Trump wrote in a Truth Social post.",
+    "published": "2026-06-26",
+    "published_ts": 1782498336.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
+  },
+  {
+    "title": "ON Semiconductor records worst day since 2020 as CEO defends Synaptics deal",
+    "url": "https://www.cnbc.com/2026/06/26/on-semi-stock-synaptics-ceo-hassane-el-khoury.html",
+    "content": "The pivot into physical AI grows On Semi's addressable market by an additional $30 billion, the company said.",
+    "published": "2026-06-26",
+    "published_ts": 1782504541.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
+  },
+  {
+    "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
+    "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
+    "content": "OpenAI said it confidentially filed its prospectus with the SEC earlier this month, but noted it \"may be a while\" before it goes public.",
+    "published": "2026-06-26",
+    "published_ts": 1782494283.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
+  },
+  {
+    "title": "Billionaire investor Jeremy Grantham says bitcoin will 'dwindle away with a whimper'",
+    "url": "https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html",
+    "content": "Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.",
+    "published": "2026-06-26",
+    "published_ts": 1782487345.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-06-27T01:53:05Z",
+    "classified": false
   }
 ]
