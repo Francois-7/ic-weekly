@@ -13,50 +13,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "SK Hynix 申請 Nasdaq 上市後股價上漲 11%",
-    "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
-    "content": "Shares of South Korean chip giant SK Hynix surged 11% on Thursday after the company said it is seeking to raise as much as $29.4 billion.",
-    "published": "2026-06-25",
-    "published_ts": 1782350071.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-25T01:57:45Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "SK Hynix 計畫籌資高達 294 億美元，股價上漲 11%。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
-    "title": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta",
-    "url": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
-    "content": "Micron said in its earnings report that its gross margin jumped to 84.9% from 39% a year ago.",
-    "published": "2026-06-24",
-    "published_ts": 1782340425.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-25T01:57:45Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue",
-    "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
-    "content": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.",
-    "published": "2026-06-24",
-    "published_ts": 1782340798.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-25T01:57:45Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
     "title": "Chevron 2026 年股價上漲逾 14%，殖利率仍達 4.1%",
     "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-surged-over-14-2026-134300504.html",
     "content": "",
@@ -72,24 +28,6 @@
       "📊有數字"
     ],
     "score": 2,
-    "translated": true
-  },
-  {
-    "title": "Dow、S&P 500、Nasdaq 上漲，Micron 緩解 AI 疑慮",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-micron-eases-ai-fears-pce-comes-in-hot-232650645.html",
-    "content": "",
-    "published": "2026-06-24",
-    "published_ts": 1782343610.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-06-25T13:56:05Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Micron 財報緩解 AI 疑慮，帶動美股指數上漲。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
     "translated": true
   },
   {
@@ -1550,19 +1488,6 @@
     "score": 3
   },
   {
-    "title": "Europe is pushing back on Washington’s chip war",
-    "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-    "content": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-    "published": "2026-06-25",
-    "published_ts": 1782346116.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-06-26T05:58:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "OpenAI 因 Trump 政府要求延後 GPT-5.6 發布",
     "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
     "content": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of […]",
@@ -2208,45 +2133,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day",
-    "url": "https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/",
-    "content": "The Skylight Calendar 2 and Calendar Max are both on sale for Prime Day if you've been dreaming of a digital calendar to manage your household.",
-    "published": "2026-06-25",
-    "published_ts": 1782349158.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-06-26T05:58:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work",
-    "url": "https://www.wired.com/story/best-led-devices-prime-day-deals-2026/",
-    "content": "Whether you're looking to upgrade your skin care routine or invest in hair restoration, these are the best Prime Day deals on some of our favorite red light therapy devices.",
-    "published": "2026-06-24",
-    "published_ts": 1782340702.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-06-26T05:58:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
-    "url": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-    "content": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
-    "published": "2026-06-24",
-    "published_ts": 1782340576.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-06-26T05:58:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
     "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
     "content": "Notion is \"going all in on using agents to run your inbox.\"",
@@ -2383,37 +2269,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
-    "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-    "content": "GTA6 might be an outlier, though—at least for now.",
-    "published": "2026-06-24",
-    "published_ts": 1782341223.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-06-26T05:58:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-    "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-    "content": "The silicon race is heating up amid the struggle to keep up with demand.",
-    "published": "2026-06-24",
-    "published_ts": 1782340098.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-06-26T05:58:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 與 Broadcom 宣布推出 LLM 推理專用晶片。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent — and it's already in the API",
     "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
     "content": "OpenAI has made a significant update to its most widely used language model, GPT-5.5 Instant, which is the default in the free version of ChatGPT. The company announced the upgraded version of GPT-5.5 Instant yesterday on X, calling it \"much more fun to talk to\" and saying it is \"better at understanding the intent behind a question and adapting its response accordingly,\" as well as offering improv",
@@ -2426,24 +2281,6 @@
     "category": "HPC數據中心",
     "subtopic": "AI公司",
     "summary_zh": "OpenAI 更新 GPT-5.5 Instant 模型，已上線 API。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "您的企業AI代理應自動記住哪個模型適合哪個任務。Mindstone與Rebel共同建置此功能",
-    "url": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
-    "content": "AI agent orchestration platforms are popping up like weeds these days, but London-based AI transformation startup Mindstone's Rebel might be among the most promising I've come across. That's because the system, which officially launched this week, is a local-first, agentic AI operating system distributed under a \" Fair Source \" license, allowing teams of under 100 users to freely adopt and customi",
-    "published": "2026-06-24",
-    "published_ts": 1782342135.0,
-    "outlet": "VentureBeat",
-    "fetched_at": "2026-06-26T05:58:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "Mindstone推出Rebel平台，讓企業AI代理能自動為不同任務選擇合適模型。",
     "tags": [
       "🏢品牌動態"
     ],
@@ -3811,19 +3648,6 @@
     "score": 4
   },
   {
-    "title": "The Rise of Autonomous Drone Warfare",
-    "url": "https://www.eetimes.com/the-rise-of-autonomous-drone-warfare/",
-    "content": "Cheap, autonomous drones developed in Ukraine are driving a new era of drone-on-drone warfare. The post The Rise of Autonomous Drone Warfare appeared first on EE Times .",
-    "published": "2026-06-24",
-    "published_ts": 1782339298.0,
-    "outlet": "EE Times",
-    "fetched_at": "2026-06-26T05:58:34+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Over 100 fresh tech deals from Prime Day day 3",
     "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
     "content": "It’s day three of Prime Day, folks. We’re nearly 75 percent of the way through Amazon’s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of discounts on things like TVs, smart home gadgets, chargers, headphones, and more. Prime Day typically isn’t as big of a deal as […]",
@@ -3962,50 +3786,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Meta Now Sells A Charging Stand For (Most Of) Its Smart Glasses",
-    "url": "https://www.uploadvr.com/meta-glasses-charging-stand/",
-    "content": "Meta now sells a $60 stainless steel Charging Stand compatible with most of its smart glasses, providing 50% charge in 20 minutes or full charge in 1 hour.",
-    "published": "2026-06-25",
-    "published_ts": 1782346757.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-26T05:58:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Meta 以 Kylie Jenner 'Starfire' 設計搶先 Google Gentle Monster 眼鏡",
-    "url": "https://www.uploadvr.com/meta-starfire-smart-glasses-kylie-jenner-designed/",
-    "content": "Meta teamed up with Kylie Jenner for new 'Starfire' smart glasses featuring her voice for Meta AI, a gemstone on the right lens, and a metal nose pad to prevent absorbing makeup.",
-    "published": "2026-06-24",
-    "published_ts": 1782345360.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-26T05:58:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Meta 與 Kylie Jenner 合作推出 Starfire 智慧眼鏡，配備 Meta AI 語音與寶石鏡片。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Meta Launches Cheaper Smart Glasses Without Ray-Ban Branding",
-    "url": "https://www.uploadvr.com/meta-launches-cheaper-smart-glasses-without-ray-ban-branding/",
-    "content": "Meta launched a range of cheaper smart glasses featuring the same technology as Ray-Ban Meta but without the branding, and with a compact folding case.",
-    "published": "2026-06-24",
-    "published_ts": 1782345334.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-06-26T05:58:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合"
-  },
-  {
     "title": "11 款 Prime Day 優惠保護居家安全，價格從 $9 起",
     "url": "https://www.tomsguide.com/home/smart-home/11-prime-day-deals-to-protect-your-home-this-summer-while-youre-away-from-just-usd9",
     "content": "If you're planning to take a trip this summer, add these smart home devices to your checklist so you can keep tabs on your house while you're away.",
@@ -4115,19 +3895,6 @@
     "content": "Magical bedtime vibes, music, stories, lights and kid-friendly fun -- all at a price parents will love. Grab the Echo Dot and Echo Glow combo for just $44.",
     "published": "2026-06-25",
     "published_ts": 1782387300.0,
-    "outlet": "CNET Smart Home",
-    "fetched_at": "2026-06-26T05:58:38+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "My Guide Makes DIY Smart Thermostat Installation Easy",
-    "url": "https://www.cnet.com/home/smart-home/everything-you-need-to-know-for-your-diy-smart-thermostat-installation/",
-    "content": "Follow my walkthrough on thermostat installs to learn about wiring, Wi-Fi and how you can do this project yourself.",
-    "published": "2026-06-24",
-    "published_ts": 1782338400.0,
     "outlet": "CNET Smart Home",
     "fetched_at": "2026-06-26T05:58:38+08:00",
     "classified": true,
@@ -5529,55 +5296,6 @@
     "score": 3
   },
   {
-    "title": "Siri AI app on iOS 27 lets users easily switch between Siri and ChatGPT",
-    "url": "https://9to5mac.com/2026/06/24/siri-ai-app-on-ios-27-lets-users-easily-switch-between-siri-and-chatgpt/",
-    "content": "The new Siri app on iOS 27 defaults to the new Siri AI, but there is a way to quickly switch to ChatGPT at any time. Here’s how it works.",
-    "published": "2026-06-25",
-    "published_ts": 1782349198.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-26T05:58:39+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "iOS 27 新 Siri AI App 可快速切換 ChatGPT 服務。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "PSA: AirPods Max 2 for $399 are almost sold out, plus more AirPods deals",
-    "url": "https://9to5mac.com/2026/06/24/best-prime-day-airpods-deals/",
-    "content": "The official Prime Day 2026 sale is now flying, and the AirPods deals are too. The new 2026 AirPods Max 2 are now sitting down at a wild $150 off the list price in all five colors, while AirPods Pro 3 are nearly 30% off, and we are still tracking AirPods 4 down at $99 shipped. AirPods Pro 3 $179 (Reg. $249) AirPods 4 from $99 (Reg. $129) AirPods Max 2 from $399 (Reg. $549) Head below for the full ",
-    "published": "2026-06-24",
-    "published_ts": 1782344559.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-26T05:58:39+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Mosyle launches new service to help parents manage Mac and iPad screen time for K-12 devices at home",
-    "url": "https://9to5mac.com/2026/06/24/mosyle-launches-new-services-to-help-parents-manage-mac-and-ipad-screen-time-for-k-12-devices-at-home/",
-    "content": "Managing school-issued Macs and iPads has always been a balancing act between IT control and parent visibility when the devices go home. Today, Mosyle has announced Mosyle@Home , aimed at solving this problem. This new platform gives parents and guardians an official way to manage school devices after hours, and it supports school-issued iPads and Macs.",
-    "published": "2026-06-24",
-    "published_ts": 1782338400.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-06-26T05:58:39+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "平板與筆記本產品",
-    "summary_zh": "Mosyle 推出新服務，協助家長管理 K-12 學童 Mac 與 iPad 使用時間。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Google rolling out first Fitbit Air firmware update",
     "url": "https://9to5google.com/2026/06/25/first-fitbit-air-update/",
     "content": "Following two big Google Health app updates , the Fitbit Air is getting its first post-launch firmware update.",
@@ -5831,50 +5549,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "YouTube TV subscribers win in lawsuit against Disney over driving up streaming costs",
-    "url": "https://9to5google.com/2026/06/24/youtube-tv-disney-class-action-lawsuit/",
-    "content": "There’s no one not frustrated by the cost of YouTube TV and services like it, but prices keep on going up. In a small victory, though, YouTube TV subscribers that sued Disney over its role in driving up the cost of streaming have won in court, with Disney settling for $50 million. It just won’t change your bill.",
-    "published": "2026-06-25",
-    "published_ts": 1782351900.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-26T05:58:39+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google opens the Play Store to external billing in the US, UK, and Europe next week",
-    "url": "https://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/",
-    "content": "Google today announced that it will open up the Play Store to external payments starting on June 30 in the US, UK, and Europe.",
-    "published": "2026-06-25",
-    "published_ts": 1782350400.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-26T05:58:39+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google Home Speaker vs. the mainstay Nest Mini: Is this a true upgrade?",
-    "url": "https://9to5google.com/2026/06/24/google-home-speaker-vs-nest-mini/",
-    "content": "The Google Home Speaker is now the easiest and most affordable way to get Gemini into your smart home, but how does it perform against the device it’s meant to replace – the Nest Mini?",
-    "published": "2026-06-24",
-    "published_ts": 1782342000.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-06-26T05:58:39+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧家庭產品",
-    "summary_zh": "比較 Google Home Speaker 與 Nest Mini，評估是否為真正升級。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
   },
   {
     "title": "Get the fastest 8TB Gen4 SSD around for less with this WD SN850X deal — $1199 sale makes it the cheapest big drive around",
@@ -6212,19 +5886,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Grand Theft Auto 6 preorders begin tonight at midnight local time in the US; here's where to buy  — get yours now, it's in the garage and ready to roll",
-    "url": "https://www.tomshardware.com/video-games/pc-gaming/grand-theft-auto-6-preorders-begin-tonight-at-midnight-local-time-in-the-us-heres-where-to-buy-get-yours-now-its-in-the-garage-and-ready-to-roll",
-    "content": "The preorder pages for GTA will drop at midnight local time in the US tonight, and you have both the Standard and Ultimate editions at your disposal.",
-    "published": "2026-06-25",
-    "published_ts": 1782349663.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-06-26T05:58:40+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "NVIDIA 800V Power Rack將作為Vera Rubin可選配置推出，TrendForce預期Rubin Ultra世代將更廣泛採用",
     "url": "https://www.trendforce.com/presscenter/news/20260625-13121.html",
     "content": "TrendForce's latest research on power architectures for AI servers highlights that NVIDIA has been developing its proprietary 800V HVDC Power Rack. The platform is expected to be ready for customer shipments in 3Q26 and will be offered as an optional configuration—rather than a standard feature—for customers deploying the Vera Rubin platform.",
@@ -6449,83 +6110,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Agentic infrastructure startup Seltz raises $12.5M to help AI agents search the web for answers",
-    "url": "https://siliconangle.com/2026/06/24/agentic-infrastructure-startup-seltz-raises-12-5m-help-ai-agents-search-web-answers/",
-    "content": "Agentic search startup Seltz Inc. said today it has bagged $12.5 million in seed funding to build a more optimal infrastructure so that artificial intelligence agents can find their way around the web. The round was led by Speedinvest and B Capital. Also participating were Italian Founders Fund, Future Back Ventures, futurepresent, Arc Investors, Vento Ventures, Mango […] The post Agentic infrastr",
-    "published": "2026-06-25",
-    "published_ts": 1782350546.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-26T05:58:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "記憶體廠商SK hynix申請290億美元美國IPO，因應AI需求",
-    "url": "https://siliconangle.com/2026/06/24/memory-maker-sk-hynix-files-29b-us-ipo-amid-ai-demand/",
-    "content": "SK hynix Inc., the world’s largest supplier of HBM memory, today filed to list its shares on the Nasdaq stock exchange. The South Korean company hopes to sell up to 17.79 million shares for $29.4 billion. The public offering is expected to be the second-largest on record after the recent listing of SpaceX Corp., which […] The post Memory maker SK hynix files for $29B US IPO amid AI demand appeared",
-    "published": "2026-06-25",
-    "published_ts": 1782347852.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-26T05:58:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "全球最大HBM供應商SK hynix申請納斯達克上市，募資290億美元。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "記憶體晶片需求激增助Micron營收成長四倍，再度超越預期",
-    "url": "https://siliconangle.com/2026/06/24/soaring-memory-chip-demand-helps-micron-quadruple-revenue-crush-expectations/",
-    "content": "Memory chip maker Micron Technology Inc. more than quadrupled its revenue growth in the most recent quarter as it continued to benefit from surging demand linked to the artificial intelligence industry. The company reported third-quarter earnings before certain costs such as stock compensation of $25.11 per share, crushing Wall Street’s target of $20.78 by a […] The post Soaring memory chip demand",
-    "published": "2026-06-24",
-    "published_ts": 1782344160.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-26T05:58:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Micron受惠記憶體需求大增，最新季度營收成長超過四倍並超越市場預期。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Qualcomm shares jump 14% on Modular acquisition, guidance upgrade",
-    "url": "https://siliconangle.com/2026/06/24/qualcomm-shares-jump-14-modular-acquisition-guidance-upgrade/",
-    "content": "Qualcomm Inc.’s stock jumped 14% in after-hours trading today after it shared a series of updates about its artificial intelligence roadmap. The company announced plans to acquire an inference software startup called Modular Inc. and previewed two upcoming AI chips. Additionally, Qualcomm significantly raised its fiscal 2029 guidance. The chipmaker now expects its non-handset revenue […] The post ",
-    "published": "2026-06-24",
-    "published_ts": 1782341155.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-26T05:58:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Grammarly parent Superhuman buys AI detector GPTZero",
-    "url": "https://siliconangle.com/2026/06/24/grammarly-parent-superhuman-buys-ai-detector-gptzero/",
-    "content": "Superhuman Inc., the company formerly known as Grammarly, said today it has agreed to acquire GPTZero Inc., the startup whose detection tools tell teachers, editors and hiring managers when a piece of writing came from a machine. The acquisition price was not disclosed. The acquisition is arguably ironic. Grammarly spent years building tools that help […] The post Grammarly parent Superhuman buys ",
-    "published": "2026-06-24",
-    "published_ts": 1782340203.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-06-26T05:58:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Subaru’s new top-selling EV delivers over 300 miles of range for just $35,000",
     "url": "https://electrek.co/2026/06/25/subarus-new-top-selling-ev-300-miles-range-for-35k/",
     "content": "The Uncharted is now Subaru’s most popular and most affordable EV in the US. Subaru announced that prices for the 2027 Uncharted EV will start at $35,000.",
@@ -6740,32 +6324,6 @@
     "content": "Just a few months ago, few people in the e-bike industry had heard of Rad Life Mobility. Today, the company is already assembling a portfolio of brands it has scooped up in the North American e-bike market.",
     "published": "2026-06-25",
     "published_ts": 1782368106.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-26T05:58:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Which portable power station is right for you? Bluetti’s battery guide breaks it down",
-    "url": "https://electrek.co/2026/06/24/which-portable-power-station-right-bluettis-battery-guide-breaks-down/",
-    "content": "Power outages caused by severe storms can often last for hours, or days – and extreme heat just compounds the issue, making it harder to keep food and medicine safe when you need it. With summer heatwaves and hurricane season arriving at the same time, the question for many households isn’t if they should prepare for outages, it’s how .",
-    "published": "2026-06-24",
-    "published_ts": 1782342000.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-06-26T05:58:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "America’s most affordable new car is THIS electric pickup, but Ford is catching up",
-    "url": "https://electrek.co/2026/06/24/americas-most-affordable-new-car-is-this-electric-pickup-but-ford-is-catching-up/",
-    "content": "On today’s officially priced episode of Quick Charge , Jeff Bezos-backed Slate Auto has announced official pricing for its compact, ultra-simple electric pickup and SUV – and this compact truck just so happens to be the most affordable new car you can buy in the US!",
-    "published": "2026-06-24",
-    "published_ts": 1782338442.0,
     "outlet": "Electrek",
     "fetched_at": "2026-06-26T05:58:47+08:00",
     "classified": true,
@@ -7306,61 +6864,6 @@
     "summary_zh": "2020至2025年美國兒童人口減少180萬，僅南方地區呈現成長。",
     "tags": [
       "📊有數字"
-    ],
-    "score": 2
-  },
-  {
-    "title": "House Democrats brace for a Mamdani-fueled \"Freedom Caucus of the left\" in 2027",
-    "url": "https://www.axios.com/2026/06/25/mamdani-democrats-new-york-left-socialists-house",
-    "content": "House Democrats are preparing themselves for a caucus in 2027 that is significantly more outspoken and left-wing than the one they have now. Why it matters: It wasn't all that easy to integrate the four-member \" Squad \" into the Democratic fold. Now party leadership is going to have to contend with a much larger cohort of rabble rousers. Rep. Steve Cohen (D-Tenn.) predicted \"it will be difficult\" ",
-    "published": "2026-06-25",
-    "published_ts": 1782349979.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-26T05:58:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "眾議院民主黨預期2027年將出現更左翼且 outspoken的黨團。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Trump asks Congress for $87.6B, mostly for Iran war",
-    "url": "https://www.axios.com/2026/06/25/trump-white-house-congress-request-iran-war-us-farmers-ebola",
-    "content": "The Trump administration asked Congress on Wednesday for $87.6 billion in supplemental funding, most of it to cover costs related to the Iran war. Why it matters: The request is likely to intensify debate over presidential war powers as lawmakers in both parties question whether Congress should have authorized military action against Iran. By the numbers: $67 billion of the request would go to the",
-    "published": "2026-06-25",
-    "published_ts": 1782348721.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-26T05:58:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "川普政府向國會要求876億美元追加預算，主要用於伊朗戰爭相關支出。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Trump runs into Republicans who won't bend",
-    "url": "https://www.axios.com/2026/06/24/trump-senate-republicans-save-act-cassidy",
-    "content": "President Trump is making life hell for Senate Republicans, and they're returning the favor. \"I make no apologies for standing up to the president,\" Sen. Bill Cassidy (R-La.) told reporters after he got into a shouting match with Trump on Wednesday at a Senate GOP lunch. \"I made it clear that I wasn't going to be bullied.\" Why it matters: Trump's push for a pre-midterm elections crackdown, via the",
-    "published": "2026-06-24",
-    "published_ts": 1782345021.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-06-26T05:58:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "川普對參議院共和黨施壓，但部分議員拒絕妥協並公開反對。",
-    "tags": [
-      "📋政策法規"
     ],
     "score": 2
   },
@@ -8466,19 +7969,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "HYPE down 22% from record highs: Will spot demand revive the uptrend?",
-    "url": "https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "content": "HYPE price drops near a key support zone where fading selling pressure collides with shrinking futures market activity. Will the altcoin resume its uptrend above $60?",
-    "published": "2026-06-24",
-    "published_ts": 1782338905.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-06-26T05:58:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Anthropic敦促國會打擊中國對手AI Distillation",
     "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
     "content": "Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
@@ -8658,24 +8148,6 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Standard Chartered預測Aave Token至2030年可漲50倍",
-    "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
-    "content": "Bitcoin to $500K, Ethereum to $40K, and Aave to $3,500 by the end of 2030? Standard Chartered just laid out some bullish price targets.",
-    "published": "2026-06-24",
-    "published_ts": 1782340025.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-06-26T05:58:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "渣打銀行預測2030年底Aave達$3,500，Bitcoin $500K、Ethereum $40K。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
   },
   {
     "title": "SoftBank sinks 12% as Asia tech rout tracks declines in the U.S.",
@@ -42551,5 +42023,105 @@
       "📊有數字"
     ],
     "score": 5
+  },
+  {
+    "title": "Former retail giant closed over 1,000 locations",
+    "url": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
+    "content": "",
+    "published": "2026-07-01",
+    "published_ts": 1782918420.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-02T01:57:16Z",
+    "classified": false
+  },
+  {
+    "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
+    "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
+    "content": "Shares of Samsung Electronics and SK Hynix plummeted more than 7% in early Thursday trading.",
+    "published": "2026-07-02",
+    "published_ts": 1782954133.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
+  },
+  {
+    "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
+    "url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+    "content": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
+    "published": "2026-07-02",
+    "published_ts": 1782954001.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says to use Wednesday's market rotation to your advantage. Here's how he'd play it",
+    "url": "https://www.cnbc.com/2026/07/01/jim-cramer-says-to-use-wednesdays-market-rotation-to-your-advantage-heres-how-hed-play-it.html",
+    "content": "CNBC’s Jim Cramer said investors should use the latest market rotation to buy some of the biggest winners they may have missed.",
+    "published": "2026-07-01",
+    "published_ts": 1782944976.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
+  },
+  {
+    "title": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+    "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
+    "content": "Memory maker Micron, which jumped over 240% in the second quarter, dropped 11% on Wednesday, wiping out nearly $200 billion of market capitalization.",
+    "published": "2026-07-01",
+    "published_ts": 1782936739.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
+  },
+  {
+    "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
+    "url": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
+    "content": "The stock's struggles in 2026 had been due to concerns about its aggressive AI spending.",
+    "published": "2026-07-01",
+    "published_ts": 1782933584.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
+  },
+  {
+    "title": "We thought these 5 stocks could make a 2026 comeback. Here’s our midyear scorecard",
+    "url": "https://www.cnbc.com/2026/07/01/we-thought-these-5-stocks-could-make-a-2026-comeback-heres-our-midyear-scorecard.html",
+    "content": "Despite war volatility and AI concerns, the S&P 500 still managed to jump 9.5% year to date.",
+    "published": "2026-07-01",
+    "published_ts": 1782926151.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
+  },
+  {
+    "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
+    "url": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
+    "content": "Karp says skyrocketing token costs are forcing companies to choose open-weight models and prioritize efficiency over so-called tokenmaxxing",
+    "published": "2026-07-01",
+    "published_ts": 1782936147.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
+  },
+  {
+    "title": "Meta pops 9% as company makes cloud push to sell excess AI compute power capacity",
+    "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
+    "content": "The new business is a welcome signal for some investors who have been uneasy about the company's infrastructure spending plans.",
+    "published": "2026-07-01",
+    "published_ts": 1782936149.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
+  },
+  {
+    "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+    "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
+    "content": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
+    "published": "2026-07-01",
+    "published_ts": 1782937629.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-07-02T01:57:17Z",
+    "classified": false
   }
 ]
