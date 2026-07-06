@@ -13,38 +13,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "California law targeting loud streaming ads takes effect on July 1",
-    "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
-    "content": "Streaming ads might be getting a lot quieter.",
-    "published": "2026-06-28",
-    "published_ts": 1782682454.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-06-29T05:36:04+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Samsung、SK Hynix股價因投資者對報導中1.3兆美元支出計畫的擔憂而下跌",
-    "url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
-    "content": "Shares of Samsung Electronics and SK Hynix plunged after reports surfaced that the pair are expected to unveil investment plans worth hundreds of billions of dollars.",
-    "published": "2026-06-29",
-    "published_ts": 1782696951.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-29T02:04:19Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Samsung與SK Hynix股價因預計公布1.3兆美元投資計畫而下跌。",
-    "tags": [
-      "📊有數字",
-      "⚠️供應鏈異動"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
     "title": "科技股今日：科技股止跌，Google加入道瓊指數後上漲",
     "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-halt-slide-google-rises-after-joining-the-dow-151053436.html",
     "content": "",
@@ -114,25 +82,6 @@
       "🏢品牌動態"
     ],
     "score": 2,
-    "translated": true
-  },
-  {
-    "title": "79歲時尚零售商關閉136家店，砍掉一個品牌",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
-    "content": "",
-    "published": "2026-06-29",
-    "published_ts": 1782696495.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-06-29T15:23:18Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "79歲時尚零售商關閉136家門市並砍掉一個品牌。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 3,
     "translated": true
   },
   {
@@ -1997,19 +1946,6 @@
     "score": 1
   },
   {
-    "title": "I built a whole-home ad blocker with a $7 ESP32-S3 board - and it took just minutes",
-    "url": "https://www.zdnet.com/article/how-i-block-ads-with-cheap-raspberry-pi-alternative/",
-    "content": "Raspberry Pi boards have gotten expensive, so I found a cheap alternative in a tiny ESP32-S3 board.",
-    "published": "2026-06-29",
-    "published_ts": 1782694839.0,
-    "outlet": "ZDNet",
-    "fetched_at": "2026-06-30T05:50:08+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "T-Mobile is killing off old plans and forcing loyal customers onto pricier ones",
     "url": "https://www.androidcentral.com/phones/t-mobile/t-mobile-is-killing-off-old-plans-and-forcing-loyal-customers-onto-pricier-ones",
     "content": "Happy early 4th of July? Not if you're a legacy T‑Mobile customer.",
@@ -2872,19 +2808,6 @@
     "content": "Dealing with the summer heat can be as easy as using a reliable tower fan. I tested 14 of the newest tower fans to see which has the best airflow, sound profile, energy efficiency and features.",
     "published": "2026-06-29",
     "published_ts": 1782743100.0,
-    "outlet": "CNET Smart Home",
-    "fetched_at": "2026-06-30T05:50:16+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "My 6 High-Tech Tactics for Pets Afraid of Fourth of July Fireworks",
-    "url": "https://www.cnet.com/home/smart-home/devices-and-tips-if-your-pet-is-afraid-of-fireworks-this-fourth-of-july/",
-    "content": "Many pets react poorly to Independence Day booms. But today's smart technology can help you protect them.",
-    "published": "2026-06-28",
-    "published_ts": 1782687600.0,
     "outlet": "CNET Smart Home",
     "fetched_at": "2026-06-30T05:50:16+08:00",
     "classified": true,
@@ -5988,24 +5911,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "BIS 在年度報告中表示 stablecoins 不符合貨幣標準，並警告新興市場風險",
-    "url": "https://www.theblock.co/post/406466/bis-says-stablecoins-fall-short-as-money-warns-of-emerging-market-risks-in-annual-report?utm_source=rss&utm_medium=rss",
-    "content": "The Bank for International Settlements argued in its annual report that stablecoins still fall short of money on singleness, elasticity and integrity.",
-    "published": "2026-06-28",
-    "published_ts": 1782684240.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-06-30T05:50:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "穩定幣",
-    "summary_zh": "BIS 指出 stablecoins 在單一性、彈性與完整性三方面仍不符合貨幣標準。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
     "title": "Donald Trump 有10天時間決定是否簽署含 CBDC 禁令的住房法案",
     "url": "https://cointelegraph.com/news/cbdc-ban-housing-bill-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "content": "House Speaker Mike Johnson transmitted a housing bill with a provision barring the US Federal Reserve issuing or creating a CBDC until 2030 to Donald Trump on Monday.",
@@ -6313,25 +6218,6 @@
     "summary_zh": "Bitcoin 出現看漲 RSI 背離，但部分看法仍預警可能再創新低。",
     "tags": [
       "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Binance 遭歐盟踢出局，EthLabs 崛起拯救 Ethereum：Hodler's Digest",
-    "url": "https://cointelegraph.com/features/hodlers-digest-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "BitMine and Joe Lubin back a new non profit called Ethlabs that aims to spur adoption. Binance shutters services in Europe after failing to secure a license.",
-    "published": "2026-06-28",
-    "published_ts": 1782687578.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-06-30T05:50:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "以太坊",
-    "summary_zh": "BitMine 與 Joe Lubin 支持 EthLabs 推動 Ethereum 採用，Binance 歐洲服務關閉。",
-    "tags": [
-      "🏢品牌動態",
-      "⚠️供應鏈異動"
     ],
     "score": 3
   },
