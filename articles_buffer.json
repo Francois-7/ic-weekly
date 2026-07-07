@@ -13,61 +13,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Waymo 和 Uber 結束 Phoenix 的 robotaxi 試點",
-    "url": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
-    "content": "The Waymo self-driving cars deployed in Phoenix for the Uber pilot will remain in use and make autonomous deliveries with DoorDash.",
-    "published": "2026-06-29",
-    "published_ts": 1782775499.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-30T01:58:13Z",
-    "classified": true,
-    "category": "電動車",
-    "subtopic": "自動駕駛",
-    "summary_zh": "Waymo 與 Uber 結束 Phoenix robotaxi 試點，車輛轉為 DoorDash 自動配送使用。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "AeroVironment 因財報優於預期上漲19%，積壓訂單增至12億美元",
-    "url": "https://www.cnbc.com/2026/06/29/aerovironment-stock-soars-on-earnings-beat-backlog-grows-to-1point2b.html",
-    "content": "Dronemaker AeroVironment's autonomous system revenue beat expectations by $90 million and its backlog continued to grow.",
-    "published": "2026-06-29",
-    "published_ts": 1782775539.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-06-30T01:58:13Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "AeroVironment 股價上漲19%，自主系統營收超預期9000萬美元，積壓訂單達12億美元。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq waver after record-setting session",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-waver-after-record-setting-session-224823556.html",
-    "content": "",
-    "published": "2026-06-29",
-    "published_ts": 1782773303.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-06-30T13:49:03Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "美股 Dow、S&P 500 與 Nasdaq 在創高後出現震盪走勢。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
     "title": "Italy’s La Doria buys B2B tomato supplier Solana",
     "url": "https://finance.yahoo.com/small-business/articles/italy-la-doria-buys-b2b-133159318.html",
     "content": "",
@@ -1960,19 +1905,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-    "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-    "content": "Operation by two Russia-state groups has been ongoing since at least March.",
-    "published": "2026-06-29",
-    "published_ts": 1782770733.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-01T05:53:13+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Anthropic 以折扣價推出 Claude Sonnet 5 模型",
     "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
     "content": "Anthropic today released Claude Sonnet 5 , a new AI model that the company says delivers near-flagship performance at mid-tier prices — a move designed to give cost-conscious enterprise developers access to powerful agentic capabilities just as the San Francisco-based AI lab barrels toward an initial public offering that will test whether the private market's staggering AI valuations can survive p",
@@ -2527,42 +2459,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Sensitive iPhone supplier details were part of last week's data leak at Tata Electronics",
-    "url": "https://www.engadget.com/2204589/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/",
-    "content": "Some of Apple's corporate secrets aren't so secret any more.",
-    "published": "2026-06-29",
-    "published_ts": 1782774390.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-01T05:53:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Tata Electronics 資料外洩事件曝光 Apple iPhone 供應商敏感資訊。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 4
-  },
-  {
-    "title": "There's now an OpenClaw app for iOS and Android phones",
-    "url": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/",
-    "content": "Smartphones are welcoming the agentic AI overlords.",
-    "published": "2026-06-29",
-    "published_ts": 1782770834.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-01T05:53:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "OpenClaw 代理 AI 應用程式已上架 iOS 與 Android 平台。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Trump’s energy secretary says global warming is ‘no big deal.’ Meanwhile, a heat emergency is striking the U.S.",
     "url": "https://www.marketwatch.com/story/trumps-energy-secretary-says-global-warming-is-no-big-deal-meanwhile-a-heat-emergency-is-striking-the-u-s-5f9674c3?mod=mw_rss_topstories",
     "content": "Government scientists warn people to stay indoors this weekend as temperatures in many areas could reach triple digits",
@@ -2994,37 +2890,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "New VR Games & Releases July 2026: Quest, PS VR2, PC VR & More",
-    "url": "https://www.uploadvr.com/new-vr-games-releases-july-2026-meta-quest-pc-vr-playstation-vr2-more-2/",
-    "content": "Here's our roundup of the biggest VR games, updates, and DLCs set to launch in July.",
-    "published": "2026-06-29",
-    "published_ts": 1782770562.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-07-01T05:53:22+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "2026年7月Quest、PS VR2等多平台VR遊戲新作與更新整理。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Meta Summer Sale Offers Massive Savings On Hundreds Of Quest Games",
-    "url": "https://www.uploadvr.com/meta-summer-sale-offers-massive-savings-on-hundreds-of-quest-games/",
-    "content": "Meta Horizon Store's \"Peak Summer Sale\" is on, offering major savings on hundreds of Quest, games, apps, and DLC. Here are some of the best deals.",
-    "published": "2026-06-29",
-    "published_ts": 1782770442.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-07-01T05:53:22+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Tom’s Guide Smart Home Awards 2026: 25 gadgets and tools making our homes better, smarter and more stylish",
     "url": "https://www.tomsguide.com/home/smart-home/toms-guide-smart-home-awards-2026",
     "content": "The Tom’s Guide Smart Home Awards 2026 recognize the standout tools and gadgets that go beyond the hype to level up your home.",
@@ -3300,32 +3165,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "WhatsApp username reservations go live this week",
-    "url": "https://www.gsmarena.com/whatsapp_username_reservations_go_live_this_week-news-73497.php",
-    "content": "WhatsApp is finally, after years of testing and anticipation, introducing usernames. You will be able to reserve yours starting \"this week\". The usernames themselves will only roll out \"later this year\" though, in a gradual manner. WhatsApp will notify you when they're available in your country. Obviously, with over three billion users, a lot of people will want the same username, so it's going to",
-    "published": "2026-06-30",
-    "published_ts": 1782777722.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-01T05:53:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Comcast is spinning off NBCUniversal and Sky",
-    "url": "https://www.gsmarena.com/comcast_is_spinning_off_nbcuniversal_and_sky-news-73496.php",
-    "content": "Comcast is spinning off NBCUniversal and Sky into a new company. The split will leave Comcast with the cable, wireless, and business services, while the new company will handle the Universal theme parks, film and TV studios, NBC, Peacock, and Sky. This move practically undoes the 2011 acquisition of NBCUniversal by Comcast. So after 15 years of consolidation, it's now time for some de-consolidatio",
-    "published": "2026-06-29",
-    "published_ts": 1782770342.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-01T05:53:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
   },
   {
     "title": "70W GaN 充電器降至 $24.99 今年最低價",
@@ -3911,37 +3750,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Qualcomm 公布今年 Snapdragon 發表日期",
-    "url": "https://www.androidauthority.com/snapdragon-summit-2026-date-3682651/",
-    "content": "Who's ready for the Snapdragon 8 Elite Gen 6 Pro?",
-    "published": "2026-06-30",
-    "published_ts": 1782779069.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-01T05:53:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機晶片",
-    "summary_zh": "Qualcomm 將公布 Snapdragon 8 Elite Gen 6 Pro 等重磅消息。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Gemini’s smartest image feature is no longer locked behind a paywall",
-    "url": "https://www.androidauthority.com/gemini-personalized-image-generation-now-free-3682608/",
-    "content": "Gemini can now pull your photos and search history to generate custom images for free.",
-    "published": "2026-06-29",
-    "published_ts": 1782770177.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-01T05:53:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "OpenAI ChatGPT 個人理財功能擴大至 Plus 用戶",
     "url": "https://9to5mac.com/2026/06/30/openai-just-released-new-personal-finance-features-for-chatgpt-customers/",
     "content": "June 30, 2026: Personal finance is now available to ChatGPT Plus customers in the U.S., expanding the feature from OpenAI’s $100/month plan to the $20/month version. Original story from last month is below. OpenAI is catching up with some competitors and offering new personal finance features inside ChatGPT. The new personal finance experience is rolling out starting today for some subscribers.",
@@ -4283,74 +4091,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "9to5Mac Daily：2026 年 6 月 29 日 Apple Silicon 路線圖外洩",
-    "url": "https://9to5mac.com/2026/06/29/daily-june-29-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-    "published": "2026-06-30",
-    "published_ts": 1782782601.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機晶片",
-    "summary_zh": "Apple Silicon 路線圖傳出外洩消息",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "pCloud 終身方案 7 月 4 日享高達 70% 折扣",
-    "url": "https://9to5mac.com/2026/06/29/stop-paying-monthly-cloud-storage-up-to-70-off-pcloud-lifetime-4th-of-july/",
-    "content": "For Apple users, storage never feels finished. iPhone photo libraries keep growing, Macs fill up with large projects and downloads, and the monthly services meant to solve the problem can become another subscription to track. pCloud’s 4th of July promotion takes a different approach: pay once for lifetime cloud storage, then keep using it across your devices without monthly or annual renewal fees.",
-    "published": "2026-06-29",
-    "published_ts": 1782775800.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "pCloud 推出 7 月 4 日促銷，終身雲端儲存方案折扣達 70%",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Apple 因應 AI 駭客風險加速發布安全更新",
-    "url": "https://9to5mac.com/2026/06/29/apple-accelerates-security-updates-in-response-to-ai-powered-hacking-risks/",
-    "content": "Today’s iOS, iPadOS, and macOS 26.5.2 updates include security fixes that Apple had originally planned to release with version 26.6 of each operating system. Here’s why the company pushed them out early.",
-    "published": "2026-06-29",
-    "published_ts": 1782775759.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "平板與筆記本產品",
-    "summary_zh": "Apple 提前發布 iOS 等 26.5.2 安全更新以因應 AI 威脅",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "SCOTUS says detailed cellphone location data is protected by the Fourth Amendment",
-    "url": "https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/",
-    "content": "In a 6-3 decision, the Supreme Court ruled that police conduct a Fourth Amendment search when they obtain a person’s detailed cellphone location history from a tech company, even when the data covers only a short period. Here’s what that means.",
-    "published": "2026-06-29",
-    "published_ts": 1782772168.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Gemini Spark now supports 3rd-party apps, including MCP, adds real-time topic updates",
     "url": "https://9to5google.com/2026/06/30/gemini-spark-apps-more/",
     "content": "In addition to macOS app support , Google is rolling out two more updates for Gemini Spark. This 24/7 personal agent is available for Google AI Ultra subscribers.",
@@ -4555,139 +4295,6 @@
     "content": "After launching in other parts of the globe earlier this year, Motorola is finally bringing Moto Tag 2 to the US, and it’s on sale for a limited time.",
     "published": "2026-06-30",
     "published_ts": 1782824400.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google Pixel 手機仍缺少哪些其他裝置功能？【投票】",
-    "url": "https://9to5google.com/2026/06/29/google-pixel-missing-features-poll/",
-    "content": "While the Google Pixel experience is easily one of the best you’ll find today, it’s no secret that other platforms often have features not available on a Pixel device. As Google prepares to fill yet another one of those gaps, what features do you think are still missing from Pixel phones?",
-    "published": "2026-06-30",
-    "published_ts": 1782781200.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "探討 Google Pixel 手機相較其他平台缺少的功能",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Samsung’s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery]",
-    "url": "https://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/",
-    "content": "While we’ve yet to get clean renders of the Galaxy Z Fold 8 series, a new leak shows off Samsung’s official cases and, in turn, some of the stunning colors coming with these new foldables.",
-    "published": "2026-06-30",
-    "published_ts": 1782779700.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Gmail Live now in testing on Android and iOS",
-    "url": "https://9to5google.com/2026/06/29/gmail-live-testing/",
-    "content": "Following the announcement at I/O 2026 last month, Google is now testing Gmail Live on Android and iOS.",
-    "published": "2026-06-30",
-    "published_ts": 1782779434.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google rolling out per-app controls for Android Backups",
-    "url": "https://9to5google.com/2026/06/29/android-backups-per-app-controls/",
-    "content": "Following last year’s settings redesign of Android Backups, Google is now rolling out per-app backup controls.",
-    "published": "2026-06-29",
-    "published_ts": 1782777261.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Philips Hue Bridge Pro 更新疑似導致中樞故障",
-    "url": "https://9to5google.com/2026/06/29/philips-hue-bridge-pro-update-seems-to-be-breaking-the-hub-taking-lights-down-with-it/",
-    "content": "An issue with a Philips Hue Bridge Pro update seems to be completely breaking the hub for some users, leaving lights and other accessories unable to be controlled.",
-    "published": "2026-06-29",
-    "published_ts": 1782775800.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧家庭產品",
-    "summary_zh": "Philips Hue Bridge Pro 更新造成部分使用者燈具無法運作",
-    "tags": [
-      "🏢品牌動態",
-      "⚠️供應鏈異動"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Android 2026 年 6 月 Google 系統更新內容一覽",
-    "url": "https://9to5google.com/2026/06/29/june-2026-google-system-updates/",
-    "content": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.",
-    "published": "2026-06-29",
-    "published_ts": 1782775020.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Google 發布 Android 6 月系統更新說明",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "LG ‘StanbyME 2’ is a new battery-powered 32-inch touchscreen on wheels [Gallery]",
-    "url": "https://9to5google.com/2026/06/29/lg-stanbyme-2-is-a-new-battery-powered-32-inch-touchscreen-on-wheels-gallery/",
-    "content": "LG has announced the “StanbyME 2 Max,” a new 32-inch touchscreen display on wheels designed to let you bring media, phone mirroring, and more essentially anywhere.",
-    "published": "2026-06-29",
-    "published_ts": 1782774900.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "OpenClaw app for Android puts AI agents in your pocket and… looks like that",
-    "url": "https://9to5google.com/2026/06/29/openclaw-app-android-ios/",
-    "content": "AI agents are the latest “next big thing” for AI, but OpenClaw has been working at the idea for a while now. Today, OpenClaw is bringing a gateway app to Android (and iOS) to help bring agents on the go. It also looks… like that .",
-    "published": "2026-06-29",
-    "published_ts": 1782773100.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-01T05:53:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Secure cloud storage is a game-changer while physical drives are nightmarishly expensive",
-    "url": "https://9to5google.com/2026/06/29/secure-cloud-storage-game-changer-while-physical-drives-nightmarishly-expensive/",
-    "content": "Buying a new hard drive or solid-state storage solution is nearly out of the question. The cost of buying a physical drive has essentially doubled, so storing photos, files, and other important data is a little harder. An affordable alternative remains – secure cloud storage.",
-    "published": "2026-06-29",
-    "published_ts": 1782772200.0,
     "outlet": "9to5Google",
     "fetched_at": "2026-07-01T05:53:25+08:00",
     "classified": true,
@@ -5185,71 +4792,6 @@
     "score": 4
   },
   {
-    "title": "Supreme Court rules constitutional privacy protections apply to geofence warrants",
-    "url": "https://siliconangle.com/2026/06/29/supreme-court-rules-constitutional-privacy-protections-apply-geofence-warrants/",
-    "content": "The U.S. Supreme Court today ruled that law enforcement’s use of warrants to collect large amounts of cellphone location data requires privacy protections under the Fourth Amendment. The case centered on a bank robbery, where prosecutors relied in part on cellphone location data obtained from Google LLC through a “geofence warrant.” Unlike traditional warrants aimed […] The post Supreme Court rule",
-    "published": "2026-06-30",
-    "published_ts": 1782781882.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-01T05:53:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Software testing startup Arato gets $10M to stop businesses deploying AI systems blind",
-    "url": "https://siliconangle.com/2026/06/29/software-testing-startup-arato-gets-10m-stop-businesses-deploying-ai-systems-blind/",
-    "content": "Israeli startup Arato Software Ltd. is developing tools for developers to test and evaluate their artificial intelligence applications, and it has just gotten $10 million in seed funding to pursue that goal. Today’s round was led by TLV Partners and saw participation from Jibe Ventures. Former VMware Chief Executive and now Andreessen Horowitz partner Raghu […] The post Software testing startup Ar",
-    "published": "2026-06-30",
-    "published_ts": 1782779967.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-01T05:53:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Space launch provider Rocket Lab to buy satellite operator Iridium for $8B",
-    "url": "https://siliconangle.com/2026/06/29/space-launch-provider-rocket-lab-buy-satellite-operator-iridium-8b/",
-    "content": "Rocket Lab Corp. today announced plans to acquire Iridium Communications Inc., a major satellite operator, for $8 billion in cash and stock. The companies expect to complete the transaction in mid-2027. Rocket Lab is the developer of Electron, a 60-foot launch vehicle optimized to take satellites into low Earth orbit, or LEO. The company completed […] The post Space launch provider Rocket Lab to b",
-    "published": "2026-06-30",
-    "published_ts": 1782779854.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-01T05:53:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "AI software development startup 8090 nabs $135M funding round",
-    "url": "https://siliconangle.com/2026/06/29/ai-software-development-startup-8090-nabs-135m-funding-round/",
-    "content": "Software development automation startup 8090 Solutions Inc. today announced that it has raised $135 million in funding. Salesforce Ventures led the Series A round. It was joined by Palo Alto Networks Inc. Chief Executive Nikesh Arora, Quora Inc. co-founder Adam D’Angelo and more than a half-dozen others. Menlo Park, California-based 8090 was launched in 2024 […] The post AI software development st",
-    "published": "2026-06-29",
-    "published_ts": 1782773522.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-01T05:53:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Straiker lands $64M to defend enterprise AI agents from attack",
-    "url": "https://siliconangle.com/2026/06/29/straiker-lands-64m-defend-enterprise-ai-agents-attack/",
-    "content": "Agentic security company Straiker Inc. today revealed that it has raised $64 million in new funding to expand a platform built that secures the artificial intelligence agents now spreading across enterprise systems. The Mountain View, California-based company sells agentic security, software that discovers AI agents running inside an organization, tests them for weaknesses ahead of […] The post St",
-    "published": "2026-06-29",
-    "published_ts": 1782772242.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-01T05:53:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Genesis confirms the GV90 launch date as its ultra-luxe SUV nears arrival",
     "url": "https://electrek.co/2026/06/30/genesis-confirms-gv90-launch-date-debut/",
     "content": "The GV90 will go on sale as the largest and most lavish Genesis SUV yet. Genesis announced an official launch date for the GV90 ahead of its upcoming debut.",
@@ -5495,19 +5037,6 @@
     "content": "The US Consumer Product Safety Commission (CPSC) has proposed a sweeping new safety rule that could significantly reshape the e-bike industry, particularly when it comes to lithium-ion batteries and electrical systems.",
     "published": "2026-06-30",
     "published_ts": 1782798046.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-01T05:53:30+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "How a gas plant helped fast-track 270 MW of new solar",
-    "url": "https://electrek.co/2026/06/29/how-a-gas-plant-helped-fast-track-270-mw-of-new-solar/",
-    "content": "Getting new solar projects connected to the grid can take years. Earthrise Energy says it’s found a faster way.",
-    "published": "2026-06-29",
-    "published_ts": 1782773473.0,
     "outlet": "Electrek",
     "fetched_at": "2026-07-01T05:53:30+08:00",
     "classified": true,
@@ -6173,24 +5702,6 @@
     "score": 3
   },
   {
-    "title": "House 投票為 Senate 兒童線上安全法案鋪路",
-    "url": "https://www.axios.com/2026/06/29/house-vote-senate-clash-kids-online-safety",
-    "content": "The House on Monday passed the KIDS Act , but key senators say the legislation has little chance of advancing in its current form. Why it matters: The vote sets up a showdown over kids' online safety as the White House works to align Congress behind legislation that would preempt some state AI laws. Driving the news: After garnering broad bipartisan support, House lawmakers fast-tracked a package ",
-    "published": "2026-06-29",
-    "published_ts": 1782774241.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-01T05:53:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "House 通過 KIDS Act，但關鍵參議員表示該法案目前版本在 Senate 難以推進。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
     "title": "通膨與名目經濟成長解救美國政府醜陋財政困境",
     "url": "https://wolfstreet.com/2026/06/30/inflation-nominal-economic-growth-to-the-rescue-the-us-governments-ugly-fiscal-mess/",
     "content": "US Government interest payments, tax receipts, tariffs, average interest rate on the debt, and Debt-to-GDP ratio in Q1 2026.",
@@ -6602,19 +6113,6 @@
     "score": 4
   },
   {
-    "title": "Securitize heads to NYSE debut after investors approve SPAC merger",
-    "url": "https://www.coindesk.com/business/2026/06/29/securitize-heads-to-nyse-debut-after-investors-approve-spac-merger",
-    "content": "",
-    "published": "2026-06-29",
-    "published_ts": 1782774358.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-07-01T05:53:35+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
     "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
     "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss",
     "content": "Johnson cited unaddressed concerns with the Security Council while backing an alternative proposal submitted on Tuesday.",
@@ -6837,43 +6335,6 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
-    "url": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&utm_medium=rss",
-    "content": "Ark bought $6.85 million worth of Coinbase, $6.21 million worth of Circle Internet Group, and $3.54 million in Bullish on Monday.",
-    "published": "2026-06-30",
-    "published_ts": 1782783359.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-07-01T05:53:35+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Ark Invest買進Coinbase 685萬美元、Circle 621萬美元及Bullish 354萬美元",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "UK sets capital, market abuse rules in landmark crypto framework",
-    "url": "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=rss&utm_medium=rss",
-    "content": "The FCA finalized UK crypto rules covering capital, stablecoins and market abuse ahead of Oct. 2027 implementation.",
-    "published": "2026-06-29",
-    "published_ts": 1782774060.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-07-01T05:53:35+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "穩定幣",
-    "summary_zh": "英國FCA完成加密貨幣資本與市場濫用規則，2027年10月實施",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
   },
   {
     "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling",
@@ -7268,50 +6729,6 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Singapore's Hyperliquid warning, Indonesia's FinFluencer license: Asia Express",
-    "url": "https://cointelegraph.com/features/singapores-hyperliquid-warning-indonesias-finfluencer-licence-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Hyperliquid follows Bybit onto Singapore's \"naughty\" list, Indonesia's new scheme to certify social media influencers promoting crypto: Asia Express.",
-    "published": "2026-06-30",
-    "published_ts": 1782782602.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-01T05:53:35+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "UK sets final crypto rules as firms face 2027 FCA authorization deadline",
-    "url": "https://cointelegraph.com/news/uk-crypto-rules-2027-fca-authorization-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The UK’s financial regulator has published its crypto regulatory framework, setting the authorization deadline for cryptocurrency firms for February 2027.",
-    "published": "2026-06-29",
-    "published_ts": 1782774060.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-01T05:53:35+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom?",
-    "url": "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Bitcoin’s loose hold on $60,000 and soft futures markets raise questions about whether BTC has bottomed.",
-    "published": "2026-06-29",
-    "published_ts": 1782770277.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-01T05:53:35+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Bitcoin在60,000美元附近面臨關鍵測試，期貨市場疲軟引發是否觸底的疑問。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
   },
   {
     "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
@@ -37103,5 +36520,65 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
+  },
+  {
+    "title": "What is the bingo savings challenge? Here's how it works — and how much you can save.",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/bingo-savings-challenge-153459727.html",
+    "content": "",
+    "published": "2026-07-06",
+    "published_ts": 1783352099.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-07T01:45:53Z",
+    "classified": false
+  },
+  {
+    "title": "Rate buydown vs. closing costs vs. price reduction",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/rate-buydown-vs-closing-costs-vs-price-reduction-160106245.html",
+    "content": "",
+    "published": "2026-07-06",
+    "published_ts": 1783353666.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-07T01:45:53Z",
+    "classified": false
+  },
+  {
+    "title": "Solstice CEO defends its $14.5B acquisition after the stock plunges 15%",
+    "url": "https://www.cnbc.com/2026/07/06/solstice-ceo-defends-acquisition-element-solutions-stock-plunges.html",
+    "content": "Solstice CEO David Sewell said the company's acquisition of Element Solutions creates a \"world-leading\" supplier of advanced materials.",
+    "published": "2026-07-06",
+    "published_ts": 1783378930.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-07T01:45:53Z",
+    "classified": false
+  },
+  {
+    "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
+    "url": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
+    "content": "Chinese e-commerce giant Alibaba has put Anthropic's Claude Code on a high-risk software list.",
+    "published": "2026-07-06",
+    "published_ts": 1783373177.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-07T01:45:53Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer: Chip stocks are staging a revenge trade for last week’s misguided selling",
+    "url": "https://www.cnbc.com/2026/07/06/jim-cramer-chip-stocks-are-staging-a-revenge-trade-for-last-weeks-misguided-selling.html",
+    "content": "CNBC's Jim Cramer said that chip stocks are staging a revenge trade after last week's sharp sell-off.",
+    "published": "2026-07-06",
+    "published_ts": 1783352862.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-07T01:45:53Z",
+    "classified": false
+  },
+  {
+    "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
+    "url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
+    "content": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system.",
+    "published": "2026-07-06",
+    "published_ts": 1783352183.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-07T01:45:53Z",
+    "classified": false
   }
 ]
