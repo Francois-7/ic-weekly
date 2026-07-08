@@ -13,88 +13,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Anthropic表示川普政府已解除Claude Fable 5與Mythos 5出口管制",
-    "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
-    "content": "The U.S. Department of Commerce lifted the export controls on Anthropic's Fable 5 and Mythos 5 models",
-    "published": "2026-07-01",
-    "published_ts": 1782868128.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-01T02:04:01Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "美國商務部解除Anthropic Fable 5與Mythos 5出口管制",
-    "tags": [
-      "📋政策法規",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
-    "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
-    "content": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
-    "published": "2026-06-30",
-    "published_ts": 1782862061.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-01T02:04:01Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Micron CEO: Customers driving hard bargain on price contributed to memory shortage",
-    "url": "https://www.cnbc.com/2026/06/30/micron-ceo-customers-driving-hard-bargain-on-price-contributed-to-memory-shortage.html",
-    "content": "Micron CEO Sanjay Mehrotra said years of aggressive pricing pressure left the memory industry underinvested, contributing to today's supply shortages.",
-    "published": "2026-06-30",
-    "published_ts": 1782859404.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-01T02:04:01Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer表示AI交易已轉變 這些股票正領漲",
-    "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
-    "content": "CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.",
-    "published": "2026-06-30",
-    "published_ts": 1782858283.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-01T02:04:01Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Jim Cramer指出華爾街轉向獎勵AI供應商而非科技巨頭",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "晶片股反彈第二季為Micron、Intel與AMD增加2兆美元市值",
-    "url": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
-    "content": "Wall Street poured into chipmakers not named Nvidia in the second quarter, as the artificial intelligence boom expanded to include more suppliers.",
-    "published": "2026-06-30",
-    "published_ts": 1782859403.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-01T02:04:01Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "第二季Micron、Intel與AMD合計市值增加2兆美元",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
     "title": "糖業問題拖累ABF股價",
     "url": "https://finance.yahoo.com/markets/stocks/articles/sugar-woes-sour-abf-shares-134801480.html",
     "content": "",
@@ -1519,19 +1437,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-    "url": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
-    "content": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
-    "published": "2026-06-30",
-    "published_ts": 1782860400.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-02T05:57:00+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
     "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
     "content": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an “Xbox reset.” The business, they said, is facing significant challenges, including a 3 percent “accountability margin,” massively higher […]",
@@ -2043,24 +1948,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-    "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-    "content": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-    "published": "2026-06-30",
-    "published_ts": 1782861784.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-02T05:57:01+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "美國政府解除 Anthropic Mythos 與 Fable AI 模型出口管制。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
     "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
     "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
     "content": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
@@ -2237,19 +2124,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "June research roundup: 6 cool science stories we almost missed",
-    "url": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
-    "content": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint.",
-    "published": "2026-06-30",
-    "published_ts": 1782857470.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-02T05:57:01+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order",
     "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
     "content": "Anthropic is restoring global access to its most powerful generally released AI model yet, Claude Fable 5, today, after the U.S. Department of Commerce last night withdrew the emergency export controls it had issued previously around the model. The U.S. export control order issued on June 12, 2026, led Anthropic to suspend all global access to both Fable 5 and its less restricted cybersecurity cou",
@@ -2291,19 +2165,6 @@
     "content": "Presented by Splunk Agentic AI is making IT and security teams dramatically more efficient. But it’s also removing the apprenticeship that has long produced experienced operators. As organizations automate more of the work once performed by junior analysts and engineers, they’re confronting a challenge that’s as much about workforce design as architecture design: how to build the next generation o",
     "published": "2026-07-01",
     "published_ts": 1782907200.0,
-    "outlet": "VentureBeat",
-    "fetched_at": "2026-07-02T05:57:01+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Morgan Stanley cut its riskiest reconciliation job in half — by making its agents less autonomous",
-    "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
-    "content": "Most enterprise AI deployments so far have focused on coding assistants and customer service bots. Morgan Stanley has deployed agents in one of banking's most accuracy-critical, deadline-driven workflows instead — profit and loss (P&L) reconciliation — and cut the work in half. The counterintuitive part: it got there by making the system less autonomous, not more. Humans stay tightly in the loop, ",
-    "published": "2026-06-30",
-    "published_ts": 1782858221.0,
     "outlet": "VentureBeat",
     "fetched_at": "2026-07-02T05:57:01+08:00",
     "classified": true,
@@ -2666,19 +2527,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Samsung hits restart with a viral marketing campaign ahead of the Galaxy Z Fold 8, Flip 8",
-    "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-hits-restart-with-a-cryptic-social-campaign-ahead-of-the-galaxy-z-fold-8-flip-8",
-    "content": "Samsung wiped the posts from its Instagram accounts as it launched a new social campaign for the Galaxy Z Flip 8 and the Fold 8.",
-    "published": "2026-06-30",
-    "published_ts": 1782862200.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-07-02T05:57:02+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Apple's Hide My Email may not be hiding anything",
     "url": "https://www.engadget.com/2206382/apple-s-hide-my-email-may-not-be-hiding-anything/",
     "content": "A vulnerability can reportedly connect real email addresses to anonymous ones.",
@@ -2900,50 +2748,6 @@
       "📋政策法規"
     ],
     "score": 4
-  },
-  {
-    "title": "Samsung teases wide-as-hell new foldable",
-    "url": "https://www.engadget.com/2205289/samsung-teases-wide-as-hell-new-foldable/",
-    "content": "Samsung teases wide-as-hell new foldable.",
-    "published": "2026-06-30",
-    "published_ts": 1782862200.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-02T05:57:02+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Discord 現已原生運行於 Meta Quest 頭戴裝置",
-    "url": "https://www.engadget.com/2205537/discord-now-runs-natively-on-meta-quest-headsets/",
-    "content": "The app's arrival follows an announcement at last year's Meta Connect conference.",
-    "published": "2026-06-30",
-    "published_ts": 1782860275.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-02T05:57:02+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "Discord 應用程式正式登陸 Meta Quest，延續去年 Meta Connect 宣布的整合計畫。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Amazon will pay $2.25 million to settle FTC identity theft case",
-    "url": "https://www.engadget.com/2205504/amazon-will-pay-2-25-million-to-settle-ftc-identity-theft-case/",
-    "content": "The retailer allegedly failed to meet requirements under the Fair Credit Reporting Act.",
-    "published": "2026-06-30",
-    "published_ts": 1782857573.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-02T05:57:02+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
   },
   {
     "title": "我可以把孩子「Trump account」的錢投資在哪裡？財政部剛給出答案",
@@ -3306,19 +3110,6 @@
     "published_ts": 1782891907.0,
     "outlet": "EE Times",
     "fetched_at": "2026-07-02T05:57:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
-    "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-    "content": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscription. […]",
-    "published": "2026-07-01",
-    "published_ts": 1782867063.0,
-    "outlet": "The Verge Wearables",
-    "fetched_at": "2026-07-02T05:57:11+08:00",
     "classified": true,
     "translated": true,
     "category": "總體經濟",
@@ -3770,32 +3561,6 @@
     "content": "Earlier this month, a leak revealed the fact that Nothing was working on the Ear (3a) TWS earbuds. Today, the company has confirmed their existence, and also revealed when they are becoming official. Rather unsurprisingly, the Nothing Ear (3a) will be unveiled at the same time as the Nothing Phone (4b), on July 7. Only dating DJs this summer.Ear (3a)7 July, 11:00 BSTShot on Nothingw/ Phone (4b) pi",
     "published": "2026-07-01",
     "published_ts": 1782868862.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-02T05:57:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Samsung strongly hints at Galaxy Z Fold8, Z Fold8 Ultra, and Z Flip8 unveiling date",
-    "url": "https://www.gsmarena.com/samsung_strongly_hints_at_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_unveiling_date-news-73515.php",
-    "content": "A couple of rumors so far have suggested that Samsung will hold its next big Unpacked event on July 22 in London, and now the company itself is strongly hinting at the fact that it is the correct date. Over in Malaysia, Samsung is offering its loyal fans an exclusive MYR 700 ($171) discount \"on the purchase of their next Galaxy Foldable\". This will be available in the Samsung Members app from July",
-    "published": "2026-06-30",
-    "published_ts": 1782862862.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-02T05:57:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Commodore Callback 8020 goes on pre-order for a lower price",
-    "url": "https://www.gsmarena.com/commodore_callback_8020_goes_on_preorder_for_a_lower_price-news-73512.php",
-    "content": "Commodore announced its $499 Callback 8020 flip phone a couple of weeks ago, and apparently people didn't like the price. So now the device has gone up for pre-order as promised, but it starts at $399. That's some magic trick - making the product 20% cheaper before even launching it. Part of this is explained by the fact that the $399 price includes \"eco-validated\" RAM and storage, which means the",
-    "published": "2026-06-30",
-    "published_ts": 1782856682.0,
     "outlet": "GSMArena",
     "fetched_at": "2026-07-02T05:57:14+08:00",
     "classified": true,
@@ -4413,19 +4178,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Samsung starts teasing its next mobile launches with a cryptic video campaign",
-    "url": "https://www.androidauthority.com/samsung-hardware-teasers-3683105/",
-    "content": "Can you work out what new hardware Samsung's hinting at?",
-    "published": "2026-06-30",
-    "published_ts": 1782862203.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-02T05:57:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Apple 據報測試 2027 年新 iPad Pro 與重新設計的入門款 MacBook Pro",
     "url": "https://9to5mac.com/2026/07/01/apple-reportedly-testing-new-ipad-pro-models-and-redesigned-entry-level-macbook-pro-for-2027/",
     "content": "MacBook Pro slated for as early as the first half of next year. Here are the details.",
@@ -4804,37 +4556,6 @@
     "score": 2
   },
   {
-    "title": "Tim Cook and EU tech chief hold ‘constructive’ virtual meeting over Siri AI standoff",
-    "url": "https://9to5mac.com/2026/06/30/tim-cook-and-eu-tech-chief-hold-constructive-virtual-meeting-over-siri-ai-standoff/",
-    "content": "Earlier today, Tim Cook reportedly held “constructive” talks with EU tech chief Henna Virkkunen as Apple and the bloc sought a way forward in their dispute over the delayed launch of Siri AI in Europe. Here are the details.",
-    "published": "2026-06-30",
-    "published_ts": 1782861435.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-02T05:57:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "9to5Mac Daily：2026 年 6 月 30 日 – iPhone 18 與 Ultra 傳聞",
-    "url": "https://9to5mac.com/2026/06/30/9to5mac-daily-june-30-2026-iphone-18-and-ultra-rumors-more/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-    "published": "2026-06-30",
-    "published_ts": 1782856792.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-02T05:57:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "每日播客整理 iPhone 18 與 Ultra 最新傳聞重點。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Here’s everything new in Android 17 QPR1 Beta 6 [Gallery]",
     "url": "https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-everything-new/",
     "content": "With Android 17 QPR1 Beta 6 today, Google is rolling out a third wave of bug fixes for Pixel devices.",
@@ -5092,32 +4813,6 @@
     "content": "With less than a month to go, Samsung is kicking off its train of Galaxy Z Fold 8 teasers with a new series of social posts that also purged nearly the company’s entire Instagram account.",
     "published": "2026-07-01",
     "published_ts": 1782870300.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-02T05:57:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google rolling out Pixel Camera 10.4",
-    "url": "https://9to5google.com/2026/06/30/pixel-camera-10-4/",
-    "content": "Pixel Camera 10.4 is now more widely rolling out via the Google Play Store as a minor update.",
-    "published": "2026-06-30",
-    "published_ts": 1782862139.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-02T05:57:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google Drive’s Ask Gemini & AI Overviews come to Android with AI Pro",
-    "url": "https://9to5google.com/2026/06/30/google-drive-ask-gemini-android-ios/",
-    "content": "After debuting on the web earlier this year , Google Drive is bringing Ask Gemini and AI Overviews to mobile.",
-    "published": "2026-06-30",
-    "published_ts": 1782859835.0,
     "outlet": "9to5Google",
     "fetched_at": "2026-07-02T05:57:15+08:00",
     "classified": true,
@@ -5482,74 +5177,6 @@
     "translated": true,
     "category": "HPC數據中心",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Anthropic 推出 Claude Sonnet 5 AI 模型，強化編碼與安全功能",
-    "url": "https://siliconangle.com/2026/06/30/anthropic-launches-claude-sonnet-5-coding-safety-upgrades/",
-    "content": "Anthropic PBC today debuted Claude Sonnet 5, a midrange large language model that outperforms its predecessor in several areas. The LLM will be the default option in the consumer tiers of the company’s Claude chatbot service. Anthropic’s commercially available LLMs are organized into three product families: the entry-level Haiku series, Sonnet and the high-end Opus lineup. […] The post Anthropic l",
-    "published": "2026-07-01",
-    "published_ts": 1782866820.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-02T05:57:20+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic 推出 Claude Sonnet 5 AI 模型，強化編碼與安全功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Schneider Electric 以 31 億美元收購 Cognite 推進工業 AI",
-    "url": "https://siliconangle.com/2026/06/30/schneider-electric-acquires-cognite-3-1b-industrial-ai-push/",
-    "content": "French multinational energy giant Schneider Electric SE said today it’s buying an industrial artificial intelligence company called Cognite Holding B.V. in a $3.1 billion all-cash deal, with an eye to strengthening its AI software and industrial data business. The deal highlights the evolving nature of industrial AI, which for years simply followed what was happening […] The post Schneider Electri",
-    "published": "2026-06-30",
-    "published_ts": 1782862848.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-02T05:57:20+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "工業物聯網產品",
-    "summary_zh": "Schneider Electric 以 31 億美元收購 Cognite，推進工業 AI 布局。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Inference chip startup Etched launches with $800M in funding",
-    "url": "https://siliconangle.com/2026/06/30/inference-chip-startup-etched-launches-800m-funding/",
-    "content": "Etched Inc., a developer of artificial intelligence inference chips, launched today with $800 million in funding. The startup raised the capital over multiple rounds. The most recent investment, which closed in December, valued Etched at $5 billion. It included the participation of VentureTech Alliance, a startup fund associated with Taiwan Semiconductor Manufacturing Co. It was […] The post Infer",
-    "published": "2026-06-30",
-    "published_ts": 1782860223.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-02T05:57:20+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Visa、Stripe 等 140 家公司支持新 Open USD 穩定幣挑戰 Tether",
-    "url": "https://siliconangle.com/2026/06/30/visa-stripe-140-others-back-new-open-usd-stablecoin-challenge-tether/",
-    "content": "A consortium of more than 140 financial, payments and technology companies, including Visa Inc., Stripe Inc. and BlackRock Inc., is backing a new stablecoin called Open USD, taking direct aim at the market leaders Tether and Circle Internet Group Inc. The token, also known as OUSD, was unveiled by Open Standard LLC, an independent company […] The post Visa, Stripe and 140 others back new Open USD ",
-    "published": "2026-06-30",
-    "published_ts": 1782859625.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-02T05:57:20+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "穩定幣",
-    "summary_zh": "Visa、Stripe 等 140 家公司支持新 Open USD 穩定幣挑戰 Tether。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
   },
   {
     "title": "Subaru’s new EVs are already outselling the Solterra",
@@ -6237,43 +5864,6 @@
     "category": "總體經濟",
     "subtopic": "美股",
     "summary_zh": "Phil Weiser在Colorado州長初選中擊敗參議員Michael Bennet。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Trump政府解除Anthropic Fable 5出口管制",
-    "url": "https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions",
-    "content": "The Trump administration lifted export controls on Anthropic's Claude Fable 5 AI model Tuesday evening, with access returning to customers Wednesday, Anthropic said. Why it matters: The move, eagerly awaited by AI developers, restores public access to the company's powerful Mythos-class model that had been pulled for security reasons 18 days ago. Driving the news: Last week, the Trump administrati",
-    "published": "2026-07-01",
-    "published_ts": 1782864154.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-02T05:57:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Trump政府週二晚解除Anthropic Claude Fable 5 AI模型出口管制，客戶週三恢復存取。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "GOP從SCOTUS獲得新的期中選舉經費武器",
-    "url": "https://www.axios.com/2026/06/30/senate-gop-nrsc-ad-spending-scotus-midterms-2026",
-    "content": "The Senate GOP campaign arm won a major Supreme Court boost in the party's bid to hold congressional majorities on Tuesday. Why it matters: Republicans ' reliance on mega-donors and their cash-flush committees positions them to benefit more than Democrats from the ruling, which allows committees to spend unlimited sums in coordination with candidates as they face electoral headwinds in November. G",
-    "published": "2026-06-30",
-    "published_ts": 1782860371.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-02T05:57:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "參議院共和黨競選委員會從最高法院獲得重大支持以維持國會多數。",
     "tags": [
       "📋政策法規"
     ],
@@ -7379,24 +6969,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Strategy 資本重組是否終結「死亡螺旋」疑慮？",
-    "url": "https://cointelegraph.com/features/does-strategys-new-capital-plan-put-an-end-to-death-spiral-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Strategy's latest plan includes MSTR and STRC buybacks, expanded cash reserves and even potential Bitcoin sales. Will it be enough to defuse the overheated “death spiral” fears?",
-    "published": "2026-06-30",
-    "published_ts": 1782861069.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-02T05:57:26+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Strategy 計畫包含 MSTR 與 STRC 回購、擴大現金儲備及潛在 Bitcoin 出售。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "Robinhood 推出「AI 原生」Ethereum Layer-2 網路與代幣化股票交易",
     "url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
     "content": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
@@ -7644,24 +7216,6 @@
       "📊有數字"
     ],
     "score": 3
-  },
-  {
-    "title": "Trump 披露超過 12 億美元加密收益及 5000 萬美元比特幣持股",
-    "url": "https://decrypt.co/372484/trump-disclosure-filing-crypto-earnings-bitcoin-holdings",
-    "content": "The president’s annual financial disclosure report was released on Tuesday.",
-    "published": "2026-06-30",
-    "published_ts": 1782857812.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-02T05:57:26+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Trump 年度財務披露顯示加密收益超過 12 億美元，比特幣持股達 5000 萬美元。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
   },
   {
     "title": "前零售巨頭關閉超過1,000家門市",
@@ -37057,5 +36611,65 @@
       "🏢品牌動態"
     ],
     "score": 3
+  },
+  {
+    "title": "Jim Cramer says the market's reaction to Samsung may signal a shift in AI leadership",
+    "url": "https://www.cnbc.com/2026/07/07/jim-cramer-markets-reaction-samsung-signal-shift-ai-leadership.html",
+    "content": "CNBC's Jim Cramer said Samsung's earnings sparked a sell-off in AI hardware stocks, while many tech names that have lagged this year rebounded.",
+    "published": "2026-07-07",
+    "published_ts": 1783463208.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-08T01:18:50Z",
+    "classified": false
+  },
+  {
+    "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+    "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+    "content": "Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings.",
+    "published": "2026-07-07",
+    "published_ts": 1783447201.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-08T01:18:50Z",
+    "classified": false
+  },
+  {
+    "title": "Why the global memory bottleneck may signal early innings in the cyber stock comeback",
+    "url": "https://www.cnbc.com/2026/07/07/why-the-global-memory-bottleneck-may-signal-early-innings-in-the-cyber-stock-comeback.html",
+    "content": "There is one key difference between the cyber trade and the memory trade.",
+    "published": "2026-07-07",
+    "published_ts": 1783446669.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-08T01:18:50Z",
+    "classified": false
+  },
+  {
+    "title": "Chip stocks sell off after Samsung earnings fall short of high AI bar",
+    "url": "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
+    "content": "Samsung Electronics' results weren't enough to please investors after stock's 145% run up",
+    "published": "2026-07-07",
+    "published_ts": 1783457108.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-08T01:18:50Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer calls out buying opportunities in this 'vicious' market rotation",
+    "url": "https://www.cnbc.com/2026/07/07/cramer-calls-out-buying-opportunities-in-this-vicious-market-rotation.html",
+    "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published": "2026-07-07",
+    "published_ts": 1783442254.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-08T01:18:50Z",
+    "classified": false
+  },
+  {
+    "title": "Cramer says 'everything still revolves around Nvidia' despite its lagging stock",
+    "url": "https://www.cnbc.com/2026/07/07/cramer-everything-still-revolves-around-nvidia-even-as-stock-lags.html",
+    "content": "CNBC's Jim Cramer said that Nvidia remains at the center of the artificial intelligence boom.",
+    "published": "2026-07-07",
+    "published_ts": 1783440050.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-08T01:18:50Z",
+    "classified": false
   }
 ]
