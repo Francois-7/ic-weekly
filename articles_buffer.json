@@ -13,32 +13,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "CNBC's The China Connection newsletter: Betting on Shenzhen over Silicon Valley",
-    "url": "https://www.cnbc.com/2026/07/13/cnbcs-the-china-connection-newsletter-betting-on-shenzhen-over-silicon-valley.html",
-    "content": "The coastal Chinese city of Shenzhen has become a hub for tech hardware that U.S. firms can't ignore.",
-    "published": "2026-07-13",
-    "published_ts": 1783983601.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-14T01:10:26Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer says tech remains the market's best place to find big winners despite recent struggles",
-    "url": "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html",
-    "content": "CNBC's Jim Cramer said tech stocks continue to offer the market's biggest upside.",
-    "published": "2026-07-13",
-    "published_ts": 1783981200.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-14T01:10:26Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
     "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after cooler-than-expected CPI report",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
     "content": "",
@@ -1921,32 +1895,6 @@
     "score": 2
   },
   {
-    "title": "The Best Movies to Stream This Month (July 2026)",
-    "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-    "content": "Project Hail Mary, They Will Kill You, and The Long Walk are among the films deserving of your eyeballs this month.",
-    "published": "2026-07-13",
-    "published_ts": 1783984470.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-15T05:28:52+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Sam Neill Inspired a Generation of Scientists",
-    "url": "https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/",
-    "content": "The actor, who died at age 78 on Monday, embodied a passionate approach to research and positive masculinity in his role as paleontologist Alan Grant in the 1993 blockbuster Jurassic Park.",
-    "published": "2026-07-13",
-    "published_ts": 1783981582.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-15T05:28:52+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
     "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
     "content": "Meta denies using AI to terminate workers with disabilities and medical problems.",
@@ -2040,32 +1988,6 @@
     "content": "New research overturns assumption that abstinent younger drinkers are behind weak demand.",
     "published": "2026-07-14",
     "published_ts": 1784035156.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-15T05:28:52+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-    "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
-    "content": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
-    "published": "2026-07-14",
-    "published_ts": 1783991834.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-15T05:28:52+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
-    "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
-    "content": "The man is said to be doing well in a Frankfurt hospital.",
-    "published": "2026-07-13",
-    "published_ts": 1783980454.0,
     "outlet": "Ars Technica",
     "fetched_at": "2026-07-15T05:28:52+08:00",
     "classified": true,
@@ -2736,19 +2658,6 @@
     "content": "Chrome's Gemini integration has arrived in the UK.",
     "published": "2026-07-14",
     "published_ts": 1784016726.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-15T05:28:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Please let this hot pink Pixel 11 leak be real",
-    "url": "https://www.engadget.com/2214292/please-let-this-hot-pink-pixel-11-leak-be-real/",
-    "content": "Bring on the magenta and peach.",
-    "published": "2026-07-13",
-    "published_ts": 1783982568.0,
     "outlet": "Engadget",
     "fetched_at": "2026-07-15T05:28:54+08:00",
     "classified": true,
@@ -4378,61 +4287,6 @@
     "score": 3
   },
   {
-    "title": "iOS 27 公眾測試版現已開放，是否值得安裝？",
-    "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta-should-you-install-it-on-your-iphone/",
-    "content": "The iOS 27 public beta is now available , and it’s full of major new features. Should you install it on your iPhone? Here’s everything you need to know.",
-    "published": "2026-07-14",
-    "published_ts": 1783988937.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-15T05:29:04+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "iOS 27 公眾測試版已推出，內含多項重大新功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "OpenAI 可能迫使 Apple 與 Jony Ive 陷入尷尬訴訟",
-    "url": "https://9to5mac.com/2026/07/13/openai-could-force-apple-into-an-awkward-fight-with-jony-ive/",
-    "content": "While Apple did its best to insulate Jony Ive in its lawsuit against OpenAI, the company may not be able to keep its former design chief out of the fight. Here’s why.",
-    "published": "2026-07-13",
-    "published_ts": 1783986764.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-15T05:29:04+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 案可能讓前 Apple 設計長 Jony Ive 無法置身事外。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "第二份報告顯示 Apple iPhone Q2 出貨創歷史新高",
-    "url": "https://9to5mac.com/2026/07/13/second-report-says-apple-posted-its-strongest-ever-q2-for-iphone-shipments-amid-market-downturn/",
-    "content": "Adding to an earlier report from Counterpoint Research that showed Apple posting its strongest-ever second quarter for iPhone shipments, Omdia has now published its own figures pointing to the same record performance. Here are the details.",
-    "published": "2026-07-13",
-    "published_ts": 1783983381.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-15T05:29:04+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Omdia 報告指出 Apple 在市場 downturn 下 Q2 iPhone 出貨創歷史新高。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
     "title": "Galaxy Watch 9 與 Ultra 2 規格外洩，搭載 Snapdragon 晶片與 800mAh 電池",
     "url": "https://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/",
     "content": "Ahead of their debut in just over a week, yet another leak details the full specs of Samsung’s Galaxy Watch 9 and Ultra 2.",
@@ -4758,32 +4612,6 @@
     "content": "The US Google Store has curiously discounted a specific Pixel 10 Pro model by $300 in the deepest official sale to date.",
     "published": "2026-07-14",
     "published_ts": 1783993620.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-15T05:29:04+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Samsung Health will delete your data unless you hand it over for AI training",
-    "url": "https://9to5google.com/2026/07/13/samsung-health-ai-training-data-consent/",
-    "content": "As its new redesign rolls out, Samsung Health is also forcing users into a choice – let their data be used for AI training, or make it effectively unusable in the long term.",
-    "published": "2026-07-13",
-    "published_ts": 1783980900.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-15T05:29:04+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Snapseed 4.1 for Android rolling out with ‘massively expanded’ RAW support",
-    "url": "https://9to5google.com/2026/07/13/snapseed-4-1-raw/",
-    "content": "Google is beginning to roll out the first big update to Snapseed since the May redesign with version 4.1 for Android.",
-    "published": "2026-07-13",
-    "published_ts": 1783979308.0,
     "outlet": "9to5Google",
     "fetched_at": "2026-07-15T05:29:04+08:00",
     "classified": true,
@@ -5224,51 +5052,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Meta 將 Hyperion 資料中心園區投資提高至 50B 美元以上",
-    "url": "https://siliconangle.com/2026/07/13/meta-boosts-investment-hyperion-data-center-campus-50b/",
-    "content": "Meta Platforms Inc. today announced plans to significantly expand the scope of its Hyperion data center project. The Facebook parent is seeking to build a sprawling artificial intelligence hub in Richland Parish, Louisiana. When Meta first disclosed the initiative in late 2024, it stated that the project budget would exceed $10 billion. It boosted the […] The post Meta boosts investment in Hyperio",
-    "published": "2026-07-14",
-    "published_ts": 1783990777.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-15T05:29:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Meta 把 Hyperion 資料中心園區投資額提高至 50B 美元以上，擴大建設計畫。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Spatial AI startup Augmodo raises $21M to expand beyond retail stores",
-    "url": "https://siliconangle.com/2026/07/13/spatial-ai-startup-augmodo-raises-21m-expand-beyond-retail-stores/",
-    "content": "Spatial artificial intelligence startup Augmodo Inc. said today it has raised $21 million in an impromptu funding round that lifts its valuation to $350 million. TQ Ventures served as the lead investors, with participation from Lerer Hippeau, Jefferson River Capital, Arena Holdings, Chemist Warehouse, New Fare, Interlace and Webb Investment Network The Seattle-based startup is […] The post Spatial",
-    "published": "2026-07-13",
-    "published_ts": 1783985662.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-15T05:29:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Defense technology startup Helsing raises $1.8B at $18B valuation",
-    "url": "https://siliconangle.com/2026/07/13/defense-technology-startup-helsing-raises-1-8b-18b-valuation/",
-    "content": "German defense technology startup Helsing SE today announced that it has closed a $1.8 billion Series E investment. The late-stage capital was provided by a group of 10 new and returning investors. JPMorganChase, General Catalyst, Lightspeed and Iconiq were among the participants. Helsing says it’s now valued at $18 billion. Helsing’s flagship product is an […] The post Defense technology startup ",
-    "published": "2026-07-13",
-    "published_ts": 1783984882.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-15T05:29:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "EV prices just fell again – here’s what US buyers paid in June",
     "url": "https://electrek.co/2026/07/14/ev-prices-just-fell-again-heres-what-us-buyers-paid-in-june/",
     "content": "If you’ve been waiting to buy an EV, the latest Kelley Blue Book June price data may give you another reason to wait a bit longer.",
@@ -5465,24 +5248,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "美國 EV 銷售正常化，其他地區則加速成長",
-    "url": "https://electrek.co/2026/07/13/ev-sales-are-normalizing-in-the-us-and-taking-off-everywhere-else/",
-    "content": "On today’s totally normal episode of Quick Charge , it seems like EV sales are starting to normalize in the US after the loss of the Federal Tax Credit last September – but they’re taking off everywhere else, and Europe is leading the charge!",
-    "published": "2026-07-14",
-    "published_ts": 1783989568.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-15T05:29:12+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "美國 EV 銷售因聯邦稅收抵免取消而正常化，其他地區銷量則持續加速成長。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "'Completely False': Lucid Denies Report That It's Weighing Bankruptcy After Shares Crash",
     "url": "https://insideevs.com/news/801645/lucid-stock-crash-bankruptcy-rumor/",
     "content": "A report that Lucid was considering bankruptcy triggered a massive selloff and an official denial from the automaker.",
@@ -5630,32 +5395,6 @@
     "content": "The Subaru Uncharted outsold both the Solterra and the Trailseeker in the previous quarter. It’s also Subaru’s cheapest EV.",
     "published": "2026-07-14",
     "published_ts": 1784015768.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-07-15T05:29:12+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "California's $3,500 EV Rebate Program Starts 'Later This Summer'",
-    "url": "https://insideevs.com/news/801512/california-ev-rebate-3500-2026/",
-    "content": "The program, which applies to new and used EVs, fills some of the gap left behind by the now-dead $7,500 EV tax credit.",
-    "published": "2026-07-13",
-    "published_ts": 1783983482.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-07-15T05:29:12+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "BYD's New Electric Supercar Costs $190,000 In Europe. Will Customers Show Up?",
-    "url": "https://insideevs.com/news/801513/denza-uk-price-z-supercar/",
-    "content": "The Denza Z is aiming for the Porsche 911, but its European pricing is very... ambitious.",
-    "published": "2026-07-13",
-    "published_ts": 1783980746.0,
     "outlet": "InsideEVs",
     "fetched_at": "2026-07-15T05:29:12+08:00",
     "classified": true,
@@ -6066,58 +5805,6 @@
     "translated": true,
     "category": "HPC數據中心",
     "subtopic": "AI公司"
-  },
-  {
-    "title": "Trump set to address Iran, election integrity in prime-time speech",
-    "url": "https://www.axios.com/2026/07/14/trump-speech-iran-election",
-    "content": "President Trump's prime-time Thursday speech from the White House is slated to include election integrity, an update on Iran and whatever else he deems important, a senior adviser tells Axios. \"It will be a potpourri,\" the adviser said. Why it matters: Though ever-available to reporters, Trump hasn't given many prime-time, direct-to-camera speeches from the White House. He wants to do more of them",
-    "published": "2026-07-14",
-    "published_ts": 1783991459.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-15T05:29:16+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股"
-  },
-  {
-    "title": "Senate looks to honor Graham with Russia sanctions",
-    "url": "https://www.axios.com/2026/07/13/lindsey-graham-russia-sanctions-senate-trump",
-    "content": "Senators from both parties are rallying around a revised Russia sanctions package to honor the legacy of the late Sen. Lindsey Graham (R-S.C.). Why it matters: Bipartisanship is in short supply in the Senate. Graham's sudden death may briefly revive it. Senate Majority Leader John Thune (R-S.D.) said passing the updated sanctions bill — which has 85 cosponsors — \"would be a great tribute to the le",
-    "published": "2026-07-13",
-    "published_ts": 1783984958.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-15T05:29:16+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股"
-  },
-  {
-    "title": "Scoop: Trump gave Saudi crown prince his backing for risky strikes on Houthis",
-    "url": "https://www.axios.com/2026/07/13/trump-bin-salman-houthis-yemen",
-    "content": "President Trump gave Saudi Crown Prince Mohammed Bin Salman (MBS) his support for a highly unusual military action against the Iran-backed Houthis in Yemen, according to U.S. officials. Why it matters: The Saudi strike on the Sanaa airport Monday and Houthi retaliatory missile attacks that followed were the most serious cross-border escalation since 2022. They could signal the collapse of a four-y",
-    "published": "2026-07-13",
-    "published_ts": 1783984897.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-15T05:29:16+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股"
-  },
-  {
-    "title": "Trump cuts nearly 3M acres from 2 Utah national monuments",
-    "url": "https://www.axios.com/local/salt-lake-city/2026/07/13/trump-cuts-grand-staircase-escalante-bears-ears-national-monuments-utah",
-    "content": "President Trump is decimating both Grand Staircase-Escalante and Bears Ears national monuments. Why it matters: Monday's orders reduce protections on nearly 3 million acres in southern Utah , affecting more than 90% of each monument's area. Driving the news: Grand Staircase-Escalante will lose nearly 1.7 of its 1.87 million acres Bears Ears ' 1.36 million acres will be reduced to about 121,000. Th",
-    "published": "2026-07-13",
-    "published_ts": 1783982305.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-15T05:29:16+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股"
   },
   {
     "title": "Gasoline Plunged in June and lots of Month-to-Month CPI Squiggles Happened to Drop Simultaneously, but that Won’t Last",
@@ -7237,34 +6924,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Bitcoin Covenants Part 4: OP_CHECKSIGFROMSTACK 與 OP_CAT",
-    "url": "https://cointelegraph.com/research/bitcoin-covenants-part-4-op-checksigfromstack-and-op-cat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "OP_CSFS authenticates signatures over arbitrary data. OP_CAT concatenates stack values into a single message. Together, they let Bitcoin scripts verify transaction structure at spend time, without pre-signed key management or new consensus rules beyond the two opcodes themselves.",
-    "published": "2026-07-13",
-    "published_ts": 1783983600.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-15T05:29:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "OP_CSFS 驗證任意資料簽章，OP_CAT 串接堆疊值，讓比特幣腳本驗證更彈性。",
-    "score": 2
-  },
-  {
-    "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
-    "url": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Reed Smith’s Aquarius platform automates regulatory filings and legal workflows as demand for MiCA compliance tools grows across Europe.",
-    "published": "2026-07-13",
-    "published_ts": 1783978832.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-15T05:29:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
     "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
     "url": "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
     "content": "Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.",
@@ -7343,42 +7002,6 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Stop Over-Prompting: OpenAI 新 GPT-5.6 指南改變一切",
-    "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
-    "content": "Forget the XML blocks and persistence scripts. OpenAI’s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
-    "published": "2026-07-13",
-    "published_ts": 1783982764.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-15T05:29:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 新提示指南建議定義目標、設定停止條件，避免過度使用 XML 區塊與持久腳本。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "抗議者遊行至 OpenAI、Anthropic 與 Google DeepMind 要求 AI 開發暫停",
-    "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
-    "content": "About 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.",
-    "published": "2026-07-13",
-    "published_ts": 1783980665.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-15T05:29:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "約 200 名抗議者週六遊行舊金山，要求 OpenAI 等 AI 公司停止開發更強大模型。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "BMW美國業務在關鍵時刻發揮作用",
@@ -39175,5 +38798,115 @@
       "🏢品牌動態"
     ],
     "score": 3
+  },
+  {
+    "title": "Jensen Huang's staggering $4 trillion bet shifts Nvidia",
+    "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-staggering-4-trillion-210300335.html",
+    "content": "",
+    "published": "2026-07-20",
+    "published_ts": 1784581380.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: JB Hunt Transport Services Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3099_AnalystReport_1784566355000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-20",
+    "published_ts": 1784566355.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Bitcoin and ethereum prices today, Monday, July 20, 2026: Crypto prices mixed as second half 2026 outlooks conflict",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html",
+    "content": "",
+    "published": "2026-07-20",
+    "published_ts": 1784560796.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Market Update: JBHT",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47671_MarketUpdate_1784565455000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-20",
+    "published_ts": 1784565455.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Silver prices today, Monday, July 20, 2026: Silver ticks up after violent weekend in Middle East",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-20-2026-silver-ticks-up-after-violent-weekend-in-middle-east-152445143.html",
+    "content": "",
+    "published": "2026-07-20",
+    "published_ts": 1784561085.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Gold prices today, Monday, July 20, 2026: Gold holds above $4,000 despite continued violence in the Middle East",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-20-2026-gold-holds-above-4000-despite-continued-violence-in-the-middle-east-152926843.html",
+    "content": "",
+    "published": "2026-07-20",
+    "published_ts": 1784561366.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
+    "url": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
+    "content": "CNBC's Jim Cramer says the AI trade has become too unpredictable, making this a better time to put new money into high-quality companies outside of technology.",
+    "published": "2026-07-20",
+    "published_ts": 1784586022.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Trump administration's head of AI safety agency resigns after 3 months on job",
+    "url": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
+    "content": "Arvind Raman, the director of National Institute of Standards and Technology, will serve as acting director of CAISI, according to a spokesperson",
+    "published": "2026-07-20",
+    "published_ts": 1784579180.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Archer stock rips 20% higher as company unveils military craft with Anduril",
+    "url": "https://www.cnbc.com/2026/07/20/archer-thunder-military-craft-anduril.html",
+    "content": "Archer and its eVTOL peers are racing for FAA certification to start flying their air taxis commercially.",
+    "published": "2026-07-20",
+    "published_ts": 1784577749.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Boeing takes the right approach on new planes. Plus, a word of caution this earnings season",
+    "url": "https://www.cnbc.com/2026/07/20/boeing-takes-the-right-approach-on-new-planes-plus-a-word-of-caution-this-earnings-season.html",
+    "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published": "2026-07-20",
+    "published_ts": 1784564169.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
+  },
+  {
+    "title": "Alphabet stock pops on report it's developing a more efficient AI chip",
+    "url": "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
+    "content": "The new AI chip, called \"Frozen v2,\" would embed parts of Gemini's architecture directly into the silicon, according to the report.",
+    "published": "2026-07-20",
+    "published_ts": 1784580286.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-21T01:17:37Z",
+    "classified": false
   }
 ]
