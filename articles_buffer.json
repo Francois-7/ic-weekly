@@ -1,74 +1,5 @@
 [
   {
-    "title": "Accelerate your innovation",
-    "url": "https://intelligence.theregister.com/paper/view/20386",
-    "content": "This is your technical deep-dive into the practical tools and techniques that define the next generation of resilient Dev and IT operations.",
-    "published": "2026-07-15",
-    "published_ts": 1784073600.0,
-    "outlet": "The Next Platform",
-    "fetched_at": "2026-06-21T05:45:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "SK Hynix南韓股價上漲11%帶動亞洲科技股反彈",
-    "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-    "content": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.",
-    "published": "2026-07-15",
-    "published_ts": 1784076837.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-15T01:07:41Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "SK Hynix南韓股價大漲11%，領漲亞洲科技股追蹤美股半導體反彈。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer表示IBM股價暴跌25%仍不足以成為買進標的",
-    "url": "https://www.cnbc.com/2026/07/14/jim-cramer-ibm-plunge-stock-buy.html",
-    "content": "CNBC's Jim Cramer said IBM's sharp sell-off isn't enough to make the stock a buy.",
-    "published": "2026-07-14",
-    "published_ts": 1784069218.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-15T01:07:41Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Jim Cramer認為IBM股價暴跌25%幅度不足以吸引買盤進場。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer稱AI市場泡沫疑慮過度誇大",
-    "url": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
-    "content": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
-    "published": "2026-07-14",
-    "published_ts": 1784067646.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-15T01:07:41Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Jim Cramer指出目前股市AI泡沫疑慮被過度放大，情況優於網路泡沫時期。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
     "title": "美股期貨延續漲勢 ASML提振AI交易",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html",
     "content": "",
@@ -2087,19 +2018,6 @@
     "score": 2
   },
   {
-    "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
-    "url": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
-    "content": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
-    "published": "2026-07-14",
-    "published_ts": 1784066910.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-16T05:28:13+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
     "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
     "content": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
@@ -2206,32 +2124,6 @@
     "content": "Private buyers are increasingly outbidding museums for fossils.",
     "published": "2026-07-15",
     "published_ts": 1784111439.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-16T05:28:13+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-    "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-    "content": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
-    "published": "2026-07-14",
-    "published_ts": 1784067648.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-16T05:28:13+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
-    "url": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
-    "content": "Citizens must now spend 21 days in a third country before they are allowed to come home.",
-    "published": "2026-07-14",
-    "published_ts": 1784066971.0,
     "outlet": "Ars Technica",
     "fetched_at": "2026-07-16T05:28:13+08:00",
     "classified": true,
@@ -2500,19 +2392,6 @@
     "content": "WhatCable is a free Mac app that gives you all the information you could need for your USB-C cables.",
     "published": "2026-07-15",
     "published_ts": 1784101543.0,
-    "outlet": "ZDNet",
-    "fetched_at": "2026-07-16T05:28:13+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Why I'm using wired Android Auto when all the cool kids are switching to wireless",
-    "url": "https://www.zdnet.com/article/why-im-using-wired-android-auto-when-all-the-cool-kids-are-switching-to-wireless/",
-    "content": "Sometimes, you have to dial back the tech to make ends meet.",
-    "published": "2026-07-15",
-    "published_ts": 1784077243.0,
     "outlet": "ZDNet",
     "fetched_at": "2026-07-16T05:28:13+08:00",
     "classified": true,
@@ -3346,25 +3225,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Nothing Watch 3 Pro智慧手錶售價僅$69",
-    "url": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
-    "content": "While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even cheaper than usual at Amazon, where it costs $69 in every color (the price fluctuates between $79 and $99). Some notable […]",
-    "published": "2026-07-14",
-    "published_ts": 1784067866.0,
-    "outlet": "The Verge Wearables",
-    "fetched_at": "2026-07-16T05:28:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "CMF by Nothing Watch 3 Pro以$69售價推出，具備螢幕的平價智慧手錶",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "Fitbit同步故障，Google Health確認大規模中斷",
     "url": "https://gadgetsandwearables.com/2026/07/15/fitbit-google-health-syncing-outage/",
     "content": "Update: Google has restored the Device Sync / Pairing service. Fitbit and Pixel Watch users should now sync normally, although The post Fitbit not syncing as Google Health confirms widespread outage appeared first on Gadgets & Wearables .",
@@ -3755,19 +3615,6 @@
       "🏢品牌動態"
     ],
     "score": 4
-  },
-  {
-    "title": "Samsung teases Flex Titanium tech, a key innovation for its next-gen foldables",
-    "url": "https://www.gsmarena.com/samsung_introduces_flex_titanium_a_key_innovation_for_its_nextgen_foldables-news-73709.php",
-    "content": "The Galaxy Z Fold7 featured a third generation of Armor FlexHinge, which was 27% thinner and 43% lighter than the hinge inside the Z Fold6. Now the company is introducing the next innovation that will make foldable displays even tougher and slimmer while minimizing the crease – Flex Titanium. This is just a preview of what is to come on Wednesday next week. The Flex Titanium technology promises a ",
-    "published": "2026-07-14",
-    "published_ts": 1784070002.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-16T05:28:30+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
   },
   {
     "title": "You can finally create Google Chat group convos with external guests",
@@ -4282,37 +4129,6 @@
     "score": 2
   },
   {
-    "title": "Samsung shares the secret behind its next-gen creaseless foldable displays",
-    "url": "https://www.androidauthority.com/samsung-flex-titanium-3687554/",
-    "content": "Here’s how Samsung’s Flex Titanium tech aims to rival non-foldable screen quality.",
-    "published": "2026-07-14",
-    "published_ts": 1784070025.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-16T05:28:30+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "OpenAI 首款硬體裝置聽起來一半像喇叭一半像機器人",
-    "url": "https://www.androidauthority.com/openai-device-screenless-speaker-chatgpt-leak-3687560/",
-    "content": "ChatGPT could soon have a physical presence in your home.",
-    "published": "2026-07-14",
-    "published_ts": 1784067635.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-16T05:28:30+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 推出首款硬體裝置，ChatGPT 將有實體存在。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "I can’t work on my Mac without this little keypad anymore",
     "url": "https://9to5mac.com/2026/07/15/macro-keypad-productivity-on-macos/",
     "content": "Offloading keyboard shortcuts to a programmable macro keypad is the best productivity hack I’ve ever done.",
@@ -4678,56 +4494,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Limited series ‘Lucky’, starring Anya Taylor-Joy, premieres on Apple TV",
-    "url": "https://9to5mac.com/2026/07/14/limited-series-lucky-starring-anya-taylor-joy-premieres-on-apple-tv/",
-    "content": "The first episodes of Lucky , Apple TV’s new limited series starring Anya Taylor-Joy ( The Menu ), are now streaming. Watch the trailer below.",
-    "published": "2026-07-15",
-    "published_ts": 1784077277.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-16T05:28:30+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "iOS 27：除了 AI 之外我最喜歡的 iPhone 新功能",
-    "url": "https://9to5mac.com/2026/07/14/ios-27-my-favorite-new-iphone-features-other-than-ai/",
-    "content": "The iOS 27 public beta is here , and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. Here are a few of my favorite iOS 27 features (other than Siri and AI).",
-    "published": "2026-07-15",
-    "published_ts": 1784076091.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-16T05:28:30+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "iOS 27 公測版推出多項非 AI 新功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Opera 在美英 iPhone 用戶中市佔提升",
-    "url": "https://9to5mac.com/2026/07/14/opera-gains-ground-among-iphone-users-in-the-us-and-uk/",
-    "content": "Opera says its iOS browser saw monthly active users grow 93% in the UK and 50% in the US during Q2 2026 compared with the same period last year. Here are the details.",
-    "published": "2026-07-14",
-    "published_ts": 1784072454.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-16T05:28:30+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Opera iOS 瀏覽器 Q2 2026 MAU 英國成長 93%、美國 50%。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "Android App 週中優惠與免費下載：ScourgeBringer 等",
     "url": "https://9to5toys.com/2026/07/15/mid-week-android-app-deals-scourgebringer-retro-zoo/",
     "content": "Your afternoon lineup of the best Android game and app deals is now ready, including titles like ScourgeBringer, Retro Zoo CEO, Guardian War: Ultimate Edition, Final Fantasy Dimensions, Tiny Terraces, Beat Workers, and more. We also have a rare deal live today on the official Google Pixel Flex Dual Port 67W USB-C Fast Charger at 25% off , a solid $300 off Pixel 10 Pro, a chance to land Pixel Watch",
@@ -4902,32 +4668,6 @@
     "content": "OnePlus has been on the ropes for a while, but with reports indicating the company is preparing a total withdrawal from the US and Europe, the end of an era is officially here. If you’re a long-time fan, it’s time to start planning your OnePlus switch.",
     "published": "2026-07-15",
     "published_ts": 1784116800.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-16T05:28:31+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Samsung says Galaxy Z Fold 8 crease is less visible thanks to ‘Flex Titanium’ display",
-    "url": "https://9to5google.com/2026/07/14/samsung-galaxy-z-fold-8-flex-titanium-display/",
-    "content": "The Galaxy Z Fold 8 series will get a new foldable display architecture, Samsung admits, which will improve the phone’s resistance to developing an unsightly crease down the inner display.",
-    "published": "2026-07-14",
-    "published_ts": 1784071591.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-16T05:28:31+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google temporarily offers open Pixel Care+ enrollment for Pixel 9 and 10",
-    "url": "https://9to5google.com/2026/07/14/pixel-care-open-enrollment/",
-    "content": "Google today announced a limited-time Pixel Care+ open enrollment period for existing Pixel 9 and 10 owners.",
-    "published": "2026-07-14",
-    "published_ts": 1784068819.0,
     "outlet": "9to5Google",
     "fetched_at": "2026-07-16T05:28:31+08:00",
     "classified": true,
@@ -5406,94 +5146,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Construction automation startup TerraFirma raises $115M",
-    "url": "https://siliconangle.com/2026/07/14/construction-automation-startup-terrafirma-raises-115m/",
-    "content": "TerraFirma Inc., a startup with a platform that enables construction teams to remotely operate heavy machinery, has raised $115 million in funding. The bulk of the capital arrived in the form of a $100 million Series A round led by Kleiner Perkins. TerraFirma disclosed today that Bain Capital, Definition and more than a half-dozen other […] The post Construction automation startup TerraFirma raise",
-    "published": "2026-07-15",
-    "published_ts": 1784076255.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-16T05:28:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "InstaLILY, a developer of AI teammates that can automate complex, business-specific work, raises $60M",
-    "url": "https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/",
-    "content": "Enterprise automation startup InstaLILY Inc. said today it has closed on a hefty $60 million Series B round of funding that brings its total amount raised to date to almost $100 million. In addition, it launched a new tool that can help companies to quickly build, deploy and then continuously update and maintain software that […] The post InstaLILY, a developer of AI teammates that can automate co",
-    "published": "2026-07-14",
-    "published_ts": 1784072703.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-16T05:28:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Singularity lands $80M at $400M valuation to build cheap drone interceptors",
-    "url": "https://siliconangle.com/2026/07/14/singularity-lands-80m-400m-valuation-build-cheap-drone-interceptors/",
-    "content": "Air defense startup Singularity Defense Corp. formally launched today, announcing that it has raised $80 million in new funding at a $400 million valuation to mass-produce low-cost interceptors that can knock down the cheap drones and missiles now common on the battlefield. Cost is the problem Singularity says it can fix. An interceptor can cost […] The post Singularity lands $80M at $400M valuati",
-    "published": "2026-07-14",
-    "published_ts": 1784069803.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-16T05:28:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google DeepMind CEO Demis Hassabis calls for creation of AI standards body",
-    "url": "https://siliconangle.com/2026/07/14/google-deepmind-ceo-demis-hassabis-calls-creation-ai-standards-body/",
-    "content": "Artificial intelligence pioneer Demis Hassabis today called for the creation of a standards body focused on regulating frontier models. Hassabis, chief executive of Google DeepMind, proposed in a Substack essay that the U.S. should lead the effort. Axios reported that the executive has held talks about the initiative with the White House, European officials and […] The post Google DeepMind CEO Dem",
-    "published": "2026-07-14",
-    "published_ts": 1784069455.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-16T05:28:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Google DeepMind CEO Demis Hassabis 呼籲成立專責監管前沿 AI 模型的標準機構。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Mount Sinai’s Zoom strategy shows why collaboration is now core infrastructure",
-    "url": "https://siliconangle.com/2026/07/14/mount-sinais-zoom-strategy-shows-collaboration-now-core-infrastructure/",
-    "content": "There remains a common misconception that Zoom is a meeting app. Though Zoom Communications Inc. arguably does meetings better than anyone, it has evolved into a broad work platform. Mount Sinai Health System in New York treats Zoom as core infrastructure. Zoom recently held a webinar with Mount Sinai to discuss the deployment. What I […] The post Mount Sinai’s Zoom strategy shows why collaboratio",
-    "published": "2026-07-14",
-    "published_ts": 1784068361.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-16T05:28:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "New York becomes first US state to impose a data center moratorium",
-    "url": "https://siliconangle.com/2026/07/14/new-york-becomes-first-us-state-impose-data-center-moratorium/",
-    "content": "New York became the first state in the U.S. to impose a statewide moratorium on new data centers today after Governor Kathy Hochul signed an executive order pausing state environmental permits for large facilities for up to a year. Executive Order No. 62 took effect on signing and covers hyperscale data centers that draw 50 […] The post New York becomes first US state to impose a data center morat",
-    "published": "2026-07-14",
-    "published_ts": 1784068040.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-16T05:28:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "紐約州長簽署行政命令，成為美國首個對新資料中心實施全州禁令的州。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
     "title": "Volvo wants to launch two new EVs in the US priced around $50,000, and they are not SUVs",
     "url": "https://electrek.co/2026/07/15/volvo-shake-things-up-two-new-50000-evs/",
     "content": "Volvo is pulling its last wagon from the US, but it may not be for long. As it aims to revamp the brand, Volvo may bring two new EVs to America, starting in the low $50,000s.",
@@ -5688,25 +5340,6 @@
     "translated": true,
     "category": "電動車",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok",
-    "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
-    "content": "Elon Musk has quietly bought APR Energy, a Jacksonville-based company that operates a fleet of mobile gas and diesel turbines totaling more than 1 GW of generation capacity. The self-styled champion of a “solar electric economy” now owns a fossil fuel power company — and he’s buying it to feed the electricity-hungry data centers running xAI’s Grok.",
-    "published": "2026-07-14",
-    "published_ts": 1784071970.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-16T05:28:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Elon Musk 低調收購 APR Energy，取得超過 1GW 行動燃氣與柴油渦輪機以供 Grok 運算。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
   },
   {
     "title": "Hyundai’s $5 Billion EV Battery Plant In Georgia Powers Up",
@@ -6334,42 +5967,6 @@
     "summary_zh": "阿布扎比將 AI 融入日常生活，涵蓋 pothole 通報與看診預約等服務。",
     "tags": [
       "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "New Mexico AG 與聯邦 DOJ 就 Epstein 紀錄發生衝突",
-    "url": "https://www.axios.com/2026/07/15/epstein-investigation-new-mexico-justice-department-us-doj",
-    "content": "A public dispute between New Mexico's attorney general and the U.S. Justice Department escalated Tuesday over records sought in the state's Jeffrey Epstein investigation. Why it matters: The clash underscores questions about whether federal privacy restrictions and court orders are preventing state investigators from pursuing potential criminal leads tied to Epstein's former Zorro Ranch in New Mex",
-    "published": "2026-07-15",
-    "published_ts": 1784075569.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-16T05:28:39+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "New Mexico 檢察長與美國司法部就 Epstein 紀錄索取公開爭執升溫。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "House GOP 第三版 reconciliation 推動遭遇早期阻礙",
-    "url": "https://www.axios.com/2026/07/14/mike-johnson-house-republicans-reconciliation",
-    "content": "House Speaker Mike Johnson is in an uncomfortably familiar spot: under pressure from President Trump , under fire from members and under the gun to advance a reconciliation bill in just a few days. Why it matters: Johnson (R-La.) is trying to tee up a final party-line legislative package before the midterms, but Republicans remain divided over the contents of the bill and the strategy behind it. G",
-    "published": "2026-07-14",
-    "published_ts": 1784072130.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-16T05:28:39+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "眾議院議長 Mike Johnson 面臨 Trump 壓力與黨內反對，推動 reconciliation 3.0 受阻。",
-    "tags": [
-      "📋政策法規"
     ],
     "score": 2
   },
@@ -7275,19 +6872,6 @@
       "🏢品牌動態"
     ],
     "score": 4
-  },
-  {
-    "title": "Over 95% of Coinbase’s code is now written with help of AI",
-    "url": "https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy.",
-    "published": "2026-07-14",
-    "published_ts": 1784068200.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-16T05:28:41+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
   },
   {
     "title": "OpenAI使用AI Red Team強化GPT-5.6防範Prompt Injection攻擊",
@@ -38439,5 +38023,205 @@
       "📋政策法規"
     ],
     "score": 3
+  },
+  {
+    "title": "Spain just opened a door America slammed shut",
+    "url": "https://finance.yahoo.com/economy/policy/articles/spain-just-opened-door-america-021700849.html",
+    "content": "",
+    "published": "2026-07-21",
+    "published_ts": 1784600220.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: General Electric Co",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_2999_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-21",
+    "published_ts": 1784654558.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: Regions Financial Corp",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_4213_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-21",
+    "published_ts": 1784654558.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Market Update: DPZ, GE, ISRG, RF",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47684_MarketUpdate_1784653658000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-21",
+    "published_ts": 1784653658.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Daily – Vickers Top Buyers & Sellers for 07/21/2026",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47683_TopBottomInsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-21",
+    "published_ts": 1784643786.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Daily – Vickers Top Insider Picks for 07/21/2026",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47682_InsiderActivity_1784643786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-21",
+    "published_ts": 1784643786.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Sony’s 'ironic' PlayStation disc decision upends gamer conventions and threatens a $7 billion resale market",
+    "url": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html",
+    "content": "In 2013, Sony tweaked Xbox by showing how easy it was to share a PlayStation disc. Now, gamers say Sony has become exactly what it mocked.",
+    "published": "2026-07-22",
+    "published_ts": 1784680224.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+    "url": "https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html",
+    "content": "Global biotech firms are increasingly being drawn to Hong Kong for its growing investor base and proximity to Chinese pharmaceutical partners.",
+    "published": "2026-07-22",
+    "published_ts": 1784679319.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says this old-school investing concept still wins — even in the AI boom",
+    "url": "https://www.cnbc.com/2026/07/21/jim-cramer-investing-concept-wins-ai-boom.html",
+    "content": "CNBC's Jim Cramer urged investors to diversify beyond the market's hottest AI winners, warning that no single investment theme should dominate a portfolio.",
+    "published": "2026-07-21",
+    "published_ts": 1784673022.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+    "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+    "content": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
+    "published": "2026-07-21",
+    "published_ts": 1784673275.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "OpenAI appoints two new members to board of directors",
+    "url": "https://www.cnbc.com/2026/07/21/openai-appoints-two-new-members-to-board-of-directors.html",
+    "content": "OpenAI appointed longtime financial executives David Vélez and Robin Vince to its nonprofit and for-profit boards.",
+    "published": "2026-07-21",
+    "published_ts": 1784668952.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
+    "url": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
+    "content": "Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.",
+    "published": "2026-07-21",
+    "published_ts": 1784671856.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+    "url": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+    "content": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
+    "published": "2026-07-21",
+    "published_ts": 1784667094.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Ready for takeoff: This stock’s next growth runway is securing identity in an AI age",
+    "url": "https://www.cnbc.com/2026/07/21/ready-for-takeoff-this-stocks-next-growth-runway-is-securing-identity-in-an-ai-age.html",
+    "content": "A resilient airport franchise has become a customer acquisition engine powering this stock's broader identity platform and giving it a competitive advantage.",
+    "published": "2026-07-21",
+    "published_ts": 1784656648.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+    "url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+    "content": "The two AI developers spent a combined $3.17 million in the second quarter, up 23% from the first three months of 2026.",
+    "published": "2026-07-21",
+    "published_ts": 1784667509.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Google expands Gemini lineup with cheaper models and new Mythos rival",
+    "url": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
+    "content": "Google is expanding Gemini with cheaper, more efficient models and a new cybersecurity offering as it tries to close product gaps and compete on cost.",
+    "published": "2026-07-21",
+    "published_ts": 1784652766.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel",
+    "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+    "content": "Nvidia released new information about its data center CPU, called Vera, that prospective customers need to fully evaluate the chip.",
+    "published": "2026-07-21",
+    "published_ts": 1784646002.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock",
+    "url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+    "content": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
+    "published": "2026-07-21",
+    "published_ts": 1784665105.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Bessent says U.S. could sanction China over AI model 'theft'",
+    "url": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
+    "content": "Chinese open-weight models are gaining steam against leading offerings from American companies like OpenAI and Anthropic.",
+    "published": "2026-07-21",
+    "published_ts": 1784654110.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
+  },
+  {
+    "title": "Intel's foundry lands first named customer under CEO Lip-Bu Tan, as Fortinet signs on for security chips",
+    "url": "https://www.cnbc.com/2026/07/21/intel-foundry-lands-fortinet-as-first-customer-for-security-chips.html",
+    "content": "Fortinet is the first announced corporate customer for Intel's foundry under CEO Lip-Bu Tan, who took over the chipmaker in March 2025.",
+    "published": "2026-07-21",
+    "published_ts": 1784638801.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-22T01:16:18Z",
+    "classified": false
   }
 ]
