@@ -1,49 +1,5 @@
 [
   {
-    "title": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
-    "url": "https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html",
-    "content": "CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.",
-    "published": "2026-07-15",
-    "published_ts": 1784155882.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-16T01:16:14Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer questions whether Wednesday's rally in Big Tech will have staying power",
-    "url": "https://www.cnbc.com/2026/07/15/jim-cramer-wednesday-rally-big-tech-staying-power.html",
-    "content": "CNBC's Jim Cramer warned that Wednesday's rally in tech may have gotten carried away from fundamentals.",
-    "published": "2026-07-15",
-    "published_ts": 1784155566.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-16T01:16:14Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "World Cup 提振酒吧餐廳業績，Fed 指消費者警示訊號仍存",
-    "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html",
-    "content": "The latest edition of the Fed's Beige Book indicated that the soccer tournament wasn't necessarily translating to broader economic growth.",
-    "published": "2026-07-15",
-    "published_ts": 1784152390.0,
-    "outlet": "CNBC Economy",
-    "fetched_at": "2026-07-16T01:16:14Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "Fed Beige Book 指出 World Cup 帶動餐飲，但未轉為整體經濟成長。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
     "title": "Stock market today: Dow、S&P 500、Nasdaq 期貨走勢分歧，晶片股因 TSMC 財報下滑",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-103116735.html",
     "content": "",
@@ -1801,32 +1757,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
-    "url": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/",
-    "content": "Skullcandy’s audio products aren’t exactly known for their stellar audio quality or noise cancellation, but its latest headphones are getting an assist from Bose to turn things around.",
-    "published": "2026-07-16",
-    "published_ts": 1784160000.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-17T05:30:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "How to Protect Your Health as Skies Fill With Smoke From Canada’s Wildfires",
-    "url": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
-    "content": "Roughly 100 fires are raging out of control in Ontario, sending smoke streaming 1,000 miles to the south and east.",
-    "published": "2026-07-15",
-    "published_ts": 1784156703.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-17T05:30:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
     "url": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
     "content": "If the large, rocky planet is losing helium, then we can infer what is left behind.",
@@ -1902,45 +1832,6 @@
     "content": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
     "published": "2026-07-16",
     "published_ts": 1784199621.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-17T05:30:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-    "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-    "content": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
-    "published": "2026-07-15",
-    "published_ts": 1784154988.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-17T05:30:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
-    "url": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
-    "content": "While an impressive sale, the pen and switch did not break records.",
-    "published": "2026-07-15",
-    "published_ts": 1784153441.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-17T05:30:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-    "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-    "content": "The convenience store chain will use StorMagic instead.",
-    "published": "2026-07-15",
-    "published_ts": 1784151716.0,
     "outlet": "Ars Technica",
     "fetched_at": "2026-07-17T05:30:33+08:00",
     "classified": true,
@@ -2039,25 +1930,6 @@
     "summary_zh": "157家企業AI組織授予AI代理更多自主權，卻降低對評估機制的信任。",
     "tags": [
       "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Agentic orchestration: 101家企業AI組織部署問題而非平台問題",
-    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-    "content": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lo",
-    "published": "2026-07-15",
-    "published_ts": 1784154257.0,
-    "outlet": "VentureBeat",
-    "fetched_at": "2026-07-17T05:30:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "101家企業AI代理編排集中於模型供應商平台，Anthropic的Claude領先。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
     ],
     "score": 4
   },
@@ -2219,19 +2091,6 @@
     "content": "'AI is a tool, just like other tools we use. And it's clearly a useful one.'",
     "published": "2026-07-16",
     "published_ts": 1784203920.0,
-    "outlet": "ZDNet",
-    "fetched_at": "2026-07-17T05:30:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "I never leave for vacation without doing these 7 home security checks first",
-    "url": "https://www.zdnet.com/article/7-home-security-checks-before-vacation/",
-    "content": "Burglars target empty homes, and insurers deny frozen-pipe claims. Here's the tech that solves these issues and others before you leave.",
-    "published": "2026-07-16",
-    "published_ts": 1784160049.0,
     "outlet": "ZDNet",
     "fetched_at": "2026-07-17T05:30:33+08:00",
     "classified": true,
@@ -3996,32 +3855,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Android 17 QPR1 Beta 7 drops a few bugfixes for die-hard Pixel testers",
-    "url": "https://www.androidauthority.com/android-17-qpr1-beta-7-3688027/",
-    "content": "It's Google's first release since Android 17 QPR1 hit Platform Stability earlier this month.",
-    "published": "2026-07-16",
-    "published_ts": 1784163675.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-17T05:30:43+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google’s fix for recent Android Auto crashes is rolling out to users right now",
-    "url": "https://www.androidauthority.com/android-auto-fix-3688012/",
-    "content": "Android Auto been glitching out on you lately? Google's fix is in.",
-    "published": "2026-07-15",
-    "published_ts": 1784151356.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-17T05:30:43+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "iOS 27 public betas are out, Siri AI hands on, and Apple sues OpenAI",
     "url": "https://9to5mac.com/2026/07/16/happy-hour-599/",
     "content": "Benjamin and Chance talk about their latest experiences with iOS 27 and Siri AI, with Apple releasing the public betas this week so anyone in the whole world can give the new software a go. The company also sued OpenAI this week in a high-profile case over alleged trade secrets theft. And, as is tradition, the Apple Store Back to School offer underwhelms. And in Happy Hour Plus , Mayo gets a new w",
@@ -4360,19 +4193,6 @@
     "score": 4
   },
   {
-    "title": "AirPods just got a long-requested feature in new public beta",
-    "url": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/",
-    "content": "While it was overshadowed by the iOS 27 public beta , Apple also released a new public beta firmware for AirPods this week. The update brings a long-requested feature to supported AirPods models: custom EQ.",
-    "published": "2026-07-16",
-    "published_ts": 1784161151.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-17T05:30:43+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Gemini 3.5 Pro delays due to coding performance, upgraded Flash model in testing",
     "url": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/",
     "content": "In mid-May, Google announced Gemini 3.5 Flash at I/O 2026 and said the Pro version would arrive in June. On stage, Google said it was “showing great improvements.” That deadline has passed with no update on when to expect it.",
@@ -4598,19 +4418,6 @@
     "content": "Walmart’s Onn 4K Pro box with Google TV has proven rather elusive, but a relatively big restock has just landed for the $59 streamer.",
     "published": "2026-07-16",
     "published_ts": 1784173200.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-17T05:30:44+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google is opening the floodgates to third-party app stores on Android next week",
-    "url": "https://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/",
-    "content": "The final sticking point in the long-running Google vs Epic Games lawsuit is coming to an end, as Google is opening the door to third-party app stores on Android starting on July 22.",
-    "published": "2026-07-15",
-    "published_ts": 1784157300.0,
     "outlet": "9to5Google",
     "fetched_at": "2026-07-17T05:30:44+08:00",
     "classified": true,
@@ -4886,19 +4693,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "ShinyHunters: How to close the Credential Rotation Gap",
-    "url": "https://intelligence.theregister.com/paper/view/20401",
-    "content": "We'll cover the three failure points that make this attack repeatable across organizations of any size",
-    "published": "2026-07-16",
-    "published_ts": 1784160000.0,
-    "outlet": "The Next Platform",
-    "fetched_at": "2026-07-17T05:30:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "AI infrastructure startup Fireworks closes $1.5B round at $17.5B valuation",
     "url": "https://siliconangle.com/2026/07/16/ai-infrastructure-startup-fireworks-closes-1-5b-round-17-5b-valuation/",
     "content": "Fireworks AI Inc., a startup that helps developers train and run artificial intelligence models, has raised $1.5 billion in funding. Atreides Management, Index Ventures and TCV jointly led the Series D round. Fireworks stated in its funding announcement Wednesday that they were joined by more than a half-dozen other backers, including Nvidia Corp. The company […] The post AI infrastructure startup",
@@ -5102,68 +4896,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Mira Murati 的 Thinking Machines 推出 Inkling 開放權重模型",
-    "url": "https://siliconangle.com/2026/07/15/mira-muratis-thinking-machines-drops-inkling-open-weights-model-anyone-can-access/",
-    "content": "Mira Murati’s Thinking Machines Lab Inc. today launched its first foundation model with the release of Inkling, making its full open weights available to developers so they can fine-tune it as they wish. Inkling is the first model fully trained from scratch by Thinking Machines, coming after a year in which the company mostly made […] The post Mira Murati’s Thinking Machines drops Inkling, an open",
-    "published": "2026-07-15",
-    "published_ts": 1784159466.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-17T05:30:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Mira Murati 的 Thinking Machines Lab 發布首款基礎模型 Inkling，提供完整開放權重。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Identity management startup Oak launches with $60M in funding",
-    "url": "https://siliconangle.com/2026/07/15/identity-management-startup-oak-launches-60m-funding/",
-    "content": "Oak Inc., a startup that helps companies prevent unauthorized access to their applications, launched today with $60 million in seed funding. Accel, Greylock Partners and CRV jointly led the round. They were joined by Hetz Ventures, AlphaDrive Ventures and several unnamed angel investors. Tel Aviv-based Oak is led by Chief Executive Officer Shai Morag, who […] The post Identity management startup O",
-    "published": "2026-07-15",
-    "published_ts": 1784159116.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-17T05:30:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "OpenAI 公布 GPT-Red：攻擊自家模型找出漏洞的 AI",
-    "url": "https://siliconangle.com/2026/07/15/openai-details-gpt-red-ai-attacks-models-find-flaws/",
-    "content": "OpenAI Group PBC today detailed GPT-Red, an internal artificial intelligence system it built to attack its own models and surface prompt injection vulnerabilities before they reach users. Red teaming is the job of hammering software to find its weak points, work that normally falls to human security teams. GPT-Red does it on its own, running […] The post OpenAI details GPT-Red, an AI that attacks ",
-    "published": "2026-07-15",
-    "published_ts": 1784157185.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-17T05:30:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 公布內部 GPT-Red 系統，用於攻擊自家模型並找出提示注入漏洞。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Stripe and Advent reportedly make $53B bid to take PayPal private",
-    "url": "https://siliconangle.com/2026/07/15/stripe-advent-make-53b-bid-take-paypal-private/",
-    "content": "Stripe Inc. and private equity firm Advent International L.P. have reportedly offered more than $53 billion to buy PayPal Holdings Inc. in a deal that would take PayPal private and place one of the pioneers of online payments under the control of a younger, faster-growing rival. The bidders are not looking to break the company […] The post Stripe and Advent reportedly make $53B bid to take PayPal ",
-    "published": "2026-07-15",
-    "published_ts": 1784155706.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-17T05:30:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "BMW iX4 外觀更像 GT 而非 SUV [圖片]",
     "url": "https://electrek.co/2026/07/16/bmw-ix4-looks-more-like-gt-than-suv-images/",
     "content": "The 2027 iX4 is set to join BMW’s electric vehicle lineup soon, bringing a unique new look to the family. Ahead of its debut, the 2027 BMW iX4 was spotted on the road in Germany.",
@@ -5352,37 +5084,6 @@
     "content": "Every now and then, a company launches something that doesn’t fit neatly into any existing category. Not because it’s obscenely powerful or flaunts conventional safety, but just because it doesn’t fit the mold that we’ve grown accustomed to. That’s exactly what the Infinite Machine Olto is. Call it an e-bike, call it an electric moped, call it a scooter with pedals – everyone is going to have a di",
     "published": "2026-07-16",
     "published_ts": 1784205174.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-17T05:30:50+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "能源業務、二手車業務與一般商業",
-    "url": "https://electrek.co/2026/07/15/energy-business-used-car-business-and-plain-ol-business-business/",
-    "content": "Today’s episode of Quick Charge means business – the business of buying up power stations to power up the pet AI that says it would have picked you over Michael Jordan in the 1984 NBA draft and the business of fleecing well-heeled car collectors out of an extra $100,000 on a (mostly) new Tesla Model S Signature sedan.",
-    "published": "2026-07-16",
-    "published_ts": 1784161067.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-17T05:30:50+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "Quick Charge 節目討論收購發電站以支援 AI 運算的商業模式。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Solar just became Europe’s biggest source of electricity – here’s the milestone it hit",
-    "url": "https://electrek.co/2026/07/15/solar-just-became-europes-biggest-source-of-electricity-heres-the-milestone-it-hit/",
-    "content": "Solar power reached a new milestone across Europe last month, generating a record 52 terawatt-hours (TWh) of electricity and supplying 25% of all electricity used in the European Union in June 2026, according to new analysis from energy think tank Ember .",
-    "published": "2026-07-15",
-    "published_ts": 1784151371.0,
     "outlet": "Electrek",
     "fetched_at": "2026-07-17T05:30:50+08:00",
     "classified": true,
@@ -6000,61 +5701,6 @@
       "📋政策法規"
     ],
     "score": 3
-  },
-  {
-    "title": "Iran releases American detainee amid escalating fighting with the U.S., Trump says",
-    "url": "https://www.axios.com/2026/07/15/iran-releases-american-detainee-trump",
-    "content": "President Trump said Wednesday that Iran released an American woman who had been wrongfully detained since December 2024. Why it matters: The release comes as Trump weighs expanding U.S. military strikes on Iran . Tehran has taken similar steps in the past as a way to de-escalated tensions with the U.S. What he's saying: \"She is now safely outside of Iran, and in good condition,\" Trump wrote on Tr",
-    "published": "2026-07-15",
-    "published_ts": 1784158207.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-17T05:30:53+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "川普表示伊朗釋放自2024年12月起遭扣押的美國女性人質。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Vance pitch does little to quell House GOP angst over reconciliation 3.0",
-    "url": "https://www.axios.com/2026/07/15/house-republicans-budget-save-act-iran-war-jd-vance",
-    "content": "Vice President Vance's pitch to House Republicans on Wednesday did little to ease concerns over Speaker Mike Johnson's $95 billion reconciliation package , leaving GOP leaders with work to do ahead of a planned floor vote next week. Why it matters: Johnson's conference members remain uneasy about the lack of spending offsets, and disagreements persist over the details of their signature election b",
-    "published": "2026-07-15",
-    "published_ts": 1784158103.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-17T05:30:53+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "副總統Vance向眾議院共和黨人推銷，未能緩解對Mike Johnson 950億美元和解方案的擔憂。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "He honored Khamenei. Then he broke bread with Trump.",
-    "url": "https://www.axios.com/2026/07/15/iraq-iran-trump-zaidi",
-    "content": "Last week, Iraqi Prime Minister Ali al-Zaidi attended the funeral procession of Iran's supreme leader . This week, he shook hands in the Oval Office with the man who had him killed. Why it matters: Like every Iraqi prime minister in the last two decades, Zaidi has to conduct a delicate balancing act between strategic relations with Washington and Tehran . When both sides are shooting at each other",
-    "published": "2026-07-15",
-    "published_ts": 1784155403.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-17T05:30:53+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "伊拉克總理Ali al-Zaidi先參加伊朗最高領袖葬禮，隨後在白宮與Trump握手。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
   },
   {
     "title": "Pending Home Sales Plunge to Near-Record Low in the Data, Hit Low in the West. Since then, Mortgage Rates Rose Further",
@@ -7049,24 +6695,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Base創辦人Pollak承認社交押注失敗，將交棒Cobie",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Base creator Jesse Pollak is stepping back from leadership of the Base App after admitting he was “definitively wrong” to bet on social experiences driving crypto adoption.",
-    "published": "2026-07-16",
-    "published_ts": 1784164498.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-17T05:30:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "Jesse Pollak承認社交體驗押注錯誤，Base App領導權將交給Cobie。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
     "url": "https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai",
     "content": "Source code leaked reveals how substantial portions of Suno’s training library were assembled.",
@@ -7230,24 +6858,6 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
-  },
-  {
-    "title": "分析師不擔心Coinbase股價下跌30%",
-    "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
-    "content": "William Blair slashed earnings estimates by 34% and held its Outperform call. But analysts think Bitcoin's chart may already be answering the bigger question.",
-    "published": "2026-07-15",
-    "published_ts": 1784151523.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-17T05:30:55+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "William Blair下調Coinbase獲利預估34%，但分析師認為比特幣走勢已回應疑慮。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
   },
   {
     "title": "SoftBank 下跌 8% 日本晶片股追隨華爾街 AI 賣壓",
@@ -39346,5 +38956,145 @@
       "🏢品牌動態"
     ],
     "score": 4
+  },
+  {
+    "title": "Analyst Report: Travelers Cos Inc/The",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3461_AnalystReport_1784742960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-22",
+    "published_ts": 1784742960.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: General Motors Co",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3571_AnalystReport_1784742960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-07-22",
+    "published_ts": 1784742960.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending",
+    "url": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
+    "content": "The market isn't in a forgiving mood, but we're not in a hurry to leave this stock behind.",
+    "published": "2026-07-23",
+    "published_ts": 1784768221.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+    "url": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+    "content": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
+    "published": "2026-07-22",
+    "published_ts": 1784760973.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Here's how Jim Cramer says to approach the earnings season's 'ball of confusion'",
+    "url": "https://www.cnbc.com/2026/07/22/jim-cramer-approach-earnings-season.html",
+    "content": "CNBC's Jim Cramer urged investors not to overreact to earnings season volatility, saying short-term market moves often defy conventional logic.",
+    "published": "2026-07-22",
+    "published_ts": 1784759083.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "IBM lowers full-year forecast after earnings warning",
+    "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+    "content": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+    "published": "2026-07-23",
+    "published_ts": 1784765858.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "This is the stock to buy after OpenAI's AI agent goes rogue in a cybersecurity test",
+    "url": "https://www.cnbc.com/2026/07/22/this-is-the-stock-to-buy-after-openais-ai-agent-goes-rogue-in-a-cybersecurity-test.html",
+    "content": "Jim Cramer said CrowdStrike is the stock to buy after OpenAI's agentic breach.",
+    "published": "2026-07-22",
+    "published_ts": 1784743060.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+    "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
+    "content": "Amazon's AGI unit has released a set of AI models, called Nova, and also includes groups working on silicon and quantum computing.",
+    "published": "2026-07-22",
+    "published_ts": 1784749816.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
+    "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+    "content": "Google parent Alphabet reported second-quarter earnings after the bell on Wednesday.",
+    "published": "2026-07-22",
+    "published_ts": 1784762502.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+    "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+    "content": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
+    "published": "2026-07-22",
+    "published_ts": 1784759440.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+    "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+    "content": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+    "published": "2026-07-22",
+    "published_ts": 1784745457.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Reddit stock sinks on report it may not renew Google AI content deal",
+    "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+    "content": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
+    "published": "2026-07-22",
+    "published_ts": 1784753684.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+    "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+    "content": "Anthropic's agreement with AMD is the latest in a string of infrastructure deals the company has announced this year to increase its computing capacity.",
+    "published": "2026-07-22",
+    "published_ts": 1784728690.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
+  },
+  {
+    "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+    "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+    "content": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+    "published": "2026-07-22",
+    "published_ts": 1784739475.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-07-23T01:23:19Z",
+    "classified": false
   }
 ]
