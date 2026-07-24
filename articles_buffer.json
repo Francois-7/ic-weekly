@@ -1,74 +1,5 @@
 [
   {
-    "title": "SoftBank 下跌 8% 日本晶片股追隨華爾街 AI 賣壓",
-    "url": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
-    "content": "Japanese AI-linked stocks tumbled as a fresh rout in U.S. semiconductor shares spread across Asia after Taiwan Semiconductor Manufacturing's outlook failed to reassure investors.",
-    "published": "2026-07-17",
-    "published_ts": 1784250457.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-17T01:20:11Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "SoftBank股價下跌8%，日本晶片股因台積電展望及美股AI賣壓而下跌。",
-    "tags": [
-      "📊有數字",
-      "⚠️供應鏈異動"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "SpaceX aborts Starship test flight, sending stock lower",
-    "url": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
-    "content": "Elon Musk said it would make another attempt \"hopefully in a few days.\" SpaceX completed the maiden test flight of its Starship V3 rocket in May.",
-    "published": "2026-07-17",
-    "published_ts": 1784247397.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-17T01:20:11Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Microsoft的Nadella批評Anthropic的Fable「受編輯控制」",
-    "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-    "content": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
-    "published": "2026-07-16",
-    "published_ts": 1784245516.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-17T01:20:11Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Microsoft與Anthropic關係密切，同時協助企業開發保護資料隱私的模型。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Elon Musk的Memphis AI帝國成為資料中心反彈中心",
-    "url": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
-    "content": "Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.",
-    "published": "2026-07-17",
-    "published_ts": 1784249385.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-17T01:20:11Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "全美多地以Colossus與Memphis為案例，提出資料中心相關政策、抗議與訴訟。",
-    "tags": [
-      "🏢品牌動態",
-      "📋政策法規"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
     "title": "Technical Assessment: Bullish in the Intermediate-Term",
     "url": "https://finance.yahoo.com/research/reports/ARGUS_47645_TechnicalAnalysis_1784286640000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
     "content": "",
@@ -806,37 +737,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "舊金山市長在 Waymo 交通混亂後推動更嚴格規定",
-    "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-    "content": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
-    "published": "2026-07-16",
-    "published_ts": 1784244322.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-18T05:12:44+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "自動駕駛",
-    "summary_zh": "舊金山市長 Daniel Lurie 要求州監管機構對機器人計程車施加更多要求。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-    "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-    "content": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
-    "published": "2026-07-16",
-    "published_ts": 1784242887.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-18T05:12:44+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
     "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
     "content": "Portable fans are one of the easiest ways to stay cool during the summer, and you don’t have to spend much to find a decent one. If you’re looking for something more versatile, though, Shark’s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch evaporative mister in a design that can […]",
@@ -1423,37 +1323,6 @@
     "score": 1
   },
   {
-    "title": "Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream",
-    "url": "https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/",
-    "content": "The defense secretary’s idea of administering testosterone therapy to members of the US Armed Forces reveals little understanding of the complexity of hormones.",
-    "published": "2026-07-17",
-    "published_ts": 1784248129.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-18T05:12:44+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Apple 為何起訴 OpenAI、紐約州對抗資料中心及環孢子蟲病",
-    "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-    "content": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-    "published": "2026-07-16",
-    "published_ts": 1784240247.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-18T05:12:44+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "討論 Apple 訴 OpenAI 法律糾紛及其對公司聲譽的影響。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
     "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
     "content": "The FireSat program can spot wildfires that other satellites miss.",
@@ -1620,45 +1489,6 @@
     "content": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
     "published": "2026-07-17",
     "published_ts": 1784286004.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-18T05:12:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-    "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-    "content": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-    "published": "2026-07-17",
-    "published_ts": 1784246574.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-18T05:12:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-    "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-    "content": "Both nominees flailed in their own unique ways as senators sought answers.",
-    "published": "2026-07-16",
-    "published_ts": 1784241204.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-18T05:12:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-    "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-    "content": "Resellers threatened to ditch HP printing supplies for counterfeits.",
-    "published": "2026-07-16",
-    "published_ts": 1784239351.0,
     "outlet": "Ars Technica",
     "fetched_at": "2026-07-18T05:12:45+08:00",
     "classified": true,
@@ -1996,32 +1826,6 @@
     "content": "Motorola debuted the Edge 70 Max, and its upgrades—Qi2.2 and a huge battery—are turning heads in the best way possible.",
     "published": "2026-07-17",
     "published_ts": 1784284020.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-07-18T05:12:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "This T-Mobile feature could save your life someday (and you don't even need T-Mobile for it to work)",
-    "url": "https://www.androidcentral.com/phones/t-mobile/t-mobile-satellite-connectivity-how-to",
-    "content": "Even if you're in the middle of nowhere, T-Mobile makes it easy to connect to the most important service with its T-Satellite service. Here's how it works and how you can find out if you're eligible.",
-    "published": "2026-07-16",
-    "published_ts": 1784242206.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-07-18T05:12:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "You can already buy the unreleased Galaxy Z Fold 8 Ultra, provided you have $13,000",
-    "url": "https://www.androidcentral.com/phones/samsung-galaxy/you-can-already-buy-the-unreleased-galaxy-z-fold-8-ultra-provided-you-have-usd13-000",
-    "content": "Caviar's $13,130 Messi-themed Galaxy Z Fold 8 Ultra arrives before Samsung's July 22 reveal.",
-    "published": "2026-07-16",
-    "published_ts": 1784238199.0,
     "outlet": "Android Central",
     "fetched_at": "2026-07-18T05:12:45+08:00",
     "classified": true,
@@ -2836,24 +2640,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Oura專利顯示可控制燈光與百葉窗的戒指",
-    "url": "https://gadgetsandwearables.com/2026/07/16/oura-patent-light-exposure/",
-    "content": "Oura is exploring a smart ring that could track the light around you and decide whether it fits your body The post Oura patent shows a ring that could control your lights and blinds appeared first on Gadgets & Wearables .",
-    "published": "2026-07-16",
-    "published_ts": 1784238017.0,
-    "outlet": "Gadgets & Wearables",
-    "fetched_at": "2026-07-18T05:13:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Oura探索智慧戒指，可偵測環境光線並自動控制家電。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR &amp; Quest 3",
     "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
     "content": "Discovery: Rogue Planet, a new sci-fi first person shooter, hits Quest 3 & PC VR in August.",
@@ -3142,24 +2928,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Hasselblad Phocus Mobile終於登陸Android平台",
-    "url": "https://www.gsmarena.com/hasselblads_phocus_mobile_finally_lands_on_android-news-73761.php",
-    "content": "16 years after the first version became available on iOS and 6 years after Phocus Mobile 2 was released for iPhones, Hasselblad's Phocus Mobile is now finally available on Android too. It works with the Hasselblad X2D II, X2D 100C, and 907X & CFV 100C cameras. The app delivers the end-to-end Hasselblad Natural Color Solution (HNCS) experience on mobile, combining AI-powered noise reduction with a ",
-    "published": "2026-07-17",
-    "published_ts": 1784246401.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-18T05:13:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Hasselblad Phocus Mobile經過16年後推出Android版本。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
   },
   {
     "title": "Got money to burn? Check out this Messi-themed Galaxy Z Fold 8 Ultra",
@@ -3601,19 +3369,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Google’s next flagship Gemini model reportedly stuck months behind schedule",
-    "url": "https://www.androidauthority.com/google-gemini-3-5-pro-launch-delayed-3688434/",
-    "content": "Internal frustration is reportedly growing as Gemini next big upgrade hits snags.",
-    "published": "2026-07-16",
-    "published_ts": 1784238097.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-18T05:13:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Apple在日本調漲iPhone價格最高達11%",
     "url": "https://9to5mac.com/2026/07/17/apple-increases-iphone-prices-in-japan-by-up-to-11/",
     "content": "Apple has raised iPhone prices in Japan by up to 11% today. The changes affect the iPhone 17 lineup, iPhone Air, and iPhone 16e. Here are the exact increases and the likely explanation.",
@@ -3852,55 +3607,6 @@
     "score": 3
   },
   {
-    "title": "Apple M6 晶片即將推出，以下是目前已知資訊",
-    "url": "https://9to5mac.com/2026/07/16/apples-m6-chip-is-coming-soon-heres-everything-we-know/",
-    "content": "Apple will reportedly launch its next-generation Apple Silicon chip, the M6, later this year. Here’s everything we know so far, including why this generation will be unprecedented in the Apple Silicon era.",
-    "published": "2026-07-16",
-    "published_ts": 1784244804.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-18T05:13:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機晶片",
-    "summary_zh": "Apple 預計今年推出下一代 M6 晶片。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Apple TV for Android adds widgets, Apple Music gets WhatsApp sharing",
-    "url": "https://9to5google.com/2026/07/16/apple-tv-widgets/",
-    "content": "Apple TV and Apple Music for Android are rolling out sizable updates today, with homescreen widgets as the shared theme.",
-    "published": "2026-07-16",
-    "published_ts": 1784242041.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-18T05:13:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "iOS 27 在 iPhone 主畫面新增全新 App",
-    "url": "https://9to5mac.com/2026/07/16/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-    "content": "Apple released the iOS 27 public beta this week, with a ton of new Siri and Apple Intelligence features. One of the biggest changes here is the addition of an all-new Siri app. This marks the first time that Siri has been pre-installed as a standalone app for iPhone users …",
-    "published": "2026-07-16",
-    "published_ts": 1784241765.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-18T05:13:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Apple 發布 iOS 27 公測版，新增 Siri 與 Apple Intelligence 功能及全新 App。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Pixel 11 reportedly getting ‘improved’ face unlock as 11a said to use Tensor G6",
     "url": "https://9to5google.com/2026/07/17/pixel-11-face-unlock-11a-tensor-g6/",
     "content": "While we wait for the Pixel 11 launch, rumors about the Pixel 11a and even 12a are already emerging.",
@@ -4068,19 +3774,6 @@
       "🏢品牌動態"
     ],
     "score": 2
-  },
-  {
-    "title": "Google Health 5.04 rolling out: Custom food logging, more fixes",
-    "url": "https://9to5google.com/2026/07/16/google-health-5-04-release-notes/",
-    "content": "Google Health 5.04 is rolling out today with a focus on nutrition updates — a big complaint of the initial redesign — and other bug fixes.",
-    "published": "2026-07-16",
-    "published_ts": 1784239262.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-18T05:13:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
   },
   {
     "title": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions",
@@ -4391,68 +4084,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "EU orders Google to share search data with rivals, broaden Android feature access",
-    "url": "https://siliconangle.com/2026/07/16/eu-orders-google-share-search-data-rivals-broaden-android-feature-access/",
-    "content": "The European Union today directed Google LLC to change some of its business practices in the search and mobile markets. Officials outlined the required changes in two documents known as binding specification measures. The European Commission, the EU’s executive branch, issued the orders under a piece of legislation called the DMA. It’s designed to prevent […] The post EU orders Google to share sea",
-    "published": "2026-07-17",
-    "published_ts": 1784248517.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-18T05:13:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "中國 Moonshot 推出全球最大 open-weights 模型 Kimi K3",
-    "url": "https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/",
-    "content": "Chinese artificial intelligence lab Moonshot AI today announced the imminent release of Kimi K3, its latest large language model, and already, it’s sending shockwaves across the AI industry. That’s not only because it’s believed to be the world’s largest open-source model to date, but because benchmarks show it outperforms the best models from OpenAI Group PBC […] The post China’s Moonshot throws ",
-    "published": "2026-07-16",
-    "published_ts": 1784245422.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-18T05:13:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Moonshot AI 發布全球最大 open-weights 模型 Kimi K3。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Nvidia 推出 Cosmos 3 Edge 模型並擴大日本物理 AI 布局",
-    "url": "https://siliconangle.com/2026/07/16/nvidia-launches-cosmos-3-edge-model-expands-physical-ai-push-japan/",
-    "content": "Nvidia Corp. has unveiled Cosmos 3 Edge, a compact world model built to run vision reasoning and robot control directly on edge devices, alongside a wave of partnerships that pushes its physical artificial intelligence platform deeper into Japan’s robotics and manufacturing base. The model can handle 4 billion parameters and is built on Nvidia’s Nemotron family. […] The post Nvidia launches Cosmos",
-    "published": "2026-07-16",
-    "published_ts": 1784240924.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-18T05:13:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "機器人",
-    "summary_zh": "Nvidia 發布 Cosmos 3 Edge 邊緣模型，擴展日本物理 AI 業務。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "TSMC boosts Arizona fab investment by $100B after strong second quarter",
-    "url": "https://siliconangle.com/2026/07/16/tsmc-boosts-arizona-fab-investment-100b-strong-second-quarter/",
-    "content": "Taiwan Semiconductor Manufacturing Co. today posted second-quarter results that handily topped analyst expectations. The company also announced plans to expand its fab complex in Arizona. TSMC intends to build at least four additional facilities at a cost of $100 billion, which will bring its total investment in the site to $265 billion. The chipmaker’s profit […] The post TSMC boosts Arizona fab ",
-    "published": "2026-07-16",
-    "published_ts": 1784240177.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-18T05:13:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "BMW i3 Touring caught for the first time, and that wagon rear is hard to miss",
     "url": "https://electrek.co/2026/07/17/bmw-i3-touring-caught-first-time-flashing-wagon-rear/",
     "content": "After the sedan version launched last month, the new BMW i3 Touring was captured for the first time with its wagon tail on display.",
@@ -4634,24 +4265,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Tesla終於推出自行車，但不是粉絲想要的版本",
-    "url": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/",
-    "content": "Tesla fans have spent years begging the company to build an e-bike. Tesla just launched a bike — and it has no motor, no pedals, and it’s for toddlers. The new “Balance Bike for Kids” sells for $225 on Tesla’s online shop, and it’s aimed at children aged 2 to 5.",
-    "published": "2026-07-17",
-    "published_ts": 1784248280.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-18T05:13:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "Tesla推出無馬達、無踏板、專為幼兒設計的自行車，而非e-bike。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Toyota Is Paying EV Drivers $3,000 To Switch To A bZ",
     "url": "https://insideevs.com/news/802060/toyota-bz-3000-conquest-cash/",
     "content": "Toyota is dangling a $3,000 incentive in front of existing EV owners if they make the move to a bZ.",
@@ -4777,24 +4390,6 @@
     "translated": true,
     "category": "電動車",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Launch Mode反而讓2026 Tesla Model Y Performance加速變慢",
-    "url": "https://insideevs.com/news/801923/tesla-model-y-performance-launch/",
-    "content": "The newest Model Y Performance is faster to 60 mph when not using launch mode. What gives?",
-    "published": "2026-07-16",
-    "published_ts": 1784240473.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-07-18T05:13:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "2026 Model Y Performance未使用Launch Mode時，0-60 mph加速更快。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "China introduces consumption tax on lithium-ion batteries",
@@ -5158,61 +4753,6 @@
     "score": 2
   },
   {
-    "title": "Mike Johnson's government funding gambit",
-    "url": "https://www.axios.com/2026/07/16/reconciliation-government-funding-republicans-mike-johnson",
-    "content": "House Speaker Mike Johnson (R-La.) wants to hold a conspicuously early vote on a short-term funding bill next week — more than two months before the government runs out of money. Why it matters: Johnson may be setting himself up to win in September by losing in July. A failed vote on a short-term spending stopgap could potentially strengthen the GOP leader's hand in another difficult challenge: se",
-    "published": "2026-07-16",
-    "published_ts": 1784244704.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-18T05:13:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "眾議院議長Johnson將提前表決短期政府資金法案。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Inside Bibi's mystery Trump meeting",
-    "url": "https://www.axios.com/2026/07/16/netanyahu-mystery-trump-meeting",
-    "content": "White House officials were surprised in recent days to read in the Israeli press that President Trump would host Prime Minister Benjamin Netanyahu on Monday. In fact, no meeting has been scheduled. Why it matters: Netanyahu has visited the Oval Office six times since Trump returned to office a year-and-a-half ago — more than any other world leader. Each of those meetings was scheduled within a mat",
-    "published": "2026-07-16",
-    "published_ts": 1784242063.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-18T05:13:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Trump將與以色列總理Netanyahu會面，白宮官員感意外。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
-    "title": "China's open-weight Kimi model stuns AI world with frontier-level results",
-    "url": "https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-model-openai-anthropic",
-    "content": "Chinese AI startup Moonshot AI stunned developers on Thursday with a massive new model that may rival the best American systems at a fraction of the cost. Why it matters: Kimi K3's early performance is fueling awe across the AI world — and alarm in Silicon Valley and Washington — as China appears to be rapidly erasing America's lead in advanced AI. Catch up quick: Moonshot says Kimi K3 contains 2.",
-    "published": "2026-07-16",
-    "published_ts": 1784241883.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-18T05:13:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Moonshot AI推出Kimi開源模型，效能逼近美國頂尖系統且成本更低。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
     "title": "Fuel for the 2nd Wave of Inflation: Import Prices of Manufactured Goods, Driven by Computers & Electronic Products",
     "url": "https://wolfstreet.com/2026/07/17/fuel-for-the-2nd-wave-of-inflation-import-prices-of-manufactured-goods-driven-by-computers-electronic-products/",
     "content": "The first shock was due to the supply-chain chaos in 2021 through 2022. The second shock is now, it's huge, and it's due to the AI investment boom.",
@@ -5230,24 +4770,6 @@
       "⚠️供應鏈異動"
     ],
     "score": 4
-  },
-  {
-    "title": "Americans Splurge Online and at Vehicle Dealers, instead of Buying Homes? YOLO? Retail Sales without Gas Stations Jump for 5th Month",
-    "url": "https://wolfstreet.com/2026/07/16/americans-splurge-online-and-at-vehicle-dealers-instead-of-buying-homes-yolo-retail-sales-without-gas-stations-jump-for-5th-month/",
-    "content": "Sales at gas stations were pushed by massive price movements of gasoline; we look at retailer categories separately to sort it out.",
-    "published": "2026-07-16",
-    "published_ts": 1784238913.0,
-    "outlet": "Wolf Street",
-    "fetched_at": "2026-07-18T05:13:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "扣除加油站後零售銷售連續第五個月成長。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
   },
   {
     "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
@@ -5982,50 +5504,6 @@
     "content": "“If we are not welcome, there are many other countries that would welcome us,” said Network School founder Balaji Srinivasan in a message to the Malaysian prime minister.",
     "published": "2026-07-17",
     "published_ts": 1784253240.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-18T05:13:20+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Bitcoin 流動性集群決定 BTC 價格方向，期貨流量推升價格",
-    "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Bitcoin futures traders are propping up the current market move, while liquidation heatmap data provides hints on where BTC price may go next.",
-    "published": "2026-07-17",
-    "published_ts": 1784247160.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-18T05:13:20+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Bitcoin 期貨交易者支撐當前走勢，liquidation heatmap 提供價格下一步提示。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Citadel Securities invests $400M in Crypto.com at $20B valuation",
-    "url": "https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Crypto exchanges have increasingly positioned themselves as bridges between digital asset markets and traditional finance.",
-    "published": "2026-07-16",
-    "published_ts": 1784245632.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-18T05:13:20+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Polygon CEO announces job cuts amid Coinme acquisition",
-    "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The round of layoffs was part of Polygon transitioning operations to payments following a $250 million deal to acquire Coinme and Sequence in January.",
-    "published": "2026-07-16",
-    "published_ts": 1784239506.0,
     "outlet": "CoinTelegraph",
     "fetched_at": "2026-07-18T05:13:20+08:00",
     "classified": true,
@@ -39116,5 +38594,125 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
+  },
+  {
+    "title": "The oil spike everyone feared never showed up",
+    "url": "https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html",
+    "content": "",
+    "published": "2026-07-23",
+    "published_ts": 1784772180.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon cracks down on use of AI images by sellers after New York law",
+    "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+    "content": "A recently enacted New York law mandates that companies disclose when an ad includes a \"synthetic performer\" in place of a human actor.",
+    "published": "2026-07-24",
+    "published_ts": 1784853402.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+    "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+    "content": "Oracle will supply on-premises software to the U.S. Department of Defense.",
+    "published": "2026-07-23",
+    "published_ts": 1784843791.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+    "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+    "content": "Intel rallied after the company reported blowout earnings and guidance.",
+    "published": "2026-07-23",
+    "published_ts": 1784845029.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+    "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+    "content": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+    "published": "2026-07-23",
+    "published_ts": 1784840988.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
+    "url": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
+    "content": "IBM's CEO highlighted growing mainframe hardware capacity, and said software should \"catch back up\" within a year.",
+    "published": "2026-07-23",
+    "published_ts": 1784846453.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "Cerebras stock gains on AMD partnership",
+    "url": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
+    "content": "Cerebras and AMD agreed to work together, pairing their technology for AI systems.",
+    "published": "2026-07-23",
+    "published_ts": 1784838792.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+    "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+    "content": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+    "published": "2026-07-23",
+    "published_ts": 1784826606.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says he is 'struggling to have reasons to buy' in this market",
+    "url": "https://www.cnbc.com/2026/07/23/jim-cramer-says-he-iss-struggling-to-have-reasons-to-buy-in-this-market.html",
+    "content": "\"We just don't have the horses to continue higher right now,\" CNBC's Jim Cramer said on Thursday.",
+    "published": "2026-07-23",
+    "published_ts": 1784824523.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
+    "url": "https://www.cnbc.com/2026/07/23/amazon-microsoft-cloud-gaming.html",
+    "content": "Amazon is bringing Luna to the Prime Video streaming service, while Microsoft will test an ad-supported streaming of titles that people own.",
+    "published": "2026-07-23",
+    "published_ts": 1784837210.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "Intel stock is down 27% from June record highs. How the chipmaker can reverse the slide",
+    "url": "https://www.cnbc.com/2026/07/23/intel-is-down-27percent-from-june-record-highs-how-it-can-reverse-the-slide.html",
+    "content": "The report comes at a critical time for optimistic investors like us at the Club.",
+    "published": "2026-07-23",
+    "published_ts": 1784819781.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
+  },
+  {
+    "title": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
+    "url": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
+    "content": "Google Cloud CEO Thomas Kurian told CNBC on Thursday that the company's existing customers are spending \"roughly 50% more\" than they've already committed.",
+    "published": "2026-07-23",
+    "published_ts": 1784843411.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-24T01:19:48Z",
+    "classified": false
   }
 ]
