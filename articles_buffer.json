@@ -1,31 +1,5 @@
 [
   {
-    "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
-    "url": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
-    "content": "The high price for the garment is a sign that collectors are looking to bid on artifacts and collectibles from the artificial intelligence boom.",
-    "published": "2026-07-17",
-    "published_ts": 1784330315.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-18T01:12:14Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
-    "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
-    "content": "The Trump administration is taking steps to control who gets access to the latest frontier models, people familiar with the matter told CNBC.",
-    "published": "2026-07-17",
-    "published_ts": 1784329807.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-18T01:12:14Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
     "title": "3 Stocks Under $50 Worth Buying in July",
     "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-worth-123007083.html",
     "content": "",
@@ -450,45 +424,6 @@
     "content": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
     "published": "2026-07-18",
     "published_ts": 1784350045.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-19T05:11:58+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-    "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-    "content": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world’s most […]",
-    "published": "2026-07-17",
-    "published_ts": 1784329680.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-19T05:11:58+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "content": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-    "published": "2026-07-17",
-    "published_ts": 1784328909.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-19T05:11:58+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "content": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-    "published": "2026-07-17",
-    "published_ts": 1784326376.0,
     "outlet": "TechCrunch",
     "fetched_at": "2026-07-19T05:11:58+08:00",
     "classified": true,
@@ -1010,19 +945,6 @@
     "content": "US government officially lifts TikTok ban on federal devices.",
     "published": "2026-07-18",
     "published_ts": 1784366955.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-19T05:11:59+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "There's now an API for mainlining Trump's Truth Social posts",
-    "url": "https://www.engadget.com/2217943/there-s-now-an-api-for-mainlining-trump-s-truth-social-posts/",
-    "content": "The API is supposed to deliver posts from 'the highest-ranking Truth Social accounts.'",
-    "published": "2026-07-17",
-    "published_ts": 1784325937.0,
     "outlet": "Engadget",
     "fetched_at": "2026-07-19T05:11:59+08:00",
     "classified": true,
@@ -1628,24 +1550,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Gboard 即將新增選項，避免不必要空格",
-    "url": "https://www.androidauthority.com/gboard-spaces-after-autocorrect-suggestions-apk-teardown-3689011/",
-    "content": "Our APK teardown revealed a new toggle that could save you from deleting unwanted spaces after tapping suggestions.",
-    "published": "2026-07-17",
-    "published_ts": 1784325056.0,
-    "outlet": "Android Authority",
-    "fetched_at": "2026-07-19T05:12:08+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "Gboard APK 拆解發現新切換，可避免點擊建議後自動加入空格。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "YouTube PiP 畫中畫模式在 iPhone 與 Android 失效",
     "url": "https://9to5google.com/2026/07/18/youtube-pip-broken/",
     "content": "YouTube is aware of an issue on Android and iPhone where picture-in-picture (PiP) mode does not activate when closing the app.",
@@ -1775,19 +1679,6 @@
     "content": "Apple is citing a newly paused securities fraud lawsuit to support its request to pause further lower-court proceedings in its legal battle with Epic Games while the Supreme Court reviews part of the dispute. Here are the details.",
     "published": "2026-07-18",
     "published_ts": 1784338597.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-19T05:12:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Investigation reveals dozens of disguised gambling apps on the App Store in Brazil",
-    "url": "https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/",
-    "content": "An investigation by 9to5Mac reveals dozens of apps that disguise gambling platforms as simple games and utilities. Here are the details.",
-    "published": "2026-07-17",
-    "published_ts": 1784324588.0,
     "outlet": "9to5Mac",
     "fetched_at": "2026-07-19T05:12:09+08:00",
     "classified": true,
@@ -1996,44 +1887,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Anthropic 與 Meta 洽談 100 億美元資料中心租賃",
-    "url": "https://siliconangle.com/2026/07/17/anthropic-meta-reportedly-discussing-10b-data-center-leasing-deal/",
-    "content": "Anthropic PBC is reportedly seeking to lease some of Meta Platforms Inc.’s data center capacity. The New York Times today cited three sources as saying that the deal could be worth $10 billion over two years. However, the report noted that the companies’ discussions are at an early stage and could fall through. The idea of […] The post Anthropic, Meta reportedly discussing $10B data center leasing",
-    "published": "2026-07-18",
-    "published_ts": 1784337173.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-19T05:12:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Anthropic 據報正與 Meta 洽談租用資料中心，交易規模達 100 億美元。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Databricks 新一輪融資估值達 1880 億美元",
-    "url": "https://siliconangle.com/2026/07/17/databricks-raising-new-funding-188b-valuation/",
-    "content": "Databricks Inc. is in the process of finalizing a funding round that will value it at $118 billion. The company announced the deal on Thursday without disclosing the amount that it’s raising. According to the Wall Street Journal, the round will add $3 billion to Databricks’ balance sheet. Coatue is leading the investment with contributions […] The post Databricks raising new funding at $188B valua",
-    "published": "2026-07-17",
-    "published_ts": 1784328871.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-19T05:12:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Databricks 正在敲定新融資，估值將達到 1880 億美元。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
     "title": "LiuGong brings electric heavy equipment options to North America [video]",
     "url": "https://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
     "content": "This week, Chinese equipment brand LiuGong officially launched its battery-electric equipment and material handling asset portfolio in the United States and Canada, making it easier than ever for construction and forestry crews to decarbonize their fleets.",
@@ -2239,24 +2092,6 @@
     "score": 2
   },
   {
-    "title": "美國33個大城市房價：6月25個同比下降，2個創歷史新高",
-    "url": "https://wolfstreet.com/2026/07/17/home-prices-in-33-big-expensive-cities-in-america-25-fell-year-over-year-in-june-2-rose-to-new-highs/",
-    "content": "And 28 were down from their peaks in prior years, led by Austin -27% and Oakland -25%.",
-    "published": "2026-07-18",
-    "published_ts": 1784336810.0,
-    "outlet": "Wolf Street",
-    "fetched_at": "2026-07-19T05:12:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "美國33個昂貴大城市6月25個房價同比下降，Austin跌27%、Oakland跌25%。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
     "title": "Crypto executives say digital native generations may never need a bank account",
     "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
     "content": "",
@@ -2400,19 +2235,6 @@
     "content": "France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns.",
     "published": "2026-07-18",
     "published_ts": 1784368735.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-19T05:12:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "FTX to distribute $900M to creditors in fifth payment round",
-    "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds.",
-    "published": "2026-07-17",
-    "published_ts": 1784324418.0,
     "outlet": "CoinTelegraph",
     "fetched_at": "2026-07-19T05:12:19+08:00",
     "classified": true,
@@ -38421,5 +38243,105 @@
       "🏢品牌動態"
     ],
     "score": 3
+  },
+  {
+    "title": "Outdoor giant now closing 91 stores in Chapter 11 bankruptcy",
+    "url": "https://finance.yahoo.com/small-business/articles/outdoor-giant-now-closing-91-161700671.html",
+    "content": "",
+    "published": "2026-07-24",
+    "published_ts": 1784909820.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
+    "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
+    "content": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
+    "published": "2026-07-25",
+    "published_ts": 1784941091.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
+    "url": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
+    "content": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
+    "published": "2026-07-24",
+    "published_ts": 1784929725.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+    "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+    "content": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
+    "published": "2026-07-24",
+    "published_ts": 1784930221.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "Bond market anxiety is growing over AI capex budgets",
+    "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+    "content": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
+    "published": "2026-07-24",
+    "published_ts": 1784923656.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "1 hyperscaler megacap down, 3 to go. Alphabet raises the stakes on AI spending",
+    "url": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html",
+    "content": "\"Capex trends are going to be the number one focus,\" Club portfolio director Jeff Marks said Friday ahead of next week's Big Tech earnings.",
+    "published": "2026-07-24",
+    "published_ts": 1784922068.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+    "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+    "content": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+    "published": "2026-07-24",
+    "published_ts": 1784933036.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+    "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+    "content": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
+    "published": "2026-07-24",
+    "published_ts": 1784921990.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+    "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
+    "content": "Anthropic said Claude Opus 5 is its best performing and its most cost-effective offering.",
+    "published": "2026-07-24",
+    "published_ts": 1784913647.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
+  },
+  {
+    "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "content": "Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.",
+    "published": "2026-07-24",
+    "published_ts": 1784915737.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-25T01:20:02Z",
+    "classified": false
   }
 ]
