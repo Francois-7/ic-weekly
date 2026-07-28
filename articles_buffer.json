@@ -26,19 +26,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
-    "url": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
-    "content": "CNBC's Jim Cramer says the AI trade has become too unpredictable, making this a better time to put new money into high-quality companies outside of technology.",
-    "published": "2026-07-20",
-    "published_ts": 1784586022.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-21T01:17:37Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
     "title": "5 Words From Netflix's Co-CEO Ted Sarandos That Suggest an Acquisition May Not Necessarily Be on the Horizon for the Streaming Giant",
     "url": "https://finance.yahoo.com/markets/stocks/articles/5-words-netflixs-co-ceo-125000285.html",
     "content": "",
@@ -453,24 +440,6 @@
     "summary_zh": "推薦 3 檔長期持有的 AI 股票。",
     "tags": [
       "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "各州平均退休儲蓄：美國人儲蓄最多與最少的州",
-    "url": "https://finance.yahoo.com/personal-finance/banking/article/average-retirement-savings-by-state-214302912.html",
-    "content": "",
-    "published": "2026-07-20",
-    "published_ts": 1784583782.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-07-21T13:08:40Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "統計美國各州平均退休儲蓄金額差異。",
-    "tags": [
-      "📊有數字"
     ],
     "score": 2,
     "translated": true
@@ -1458,37 +1427,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
-    "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
-    "content": "Pennsylvania cop charged with oppression and obstruction.",
-    "published": "2026-07-20",
-    "published_ts": 1784585751.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-22T05:37:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "賓州警察遮蔽執法記錄器偷拍裸體囚犯遭起訴。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-    "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-    "content": "California and XPRIZE competition tests whether drones can stop wildfires early.",
-    "published": "2026-07-20",
-    "published_ts": 1784584552.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-22T05:37:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
     "url": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
     "content": "GPU memory is the most expensive resource in production AI, and it's also the one running out fastest. Long context windows and multi-turn conversations force AI models to repeatedly recompute information they've already processed, consuming GPU memory and compute that could otherwise serve additional users or generate new responses. Instead of treating GPU memory as the limiting resource, why not",
@@ -1731,19 +1669,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "I wore Meta's $499 prescription Ray-Bans for 6 weeks: They're stylish but not for me",
-    "url": "https://www.zdnet.com/article/meta-ray-ban-blayzer-optics-gen-2-review/",
-    "content": "Meta's Ray-Ban Blayzer Optics are made specifically for prescription eyeglass wearers with a lightweight, stylish design.",
-    "published": "2026-07-21",
-    "published_ts": 1784592033.0,
-    "outlet": "ZDNet",
-    "fetched_at": "2026-07-22T05:37:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Garmin的回應：CIRQA為無螢幕手環，無需訂閱即可全天協助",
     "url": "https://www.androidcentral.com/wearables/garmin/garmins-turn-the-cirqa-is-a-screenless-band-and-you-get-all-day-help-without-a-subscription",
     "content": "Garmin launched its take on the screenless fitness band: the CIRQA, and users should know that everything it provides is available without a subscription.",
@@ -1844,19 +1769,6 @@
     "content": "A practical guide to reducing Android security risks with minimal effort",
     "published": "2026-07-21",
     "published_ts": 1784622509.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-07-22T05:37:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google's latest Android 17 beta fixes Bluetooth headaches and Gemini crashes",
-    "url": "https://www.androidcentral.com/apps-software/android-os/googles-latest-android-17-beta-fixes-bluetooth-headaches-and-gemini-crashes",
-    "content": "Android 17 QPR2 Beta 1 is here, fixing Bluetooth, Gemini, and touch bugs on Pixels, though Pixel 6 users are officially reaching the end of the beta road.",
-    "published": "2026-07-21",
-    "published_ts": 1784595931.0,
     "outlet": "Android Central",
     "fetched_at": "2026-07-22T05:37:37+08:00",
     "classified": true,
@@ -2939,32 +2851,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Xiaomi 18 series set for an early India launch, report claims",
-    "url": "https://www.gsmarena.com/xiaomi_18_series_set_for_an_early_india_launch_report_claims-news-73795.php",
-    "content": "The Xiaomi 18 series is expected to debut in China this September. A new report now claims that the lineup will launch without an Ultra variant and instead comprise three models. The report also suggests the series could arrive in India earlier than usual. According to the report, Xiaomi's next flagship lineup will include the Xiaomi 18, Xiaomi 18 Pro, and Xiaomi 18 Pro Max. Leaked Xiaomi 18 rende",
-    "published": "2026-07-21",
-    "published_ts": 1784593862.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-22T05:37:44+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "European Commission fines AliExpress €550 million for counterfeit goods",
-    "url": "https://www.gsmarena.com/european_commission_fines_aliexpress_550_million_for_counterfeit_goods-news-73800.php",
-    "content": "The European Commission has today issued a fine of €550 million against the Chinese e-commerce giant AliExpress for failing to \"diligently assess and mitigate risks relating to the sale of illegal, unsafe or counterfeit products\", according to the official press release. The company was found to be breaching its obligations under the EU's Digital Services Act (DSA). The DSA mandates that online pl",
-    "published": "2026-07-20",
-    "published_ts": 1784587262.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-22T05:37:44+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "讓位 Fitbit Air：Garmin 推出全新 CIRQA Smart Band",
     "url": "https://www.androidauthority.com/garmin-cirqa-smart-band-launch-3689862/",
     "content": "Garmin enters the screenless wearable war by launching the CIRQA Smart Band.",
@@ -3747,19 +3633,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works",
-    "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/",
-    "content": "Apple released iOS 27 beta 4 today, and it comes with a useful new “Automatic Downloads” feature in the Apple TV app. Here’s how it works.",
-    "published": "2026-07-21",
-    "published_ts": 1784593503.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-22T05:37:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Gboard rolling out M3 Expressive redesign of shortcuts on Android",
     "url": "https://9to5google.com/2026/07/21/gboard-shortcuts-m3-expressive-redesign/",
     "content": "After months of testing , Gboard is now rolling out a redesign of the shortcuts page that leverages Material 3 Expressive.",
@@ -3898,50 +3771,6 @@
     "content": "Samsung has announced its new credit card, the “Galaxy Card,” which offers up to 5% cashback on Galaxy device purchases.",
     "published": "2026-07-21",
     "published_ts": 1784612700.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-22T05:37:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Android 2026 年 7 月 Google 系統更新內容公布",
-    "url": "https://9to5google.com/2026/07/20/july-2026-google-system-updates/",
-    "content": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.",
-    "published": "2026-07-20",
-    "published_ts": 1784586660.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-22T05:37:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Google 公布 Android 2026 年 7 月系統更新，涵蓋 Play 服務與 Play Store。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Google Photos toggle lets you switch between classic search & Ask Photos",
-    "url": "https://9to5google.com/2026/07/20/google-photos-classic-search-toggle/",
-    "content": "Google Photos has rolled out a “classic search” toggle for Ask Photos that delivers a big quality-of-life improvement.",
-    "published": "2026-07-20",
-    "published_ts": 1784585776.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-22T05:37:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "The Sideload 039: Digital landscaping",
-    "url": "https://9to5google.com/2026/07/20/the-sideload-039-digital-landscaping/",
-    "content": "Welcome to episode 39 of The Sideload, a 9to5Google podcast. This week, Will is joined by Chris Wedel of Gadgets & Gravel to discuss the modern internet landscape, finding moments of peace around technology, and the ever-evolving world of robo-lawnmowers . Sponsored by NordVPN : Listeners to The Sideload can save up to 76% on a two-year subscription alongside four extra months for absolutely free ",
-    "published": "2026-07-20",
-    "published_ts": 1784584800.0,
     "outlet": "9to5Google",
     "fetched_at": "2026-07-22T05:37:45+08:00",
     "classified": true,
@@ -4601,32 +4430,6 @@
     "score": 5
   },
   {
-    "title": "Google reportedly developing ‘Frozen v2’ AI chip optimized for Gemini models",
-    "url": "https://siliconangle.com/2026/07/20/google-reportedly-developing-frozen-v2-ai-chip-optimized-gemini-models/",
-    "content": "Google LLC is reportedly developing a new chip optimized to run its Gemini series of artificial intelligence models. Sources told The Information today that the processor is codenamed “Frozen v2.” According to the publication, it’s expected to provide between six and 10 times better performance per watt than the search giant’s current silicon. Shares of […] The post Google reportedly developing ‘F",
-    "published": "2026-07-21",
-    "published_ts": 1784593812.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-22T05:37:50+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "AI materials science startup CuspAI raises $450M in funding",
-    "url": "https://siliconangle.com/2026/07/20/ai-materials-science-startup-cuspai-raises-450m-funding/",
-    "content": "CuspAI Ltd., a startup using artificial intelligence to discover new materials, today announced that it has raised $450 million in funding. The U.K.-based company also formed a chemical research consortium that includes Nvidia Corp. and Samsung Electronics Co. CuspAI’s Series B round values it at $2.6 billion. The deal was led by Kleiner Perkins and NEA […] The post AI materials science startup Cu",
-    "published": "2026-07-20",
-    "published_ts": 1784588164.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-22T05:37:50+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Kia PV5 High Roof spotted in public for the first time [Video]",
     "url": "https://electrek.co/2026/07/21/kia-pv5-high-roof-spotted-first-time-video/",
     "content": "Kia is gearing up to launch several new PV5 electric van variants, including a High Roof model. Spotted driving in public, the PV5 High Roof looks considerably bigger than the standard model.",
@@ -4835,37 +4638,6 @@
     "content": "Volkswagen is expanding its presence in the e-bike world with a new lineup of premium electric bicycles developed under license by n+. But instead of chasing ever-bigger motors or batteries, the new models are leaning heavily into automotive-inspired safety technology, packing in an impressive suite of connected features aimed at making urban riding safer.",
     "published": "2026-07-21",
     "published_ts": 1784638413.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-22T05:37:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Tesla 在 Cybercab 整合 Starlink 天線",
-    "url": "https://electrek.co/2026/07/20/tesla-starlink-cybercab-integration-why/",
-    "content": "Tesla and Starlink say SpaceX’s satellite internet is now “directly integrated” into the Cybercab, Tesla’s dedicated robotaxi. The reveal came through a pair of posts on X on Monday, with a cutaway diagram showing a Starlink antenna sitting in the vehicle’s roof. Neither company explained why a car that drives itself on its own computer needs internet from space.",
-    "published": "2026-07-21",
-    "published_ts": 1784593521.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-22T05:37:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "機器人",
-    "summary_zh": "Tesla 與 Starlink 宣布將 SpaceX 衛星網路直接整合至 Cybercab 車款。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "The Hyundai IONIQ 5 is flying off dealer lots, and it’s getting harder to find",
-    "url": "https://electrek.co/2026/07/20/hyundai-ioniq-5-selling-fast-dealers-running-out/",
-    "content": "The IONIQ 5 is a hot seller right now, and Hyundai dealers are reportedly running out of inventory.",
-    "published": "2026-07-20",
-    "published_ts": 1784583582.0,
     "outlet": "Electrek",
     "fetched_at": "2026-07-22T05:37:51+08:00",
     "classified": true,
@@ -5494,42 +5266,6 @@
       "📋政策法規"
     ],
     "score": 4
-  },
-  {
-    "title": "Senate watches the House on reconciliation 3.0",
-    "url": "https://www.axios.com/2026/07/21/congress-reconciliation-omb-iran-republicans",
-    "content": "Senate Republicans are warming to the idea of using a third reconciliation package to replenish the Pentagon's depleted weapons stocks. Why it matters: They still view reconciliation 3.0 as Plan B. For now, though, they're willing to let House Speaker Mike Johnson (R-La.) attempt the legislative equivalent of a triple axel: passing a rule, a short-term government funding bill and a budget resoluti",
-    "published": "2026-07-21",
-    "published_ts": 1784592658.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-22T05:37:53+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "參院共和黨考慮第三次預算調解案補充五角大廈武器庫存。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Oh Dear, Condo Prices Fell by 15% to 33% in 30 Bigger Cities Already. Some Dropped Back to 2006 Levels",
-    "url": "https://wolfstreet.com/2026/07/20/oh-dear-condo-prices-fell-by-15-to-33-in-30-bigger-cities-already-some-dropped-back-to-2006-levels/",
-    "content": "In another 39 bigger cities, condo prices fell by 8% to 14%. A massive hangover after a historic Condo Bubble.",
-    "published": "2026-07-20",
-    "published_ts": 1784589799.0,
-    "outlet": "Wolf Street",
-    "fetched_at": "2026-07-22T05:37:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "30個大城市公寓價格已下跌15%至33%，部分回落至2006年水準。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
   },
   {
     "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
@@ -6445,37 +6181,6 @@
     "content": "The move comes as traditional exchanges face growing competition from crypto markets and tokenized equity platforms that offer around-the-clock trading.",
     "published": "2026-07-21",
     "published_ts": 1784596610.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-22T05:37:55+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Patrick Witt 延後軍事訓練，CLARITY 法案送交參議院",
-    "url": "https://cointelegraph.com/news/patrick-witt-defers-military-training-as-clarity-heads-to-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The decision keeps the administration’s chief crypto policy negotiator in place during what could be a decisive few weeks for the CLARITY Act.",
-    "published": "2026-07-21",
-    "published_ts": 1784592124.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-22T05:37:55+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "監管與合規",
-    "summary_zh": "Patrick Witt 延後軍事訓練，繼續擔任加密政策談判代表，協助 CLARITY 法案在參議院推進。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
-    "url": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Coinbase vice chair Ryan VanGrack said that Democratic lawmakers had added provisions on customer protection to a digital asset market structure bill under consideration in the US Senate.",
-    "published": "2026-07-20",
-    "published_ts": 1784583683.0,
     "outlet": "CoinTelegraph",
     "fetched_at": "2026-07-22T05:37:55+08:00",
     "classified": true,
@@ -38629,5 +38334,155 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
+  },
+  {
+    "title": "52-year-old international restaurant chain closing all locations",
+    "url": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
+    "content": "",
+    "published": "2026-07-27",
+    "published_ts": 1785164227.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-28T01:14:46Z",
+    "classified": false
+  },
+  {
+    "title": "Best CD rates today, Monday, July 27, 2026: Lock in up to 4.20% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-27-2026-lock-in-up-to-420-apy-100000874.html",
+    "content": "",
+    "published": "2026-07-27",
+    "published_ts": 1785146400.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-28T01:14:46Z",
+    "classified": false
+  },
+  {
+    "title": "HELOC and home equity loan rates today, Monday, July 27, 2026: How to choose when rates are nearly identical",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-july-27-2026-how-to-choose-when-rates-are-nearly-identical-100000292.html",
+    "content": "",
+    "published": "2026-07-27",
+    "published_ts": 1785146400.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-28T01:14:46Z",
+    "classified": false
+  },
+  {
+    "title": "Best high-yield savings interest rates today, Monday, July 27, 2026: You can earn up to 4.15% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-27-2026-you-can-earn-up-to-415-apy-100000612.html",
+    "content": "",
+    "published": "2026-07-27",
+    "published_ts": 1785146400.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-07-28T01:14:46Z",
+    "classified": false
+  },
+  {
+    "title": "Microsoft touts cost-saving AI model for cybersecurity",
+    "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+    "content": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+    "published": "2026-07-27",
+    "published_ts": 1785195985.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+    "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+    "content": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
+    "published": "2026-07-27",
+    "published_ts": 1785195830.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer issues a warning to investors trading with borrowed money",
+    "url": "https://www.cnbc.com/2026/07/27/jim-cramer-warning-investors-trading-with-borrowed-money.html",
+    "content": "\"If you're borrowing money to buy something related to the data center, then tomorrow morning, 9:30 a.m., sell it no matter what,\" said CNBC's Jim Cramer.",
+    "published": "2026-07-27",
+    "published_ts": 1785193202.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
+    "url": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
+    "content": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
+    "published": "2026-07-27",
+    "published_ts": 1785190801.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Apple ends day as world's most valuable company, passing Nvidia",
+    "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+    "content": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
+    "published": "2026-07-27",
+    "published_ts": 1785186746.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
+    "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
+    "content": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and capital rotated away from chip and AI infrastructure names.",
+    "published": "2026-07-27",
+    "published_ts": 1785179670.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+    "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+    "content": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
+    "published": "2026-07-27",
+    "published_ts": 1785187780.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory framework",
+    "url": "https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html",
+    "content": "AI can't be regulated by the invisible hand of the market. We need a comprehensive future-focused regulatory framework.",
+    "published": "2026-07-27",
+    "published_ts": 1785180132.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
+    "url": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
+    "content": "The proposed network will partly rely on assets from Globalstar, which Amazon announced plans to acquire in April for roughly $11.6 billion.",
+    "published": "2026-07-27",
+    "published_ts": 1785174167.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
+    "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
+    "content": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
+    "published": "2026-07-27",
+    "published_ts": 1785183003.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
+  },
+  {
+    "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
+    "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+    "content": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
+    "published": "2026-07-27",
+    "published_ts": 1785187790.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-07-28T01:14:47Z",
+    "classified": false
   }
 ]
