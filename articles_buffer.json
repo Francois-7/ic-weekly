@@ -26,69 +26,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-    "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
-    "content": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
-    "published": "2026-07-25",
-    "published_ts": 1784941091.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-25T01:20:02Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Uber 和 Waymo 將結束在 Atlanta 和 Austin 的獨家合作",
-    "url": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
-    "content": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
-    "published": "2026-07-24",
-    "published_ts": 1784929725.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-25T01:20:02Z",
-    "classified": true,
-    "category": "電動車",
-    "subtopic": "自動駕駛",
-    "summary_zh": "Waymo 無人駕駛服務 2028 年起可在 Atlanta 和 Austin 透過 Uber 以外平台提供。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "Musk 糟糕一週：Tesla 股價創 2022 年來最大跌幅，SpaceX 股價下滑",
-    "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
-    "content": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
-    "published": "2026-07-24",
-    "published_ts": 1784930221.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-25T01:20:02Z",
-    "classified": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "Tesla 本週股價暴跌近 18%，因財報未達預期且現金流轉負。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
-    "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-    "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-    "content": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-    "published": "2026-07-24",
-    "published_ts": 1784933036.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-25T01:20:02Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
     "title": "Alphabet 下跌、Intel 震驚、Tesla 重挫：AlphaSpace 週報",
     "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
     "content": "",
@@ -572,63 +509,6 @@
     "score": 4
   },
   {
-    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "content": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-    "published": "2026-07-25",
-    "published_ts": 1784938991.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-26T05:22:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 推出新 AI keypad，適合部分程式設計師使用。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-    "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-    "content": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
-    "published": "2026-07-24",
-    "published_ts": 1784935547.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-26T05:22:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-    "content": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-    "published": "2026-07-24",
-    "published_ts": 1784931958.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-26T05:22:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-    "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-    "content": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
-    "published": "2026-07-24",
-    "published_ts": 1784931000.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-26T05:22:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Google basically confirms the Pixel 11 is getting a price hike",
     "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
     "content": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from […]",
@@ -740,19 +620,6 @@
     "content": "Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and allow side-sleepers to doze off listening to podcasts, audiobooks, music, or white noise without annoying their […]",
     "published": "2026-07-25",
     "published_ts": 1784962800.0,
-    "outlet": "The Verge",
-    "fetched_at": "2026-07-26T05:22:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
-    "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-    "content": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge. The company is […]",
-    "published": "2026-07-24",
-    "published_ts": 1784932066.0,
     "outlet": "The Verge",
     "fetched_at": "2026-07-26T05:22:54+08:00",
     "classified": true,
@@ -887,19 +754,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
-    "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
-    "content": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
-    "published": "2026-07-24",
-    "published_ts": 1784932226.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-26T05:22:54+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
     "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
     "content": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
@@ -931,32 +785,6 @@
     "content": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
     "published": "2026-07-25",
     "published_ts": 1784976332.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-26T05:22:55+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-    "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-    "content": "\"Any potential damage will be assessed when it is safe to do so.\"",
-    "published": "2026-07-24",
-    "published_ts": 1784932100.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-26T05:22:55+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-    "content": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
-    "published": "2026-07-24",
-    "published_ts": 1784930162.0,
     "outlet": "Ars Technica",
     "fetched_at": "2026-07-26T05:22:55+08:00",
     "classified": true,
@@ -1270,56 +1098,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Meta has pulled out of a renewable energy initiative as it relies more on natural gas for data centers",
-    "url": "https://www.engadget.com/2222988/meta-has-pulled-out-of-a-renewable-energy-initiative-as-it-relies-more-on-natural-gas-for-data-centers/",
-    "content": "The company has comitted to 10 natural gas plants since last year.",
-    "published": "2026-07-24",
-    "published_ts": 1784934804.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-26T05:22:55+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Meta 退出再生能源計畫，去年起承諾興建 10 座天然氣電廠。",
-    "tags": [
-      "📊有數字",
-      "⚠️供應鏈異動"
-    ],
-    "score": 4
-  },
-  {
-    "title": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites",
-    "url": "https://www.engadget.com/2222979/spacex-13th-starship-flight-test-launches-with-starlink-s-next-gen-satellites/",
-    "content": "Starship was carrying 20 V3 Starlink satellites as payload for its 13th test flight.",
-    "published": "2026-07-24",
-    "published_ts": 1784933641.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-26T05:22:55+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Trump threatens EU with new tariffs in response to Google fine",
-    "url": "https://www.engadget.com/2222963/trump-threatens-eu-with-new-tariffs-in-response-to-google-fine/",
-    "content": "The European Commission found Google's search ranking and anti-steering violated the Digital Markets Act.",
-    "published": "2026-07-24",
-    "published_ts": 1784932537.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-07-26T05:22:55+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "關稅與貿易戰",
-    "summary_zh": "歐盟認定 Google 違反數位市場法，Trump 威脅加徵關稅。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
     "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
     "url": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
     "content": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
@@ -1417,19 +1195,6 @@
     "classified": true,
     "translated": true,
     "category": "AIoT",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Intel Foundry Improves Execution, but External Customers Remain the Test",
-    "url": "https://www.eetimes.com/intel-foundry-improves-execution-but-external-customers-remain-the-test/",
-    "content": "Intel’s fabs are healing, but $293M in outside revenue won’t scare TSMC yet. The post Intel Foundry Improves Execution, but External Customers Remain the Test appeared first on EE Times .",
-    "published": "2026-07-24",
-    "published_ts": 1784930400.0,
-    "outlet": "EE Times",
-    "fetched_at": "2026-07-26T05:23:00+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
     "subtopic": "綜合"
   },
   {
@@ -1599,37 +1364,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Samsung Galaxy F70 Pro pops up on Geekbench with its key specs",
-    "url": "https://www.gsmarena.com/samsung_galaxy_f70_pro_key_specs_geekbench-news-73867.php",
-    "content": "Samsung unveiled the Galaxy F70e in February, and we might see it launch a Pro model in the coming months, as the smartphone was spotted on the GSMA database a few months ago and has now popped up on Geekbench. The benchmark database reveals that the Samsung Galaxy F70 Pro, bearing model code SM-E476B, is powered by Qualcomm's SM6475 chip, which corresponds to the Snapdragon 6 Gen 3 SoC. It consis",
-    "published": "2026-07-25",
-    "published_ts": 1784941322.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-26T05:23:04+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Samsung Galaxy F70 Pro在Geekbench曝光關鍵規格，可能數月內推出。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Xiaomi 18 Pro will get a global launch, new rumor claims",
-    "url": "https://www.gsmarena.com/xiaomi_18_pro_will_get_a_global_launch_new_rumor_claims-news-73873.php",
-    "content": "Last year the Xiaomi 17 Pro and Xiaomi 17 Pro Max were launched in China and never made it outside of the company’s home country. The situation is changing this year, however, according to a new report. The Xiaomi 18 Pro at least will allegedly be released in markets like Europe, Türkiye, Russia, Taiwan, and Japan. A few days ago a different report claimed that the Xiaomi 18 Pro would also launch ",
-    "published": "2026-07-24",
-    "published_ts": 1784934122.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-26T05:23:04+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Indie App Spotlight: ‘NeoCam’ brings a retro video game style look to your iPhone photos",
     "url": "https://9to5mac.com/2026/07/25/indie-app-spotlight-neocam-brings-a-retro-video-game-style-look-to-your-iphone-photos/",
     "content": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . NeoCam is a fun, new camera app for iPhone and iPad that brings a Game Boy camera style look to all of your photos. It works in real time, can be adjusted on the fly, and more.",
@@ -1761,32 +1495,6 @@
     "score": 4
   },
   {
-    "title": "New lawsuit alleges unpatchable Apple chip exploit was developed using stolen trade secrets",
-    "url": "https://9to5mac.com/2026/07/24/new-lawsuit-alleges-unpatchable-apple-chip-exploit-was-developed-using-stolen-trade-secrets/",
-    "content": "Magnet Forensics is suing Paradigm Shift Technology over its publication of usbliter8, alleging that the unpatchable exploit affecting several Apple SoCs was developed using trade secrets misappropriated by a former engineer. Here are the details.",
-    "published": "2026-07-25",
-    "published_ts": 1784940783.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-26T05:23:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Tapbots launches Pastebot 3 with improved organization and automation tools",
-    "url": "https://9to5mac.com/2026/07/24/tapbots-launches-pastebot-3-with-improved-organization-and-automation-tools/",
-    "content": "Pastebot, one of the most popular clipboard managers for Mac, was updated today, nearly ten years after the release of Pastebot 2. Here are the details.",
-    "published": "2026-07-24",
-    "published_ts": 1784931506.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-26T05:23:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Google Maps rolling out Immersive Navigation, speedometer in Android Auto to more users",
     "url": "https://9to5google.com/2026/07/25/google-maps-immersive-navigation-android-auto-speedometer-rollout-more/",
     "content": "Google Maps appears to be opening the floodgates on the rollout of Immersive Navigation and support for a speedometer in Android Auto right now, as both features are showing up more broadly.",
@@ -1816,19 +1524,6 @@
       "🏢品牌動態"
     ],
     "score": 1
-  },
-  {
-    "title": "Pixelated 109: Unpacking Unpacked",
-    "url": "https://9to5google.com/2026/07/24/pixelated-109-unpacking-unpacked/",
-    "content": "Welcome to Pixelated episode 109. This week, Damien, Abner, and Will dive into everything Samsung announced at this week’s Galaxy Unpacked, the legacy of the original Pixel Fold, and whether flip phones have a future ahead of them. Enjoy the episode? You can listen to our brand new weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro ! Sponsored by Proton Unlimited : Pi",
-    "published": "2026-07-24",
-    "published_ts": 1784929130.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-26T05:23:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
   },
   {
     "title": "Security flaw in Vatican’s ‘Click to Pray’ app leaves over 700,000 global users exposed — app has been leaking user data for over six months and still does",
@@ -2101,19 +1796,6 @@
     "score": 4
   },
   {
-    "title": "Nvidia, other tech giants caution against open-source AI ban in open letter",
-    "url": "https://siliconangle.com/2026/07/24/nvidia-tech-giants-caution-open-source-ai-ban-open-letter/",
-    "content": "A group of tech firms has released an open letter that calls on policymakers not to ban open-source artificial intelligence models. The development follows a report that some Trump administration officials sought to limit the use of such algorithms. Many of the world’s most popular open-source AI models were developed by Chinese companies. According to […] The post Nvidia, other tech giants cautio",
-    "published": "2026-07-25",
-    "published_ts": 1784938550.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-26T05:23:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Waymo 無人計程車比人類駕駛安全 2/3",
     "url": "https://electrek.co/2026/07/25/waymo-is-2-3-safer-than-a-human-driver-says-iihs-with-some-caveats/",
     "content": "Waymo’s autonomous electric taxis crash 68% less than the average human driver, according to the Insurance Institute for Highway Safety, with lower-severity crashes on average as well. But there are some important caveats that limit the data.",
@@ -2163,37 +1845,6 @@
     "content": "Massachusetts lawmakers are considering a new statewide framework for micromobility that could finally bring clearer rules to everything from e-bikes and e-scooters to higher-speed electric motorbikes capable of reaching 30 mph, 40 mph, and beyond.",
     "published": "2026-07-25",
     "published_ts": 1784984580.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-26T05:23:11+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Musk 宣稱 Tesla 將 open source Model S 與 X",
-    "url": "https://electrek.co/2026/07/24/tesla-open-source-model-s-x-roadster-release-audit/",
-    "content": "Elon Musk says Tesla plans to “open source” the Model S and Model X, and he’s pointing to the original Roadster as the template. The problem is Tesla’s Roadster release amounted to eight files on GitHub plus five document packages behind a login, with no open-source license attached to any of it.",
-    "published": "2026-07-24",
-    "published_ts": 1784936300.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-26T05:23:11+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "Elon Musk 表示 Tesla 計畫 open source Model S 與 Model X，但先前案例引發質疑。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "A 1.2 GW solar farm is rising at a Texas coal site – but coal is staying",
-    "url": "https://electrek.co/2026/07/24/a-1-2-gw-solar-farm-is-rising-at-a-texas-coal-site-but-coal-is-staying/",
-    "content": "One of North America’s biggest coal-site solar projects is now under construction in Texas – but the coal plant next door isn’t going anywhere. Here’s why.",
-    "published": "2026-07-24",
-    "published_ts": 1784931917.0,
     "outlet": "Electrek",
     "fetched_at": "2026-07-26T05:23:11+08:00",
     "classified": true,
@@ -2254,24 +1905,6 @@
     "score": 2
   },
   {
-    "title": "Tesla 門把設計可能引發 NHTSA 新安全法規",
-    "url": "https://insideevs.com/news/802695/tesla-door-handles-recall-nhtsa/",
-    "content": "NHTSA said it would start working on rules around interior door releases in all vehicles.",
-    "published": "2026-07-24",
-    "published_ts": 1784932370.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-07-26T05:23:11+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "NHTSA 將針對所有車輛內門釋放機制制定新安全規範。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "Airbus tests hybrid-electric energy architecture for commercial aircraft",
     "url": "https://www.electrive.com/2026/07/25/airbus-tests-hybrid-electric-energy-architecture-for-commercial-aircraft/",
     "content": "Airbus is working with partners from Europe and the USA on a new electrical energy architecture for future commercial aircraft. The LEIA project aims to test high-voltage systems at the aircraft level and will culminate in a ground demonstration in 2027.",
@@ -2314,24 +1947,6 @@
     "translated": true,
     "category": "電動車",
     "subtopic": "綜合"
-  },
-  {
-    "title": "DOE 澄清太陽能夜間不發電但日間表現優異",
-    "url": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
-    "content": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love to take, even though the people who operate our power grids know that this is the case and plan…",
-    "published": "2026-07-24",
-    "published_ts": 1784933880.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-07-26T05:23:13+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "光伏",
-    "summary_zh": "美國能源部指出太陽能板夜間不發電為常識，日間發電表現突出。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2
   },
   {
     "title": "Trump 下令美軍週五暫停對伊朗空襲",
@@ -2499,24 +2114,6 @@
     "score": 3
   },
   {
-    "title": "Bitcoin Policy Institute 與 Palantir 加入美國國務院計畫",
-    "url": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
-    "content": "The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.",
-    "published": "2026-07-24",
-    "published_ts": 1784931661.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-07-26T05:23:16+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Bitcoin Policy Institute、Palantir 與 Anduril 成為美國國務院 Freedom Tech Excellence Program 合作夥伴。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
     "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "content": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
@@ -2618,37 +2215,11 @@
     "score": 3
   },
   {
-    "title": "EU authorities include HTX exchange in Russian sanctions",
-    "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.",
-    "published": "2026-07-24",
-    "published_ts": 1784929985.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-26T05:23:16+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
     "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
     "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
     "content": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
     "published": "2026-07-25",
     "published_ts": 1784988063.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-26T05:23:16+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-    "content": "For the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.",
-    "published": "2026-07-24",
-    "published_ts": 1784930596.0,
     "outlet": "Decrypt",
     "fetched_at": "2026-07-26T05:23:16+08:00",
     "classified": true,
@@ -38386,5 +37957,75 @@
       "📊有數字"
     ],
     "score": 4
+  },
+  {
+    "title": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html",
+    "content": "",
+    "published": "2026-07-31",
+    "published_ts": 1785527100.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-01T01:24:51Z",
+    "classified": false
+  },
+  {
+    "title": "Mortgage and refinance interest rates today, Friday, July 31, 2026: Mortgage rates find more room to fall",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-31-2026-mortgage-rates-find-more-room-to-fall-100000678.html",
+    "content": "",
+    "published": "2026-07-31",
+    "published_ts": 1785492000.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-01T01:24:51Z",
+    "classified": false
+  },
+  {
+    "title": "Best CD rates today, Friday, July 31, 2026: Up to 4.15% APY return",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-july-31-2026-up-to-415-apy-return-100000041.html",
+    "content": "",
+    "published": "2026-07-31",
+    "published_ts": 1785492000.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-01T01:24:51Z",
+    "classified": false
+  },
+  {
+    "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+    "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+    "content": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+    "published": "2026-07-31",
+    "published_ts": 1785534580.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-01T01:24:51Z",
+    "classified": false
+  },
+  {
+    "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+    "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+    "content": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
+    "published": "2026-07-31",
+    "published_ts": 1785529143.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-01T01:24:51Z",
+    "classified": false
+  },
+  {
+    "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+    "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
+    "content": "The food delivery company is the latest to be asked to share details of AI use by two House committee conducting a joint investigation.",
+    "published": "2026-07-31",
+    "published_ts": 1785516638.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-01T01:24:51Z",
+    "classified": false
+  },
+  {
+    "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
+    "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
+    "content": "Trimmed mean measures are painting a different picture than the headline numbers.",
+    "published": "2026-07-31",
+    "published_ts": 1785516690.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-08-01T01:24:51Z",
+    "classified": false
   }
 ]
