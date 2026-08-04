@@ -26,79 +26,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Microsoft touts cost-saving AI model for cybersecurity",
-    "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
-    "content": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
-    "published": "2026-07-27",
-    "published_ts": 1785195985.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-28T01:14:47Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Microsoft表示其新資安模型整合OpenAI GPT-5.4後，效能超越Anthropic Mythos 5。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
-    "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
-    "content": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
-    "published": "2026-07-27",
-    "published_ts": 1785195830.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-28T01:14:47Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic CEO Dario Amodei澄清公司未支持禁止open-weight模型。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer issues a warning to investors trading with borrowed money",
-    "url": "https://www.cnbc.com/2026/07/27/jim-cramer-warning-investors-trading-with-borrowed-money.html",
-    "content": "\"If you're borrowing money to buy something related to the data center, then tomorrow morning, 9:30 a.m., sell it no matter what,\" said CNBC's Jim Cramer.",
-    "published": "2026-07-27",
-    "published_ts": 1785193202.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-28T01:14:47Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Jim Cramer警告投資人若用借錢買資料中心相關股票，應於明日9:30賣出。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
-    "url": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
-    "content": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
-    "published": "2026-07-27",
-    "published_ts": 1785190801.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-28T01:14:47Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Jim Cramer指出Nvidia支持OpenAI資料中心融資，類似網路泡沫前兆。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
     "title": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens, but Dow rises",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html",
     "content": "",
@@ -1860,19 +1787,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "France Had Never Seen a ‘Fire Cloud’ Until This Month’s Record-Smashing Blazes",
-    "url": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/",
-    "content": "Extreme fire conditions on the ground have created unprecedented conditions in the atmosphere.",
-    "published": "2026-07-27",
-    "published_ts": 1785193040.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-29T05:36:06+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
     "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
     "content": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
@@ -1917,32 +1831,6 @@
     "content": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
     "published": "2026-07-28",
     "published_ts": 1785245543.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-29T05:36:07+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "content": "Microsoft says tools cost less than competing ones and outperform them, too.",
-    "published": "2026-07-27",
-    "published_ts": 1785189374.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-29T05:36:07+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-    "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-    "content": "Starlink has a Texas factory but also makes routers in Vietnam.",
-    "published": "2026-07-27",
-    "published_ts": 1785188427.0,
     "outlet": "Ars Technica",
     "fetched_at": "2026-07-29T05:36:07+08:00",
     "classified": true,
@@ -3054,37 +2942,6 @@
     "score": 4
   },
   {
-    "title": "Quest&#x27;s Horizon+ Subscription Added 10 Monthly Hours Of Xbox Games",
-    "url": "https://www.uploadvr.com/quest-horizon-plus-subscription-adds-xbox-games/",
-    "content": "Quest's Horizon+ subscription added 10 monthly hours of flatscreen cloud streaming for 58 Xbox titles, furthering Meta's partnership with Microsoft.",
-    "published": "2026-07-27",
-    "published_ts": 1785190677.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-07-29T05:36:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "更新：Valve表示這些VR遊戲在Steam Frame上「表現優異」",
-    "url": "https://www.uploadvr.com/great-on-steam-frame-vr-games-valve/",
-    "content": "Here's the full list of VR games Valve says are \"great\" on Steam Frame, with the headset set to launch any week now.",
-    "published": "2026-07-27",
-    "published_ts": 1785190543.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-07-29T05:36:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "Valve公布Steam Frame相容VR遊戲完整清單，頭顯即將上市。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "蘋果傳出「HomePad」最快10月推出",
     "url": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
     "content": "For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides \"HomePod with a screen,\" details have been sparse. But now, a new report from Bloomberg's Mark Gurman sheds some light on the alleged device, […]",
@@ -3329,24 +3186,6 @@
     "translated": true,
     "category": "手機",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Samsung Galaxy S27 Pro 和 S27 Ultra 電池容量洩露",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_battery_capacities_leak-news-73896.php",
-    "content": "A few days ago we heard some new details about the Galaxy S27 family's cameras, and now the same source is back with information about the devices' batteries. It's good news, by the way. The Galaxy S27 Pro will allegedly have a battery with a rated capacity of 5,087 mAh, which will probably be advertised as a typical capacity of 5,200 mAh. Considering that this is a smaller device, that's already ",
-    "published": "2026-07-27",
-    "published_ts": 1785195062.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-29T05:36:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Samsung Galaxy S27 Pro 與 S27 Ultra 電池容量資訊外洩。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "Instapaper 更新新增 Liquid Glass、主畫面小工具與新字體",
@@ -3767,19 +3606,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "LM Studio Bionic adds support for Moonshot AI’s Kimi K3 model",
-    "url": "https://9to5mac.com/2026/07/27/lm-studio-bionic-adds-support-for-moonshot-ais-kimi-k3-model/",
-    "content": "LM Studio’s agentic workflow platform now lets users run tasks with Kimi K3, Moonshot AI’s 2.8-trillion-parameter model with a 1-million-context window. Here are the details.",
-    "published": "2026-07-28",
-    "published_ts": 1785198094.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-29T05:36:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Google Photos adds setting to disable shimmer, AI camera shortcut",
     "url": "https://9to5google.com/2026/07/28/google-photos-shimmer-setting/",
     "content": "Google Photos for Android has rolled out a trio of small updates today, led by a new shimmer setting.",
@@ -4062,37 +3888,6 @@
     "translated": true,
     "category": "手機",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Gemini app simplifies thinking level picker, rolling out settings for ‘Notifications’",
-    "url": "https://9to5google.com/2026/07/27/gemini-app-thinking-notifications/",
-    "content": "The Gemini app is rolling out a handful of tweaks today that streamline the interface for new features.",
-    "published": "2026-07-28",
-    "published_ts": 1785199543.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-29T05:36:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Android 2026 年 7 月 Google System Updates 更新內容",
-    "url": "https://9to5google.com/2026/07/27/july-2026-google-system-updates/",
-    "content": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.",
-    "published": "2026-07-27",
-    "published_ts": 1785190800.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-07-29T05:36:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Google 發布 Android 2026 年 7 月系統更新，涵蓋 Play services 與 Play Store 新功能。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
   },
   {
     "title": "Acer Swift Go 16 AI OLED 筆電售價僅 $699",
@@ -4668,64 +4463,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Ilya Sutskever’s Safe Superintelligence gets access to Nvidia’s Vera Rubin platform",
-    "url": "https://siliconangle.com/2026/07/27/ilya-sutskevers-safe-superintelligence-gets-access-nvidias-vera-rubin-platform/",
-    "content": "Safe Superintelligence Inc., a frontier lab that’s trying to develop safe and ethically-aligned artificial superintelligence for the benefit of humanity, has hit the headlines again after striking a significant deal with Nvidia Corp. that will give it access to vast computing resources. The deal will give SSI access to Nvidia’s Vera Rubin graphics processing units, […] The post Ilya Sutskever’s Sa",
-    "published": "2026-07-28",
-    "published_ts": 1785200808.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-29T05:36:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Chinese memory maker CXMT jumps 460%+ in first day of trading",
-    "url": "https://siliconangle.com/2026/07/27/chinese-memory-maker-cxmt-jumps-460-first-day-trading/",
-    "content": "Shares of ChangXin Memory Technologies Inc. closed 466% higher in their trading debut on the Shanghai Stock Exchange today. The stock jump follows an initial public offering in which CXMT, China’s largest memory maker, sold about 6.8 billion shares for 8.66 yuan apiece. The IPO fetched a total of 57.92 billion yuan, or $8.6 billion. […] The post Chinese memory maker CXMT jumps 460%+ in first day o",
-    "published": "2026-07-28",
-    "published_ts": 1785199301.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-29T05:36:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Enigma 募資 $71M，開發機器人基礎模型",
-    "url": "https://siliconangle.com/2026/07/27/enigma-raises-71m-develop-foundation-models-robots/",
-    "content": "Engima Ltd., a provider of artificial intelligence software for robots, launched today with $71 million in funding. Index Ventures and Ribbit Capital jointly led the seed round with participation from Conviction Partners. They were joined by a group of angel investors that included employees at Google DeepMind, Anthropic PBC and OpenAI Group PBC. Teaching an […] The post Enigma raises $71M to deve",
-    "published": "2026-07-27",
-    "published_ts": 1785194294.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-29T05:36:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Enigma 宣布成立，獲得 $71M 資金開發機器人基礎模型。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Microsoft’s introduces its first agent-powered cybersecurity model",
-    "url": "https://siliconangle.com/2026/07/27/microsofts-first-cybersecurity-model-powers-new-project-perception-agents/",
-    "content": "Microsoft Corp. today introduced its first in-house cybersecurity model, MAI-Cyber-1-Flash, and a companion agentic system called Project Perception that fields teams of artificial intelligence agents to probe for weaknesses, investigate threats and remediate them, starting with software vulnerability management. The model is a compact, code-tuned derivative of Microsoft’s MAI-Thinking-1 line, tra",
-    "published": "2026-07-27",
-    "published_ts": 1785191927.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-29T05:36:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Kia’s vehicles are about to get a smart upgrade, starting in 2027",
     "url": "https://electrek.co/2026/07/28/kias-vehicles-smart-upgrade-2027/",
     "content": "Starting next year, Kia will begin launching vehicles equipped with Hyundai’s new high-tech infotainment system.",
@@ -4985,32 +4722,6 @@
     "content": "On today’s episode of Quick Charge , the audio is sketchy but the math is absolutely rock solid with 94% of current EV owners saying they’ll NEVER go back to driving an antiquated gas guzzler. CDK’s David Thomas walks us through the findings.",
     "published": "2026-07-28",
     "published_ts": 1785202576.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-29T05:36:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "BMW is finally making the electric convertible we’ve been waiting for",
-    "url": "https://electrek.co/2026/07/27/bmw-i4-electric-convertible-2028/",
-    "content": "BMW is planning an all-electric i4 Convertible for 2028, according to a new report from BMWBLOG citing sources close to the automaker. That would make it one of a small handful of electric convertibles anywhere in the world. Right now, you can buy exactly one new EV convertible in the US, and it starts at $206,095.",
-    "published": "2026-07-28",
-    "published_ts": 1785199617.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-29T05:36:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Now Bojangles wants EV drivers to fast charge while they eat",
-    "url": "https://electrek.co/2026/07/27/now-bojangles-wants-ev-drivers-to-fast-charge-while-they-eat/",
-    "content": "Southern fast-food chain Bojangles is getting into EV charging, debuting its first DC fast-charging station in Savannah, Georgia – and dozens more are following.",
-    "published": "2026-07-27",
-    "published_ts": 1785190854.0,
     "outlet": "Electrek",
     "fetched_at": "2026-07-29T05:36:24+08:00",
     "classified": true,
@@ -5518,60 +5229,6 @@
     "score": 2
   },
   {
-    "title": "美國官員認為制裁對伊朗的傷害可能大於轟炸",
-    "url": "https://www.axios.com/2026/07/27/iran-war-trump-sanctions-blockade-economy",
-    "content": "President Trump's economic assault on Iran has drawn a fraction of the attention devoted to his bombing campaign, even as senior U.S. officials believe it may ultimately do more damage to the regime in Tehran. Why it matters: U.S. intelligence and open-source media reports point to a deepening economic crisis inside Iran, including gasoline shortages in one of the world's most oil-rich countries. ",
-    "published": "2026-07-27",
-    "published_ts": 1785196617.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-29T05:36:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "川普政府對伊朗的經濟制裁已大幅降低其收入，官員認為效果勝過軍事行動。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Thune's shield against Trump",
-    "url": "https://www.axios.com/2026/07/27/donald-trump-john-thune-senate-republicans-save-act",
-    "content": "Senate Majority Leader John Thune is pulling off something today's Republicans rarely attempt: telling President Trump \"no.\" Why it matters: Pressure from Trump and the MAGA base is piling up on Thune (R-S.D.), especially over a voter ID bill, but he has an important insurance policy: GOP senators have his back. \"I think he's got strong support. I read all the stories, but I think mostly that's ma",
-    "published": "2026-07-27",
-    "published_ts": 1785195731.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-29T05:36:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "參議院多數黨領袖John Thune公開拒絕川普部分要求，展現共和黨內部制衡。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Anthropic CEO Dario Amodei表示不支持禁止open-weight AI",
-    "url": "https://www.axios.com/2026/07/27/anthropic-open-weight-ban-china-dario-amodei",
-    "content": "Anthropic CEO Dario Amodei said Monday that he has \"never advocated\" for a ban on open-weight AI models , rejecting accusations that his lab is seeking to shield its closed-model business from competition. Why it matters: Anthropic has become the most prominent holdout from a new industry push to defend open-weight AI, after Nvidia, Microsoft, Meta, Google, OpenAI and dozens of other companies sig",
-    "published": "2026-07-27",
-    "published_ts": 1785192267.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-29T05:36:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic執行長Dario Amodei否認支持禁open-weight AI模型，澄清公司立場。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
     "title": "Growth of the Vacant Housing Stock in the US",
     "url": "https://wolfstreet.com/2026/07/28/growth-of-the-vacant-housing-stock-in-the-us/",
     "content": "The US added 1.51 million housing units (new construction minus demolitions) in 12 months, homes for 3.5 million people. The population grew by 757,000. And vacant housing units continued to surge.",
@@ -5939,32 +5596,6 @@
     "score": 4
   },
   {
-    "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
-    "url": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
-    "content": "",
-    "published": "2026-07-27",
-    "published_ts": 1785196516.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-07-29T05:36:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
-    "url": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
-    "content": "",
-    "published": "2026-07-27",
-    "published_ts": 1785194978.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-07-29T05:36:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Ionic Digital Nasdaq首日上漲25%，將Celsius比特幣挖礦資產轉AI基礎設施",
     "url": "https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure?utm_source=rss&utm_medium=rss",
     "content": "Ionic Digital was formed from Celsius Mining’s assets and later took direct control of its sites from Hut 8.",
@@ -6179,19 +5810,6 @@
     "content": "A digital commodity is an onchain asset that draws its value from open-market supply and demand rather than from the work of a company or central issuer. Assets in this category are freely transferable and traded on public markets, which makes them behave more like traditional commodities such as gold than like a share of […]",
     "published": "2026-07-28",
     "published_ts": 1785203746.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-07-29T05:36:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
-    "url": "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss",
-    "content": "The NFL responded to the CFTC’s recent draft rulemaking calling for stricter prediction markets oversight, including age restrictions.",
-    "published": "2026-07-27",
-    "published_ts": 1785189444.0,
     "outlet": "The Block",
     "fetched_at": "2026-07-29T05:36:29+08:00",
     "classified": true,
@@ -6521,19 +6139,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-    "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.",
-    "published": "2026-07-27",
-    "published_ts": 1785192944.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-29T05:36:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Claude Mythos 破解人類多年未能突破的後量子密碼學",
     "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
     "content": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
@@ -6762,37 +6367,6 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
-    "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
-    "content": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
-    "published": "2026-07-27",
-    "published_ts": 1785193204.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-29T05:36:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "市場預測 OpenAI GPT-6 將於 9 月推出",
-    "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
-    "content": "Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
-    "published": "2026-07-27",
-    "published_ts": 1785191463.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-29T05:36:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Polymarket 與 Myriad 預測市場資金顯示，OpenAI GPT-6 最快 9 月推出。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "Toyota 加大電動車投資 對手卻撤退",
@@ -37723,5 +37297,215 @@
       "📊有數字"
     ],
     "score": 4
+  },
+  {
+    "title": "Analyst Report: Enterprise Products Pntr LP",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-08-03",
+    "published_ts": 1785777310.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-04T01:14:17Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: Valero Energy Corp",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-08-03",
+    "published_ts": 1785777310.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-04T01:14:17Z",
+    "classified": false
+  },
+  {
+    "title": "Analyst Report: Stanley Black & Decker Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3424_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-08-03",
+    "published_ts": 1785777310.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-04T01:14:17Z",
+    "classified": false
+  },
+  {
+    "title": "Market Update: EPD, GLW, LUV, SWK, VLO",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47805_MarketUpdate_1785776410000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "content": "",
+    "published": "2026-08-03",
+    "published_ts": 1785776410.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-04T01:14:17Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says Wall Street's latest trading trend is creating buying opportunities",
+    "url": "https://www.cnbc.com/2026/08/03/jim-cramer-wall-streets-latest-trading-trend-creating-buying-opportunities.html",
+    "content": "CNBC's Jim Cramer said stocks are increasingly moving as part of thematic trading baskets rather than on company-specific fundamentals.",
+    "published": "2026-08-03",
+    "published_ts": 1785798001.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
+    "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+    "content": "Cramer said Amazon CEO Andy Jassy finally explained how Amazon's massive AI spending will generate long-term returns.",
+    "published": "2026-08-03",
+    "published_ts": 1785795601.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+    "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+    "content": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+    "published": "2026-08-03",
+    "published_ts": 1785797298.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "content": "Karp said Chinese models can't be blamed for distilling U.S. models when the frontier labs \"distilled all the value of IP, everywhere.\"",
+    "published": "2026-08-03",
+    "published_ts": 1785795656.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Snap's stock jumps 8% on earnings beat and strong sales forecast",
+    "url": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
+    "content": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+    "published": "2026-08-03",
+    "published_ts": 1785794632.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+    "content": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+    "published": "2026-08-03",
+    "published_ts": 1785797274.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "White House to host AI companies Tuesday to review new model-testing framework",
+    "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+    "content": "President Donald Trump’s June executive order directed officials to develop a process to evaluate the cybersecurity capabilities of advanced AI models.",
+    "published": "2026-08-03",
+    "published_ts": 1785776212.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+    "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+    "content": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
+    "published": "2026-08-03",
+    "published_ts": 1785778097.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+    "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+    "content": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
+    "published": "2026-08-03",
+    "published_ts": 1785787337.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+    "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+    "content": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
+    "published": "2026-08-03",
+    "published_ts": 1785775465.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "U.S.-Iran talks, OpenAI's Hugging Face hack, Best Buy's new CEO and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/08/03/5-things-to-know-before-the-stock-market-opens.html",
+    "content": "Here are five key things investors need to know to start the trading day.",
+    "published": "2026-08-03",
+    "published_ts": 1785768259.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+    "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+    "content": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
+    "published": "2026-08-03",
+    "published_ts": 1785764702.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
+    "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
+    "content": "At least 70 House offices used identifiable AI tools in early 2026, with Democrats leading visible spending and broader use likely undercounted.",
+    "published": "2026-08-03",
+    "published_ts": 1785754801.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
+    "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+    "content": "The European Commission can demand to inspect AI models, restrict market access and fine providers up to 15 million euros or 3% of turnover.",
+    "published": "2026-08-03",
+    "published_ts": 1785754799.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
+    "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+    "content": "Alibaba unveiled its latest and 'most powerful' AI model Qwen3.8-Max on Monday as Chinese companies race to close the AI gap with the U.S.",
+    "published": "2026-08-03",
+    "published_ts": 1785764313.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
+    "url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
+    "content": "In his Sunday column, Jim Cramer explains why Amazon is his favorite hyperscaler after second-quarter earnings season.",
+    "published": "2026-08-03",
+    "published_ts": 1785767109.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
+  },
+  {
+    "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+    "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+    "content": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
+    "published": "2026-08-03",
+    "published_ts": 1785776059.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-08-04T01:14:18Z",
+    "classified": false
   }
 ]
