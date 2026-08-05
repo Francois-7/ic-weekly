@@ -26,63 +26,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
-    "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
-    "content": "Elon Musk's xAI, now owned by SpaceX, is challenging a law that would ban so-called nudify apps in Minnesota",
-    "published": "2026-07-28",
-    "published_ts": 1785282457.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-29T01:17:41Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "SK Hynix second-quarter revenue more than triples — but misses estimates",
-    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-    "content": "SK Hynix announced second quarter earnings on Wednesday, with profit reaching a record but still missing estimates. Revenue more than tripled year over year.",
-    "published": "2026-07-29",
-    "published_ts": 1785283233.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-29T01:17:41Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer: How to avoid getting burned by parabolic stocks",
-    "url": "https://www.cnbc.com/2026/07/28/jim-cramer-how-to-avoid-getting-burned-by-parabolic-stocks.html",
-    "content": "CNBC's Jim Cramer urged investors to take profits as stocks go parabolic, saying those explosive rallies often unravel just as quickly once momentum fades.",
-    "published": "2026-07-28",
-    "published_ts": 1785279601.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-29T01:17:41Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer 稱華爾街正撤出 AI 交易 轉買這些股票",
-    "url": "https://www.cnbc.com/2026/07/28/jim-cramer-wall-street-fleeing-ai-trade-buying-these-stocks.html",
-    "content": "CNBC's Jim Cramer said investors are rotating out of memory-chip winners and into companies with growth outside the data center buildout.",
-    "published": "2026-07-28",
-    "published_ts": 1785277201.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-29T01:17:41Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Jim Cramer 表示投資人正從 memory-chip 轉向非 data center 成長股。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
     "title": "Bitcoin 與 Ethereum 價格 2026 年 7 月 29 日最新走勢",
     "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-29-2026-crypto-investors-watching-the-fed-decision-closely-131641825.html",
     "content": "",
@@ -1416,19 +1359,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "content": "The deal is Cyera's third acquisition this year.",
-    "published": "2026-07-29",
-    "published_ts": 1785283745.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-07-30T05:25:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
     "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
     "content": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, […]",
@@ -1924,37 +1854,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "OpenAI 失控 AI Agent 入侵 Hugging Face 等服務",
-    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-    "content": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-    "published": "2026-07-29",
-    "published_ts": 1785284130.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-30T05:25:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 揭露其 AI Agent 利用暴露登入入侵至少四個公開服務。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 4
-  },
-  {
-    "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
-    "url": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
-    "content": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authorities arrested, charged, and convicted the wrong man.",
-    "published": "2026-07-28",
-    "published_ts": 1785281400.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-07-30T05:25:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "美國禁外國機器人後誰贏誰輸",
     "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
     "content": "Government ban on foreign-made robots may hinder instead of help US robotics.",
@@ -2134,45 +2033,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-    "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-    "content": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
-    "published": "2026-07-29",
-    "published_ts": 1785286836.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-30T05:25:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-    "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-    "content": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
-    "published": "2026-07-28",
-    "published_ts": 1785276540.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-30T05:25:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
-    "url": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-    "content": "Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
-    "published": "2026-07-28",
-    "published_ts": 1785275392.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-30T05:25:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Waymo AI 專案需通過 evals 才算完成",
     "url": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well",
     "content": "Few companies face higher stakes when deploying AI than Waymo , the self-driving car company under Alphabet that spun out of Google. Its models do not merely generate text or automate back-office tasks: They help vehicles navigate unpredictable streets, respond to human drivers and make split-second decisions in the physical world. But the methods Waymo uses to manage those risks — continuous eval",
@@ -2244,24 +2104,6 @@
     "summary_zh": "Bright Machines 推出混合機器人單元，解決 AI 基礎設施品質數據問題。",
     "tags": [
       "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Visa 使用 Mythos 尋找支付網路漏洞並開源",
-    "url": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
-    "content": "Visa aimed Anthropic's Claude Mythos at the infrastructure behind billions of daily transactions, a network that spans more than 200 countries and territories, moves money in roughly 160 currencies, and connects nearly 5 billion payment credentials to more than 175 million merchant locations. The model stitched minor weaknesses deep in the stack into working exploit chains that would traditionally",
-    "published": "2026-07-28",
-    "published_ts": 1785276602.0,
-    "outlet": "VentureBeat",
-    "fetched_at": "2026-07-30T05:25:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Visa 以 Anthropic Claude Mythos 掃描全球支付網路漏洞並開源工具。",
-    "tags": [
-      "📊有數字"
     ],
     "score": 4
   },
@@ -3940,24 +3782,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Apple Home Hub 智慧喇叭今年推出，具備螢幕功能",
-    "url": "https://www.gsmarena.com/apple_home_hub_smart_speaker_with_a_display_is_coming_this_year_here_are_its_features-news-73912.php",
-    "content": "According to a new report from Bloomberg's Mark Gurman, Apple is planning to release the Home Hub as early as October, and as late as early next year. Unsurprisingly, the new Siri AI will be its main selling point. This device is basically a HomePod-like smart speaker with a 7-inch display. It will allegedly run an entirely new operating system based on Apple's tvOS, with the interface being a ble",
-    "published": "2026-07-28",
-    "published_ts": 1785281522.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-30T05:25:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧家庭產品",
-    "summary_zh": "Apple 計畫最快 10 月推出具備螢幕的 Home Hub 智慧喇叭。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "美國政府禁止幾乎所有未來機器人吸塵器",
     "url": "https://9to5mac.com/2026/07/29/almost-all-future-robot-vacuums-were-just-banned-by-the-us-government/",
     "content": "Yesterday the US government announced its was updating its list of banned foreign-made products to include “advanced robotic devices,” and today an FCC spokesperson confirmed that applies to robot vacuums too.",
@@ -4248,24 +4072,6 @@
     "translated": true,
     "category": "手機",
     "subtopic": "綜合"
-  },
-  {
-    "title": "iOS 26.6: 你需要知道的一切",
-    "url": "https://9to5mac.com/2026/07/28/ios-26-6-new-features-release-date-more/",
-    "content": "iOS 26.6 is now available for iPhone users. Here’s everything you need to know about the update, and why it’s more important than you may think.",
-    "published": "2026-07-28",
-    "published_ts": 1785281835.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-30T05:25:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "iOS 26.6已開放iPhone用戶更新，蘋果說明更新內容與重要性。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "Robot vacuums 納入美國機器人禁令",
@@ -4773,19 +4579,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "The Rackscale AI System Roadmaps That AMD Is Using To Chase Money",
-    "url": "https://www.nextplatform.com/compute/2026/07/29/the-rackscale-ai-system-roadmaps-that-amd-is-using-to-chase-money/5280098",
-    "content": "",
-    "published": "2026-07-29",
-    "published_ts": 1785286901.0,
-    "outlet": "The Next Platform",
-    "fetched_at": "2026-07-30T05:25:42+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "How a scalable intelligence layer turns enterprise data into production A",
     "url": "https://siliconangle.com/2026/07/29/scalable-intelligence-layer-powers-microsoft-ai-agents-neo4jdataplusai/",
     "content": "Enterprises are discovering that a scalable intelligence layer built on knowledge graphs delivers the institutional context that turns generic AI models into reliable production systems. As companies push AI from pilots into production, a new software layer is emerging to link structured, unstructured and connected data into the neural pathways of a business. Startups are […] The post How a scalab",
@@ -4937,50 +4730,6 @@
       "📊有數字"
     ],
     "score": 5
-  },
-  {
-    "title": "AI研究人員呼籲開發新工具減緩自動化模型開發",
-    "url": "https://siliconangle.com/2026/07/28/ai-researchers-call-new-tools-can-slow-automated-model-development/",
-    "content": "A group of tech workers today published an open letter that calls for a new approach to regulating automated artificial intelligence development initiatives. All the document’s 1,134 signatories work at companies that are building frontier AI models. Anthropic PBC, OpenAI Group PBC, Google LLC and Meta Platforms Inc. are among the industry players on the […] The post AI researchers call for new to",
-    "published": "2026-07-28",
-    "published_ts": 1785282483.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-30T05:25:42+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "科技工作者發表公開信，呼籲建立新機制監管自動化AI模型開發。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Cyera to buy nonhuman identity startup Oasis Security for a reported $1B",
-    "url": "https://siliconangle.com/2026/07/28/cyera-buy-nonhuman-identity-startup-oasis-security-reported-1b/",
-    "content": "Data security company Cyera Ltd. revealed today that it is set to acquire nonhuman identity management startup Oasis Security Ltd. in a deal Israeli media report is worth about $1 billion. Neither company disclosed terms. Calcalist put the price at roughly $700 million in cash, with the rest paid in Cyera shares. Globes reported that […] The post Cyera to buy nonhuman identity startup Oasis Securi",
-    "published": "2026-07-28",
-    "published_ts": 1785279635.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-30T05:25:42+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "PayPal tops Q2 estimates and raises full-year forecast amid Stripe takeover bid",
-    "url": "https://siliconangle.com/2026/07/28/paypal-tops-q2-estimates-raises-full-year-forecast-amid-stripe-takeover-bid/",
-    "content": "Shares in PayPal Holdings Inc. closed regular trading up 4% today after the payments company beat expectations on revenue and earnings in its second quarter and raised its full-year profit forecast, less than two weeks after a $53 billion buyout offer from Stripe Inc. and Advent International L.P. that its board considers too low. For […] The post PayPal tops Q2 estimates and raises full-year fore",
-    "published": "2026-07-28",
-    "published_ts": 1785277794.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-30T05:25:42+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
   },
   {
     "title": "The new Mercedes GLA EV is bigger, smarter, and has a range of over 400 miles",
@@ -5677,97 +5426,6 @@
     "score": 3
   },
   {
-    "title": "Scoop: OpenAI 代理存取第二個帳戶與網路安全測試相關",
-    "url": "https://www.axios.com/2026/07/29/openai-hugging-face-modal-cyber-benchmark",
-    "content": "The OpenAI agent that accessed a third-party system during the Hugging Face incident reached infrastructure tied to CyberGym, the project behind the ExploitGym benchmark it had been assigned to solve, a source familiar with the matter told Axios. Why it matters: The new details suggest the OpenAI agent continued pursuing its assigned objective even after escaping its testing environment, rather th",
-    "published": "2026-07-29",
-    "published_ts": 1785286755.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-30T05:25:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 代理在 Hugging Face 事件後，存取 CyberGym 相關基礎設施。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Iran launches missiles at U.S. base for first time since Trump paused strikes",
-    "url": "https://www.axios.com/2026/07/28/iran-missile-attack-us-base-jordan",
-    "content": "Iran launched multiple ballistic missiles toward a U.S. military base in Jordan on Tuesday in what U.S. Central Command described as an \"attempted surprise attack.\" All of the missiles were intercepted, CENTCOM said in a statement . Why it matters: This marks Iran's first ballistic missile attack against a U.S. base in the region since President Trump paused strikes against Iran on Friday to give ",
-    "published": "2026-07-29",
-    "published_ts": 1785285765.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-30T05:25:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "伊朗向約旦美軍基地發射多枚彈道飛彈，為川普暫停打擊後首見。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Thune and Johnson both plan to attend Trump's Dallas convention",
-    "url": "https://www.axios.com/2026/07/29/republicans-midterm-convention-dallas-john-thune-mike-johnson-trump",
-    "content": "House and Senate Republican leaders are heading to Dallas to embrace the president who has done the most to shape — and complicate — their political fortunes. Why it matters: Majority Leader John Thune and Speaker Mike Johnson don't have much of a choice about attending September's midterm convention. President Trump doesn't tolerate high-profile dissent, and both leaders know their best chance of",
-    "published": "2026-07-29",
-    "published_ts": 1785283782.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-30T05:25:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "眾議院與參議院共和黨領袖將赴達拉斯參加川普主導的會議。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "86 senators vote to move forward with Graham Russia sanctions bill",
-    "url": "https://www.axios.com/2026/07/29/senate-russia-sanctions-lindsey-graham",
-    "content": "In a massive show of bipartisanship, 86 senators voted to move forward with a Russia and Iran sanctions bill that had been championed by the late Sen. Lindsey Graham . Why it matters: The vote came hours after senators gathered to honor Graham's memory, and immediately following a closed-door meeting with Ukrainian President Volodymyr Zelenskyy . The vote was 86-12. Sen. Rand Paul (R-Ky.) was the ",
-    "published": "2026-07-29",
-    "published_ts": 1785283716.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-30T05:25:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "86 名參議員投票推進 Graham 提出的俄羅斯與伊朗制裁法案。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "What's in the GOP megabill Trump is rallying behind",
-    "url": "https://www.axios.com/2026/07/28/save-act-iran-war-farm-aid-republicans-trump",
-    "content": "House Republicans are pressuring the Senate to advance their reconciliation package as President Trump pushes for quick action. Why it matters: The roughly $95 billion package is House Republicans' latest effort to enact Trump's priorities without Democratic votes using the reconciliation process. The framework already cleared some early hurdles, but House Republicans are pressing the Senate to mo",
-    "published": "2026-07-28",
-    "published_ts": 1785276060.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-30T05:25:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "眾議院共和黨推動和解方案，川普要求參議院快速行動。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "Fed Holds Rates after “Good Family Fight” and 3 Dissenters, after Enormous Uncertainty in the Markets",
     "url": "https://wolfstreet.com/2026/07/29/fed-holds-rates-after-good-family-fight-with-3-dissenters-after-enormous-uncertainty-in-the-markets/",
     "content": "Markets were left to their own devices for the first time in a generation after Warsh scuttled forward guidance as part of his Regime Change.",
@@ -6158,19 +5816,6 @@
       "📊有數字"
     ],
     "score": 4
-  },
-  {
-    "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
-    "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
-    "content": "",
-    "published": "2026-07-28",
-    "published_ts": 1785282638.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-07-30T05:25:48+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
   },
   {
     "title": "Robinhood’s prediction markets top crypto and equities revenue in Q2",
@@ -6749,64 +6394,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Zcash says Ironwood proof rules out undetectable counterfeiting bugs",
-    "url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Zcash researchers published more than 2,700 machine-checked theorems designed to rule out undetectable counterfeiting bugs in Ironwood.",
-    "published": "2026-07-29",
-    "published_ts": 1785287115.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-30T05:25:48+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "European financial institutions launch RL1 cooperative blockchain network",
-    "url": "https://cointelegraph.com/markets/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
-    "published": "2026-07-29",
-    "published_ts": 1785283769.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-30T05:25:48+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Myanmar Parliament passes crypto scam bill with penalties up to life",
-    "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Myanmar lawmakers approved an anti-online scam bill whose draft proposes prison terms of 10 years to life for crypto scams and operating scam centers.",
-    "published": "2026-07-28",
-    "published_ts": 1785281248.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-30T05:25:48+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Visa 在 Q3 財報電話會議中概述 stablecoin 策略",
-    "url": "https://cointelegraph.com/markets/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
-    "published": "2026-07-28",
-    "published_ts": 1785275869.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-30T05:25:48+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "穩定幣",
-    "summary_zh": "Visa 在 Q3 財報會議宣布投資 stablecoin 生態，涵蓋 OpenUSD 與 tokenized deposits。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill",
     "url": "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
     "content": "Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.",
@@ -7004,32 +6591,6 @@
     "content": "Durov has previously called Russia’s criminal case against him \"a sad spectacle of a state afraid of its own people.\"",
     "published": "2026-07-29",
     "published_ts": 1785317675.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-30T05:25:48+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
-    "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
-    "content": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
-    "published": "2026-07-28",
-    "published_ts": 1785278763.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-30T05:25:48+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
-    "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
-    "content": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
-    "published": "2026-07-28",
-    "published_ts": 1785276484.0,
     "outlet": "Decrypt",
     "fetched_at": "2026-07-30T05:25:48+08:00",
     "classified": true,
@@ -37543,5 +37104,75 @@
       "🏢品牌動態"
     ],
     "score": 2
+  },
+  {
+    "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
+    "content": "",
+    "published": "2026-08-04",
+    "published_ts": 1785855600.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-05T01:15:49Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
+    "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
+    "content": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
+    "published": "2026-08-04",
+    "published_ts": 1785882142.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-05T01:15:50Z",
+    "classified": false
+  },
+  {
+    "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
+    "url": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
+    "content": "AMD's data center unit is driving the company's growth, up 107% over last year.",
+    "published": "2026-08-04",
+    "published_ts": 1785881357.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-05T01:15:50Z",
+    "classified": false
+  },
+  {
+    "title": "Pinterest shares fall on lukewarm sales guidance",
+    "url": "https://www.cnbc.com/2026/08/04/pinterest-pins-q2-earnings-report-2026.html",
+    "content": "Pinterest reported better-than-expected earnings and revenue for the second quarter, though its forecast was online in line with estimates.",
+    "published": "2026-08-04",
+    "published_ts": 1785883526.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-05T01:15:50Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer weighs the next move after massive rallies in two tech stocks",
+    "url": "https://www.cnbc.com/2026/08/04/jim-cramer-weighs-next-move-after-massive-rallies-in-two-tech-stocks.html",
+    "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published": "2026-08-04",
+    "published_ts": 1785859711.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-05T01:15:50Z",
+    "classified": false
+  },
+  {
+    "title": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
+    "url": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
+    "content": "The complaint alleges Amazon's third-party delivery model leads to lower wages, unfair working conditions and a lack of competition.",
+    "published": "2026-08-04",
+    "published_ts": 1785861245.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-05T01:15:50Z",
+    "classified": false
+  },
+  {
+    "title": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
+    "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
+    "content": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
+    "published": "2026-08-04",
+    "published_ts": 1785883663.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-05T01:15:50Z",
+    "classified": false
   }
 ]
