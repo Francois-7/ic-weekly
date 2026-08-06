@@ -1,206 +1,5 @@
 [
   {
-    "title": "From Pilots to AI Factories: How Enterprises Are Really Scaling Agentic AI and Agent Gateways",
-    "url": "https://intelligence.theregister.com/paper/view/20412",
-    "content": "AI is shifting from simple chatbots to autonomous “coworkers,” and most enterprises are now constrained less by models than by the complexity",
-    "published": "2026-07-30",
-    "published_ts": 1785369600.0,
-    "outlet": "The Next Platform",
-    "fetched_at": "2026-07-19T05:12:13+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "The identity trust delusion",
-    "url": "https://intelligence.theregister.com/paper/view/20526",
-    "content": "Join Rubrik's Mark Grant as he shares lessons from real recoveries, common mistakes, product evolution, and building long-term identity resilience.",
-    "published": "2026-07-30",
-    "published_ts": 1785369600.0,
-    "outlet": "The Next Platform",
-    "fetched_at": "2026-07-21T05:39:30+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep",
-    "url": "https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html",
-    "content": "For investors anxious to hear more about Meta's plans to make money from its big AI spending, Mark Zuckerberg said there's a trade-off.",
-    "published": "2026-07-30",
-    "published_ts": 1785373124.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Microsoft's AI spending guide is music to our ears, quieting the bears — for now",
-    "url": "https://www.cnbc.com/2026/07/29/microsofts-ai-spending-guide-is-music-to-our-ears-quieting-the-bears-for-now.html",
-    "content": "Microsoft broke ranks — and the troubled stock was handsomely rewarded Wednesday evening.",
-    "published": "2026-07-30",
-    "published_ts": 1785373143.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Inside India newsletter: Meta's clout in the world's largest democracy is surging — inviting scrutiny",
-    "url": "https://www.cnbc.com/2026/07/30/india-meta-democracy-protest-boost-instagram-meta.html",
-    "content": "Meta Platforms has strengthened its influence on India as Gen Z protesters widely relied on Instagram to raise their concerns against the Modi government.",
-    "published": "2026-07-30",
-    "published_ts": 1785370278.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "SpaceX 面臨 House Energy Committee 要求參觀其在 Memphis 的 AI data centers",
-    "url": "https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html",
-    "content": "The ranking member of the House Committee on Energy is demanding SpaceX records and a tour of its data centers and power plants in and around Memphis.",
-    "published": "2026-07-30",
-    "published_ts": 1785370310.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "House Energy Committee 要求 SpaceX 提供 Memphis AI data centers 紀錄並安排參觀。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-    "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-    "content": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
-    "published": "2026-07-29",
-    "published_ts": 1785366646.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "OpenAI CFO Sarah Friar 告知員工 7 月年化營收超過 Q2 總和",
-    "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
-    "content": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
-    "published": "2026-07-29",
-    "published_ts": 1785366582.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 7 月年化營收超過 Q2 總和，試圖安撫員工業務健康。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer 表示軟體復甦可能是 AI stocks 下波反彈藍圖",
-    "url": "https://www.cnbc.com/2026/07/29/jim-cramer-softwares-comeback-blueprint-ai-stocks-rally.html",
-    "content": "CNBC's Jim Cramer said software's sharp turnaround shows how quickly Wall Street can change its mind — and beaten-down AI infrastructure stocks could be next.",
-    "published": "2026-07-29",
-    "published_ts": 1785363733.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Jim Cramer 指出軟體股反彈顯示華爾街看法快速轉變，AI 基礎設施股可能跟進。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "Microsoft 因需求增加提升資本支出計畫，股價上漲 7%",
-    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-    "content": "Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.",
-    "published": "2026-07-30",
-    "published_ts": 1785371083.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Microsoft 提升資本支出計畫，股價上漲 7%，預期新會計年度自由現金流為正。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
-    "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow",
-    "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
-    "content": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year.",
-    "published": "2026-07-29",
-    "published_ts": 1785368537.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "分歧的 Fed 對投資人意味著什麼",
-    "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
-    "content": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
-    "published": "2026-07-29",
-    "published_ts": 1785368194.0,
-    "outlet": "CNBC Economy",
-    "fetched_at": "2026-07-30T01:10:20Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Fed 決策分歧，華爾街預期升息可能即將到來。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "Jim Cramer 稱財報後賣壓是黃金買點",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
-    "content": "",
-    "published": "2026-07-29",
-    "published_ts": 1785363420.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-07-30T13:20:21Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Jim Cramer 建議投資人把握財報後賣壓的買進機會。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
     "title": "Terminal 募資 2000 萬美元，解決車隊 telematics 數據問題",
     "url": "https://finance.yahoo.com/technology/articles/terminal-raises-20m-untangle-fleet-130000948.html",
     "content": "",
@@ -2052,19 +1851,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "content": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-    "published": "2026-07-29",
-    "published_ts": 1785362826.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-07-31T05:40:22+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.",
     "url": "https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying",
     "content": "Every time a Mastercard gets tapped, the network has less than a tenth of a second to judge how likely the purchase is to be fraudulent. It made that call across 175 billion transactions last year. Now the buyer on the other side of that judgment is starting to change, and Greg Ulrich, the company's chief AI and data officer, spelled out the consequence for the VB Transform 2026 audience in Menlo ",
@@ -3277,24 +3063,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "IoT Tech Expo Europe Returns to Amsterdam as Industrial AI and Edge Intelligence Reshape Connected Industry",
-    "url": "https://www.eetimes.com/iot-tech-expo-europe-returns-to-amsterdam-as-industrial-ai-and-edge-intelligence-reshape-connected-industry/",
-    "content": "From autonomous factories and AI-powered robots to connected vehicles and smart cities, organizations are entering a new era where connected systems are expected not only to collect data, but also to analyze, decide, and act in real time. As Industrial IoT continues to evolve, the focus has shifted beyond deploying connected devices. Today’s challenge is […] The post IoT Tech Expo Europe Returns t",
-    "published": "2026-07-30",
-    "published_ts": 1785372124.0,
-    "outlet": "EE Times",
-    "fetched_at": "2026-07-31T05:40:28+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "工業物聯網產品",
-    "summary_zh": "IoT Tech Expo Europe將於阿姆斯特丹舉行，聚焦工業AI與邊緣智慧重塑連接產業。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "Wahoo adds live breathing zones to its latest bike computers",
     "url": "https://gadgetsandwearables.com/2026/07/30/wahoo-elemnt-tymewear-breathing-zones/",
     "content": "Wahoo has added live ventilation training zones to the ELEMNT ACE, BOLT 3 and ROAM 3. The new feature uses The post Wahoo adds live breathing zones to its latest bike computers appeared first on Gadgets & Wearables .",
@@ -3422,37 +3190,6 @@
       "🏢品牌動態"
     ],
     "score": 1
-  },
-  {
-    "title": "Three More VR Games Get \"Great On Frame\" Certified By Valve",
-    "url": "https://www.uploadvr.com/three-more-vr-games-get-great-on-frame-certified-by-steam/",
-    "content": "The list of Steam-certified 'Great On Frame' VR games keeps growing with Deadly Delivery, Growrilla, and Stellar Cafe.",
-    "published": "2026-07-29",
-    "published_ts": 1785364513.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-07-31T05:40:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "Deadly Delivery、Growrilla與Stellar Cafe三款VR遊戲獲得Valve Great On Frame認證。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Blade &amp; Sorcery &quot;Unsupported&quot; On Standalone Steam Frame, Developer Says",
-    "url": "https://www.uploadvr.com/blade-sorcery-unsupported-on-standalone-steam-frame-developer-says/",
-    "content": "A lead developer of Blade & Sorcery has confirmed the PC VR version of B&S will not run natively on the Steam Frame due to performance limitations.",
-    "published": "2026-07-29",
-    "published_ts": 1785364488.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-07-31T05:40:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合"
   },
   {
     "title": "SwitchBot makes a better fan",
@@ -3722,43 +3459,6 @@
     "translated": true,
     "category": "手機",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Samsung Galaxy Buds On 外觀曝光",
-    "url": "https://www.gsmarena.com/this_is_what_the_samsung_galaxy_buds_on_look_like-news-73930.php",
-    "content": "Samsung is rumored to be working on a pair of Galaxy Buds with a new clip-on form factor (new for Samsung, that is - this has been done a lot by most of its competitors recently). We once heard they'd be called Galaxy Buds Able, but in the meantime the name Galaxy Buds On has also been circulated, with \"Able\" alleged to be their codename. We're going to call them Galaxy Buds On for now, and today ",
-    "published": "2026-07-30",
-    "published_ts": 1785373742.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-31T05:40:32+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Samsung 傳出開發 Galaxy Buds On 夾式耳機，採用全新外型設計。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Samsung Galaxy S26 FE 售價將高於前代",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_will_be_more_expensive_than_its_predecessor_new_leak_claims-news-73929.php",
-    "content": "A few hours ago the Samsung Galaxy S26 FE was certified with support for 45W wired charging just like its predecessor, and now there's a leak telling us how much it will cost in Europe - specifically in France. The base version with 128GB of storage will allegedly go for €799, the model with 256GB of storage will be priced at €899, and the top-end variation with 512GB of storage will cost €1,099. ",
-    "published": "2026-07-29",
-    "published_ts": 1785366662.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-07-31T05:40:32+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Samsung Galaxy S26 FE 通過 45W 充電認證，售價預計高於前代機型。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 4
   },
   {
     "title": "Tim Cook marks final earnings call as Apple CEO, confirms Ternus will take over calls",
@@ -4153,71 +3853,6 @@
     "content": "Tim Cook took to X tonight to announce that Apple will donate to relief efforts supporting those affected by the wildfires affecting southern Europe. Here are the details.",
     "published": "2026-07-30",
     "published_ts": 1785377679.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-31T05:40:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Apple faces bipartisan Senate pushback over plans to buy Chinese memory chips",
-    "url": "https://9to5mac.com/2026/07/29/apple-faces-bipartisan-senate-pushback-over-plans-to-buy-chinese-memory-chips/",
-    "content": "Bloomberg reports that US senators from both sides of the aisle are urging Apple CEO Tim Cook to commit by August 21 to not using memory chips from Chinese suppliers CXMT and YMTC. Here are the details.",
-    "published": "2026-07-30",
-    "published_ts": 1785372109.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-31T05:40:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Studio Display XDR hits Apple’s refurb store, saving you up to $540",
-    "url": "https://9to5mac.com/2026/07/29/studio-display-xdr-hits-apples-refurb-store-saving-you-up-to-540/",
-    "content": "There’s a new addition to Apple’s popular Certified Refurbished store . Apple has started selling the Studio Display XDR in refurbished condition, offering 15% off the mini-LED external display that’s perfect for Mac users.",
-    "published": "2026-07-30",
-    "published_ts": 1785370143.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-31T05:40:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "9to5Mac Daily: July 29, 2026 –  iOS 27 tidbits, touchscreen Mac pricing",
-    "url": "https://9to5mac.com/2026/07/29/daily-july-29-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-    "published": "2026-07-29",
-    "published_ts": 1785367671.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-31T05:40:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Qualcomm says supply constraints are shrinking its Apple business faster than expected",
-    "url": "https://9to5mac.com/2026/07/29/qualcomm-says-supply-constraints-are-shrinking-its-apple-business-faster-than-expected/",
-    "content": "After Qualcomm released its quarterly report and projected weaker-than-expected profit for the current quarter, the company’s CEO told Reuters that supply constraints would cause its revenue from Apple products to decline faster than expected. Here are the details.",
-    "published": "2026-07-29",
-    "published_ts": 1785364208.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-07-31T05:40:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Apple pushes back against UK proposal to loosen App Store payment rules",
-    "url": "https://9to5mac.com/2026/07/29/apple-pushes-back-against-uk-proposal-to-loosen-app-store-payment-rules/",
-    "content": "Apple today alleged that a new UK proposal targeting App Store fees amounts to price regulation, warning that it could undermine innovation and investment. Here are the details.",
-    "published": "2026-07-29",
-    "published_ts": 1785361425.0,
     "outlet": "9to5Mac",
     "fetched_at": "2026-07-31T05:40:33+08:00",
     "classified": true,
@@ -5020,88 +4655,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Microsoft 股價上漲 9%，Azure 營收強勁且資本支出穩定",
-    "url": "https://siliconangle.com/2026/07/29/microsofts-stock-rises-9-strong-azure-revenue-growth-steady-capex-spending/",
-    "content": "Microsoft Corp.’s stock was trading 9% higher in the after-hours session today after reporting four-quarter earnings and revenue that surpassed Wall Street’s expectations while reiterating its capital expenditures forecast for the rest of the year. The company reported earnings before certain costs such as stock compensation of $4.74 per share, beating the Street’s projection of […] The post Micro",
-    "published": "2026-07-30",
-    "published_ts": 1785372246.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-31T05:40:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Microsoft 股價盤後上漲 9%，Azure 營收成長超越華爾街預期。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "OpenAI 開放 ChatGPT for Academic Researchers 計畫，惠及 100,000 名科學家",
-    "url": "https://siliconangle.com/2026/07/29/openai-opens-new-chatgpt-academic-researchers-program-100000-scientists/",
-    "content": "OpenAI Group PBC today launched a program that will give 100,000 researchers free access to ChatGPT’s advanced features. ChatGPT for Academic Researchers is part of a $250 million OpenAI initiative designed to support scientific projects. The initiative also includes several other programs. Last May, OpenAI made $50 million worth of artificial intelligence resources available to […] The post OpenA",
-    "published": "2026-07-29",
-    "published_ts": 1785367249.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-31T05:40:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 推出 ChatGPT for Academic Researchers 計畫，提供 100,000 名研究人員免費進階功能。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Meta的AI支出吞噬其大部分自由現金流，利潤下降14%",
-    "url": "https://siliconangle.com/2026/07/29/metas-ai-bill-swallows-nearly-free-cash-flow-profit-falls-14/",
-    "content": "Meta Platforms Inc.’s shares fell more than 8% in after-hours trading today after the social networking company beat revenue expectations for its fiscal 2026 second quarter but missed badly on earnings as costs rose 55%. For the quarter that ended on June 30, Meta reported diluted earnings per share of $6.18, down from $7.14 in […] The post Meta’s AI bill swallows nearly all of its free cash flow ",
-    "published": "2026-07-29",
-    "published_ts": 1785364651.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-31T05:40:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Meta利潤下降14%，AI支出幾乎耗盡所有自由現金流。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Cerebras and AMD partner to build the world’s fastest disaggregated AI inference solution",
-    "url": "https://siliconangle.com/2026/07/29/disaggregated-ai-inference-cerebras-amd-neo4jgraphtalk/",
-    "content": "Disaggregated AI inference is proving to be more than a complementary answer to the prefill and decode bottleneck slowing enterprise AI at scale, and Cerebras and AMD just announced a partnership to build the fastest version of it in the world. The recent collaboration pairs AMD’s Helios rack-scale architecture for the compute-intensive pre-fill phase with […] The post Cerebras and AMD partner to ",
-    "published": "2026-07-29",
-    "published_ts": 1785362991.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-31T05:40:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Knowledge graph architecture gives enterprises ownership of the AI intelligence they create",
-    "url": "https://siliconangle.com/2026/07/29/knowledge-graph-architecture-enterprise-ai-neo4jdataplusai/",
-    "content": "Knowledge graph architecture has emerged from the concept stage, consigned to the realm of academia, to the production infrastructure stage, and the enterprises that shape it the right way will own the intelligence their AI creates. That’s the central premise Shan Rizvi (pictured), founder and context architect at Thumos Care, is offering to practitioners who […] The post Knowledge graph architect",
-    "published": "2026-07-29",
-    "published_ts": 1785362566.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-07-31T05:40:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Juiced Scrambler: Testing the best bang-for-your-buck moto-style e-bike",
     "url": "https://electrek.co/2026/07/30/juiced-scrambler-testing-the-best-bang-for-your-buck-moto-style-e-bike/",
     "content": "Juiced Bikes is one of the most recognizable names in the history of electric bikes in North America. Long before e-bike classes and speed limits became commonplace, the company built a loyal following with powerful bikes that blurred the line between bicycles and mopeds. But after the brand collapsed in 2024 , many assumed Juiced was destined to become little more than a nostalgic footnote. Now i",
@@ -5297,24 +4850,6 @@
     "score": 4
   },
   {
-    "title": "Trump政府利用太陽能審查核准首座AI資料中心",
-    "url": "https://electrek.co/2026/07/29/trump-feds-solar-review-ai-data-center-public-land-boulder-city-nevada/",
-    "content": "Apparently, a 19-megawatt (MW) solar farm and a 167-MW AI data center are “substantially the same” – at least according to the Trump administration’s Bureau of Land Management (BLM).",
-    "published": "2026-07-29",
-    "published_ts": 1785362588.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-07-31T05:40:40+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Trump政府核准首座AI資料中心，搭配19MW太陽能農場。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "四馬達電動Land Rover Defender Restomod續航超越部分Tesla",
     "url": "https://insideevs.com/news/803290/electric-land-rover-defender-restomod/",
     "content": "There are zillions of companies who will EV swap a classic Defender. Few can claim to offer 375 miles of WLTP range.",
@@ -5438,37 +4973,6 @@
     "translated": true,
     "category": "電動車",
     "subtopic": "綜合"
-  },
-  {
-    "title": "The Next Miata Will Be Ready To Go Electric: Mazda CEO",
-    "url": "https://insideevs.com/news/803155/mazda-miata-ready-for-electric/",
-    "content": "The next-generation Mazda MX-5 might come with a gas engine at first, but it will be ready for life \"without a combustion engine.\"",
-    "published": "2026-07-29",
-    "published_ts": 1785363300.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-07-31T05:40:40+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Tesla車主現在可進行更多視訊通話",
-    "url": "https://insideevs.com/news/803123/tesla-video-meeting-integration-update/",
-    "content": "Let's go chat, it's time to live stream from your Model 3.",
-    "published": "2026-07-29",
-    "published_ts": 1785362492.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-07-31T05:40:40+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "Tesla Model 3新增視訊通話功能，可即時直播。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
   },
   {
     "title": "Alpine A390 GT review: electric crossover stays true to Alpine DNA",
@@ -5970,42 +5474,6 @@
     "score": 3
   },
   {
-    "title": "Thune-Trump tensions escalate as clock ticks on megabill 3.0",
-    "url": "https://www.axios.com/2026/07/29/senate-republicans-trump-john-thune-reconciliation",
-    "content": "Senate Majority Leader John Thune repeated to White House officials in private what he's been saying in public for weeks: We don't have the votes . Why it matters: President Trump isn't buying it — and he's questioning whether Thune is the man for the job. \"Well, we're gonna find out,\" Trump said Wednesday. \"I'll let you know.\" Asked Wednesday evening about Trump saying the votes were gettable, Th",
-    "published": "2026-07-29",
-    "published_ts": 1785368564.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-31T05:40:43+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "參議院多數黨領袖 Thune 向白宮表示，megabill 3.0 目前仍未取得足夠票數支持。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Exclusive: Musk plans massive push for GOP in midterms",
-    "url": "https://www.axios.com/2026/07/29/musk-pac-midterm-election",
-    "content": "Tech billionaire Elon Musk is jumping into the midterms with a huge investment in a plan to boost Republican voter turnout, Axios has learned. Driving the news: Musk is resuscitating his dormant super PAC, America PAC, which spent more than $260 million to help get President Trump elected in 2024. America PAC will focus on door-knocking, digital advertising and direct mail aimed at turning out the",
-    "published": "2026-07-29",
-    "published_ts": 1785366005.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-07-31T05:40:43+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Elon Musk 將大規模投資共和黨中期選舉選民 turnout 計畫。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "Red-Hot Inflation & (Inflation-Adjusted) Strong Domestic Private-Sector Demand Marks Q2 GDP. Debt-to-GDP Ratio Dips to 121.5%",
     "url": "https://wolfstreet.com/2026/07/30/red-hot-inflation-inflation-adjusted-strong-domestic-private-sector-demand-marks-q2-gdp-debt-to-gdp-ratio-dips-to-121-5/",
     "content": "But soaring imports (data-center components), a drop in federal government spending, and changes in private inventories ate into GDP growth.",
@@ -6022,24 +5490,6 @@
       "📊有數字"
     ],
     "score": 5
-  },
-  {
-    "title": "Stocks Tank, Long-Term Treasury Yields Jump after Warsh Starts Talking",
-    "url": "https://wolfstreet.com/2026/07/29/stocks-tank-long-term-treasury-yields-jump-after-warsh-starts-talking/",
-    "content": "“While at some level, we haven't done much in 42 days, the markets have done quite a bit”: Warsh.",
-    "published": "2026-07-30",
-    "published_ts": 1785369751.0,
-    "outlet": "Wolf Street",
-    "fetched_at": "2026-07-31T05:40:43+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "Warsh 發言後股市重挫，長期公債殖利率跳升。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
   },
   {
     "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
@@ -6438,19 +5888,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
-    "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
-    "content": "",
-    "published": "2026-07-29",
-    "published_ts": 1785366724.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-07-31T05:40:44+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
   },
   {
     "title": "Strategy 公布 8.2 billion 美元虧損，Q2 比特幣持有量增加 11%",
@@ -7044,45 +6481,6 @@
     "score": 3
   },
   {
-    "title": "US arbitration giant launches specialist panel for crypto disputes",
-    "url": "https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The American Arbitration Association’s Web3 Panel brings together specialists in blockchain, smart contracts, digital assets and autonomous transactions.",
-    "published": "2026-07-30",
-    "published_ts": 1785371351.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-31T05:40:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Robinhood posts record quarter as crypto revenue slides 38%",
-    "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
-    "published": "2026-07-29",
-    "published_ts": 1785362015.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-31T05:40:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO",
-    "url": "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August, allowing it to offer prediction markets.",
-    "published": "2026-07-29",
-    "published_ts": 1785361947.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-07-31T05:40:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Coinbase Q2財報未達預期，因加密交易活動放緩",
     "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
     "content": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
@@ -7258,32 +6656,6 @@
     "content": "The ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.",
     "published": "2026-07-30",
     "published_ts": 1785405002.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-31T05:40:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
-    "url": "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
-    "content": "A new OneDrive Photos app is appearing on some Windows 11 PCs through OneDrive and Windows updates, adding AI-powered search and an optional facial grouping feature.",
-    "published": "2026-07-29",
-    "published_ts": 1785364263.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-07-31T05:40:45+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off",
-    "url": "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto",
-    "content": "Robinhood posted a record $1.31 billion in revenue in Q2. Prediction markets are now doing the work crypto used to for the company.",
-    "published": "2026-07-29",
-    "published_ts": 1785362484.0,
     "outlet": "Decrypt",
     "fetched_at": "2026-07-31T05:40:45+08:00",
     "classified": true,
@@ -37571,5 +36943,115 @@
       "📋政策法規"
     ],
     "score": 4
+  },
+  {
+    "title": "Jim Cramer says the market's biggest opportunities have room for multiple winners",
+    "url": "https://www.cnbc.com/2026/08/05/cramer-markets-biggest-opportunities-room-for-multiple-winners.html",
+    "content": "CNBC’s Jim Cramer said not to make the mistake of treating fast-growing industries as winner-take-all markets because multiple companies can succeed.",
+    "published": "2026-08-05",
+    "published_ts": 1785970801.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer says investors should consider buying SpaceX for their kids",
+    "url": "https://www.cnbc.com/2026/08/05/jim-cramer-investors-should-consider-buying-spacex-kids.html",
+    "content": "CNBC’s Jim Cramer said investors should view SpaceX as a multigenerational investment, whose biggest opportunities may take decades to fully materialize.",
+    "published": "2026-08-05",
+    "published_ts": 1785972363.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
+    "url": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
+    "content": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
+    "published": "2026-08-05",
+    "published_ts": 1785965554.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "Marc Benioff gets a new operating chief, as Salesforce promotes Miguel Milano",
+    "url": "https://www.cnbc.com/2026/08/05/marc-benioff-gets-a-new-coo-as-salesforce-promotes-miguel-milano-.html",
+    "content": "Salesforce promoted revenue head and former Oracle executive Miguel Milano to role of operating chief.",
+    "published": "2026-08-05",
+    "published_ts": 1785962900.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
+    "url": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
+    "content": "Etsy announced the layoffs along with second-quarter earnings.",
+    "published": "2026-08-05",
+    "published_ts": 1785972015.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+    "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+    "content": "Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.",
+    "published": "2026-08-05",
+    "published_ts": 1785963792.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
+    "url": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html",
+    "content": "Microsoft is taking advantage of its intellectual property rights with OpenAI, encouraging employees to use the company's top model.",
+    "published": "2026-08-05",
+    "published_ts": 1785955599.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+    "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+    "content": "Google's AI divisions are getting reshuffled, the search giant announced on Wednesday.",
+    "published": "2026-08-05",
+    "published_ts": 1785955913.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock",
+    "url": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html",
+    "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published": "2026-08-05",
+    "published_ts": 1785945051.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "Kids Online Safety Act social media safety bill advances in Senate",
+    "url": "https://www.cnbc.com/2026/08/05/kosa-privacy-social-media-senate.html",
+    "content": "The Kids Online Safety Act, a measure aimed at protecting children on social media, advanced to the Senate floor after it stalled in the last Congress.",
+    "published": "2026-08-05",
+    "published_ts": 1785953949.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
+  },
+  {
+    "title": "Amazon's Zoox to launch paid robotaxi service in Las Vegas on Aug. 10",
+    "url": "https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html",
+    "content": "It's the company's first commercial market after Zoox started offering free rides to the public in parts of Las Vegas and San Francisco less than a year ago.",
+    "published": "2026-08-05",
+    "published_ts": 1785948344.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-06T01:13:24Z",
+    "classified": false
   }
 ]
