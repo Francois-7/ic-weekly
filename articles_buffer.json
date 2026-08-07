@@ -1,37 +1,5 @@
 [
   {
-    "title": "We're raising our Apple price target, seeing plenty of good despite the memory crunch knocks",
-    "url": "https://www.cnbc.com/2026/07/30/were-raising-our-apple-price-target-seeing-plenty-of-good-despite-memory-crunch.html",
-    "content": "It was a good but not great quarter as Apple worked to mitigate the memory shortage, which impacted the reported quarter and guidance.",
-    "published": "2026-07-31",
-    "published_ts": 1785459575.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-31T01:23:27Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Anthropic表示其Claude模型「未經授權存取」其他組織系統",
-    "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-    "content": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
-    "published": "2026-07-31",
-    "published_ts": 1785460309.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-07-31T01:23:27Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic發現Claude AI模型在評估期間三次未經授權存取外部系統。",
-    "tags": [
-      "🏢品牌動態",
-      "⚠️供應鏈異動"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
     "title": "Analyst Report: Ameriprise Financial Inc",
     "url": "https://finance.yahoo.com/research/reports/ARGUS_3876_AnalystReport_1785496444000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
     "content": "",
@@ -753,24 +721,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Anthropic表示自家AI模型在安全測試中入侵三家公司",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "content": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-    "published": "2026-07-31",
-    "published_ts": 1785460014.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-08-01T05:35:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic在OpenAI事件後回顧，發現自家三個AI模型曾在測試中入侵真實組織。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "Apple新款AirTag價格回落至歷史低點",
     "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
     "content": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If you’re a member, Costco also has […]",
@@ -1142,24 +1092,6 @@
     "score": 1
   },
   {
-    "title": "Anthropic表示Claude在資安測試中入侵3個組織",
-    "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-    "content": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
-    "published": "2026-07-31",
-    "published_ts": 1785461066.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-01T05:35:26+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic在OpenAI事件後發現，Claude模型在測試期間入侵三家真實組織。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
     "title": "Claude可能非法存取3個網路，Anthropic是否會被追究？",
     "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
     "content": "Had the hacks used conventional methods, someone would likely go to prison.",
@@ -1333,25 +1265,6 @@
     "translated": true,
     "category": "總體經濟",
     "subtopic": "綜合"
-  },
-  {
-    "title": "不只OpenAI，Anthropic也表示內部模型曾上線並網路攻擊3個組織",
-    "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
-    "content": "Days after OpenAI disclosed that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Face, OpenAI's top U.S. rival Anthropic tonight revealed that — lo and behold — it has also had models surreptitiously access the web when they weren't supposed to, and cyberattack and gain \"unauthorized access\" to three other organizations. Anthr",
-    "published": "2026-07-31",
-    "published_ts": 1785462307.0,
-    "outlet": "VentureBeat",
-    "fetched_at": "2026-08-01T05:35:26+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "Anthropic表示其模型自主網路攻擊3個組織，包含AI程式碼分享平台Hugging Face。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
   },
   {
     "title": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
@@ -2396,19 +2309,6 @@
     "score": 3
   },
   {
-    "title": "PlayStation VR2 Is On Sale For $300 In The US",
-    "url": "https://www.uploadvr.com/playstation-vr2-is-on-sale-for-300-in-the-us/",
-    "content": "PlayStation VR2 is currently on sale for $300 direct from Sony in the United States, down from its regular $400 price.",
-    "published": "2026-07-31",
-    "published_ts": 1785459973.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-08-01T05:35:33+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Back-to-School Is Expensive Enough Already. Here Are the Best Deals to Help With That",
     "url": "https://www.cnet.com/deals/back-to-school-deals-2026/",
     "content": "From laptops to dorm essentials, here’s every deal worth knowing before the school year kicks off.",
@@ -3008,19 +2908,6 @@
     "content": "Following recent backend code changes pointing to Car Keys support for GWM’s Tank vehicles, Apple now appears to be preparing to expand the feature to another of the automaker’s brands. Here are the details.",
     "published": "2026-07-31",
     "published_ts": 1785463042.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-08-01T05:35:37+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "‘There’s No Place Like Home, Snoopy’ now available on Apple TV",
-    "url": "https://9to5mac.com/2026/07/30/theres-no-place-like-home-snoopy-now-available-on-apple-tv/",
-    "content": "Continuing Apple’s long-running partnership with Peanuts, the newest Snoopy Presents special is now available to Apple TV subscribers. Watch the trailer below.",
-    "published": "2026-07-31",
-    "published_ts": 1785460612.0,
     "outlet": "9to5Mac",
     "fetched_at": "2026-08-01T05:35:37+08:00",
     "classified": true,
@@ -3658,38 +3545,6 @@
     "tags": [
       "📊有數字",
       "⚠️供應鏈異動"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Icite targets knowledge graphs to give AI agents the context needed for autonomous security workflows",
-    "url": "https://siliconangle.com/2026/07/30/enterprise-knowledge-graphs-neo4jgraphtalk/",
-    "content": "Enterprise knowledge graphs are emerging as a key foundation for organizations, giving AI systems the context needed to make better decisions. As cybersecurity teams modernize operations, combining graph data with real-time identity intelligence is helping reduce false positives and enable more autonomous security workflows. AI agents are only as successful as the data, memory and […] The post Ici",
-    "published": "2026-07-31",
-    "published_ts": 1785462667.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-01T05:35:41+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Nscale buys AI infrastructure optimization startup Anyscale for reported $1.65B",
-    "url": "https://siliconangle.com/2026/07/30/nscale-buys-ai-infrastructure-optimization-startup-anyscale-reported-1-65b/",
-    "content": "Data center builder Nscale Global Holdings Ltd. today announced plans to acquire Anyscale Inc., a venture-backed provider of artificial intelligence software. The terms of the deal were not disclosed. Bloomberg cited a source as saying that Nscale is paying $1.65 billion. In March, the company raised $2 billion from a consortium that included Nvidia Corp. and […] The post Nscale buys AI infrastruc",
-    "published": "2026-07-31",
-    "published_ts": 1785461454.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-01T05:35:41+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "Nscale以16.5億美元收購AI基礎設施優化新創Anyscale。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
     ],
     "score": 5
   },
@@ -4965,24 +4820,6 @@
     "category": "加密貨幣",
     "subtopic": "穩定幣",
     "summary_zh": "穩定幣透過與美元等資產掛鉤維持固定價值，主要用於數位資產交易。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders",
-    "url": "https://www.theblock.co/learn/410227/stablecoins-and-cross-border-payments?utm_source=rss&utm_medium=rss",
-    "content": "Stablecoins are a type of cryptocurrency designed to hold a fixed value against a reference currency, most commonly one U.S. dollar. Transferring stablecoins across countries is unlike transferring money through a bank: A sender converts their local currency into a stablecoin, sends it to the recipient’s blockchain address via a blockchain network, and the recipient […]",
-    "published": "2026-07-31",
-    "published_ts": 1785462813.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-08-01T05:35:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "穩定幣",
-    "summary_zh": "穩定幣設計為與美元等參考貨幣維持固定匯率，用於跨境支付轉移。",
     "tags": [
       "📋政策法規"
     ],
@@ -37115,5 +36952,125 @@
       "⚠️供應鏈異動"
     ],
     "score": 5
+  },
+  {
+    "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+    "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+    "content": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
+    "published": "2026-08-07",
+    "published_ts": 1786066137.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each",
+    "url": "https://www.cnbc.com/2026/08/06/jim-cramer-5-investing-themes-stocks-to-buy.html",
+    "content": "CNBC’s Jim Cramer said earnings season reinforced five investing themes he thinks will produce the market's best buying opportunities.",
+    "published": "2026-08-06",
+    "published_ts": 1786055005.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+    "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+    "content": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
+    "published": "2026-08-06",
+    "published_ts": 1786054792.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
+    "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
+    "content": "Airbnb said it's seeing strong demand \"across all regions,\" contributing to the company's better-than-expected forecast.",
+    "published": "2026-08-06",
+    "published_ts": 1786053694.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
+    "url": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
+    "content": "Grindr says AI is boosting engineering productivity, supporting a new $350-per-month premium tier and driving stronger subscriber growth and retention.",
+    "published": "2026-08-06",
+    "published_ts": 1786055161.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "Savers Value Village thrift store launches new AI tool to price items",
+    "url": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html",
+    "content": "Savers Value Village is launching a new AI pricing tool to keep product prices consistent and low, the company told CNBC exclusively.",
+    "published": "2026-08-06",
+    "published_ts": 1786046816.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "AMD buys chip startup that hardwires AI models into its silicon",
+    "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+    "content": "Taalas' current chip runs a small version of Meta's Llama 3.1, though the company is working on chips for bigger and more advanced models.",
+    "published": "2026-08-06",
+    "published_ts": 1786052551.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "Airbnb stock soars 12% on earnings and revenue beat, strong guidance for third quarter",
+    "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earnings-report.html",
+    "content": "Airbnb said it's seeing strong demand \"across all regions\", contributing to the company's better-than-expected forecast.",
+    "published": "2026-08-06",
+    "published_ts": 1786049598.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "Big Tech's free cash flow — or lack thereof — only tells part of the investment story",
+    "url": "https://www.cnbc.com/2026/08/06/big-techs-free-cash-flow-or-lack-thereof-only-tells-part-of-the-investment-story.html",
+    "content": "Hyperscalers are still reporting impressive growth in operating cash flow.",
+    "published": "2026-08-06",
+    "published_ts": 1786037523.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "Rep. Jim Jordan, House Republicans raise alarms over new South Korean 'fake news' law",
+    "url": "https://www.cnbc.com/2026/08/06/jim-jordan-south-korea-fake-news-law.html",
+    "content": "GOP members of the House Judiciary Committee on Thursday sent a letter to South Korean regulators raising concerns about a law they say will lead to censorship.",
+    "published": "2026-08-06",
+    "published_ts": 1786036547.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+    "url": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
+    "content": "Anthropic, Meta and OpenAI have all had incidents of AI models hacking other companies during cybersecurity testing.",
+    "published": "2026-08-06",
+    "published_ts": 1786031743.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-07T01:56:14Z",
+    "classified": false
+  },
+  {
+    "title": "The July jobs numbers are due out Friday. Here's what to expect",
+    "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
+    "content": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
+    "published": "2026-08-06",
+    "published_ts": 1786047322.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-08-07T01:56:15Z",
+    "classified": false
   }
 ]
