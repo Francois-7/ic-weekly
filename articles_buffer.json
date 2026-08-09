@@ -1,36 +1,5 @@
 [
   {
-    "title": "Inside the London hacker house taking a stand against founder burnout",
-    "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-    "content": "How one founder house is betting work-life balance can beat burnout .",
-    "published": "2026-08-01",
-    "published_ts": 1785618888.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-08-02T05:22:15+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "「我們一直很文明」：我姊姊拒絕取代我擔任遺囑執行人",
-    "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-    "content": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
-    "published": "2026-08-01",
-    "published_ts": 1785618000.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-08-02T05:22:17+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "姊妹20多年未見，討論是否可提前辭去遺囑執行人職務。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
     "title": "Taming Hybrid Cloud Chaos: Secure and Efficient Kubernetes Across Clouds",
     "url": "https://intelligence.theregister.com/paper/view/20563",
     "content": "Extending containerized applications to hybrid cloud and edge infrastructure often doubles operational overhead before delivering real agility.",
@@ -41,32 +10,6 @@
     "classified": true,
     "translated": true,
     "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
-    "url": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
-    "content": "Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.",
-    "published": "2026-08-01",
-    "published_ts": 1785619125.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-08-02T05:22:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Onchain, in court: What happened in crypto legal news this week",
-    "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
-    "published": "2026-08-01",
-    "published_ts": 1785618879.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-02T05:22:36+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
     "subtopic": "綜合"
   },
   {
@@ -546,19 +489,6 @@
     "score": 2
   },
   {
-    "title": "Pixel 11 specs and price leak with no surprises",
-    "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-    "content": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB […]",
-    "published": "2026-08-01",
-    "published_ts": 1785619884.0,
-    "outlet": "The Verge",
-    "fetched_at": "2026-08-03T05:22:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "2026年8款最佳密碼管理器，經測試與評測",
     "url": "https://www.wired.com/story/best-password-managers/",
     "content": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
@@ -738,19 +668,6 @@
       "🏢品牌動態"
     ],
     "score": 1
-  },
-  {
-    "title": "Which Galaxy Z 8 phone should you buy? Here's what I think after using all three",
-    "url": "https://www.androidcentral.com/phones/samsung-galaxy/which-galaxy-z-8-phone-should-you-buy",
-    "content": "Between the Galaxy Z Fold 8, Z Fold 8 Ultra, and Z Flip 8, you have some pretty different foldable options in front of you. Samsung is positioning these devices at different types of consumers, but which one should you buy?",
-    "published": "2026-08-01",
-    "published_ts": 1785627817.0,
-    "outlet": "Android Central",
-    "fetched_at": "2026-08-03T05:22:58+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
   },
   {
     "title": "Xbox consoles are now much more expensive in the EU and UK",
@@ -1064,19 +981,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "iQOO Z11's India launch teased by the company CEO",
-    "url": "https://www.gsmarena.com/iqoo_z11_india_launch_teased-news-73973.php",
-    "content": "iQOO launched the Z11 Lite last month, and a few days ago, a media report claimed that the brand was planning to launch the Z11 in India. That report has turned out to be correct, as iQOO India's CEO Nipun Marya has teased the launch of the Z11. In a post on X, Marya said, \"DO NOT READ THE FIRST LETTER OF EVERY LINE,\" and wrote seven lines after that, whose first letters were Z, E, L, E, V, E, and",
-    "published": "2026-08-01",
-    "published_ts": 1785621062.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-08-03T05:23:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "iPhone Ultra 外型可能與其他 Apple 產品比較",
     "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
     "content": "Next month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to feature a 5.5-inch outer display and 7.6-inch inner display. Late last month, Samsung introduced the new Galaxy Z Fold 8 – and it comes with those same screen sizes. Whether or not you believe Samsung only made this phone to preempt the iPhone Ultra is a different story – but one way or",
@@ -1156,24 +1060,6 @@
     "translated": true,
     "category": "手機",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Apple Upgrade 可能透露出 Apple Card 未來調整方向",
-    "url": "https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/",
-    "content": "This week, Apple launched Apple Upgrade , its new leasing program for most Apple products. It replaces the iPhone Upgrade Program entirely, and for the most part, it’s an incredible deal. The deal is so good that largely, there isn’t a great reason to use Apple Card Monthly Installments (ACMI) anymore. You still get 3% cash back using Apple Upgrade, similar to ACMI – and the leasing terms are a lo",
-    "published": "2026-08-01",
-    "published_ts": 1785621155.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-08-03T05:23:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Apple 推出 Apple Upgrade 租賃方案，取代 iPhone Upgrade Program，可能影響 Apple Card 策略。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "Google voice redesign merges AI Mode, Search Live, & Song lookup on Android",
@@ -1530,24 +1416,6 @@
     "score": 3
   },
   {
-    "title": "Scoop: Saudi crown prince raises concerns over Trump's plans for massive Iran strikes",
-    "url": "https://www.axios.com/2026/08/01/saudi-crown-prince-trump-iran-attacks",
-    "content": "Saudi Crown Prince Mohammed bin Salman spoke to President Trump on Saturday and expressed concern over his plans for massive new strikes against Iran , according to two U.S. officials and a third source with knowledge of the call. Why it matters: Trump is seriously considering attacking Iranian energy targets in the coming days in response to Iran's missile strike on a U.S. base in Jordan and its ",
-    "published": "2026-08-01",
-    "published_ts": 1785628149.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-03T05:23:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "沙烏地王儲向川普表達對大規模伊朗攻擊計畫的擔憂。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
     "title": "Six Years into Bond Bear Market, 30-Year Treasury Yield Hits 5.28%, Yield Curve Steepens, but Spreads Are still too Narrow",
     "url": "https://wolfstreet.com/2026/08/01/six-years-into-bond-bear-market-30-year-treasury-yield-hits-5-28-yield-curve-steepens-but-spreads-are-still-too-narrow/",
     "content": "Warsh wants the bond market to do its job and look at inflation and the economy -- and not at the Fed -- and it’s finally doing it.",
@@ -1640,19 +1508,6 @@
       "⚠️供應鏈異動"
     ],
     "score": 4
-  },
-  {
-    "title": "Strategy holds STRC dividend at 12%",
-    "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
-    "content": "",
-    "published": "2026-08-01",
-    "published_ts": 1785621717.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-03T05:23:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
   },
   {
     "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
@@ -37102,5 +36957,25 @@
     "translated": true,
     "category": "加密貨幣",
     "subtopic": "綜合"
+  },
+  {
+    "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+    "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+    "content": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+    "published": "2026-08-09",
+    "published_ts": 1786235779.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-09T00:41:18Z",
+    "classified": false
+  },
+  {
+    "title": "Here’s how we played the massive rebound in AI stocks this week",
+    "url": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
+    "content": "AI stocks roared back to help lift two of the major averages to fresh records.",
+    "published": "2026-08-08",
+    "published_ts": 1786198050.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-09T00:41:18Z",
+    "classified": false
   }
 ]
