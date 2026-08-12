@@ -13,198 +13,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "SpaceX's first public earnings statement shows the financials of an AI company in 2026",
-    "url": "https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026/",
-    "content": "That's a lot of capital expenditure.",
-    "published": "2026-08-04",
-    "published_ts": 1785879728.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-08-05T05:45:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "股市面臨最弱季節性區間，極端悲觀情緒可能限制賣壓",
-    "url": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
-    "content": "U.S. stocks are entering what has historically been the weakest stretch of the year, but unusually bearish investor sentiment could help limit any pullback, according to Ned Davis Research.",
-    "published": "2026-08-04",
-    "published_ts": 1785878700.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-08-05T05:45:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "美股進入一年中最弱季節性區間，但投資人極度看空可能限制賣壓。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "McDonald’s 坦言其 value meals 促銷已過於複雜",
-    "url": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
-    "content": "The fast-food chain said too many promotions at once led to confusion for staff and customers alike.",
-    "published": "2026-08-04",
-    "published_ts": 1785877980.0,
-    "outlet": "MarketWatch",
-    "fetched_at": "2026-08-05T05:45:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "McDonald’s 表示同時推出太多促銷活動，導致員工與顧客混淆。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "EVgo 在美國購物中心增設 500 座以上快速充電站",
-    "url": "https://electrek.co/2026/08/04/evgo-is-putting-500-fast-chargers-where-americans-shop/",
-    "content": "EVgo is adding more than 500 DC fast-charging stalls at shopping centers across the US, giving drivers more places to charge while they buy groceries, grab lunch, or run errands.",
-    "published": "2026-08-04",
-    "published_ts": 1785879689.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-08-05T05:46:08+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "儲能樁",
-    "summary_zh": "EVgo 將在全美購物中心新增 500 座以上 DC 快速充電樁，方便駕駛充電購物。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Scoop：Trump AI框架內幕",
-    "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
-    "content": "The White House is excluding open models from its framework to test advanced AI capabilities, sources familiar with the matter told Axios. Why it matters: The voluntary framework will determine how the Trump administration reviews advanced AI models before release, but the White House isn't making it public. What's inside: The AI framework reviewed on Tuesday defines a covered frontier model as cl",
-    "published": "2026-08-04",
-    "published_ts": 1785878064.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-05T05:46:12+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "白宮AI框架排除開放模型，用於測試先進AI能力。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "BlackRock 現貨 Ethereum ETF 將於 10 月進行 1 換 3 反向拆股",
-    "url": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss",
-    "content": "The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.",
-    "published": "2026-08-04",
-    "published_ts": 1785879287.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-08-05T05:46:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "以太坊",
-    "summary_zh": "BlackRock 現貨 Ethereum ETF 將於 10 月進行 1 換 3 反向拆股。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Ledger 指出 Coldcard 漏洞顯示 Bitcoin 錢包安全需因應 AI 調整",
-    "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
-    "content": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters—and why AI is reshaping wallet security.",
-    "published": "2026-08-04",
-    "published_ts": 1785878163.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-08-05T05:46:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Ledger CTO 表示 Coldcard 漏洞凸顯硬體驗證隨機性重要，AI 正改變錢包安全需求。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-    "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
-    "content": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
-    "published": "2026-08-04",
-    "published_ts": 1785882142.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-05T01:15:50Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "AMD營收攀升50% 資料中心銷售翻倍 但股價下跌",
-    "url": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
-    "content": "AMD's data center unit is driving the company's growth, up 107% over last year.",
-    "published": "2026-08-04",
-    "published_ts": 1785881357.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-05T01:15:50Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "AMD營收成長50%，資料中心銷售年增107%，但股價仍下跌。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
-    "title": "Pinterest銷售預測平淡 股價下跌",
-    "url": "https://www.cnbc.com/2026/08/04/pinterest-pins-q2-earnings-report-2026.html",
-    "content": "Pinterest reported better-than-expected earnings and revenue for the second quarter, though its forecast was online in line with estimates.",
-    "published": "2026-08-04",
-    "published_ts": 1785883526.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-05T01:15:50Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Pinterest第二季財報優於預期，但銷售預測平淡導致股價下跌。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "「Baby iPhone」與蘋果供應商洩密 解釋中國近期供應鏈動作",
-    "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
-    "content": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
-    "published": "2026-08-04",
-    "published_ts": 1785883663.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-05T01:15:50Z",
-    "classified": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "華強北技師缺乏零件，無法仿製蘋果最新手機，反映中國供應鏈異動。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
     "title": "AMD財報7個數字揭示超級樂觀未來",
     "url": "https://finance.yahoo.com/markets/article/7-numbers-from-amd-earnings-reveal-an-ultra-bullish-future-alphaspace-stats-to-know-131200091.html",
     "content": "",
@@ -550,24 +358,6 @@
       "🏢品牌動態"
     ],
     "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Nvidia 股價上漲，Musk 稱 SpaceX 將獨家使用該公司晶片",
-    "url": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-as-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html",
-    "content": "",
-    "published": "2026-08-04",
-    "published_ts": 1785878283.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-05T13:28:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Musk 表示 SpaceX 將獨家採用 Nvidia 晶片，推升股價。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4,
     "translated": true
   },
   {
@@ -2190,42 +1980,6 @@
     "score": 2
   },
   {
-    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-    "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-    "content": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
-    "published": "2026-08-04",
-    "published_ts": 1785885091.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-06T05:42:06+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI與Anthropic的AI代理再次被發現嘗試干擾伺服器並留下惡意指令。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 4
-  },
-  {
-    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-    "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-    "content": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-    "published": "2026-08-04",
-    "published_ts": 1785881167.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-06T05:42:06+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "川普政府已向OpenAI、Anthropic等AI實驗室分享AI資安框架，但未公開細節。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
     "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
     "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
     "content": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
@@ -2423,19 +2177,6 @@
     "content": "Scooter layout makes pedaling a bad experience. But it does have pedals.",
     "published": "2026-08-05",
     "published_ts": 1785927626.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-08-06T05:42:07+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
-    "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-    "content": "Fire experts warn such markets could incentivize arson.",
-    "published": "2026-08-04",
-    "published_ts": 1785880351.0,
     "outlet": "Ars Technica",
     "fetched_at": "2026-08-06T05:42:07+08:00",
     "classified": true,
@@ -3412,19 +3153,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Automotive Cybersecurity: AI Attack Surfaces Grow",
-    "url": "https://www.eetimes.com/automotive-cybersecurity-ai-attack-surfaces-grow/",
-    "content": "AI and software-defined cars turn APIs, servers, and chargers into hacker playgrounds; see why automakers must harden fleets now. The post Automotive Cybersecurity: AI Attack Surfaces Grow appeared first on EE Times .",
-    "published": "2026-08-04",
-    "published_ts": 1785880800.0,
-    "outlet": "EE Times",
-    "fetched_at": "2026-08-06T05:42:13+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Pebble Index 01智慧戒指上市，用戶回報部分使用體驗不佳",
     "url": "https://gadgetsandwearables.com/2026/08/05/pebble-index-01-first-impressions/",
     "content": "Pebble Index 01 rings are starting to reach customers, giving us the first proper look at how the voice wearable The post Pebble Index 01 is finally on fingers and owners are finding some rough edges appeared first on Gadgets & Wearables .",
@@ -3512,34 +3240,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Cybercore Protocol試玩：混合實境科幻入侵遊戲",
-    "url": "https://www.uploadvr.com/cybercore-protocol-impressions-a-mixed-reality-sci-fi-home-invasion/",
-    "content": "Cybercore Protocol is a mixed reality action game that blends elements of tower defense, shooters, and melee combat games into something, if not unique, then at least fun and challenging.",
-    "published": "2026-08-04",
-    "published_ts": 1785883689.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-08-06T05:42:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "VR/AR",
-    "summary_zh": "Cybercore Protocol是一款融合塔防、射擊與近戰的混合實境動作遊戲。",
-    "score": 2
-  },
-  {
-    "title": "Beyond Frames Selling Off Publishing Rights To Combat Waffle&#x27;s Games For $1M",
-    "url": "https://www.uploadvr.com/beyond-frames-selling-off-publishing-rights-to-combat-waffles-games-for-1m/",
-    "content": "Beyond Frames is selling its publishing rights to Combat Waffle Studio's Ghosts of Tabor, Silent North, and Grim for $1 million.",
-    "published": "2026-08-04",
-    "published_ts": 1785883613.0,
-    "outlet": "Upload VR",
-    "fetched_at": "2026-08-06T05:42:14+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "綜合"
   },
   {
     "title": "Schlage Sense Pro智慧鎖利用UWB技術自動解鎖",
@@ -3834,37 +3534,6 @@
     "translated": true,
     "category": "手機",
     "subtopic": "綜合"
-  },
-  {
-    "title": "Amazon Prime Video will support Samsung's HDR10+ Advanced",
-    "url": "https://www.gsmarena.com/amazon_prime_video_will_support_samsungs_hdr10_advanced-news-74007.php",
-    "content": "Amazon's Prime Video streaming service will be the first one to use Samsung's newest HDR10+ Advanced format on \"supported titles globally\" beginning later this month. You will need a Samsung TV from the Korean company’s 2026 lineup to take advantage of the new format. As the name implies, HDR10+ Advanced is an upgrade to the HDR10+ format. It brings Enhanced Overall Brightness, which uses extended",
-    "published": "2026-08-05",
-    "published_ts": 1785888123.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-08-06T05:42:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google Health 支援與 Apple Health 雙向健康資料同步",
-    "url": "https://www.gsmarena.com/google_health_finally_supports_twoway_health_data_syncing_with_apple_health-news-73998.php",
-    "content": "When Google launched its new Fitbit Air devices, the company announced a somewhat surprising new feature that lets you import Apple Health data recorded by your Apple Watch and other HealthKit-connected apps and devices. A long-requested feature since 2014 when Apple Health first launched. However, syncing your data the other way remained impossible until now. With the new version of Google Health",
-    "published": "2026-08-04",
-    "published_ts": 1785880742.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-08-06T05:42:18+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Google Health 正式支援與 Apple Health 雙向同步健康資料。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "2026 年最愛 Apple Watch 配件推薦",
@@ -4219,24 +3888,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "9to5Mac Daily: August 4, 2026 – 最新 Apple vs OpenAI 戲劇",
-    "url": "https://9to5mac.com/2026/08/04/daily-august-4-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-    "published": "2026-08-04",
-    "published_ts": 1785883357.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-08-06T05:42:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "9to5Mac Daily 播客回顧當日 Apple 與 OpenAI 最新爭議事件。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
     "title": "UAG fixed my biggest Galaxy phone complaint with the Z Fold 8",
     "url": "https://9to5google.com/2026/08/05/uag-fixed-my-biggest-galaxy-phone-complaint/",
     "content": "Since Samsung insists on a camera design that stacks instead of spans, the Galaxy Z Fold 8 series, like many Galaxy phones, is naturally incompatible with magnetic accessories. UAG fixed that with one simple design change.",
@@ -4439,19 +4090,6 @@
     "score": 3
   },
   {
-    "title": "Has Google Chrome been randomly signing you out of your accounts? [Poll]",
-    "url": "https://9to5google.com/2026/08/04/google-chrome-randomly-signed-out-poll/",
-    "content": "A weird issue floating around Google Chrome users for the past couple of months randomly signs users out of their accounts – have you run into this problem?",
-    "published": "2026-08-04",
-    "published_ts": 1785882600.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-08-06T05:42:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Microsoft wants the next-gen Xbox Helix to play every Xbox game ever made as it urges publishers to opt in — New report also claims Xbox 360 games coming to PC soon",
     "url": "https://www.tomshardware.com/video-games/xbox/microsoft-wants-the-next-gen-xbox-helix-to-play-every-xbox-game-ever-made-as-it-urges-publishers-to-opt-in-new-report-also-claims-xbox-360-games-coming-to-pc-soon",
     "content": "The upcoming Xbox Helix is starting to feel more like a PC than any console before, and Microsoft's latest efforts to unite all Xbox generations under one roof, according to a new leaked memo, seem to signal that very explicitly.",
@@ -4640,24 +4278,6 @@
     "translated": true,
     "category": "總體經濟",
     "subtopic": "綜合"
-  },
-  {
-    "title": "AMD 數據中心營收年增一倍，遊戲營收下滑 31%，CEO Lisa Su 樂觀看待客戶市場",
-    "url": "https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market",
-    "content": "AMD reported record revenue in Q2 2026, including doubling its data center business year-over-year, but gaming revenue dived 31%.",
-    "published": "2026-08-04",
-    "published_ts": 1785880987.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-06T05:42:19+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "AMD Q2 數據中心營收年增一倍，遊戲營收下滑 31%，但對客戶市場保持樂觀。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
   },
   {
     "title": "China Accounts for 56% of Global Optical Module Manufacturing; Short-Term Supply Chain Decoupling Unlikely Under Potential U.S. Restrictions, Says TrendForce",
@@ -4849,104 +4469,6 @@
     "score": 4
   },
   {
-    "title": "Bending Spoons to acquire productivity software startup Airtable for $1.285B",
-    "url": "https://siliconangle.com/2026/08/04/bending-spoons-acquire-productivity-software-startup-airtable-1-285b/",
-    "content": "Technology holding company Bending Spoons S.p.A. today announced plans to acquire Airtable Inc., the developer of a popular cloud-based spreadsheet platform. The all-cash deal is worth $1.285 billion. That’s less than the approximately $1.4 billion Airtable has raised from its investors. The company was valued at $11.7 billion following its most recent funding round, a […] The post Bending Spoons ",
-    "published": "2026-08-05",
-    "published_ts": 1785889751.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-06T05:42:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "AMD 數據中心營收倍增，Helios 加速推進，但市場反應困惑",
-    "url": "https://siliconangle.com/2026/08/04/amds-ai-engine-shifts-higher-gear-data-center-revenue-doubles-helios-ramps-market-confused/",
-    "content": "Advanced Micro Devices Inc. delivered another strong quarter Tuesday, beating Wall Street expectations as its artificial intelligence infrastructure business continued its rapid expansion. The company posted 107% year-over-year growth in data center revenue, reinforcing that AMD is becoming a formidable challenger in the race to power enterprise AI. The Santa Clara, California-based chipmaker repo",
-    "published": "2026-08-04",
-    "published_ts": 1785886408.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-06T05:42:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "AMD Q2 數據中心營收倍增並推進 Helios，卻因資本支出疑慮股價下跌。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
-  },
-  {
-    "title": "AMD 數據中心營收倍增，但因資本支出與利潤壓力股價下跌",
-    "url": "https://siliconangle.com/2026/08/04/amd-doubles-data-center-revenue-stock-falls-concerns-rising-capex/",
-    "content": "After seeing its stock rise more than 7% during the regular trading session earlier today, Advanced Micro Devices Inc. saw all of those gains wiped out in extended trading after narrowly beating expectations in its latest financial results. The chipmaker reported second-quarter adjusted earnings of $1.66 per share, edging past Wall Street’s forecast of $1.62 […] The post AMD more than doubles its ",
-    "published": "2026-08-04",
-    "published_ts": 1785885926.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-06T05:42:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "AMD 數據中心營收倍增，盤後股價因資本支出與利潤壓力回落。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Open Secure AI Alliance proposes SAFE guidelines as membership tops 120",
-    "url": "https://siliconangle.com/2026/08/04/open-secure-ai-alliance-proposes-safe-guidelines-membership-tops-120/",
-    "content": "The Open Secure AI Alliance today proposed a set of guidelines for reporting cybersecurity incidents involving artificial intelligence agents, one week after the group was formed. The proposal is called Shared AI Findings Exchange, or SAFE, and was published as a request for comments by the Linux Foundation. Nvidia Corp., Cisco Systems Inc., CrowdStrike Holdings […] The post Open Secure AI Allianc",
-    "published": "2026-08-04",
-    "published_ts": 1785884498.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-06T05:42:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "OpenAI 公開反擊 Apple 最新提告",
-    "url": "https://siliconangle.com/2026/08/04/openai-publicly-pushes-back-apple-lawsuit-new-filing/",
-    "content": "OpenAI Group PBC has publicly pushed back against a lawsuit that Apple Inc. filed against it last month. The ChatGPT developer outlined its arguments in a blog post published on Monday. The move came shortly after Apple submitted a new court filing in connection with its litigation. In the document, the company asks the court […] The post OpenAI publicly pushes back against Apple lawsuit after new",
-    "published": "2026-08-04",
-    "published_ts": 1785884497.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-06T05:42:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 針對 Apple 上月提告公開提出反駁論點。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "SpaceX 首季財報優於預期，但 $18B 資本支出使股價下跌 8%",
-    "url": "https://siliconangle.com/2026/08/04/spacex-stock-falls-8-first-earnings-beat-overshadowed-18b-capex/",
-    "content": "Shares in Space Exploration Technologies Corp. fell more than 8% in late trading today after the newly public company beat Wall Street on revenue and earnings in its second quarter and disclosed capital spending billions of dollars above what analysts had modeled. It was SpaceX’s first quarterly report since its June initial public offering, the […] The post SpaceX stock falls 8% as first earnings",
-    "published": "2026-08-04",
-    "published_ts": 1785882976.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-06T05:42:23+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "SpaceX 首季財報優於預期，卻因 $18B 資本支出股價下跌 8%。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
     "title": "Tesla Megapacks 為 Ørsted 德州 250 MW 電網電池供電",
     "url": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
     "content": "Tesla Megapacks are now helping support the Texas grid at Ørsted’s new 250 MW/500 MWh Old 300 battery storage project.",
@@ -5110,19 +4632,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Lucid’s smaller Cosmos SUV, slated for 2026, has been pushed back to 2027",
-    "url": "https://electrek.co/2026/08/04/lucids-smaller-cosmos-suv-slated-for-2026-has-been-pushed-back-to-2027/",
-    "content": "Lucid’s upcoming “mid-size” Cosmos SUV, which it had said would come out later this year, will now not launch until at least 2027.",
-    "published": "2026-08-04",
-    "published_ts": 1785885857.0,
-    "outlet": "Electrek",
-    "fetched_at": "2026-08-06T05:42:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Zoox 無方向盤自動駕駛 Pod 將於8月10日開始收費",
     "url": "https://insideevs.com/news/803923/zoox-allowed-charge-robotaxi-rides/",
     "content": "Zoox said on Wednesday that it will start charging for rides on August 10, in a milestone for the company and broader industry.",
@@ -5222,19 +4731,6 @@
     "content": "The state is offering lower rebates this year, but some EV owners can still get $7,500, offsetting the cancelled federal tax credit.",
     "published": "2026-08-05",
     "published_ts": 1785918148.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-08-06T05:42:24+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Lucid Delays Cosmos EV To 2027 As Part Of Turnaround Plan",
-    "url": "https://insideevs.com/news/803792/lucid-midsize-ev-production-2027/",
-    "content": "\"We will not repeat the mistakes of the past by bringing a product to market before it is ready,\" Lucid's CEO said on Tuesday.",
-    "published": "2026-08-04",
-    "published_ts": 1785884364.0,
     "outlet": "InsideEVs",
     "fetched_at": "2026-08-06T05:42:24+08:00",
     "classified": true,
@@ -5430,32 +4926,6 @@
     "content": "Home battery startup Base Power seems constitutionally incapable of standing still. After raising $1 billion last October, the Texas company has raised another $1 billion, and upped its valuation from $4 billion to $13 billion. The latest investment, led by Ribbit, Addition, Valor Equity Partners, and…",
     "published": "2026-08-05",
     "published_ts": 1785893220.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-08-06T05:42:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Court rules against Trump EPA’s freeze of $20B in ‘green bank’ funds",
-    "url": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
-    "content": "A federal appeals court has ruled that the Environmental Protection Agency acted improperly in terminating billions of dollars of “green bank” financing last year, setting up a potential showdown before the U.S. Supreme Court over one of the Trump administration's earliest attacks on a key Biden-era climate program.…",
-    "published": "2026-08-04",
-    "published_ts": 1785886620.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-08-06T05:42:25+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Microreactor startup Valar Atomics raises $1B",
-    "url": "https://www.canarymedia.com/articles/nuclear/microreactor-startup-valar-atomics-raises-1b",
-    "content": "Valar Atomics, the three-year-old microreactor developer that has a forged a close relationship with the Trump administration, has raised $1 billion in its Series B funding round as investors increasingly bet that the White House’s overhaul of nuclear regulations will clear the way for the country’s first big atomic…",
-    "published": "2026-08-04",
-    "published_ts": 1785880800.0,
     "outlet": "Canary Media",
     "fetched_at": "2026-08-06T05:42:25+08:00",
     "classified": true,
@@ -5728,78 +5198,6 @@
     "category": "總體經濟",
     "subtopic": "美股",
     "summary_zh": "Wesley Bell在密蘇里初選擊敗Cori Bush，阻擋左翼團體接管席次。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "男子在川普高爾夫球場附近被捕，車內發現槍枝",
-    "url": "https://www.axios.com/2026/08/05/trump-golf-course-arrest-la",
-    "content": "Authorities said Tuesday they arrested a suspect near President Trump's Los Angeles-area golf course ahead of his fundraising visit. The big picture: Jeanine John Taele, 38, of Downey, California, was arrested Sunday after deputies say they found a pistol and illegal ammunition in his vehicle in a parking lot at Trump National Golf Club in Rancho Palos Verdes, according to the Los Angeles County S",
-    "published": "2026-08-05",
-    "published_ts": 1785890972.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-06T05:42:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "當局週二在川普洛杉磯高爾夫球場附近逮捕一名男子，車內發現槍枝。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Scoop：Hegseth機密請求增加國防經費",
-    "url": "https://www.axios.com/2026/08/04/hegseth-defense-funding-reconciliation",
-    "content": "Top Pentagon officials are already pitching reconciliation 4.0 to Senate Republicans behind closed doors, underscoring the need for a massive boost in military funds, Axios has learned. Why it matters: Thune hasn't embraced reconciliation 3.0. The White House is already looking beyond it. Trump officials are quietly sketching out a lame-duck package that could pair significant Pentagon funding wit",
-    "published": "2026-08-04",
-    "published_ts": 1785886363.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-06T05:42:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "五角大廈高層向參院共和黨人推銷reconciliation 4.0，強調需大幅增加國防預算。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "國會黑人核心小組對Jeffries持懷疑態度的DSA民主黨人施壓",
-    "url": "https://www.axios.com/2026/08/04/hakeem-jeffries-black-caucus-rabb-kiros-avila-chevalier",
-    "content": "Some members of the Congressional Black Caucus want a condition for incoming Democrats seeking to join their ranks: You have to support House Minority Leader Hakeem Jeffries (D-N.Y.) for speaker. Why it matters: Things could get dicey fast, as several Black Democrats who are all but guaranteed to be elected in November have declined to commit to voting for Jeffries. But Darializa Avila Chevalier w",
-    "published": "2026-08-04",
-    "published_ts": 1785886186.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-06T05:42:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "國會黑人核心小組成員要求新加入民主黨人必須支持House Minority Leader Jeffries。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Max Miller堅守俄亥俄眾議院選戰",
-    "url": "https://www.axios.com/2026/08/04/max-miller-trump-campaign-decision",
-    "content": "Rep. Max Miller (R-Ohio) said Tuesday that he won't drop his reelection bid despite facing allegations of domestic abuse and violence from his ex-wife and two other women. Why it matters: Miller has until Wednesday to withdraw from the race, and President Trump has expressed concern that the embattled congressman could put a reliably Republican seat at risk in the midterms. What they're saying: Wh",
-    "published": "2026-08-04",
-    "published_ts": 1785881502.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-06T05:42:27+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Max Miller週二表示不會退出俄亥俄連任選戰，儘管前妻指控家暴。",
     "tags": [
       "🏢品牌動態"
     ],
@@ -7143,56 +6541,6 @@
       "📊有數字"
     ],
     "score": 3
-  },
-  {
-    "title": "這個 Bitcoin Bridge 因為 AI 發現漏洞的速度太快而自行關閉",
-    "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
-    "content": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
-    "published": "2026-08-04",
-    "published_ts": 1785883563.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-08-06T05:42:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "非託管 Bitcoin swap 服務商 Boltz 表示攻擊者利用 AI 發現漏洞的速度快過修復，因此被迫暫停 swaps。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
-    "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
-    "content": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
-    "published": "2026-08-04",
-    "published_ts": 1785881763.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-08-06T05:42:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "OpenAI 公開 Apple 員工的文字訊息以反擊商業機密訴訟",
-    "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
-    "content": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-    "published": "2026-08-04",
-    "published_ts": 1785879963.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-08-06T05:42:29+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI 釋出前 Apple 員工的 email 與 text messages，指出 Apple 訴訟中的事實錯誤以反擊。",
-    "tags": [
-      "🏢品牌動態",
-      "📋政策法規"
-    ],
-    "score": 4
   },
   {
     "title": "Jim Cramer says the market's biggest opportunities have room for multiple winners",
@@ -37188,5 +36536,95 @@
       "🏢品牌動態"
     ],
     "score": 3
+  },
+  {
+    "title": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market",
+    "url": "https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html",
+    "content": "CNBC’s Jim Cramer said investors can quickly gauge the market by focusing on three things: bonds, oil and Nvidia.",
+    "published": "2026-08-11",
+    "published_ts": 1786486530.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
+  },
+  {
+    "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+    "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+    "content": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+    "published": "2026-08-11",
+    "published_ts": 1786482073.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
+  },
+  {
+    "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+    "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+    "content": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
+    "published": "2026-08-11",
+    "published_ts": 1786488666.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
+  },
+  {
+    "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
+    "url": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+    "content": "Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic",
+    "published": "2026-08-11",
+    "published_ts": 1786475296.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
+  },
+  {
+    "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+    "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+    "content": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
+    "published": "2026-08-11",
+    "published_ts": 1786477277.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
+  },
+  {
+    "title": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
+    "url": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
+    "content": "Last December, Meta said it planned to acquire Manus for $2 billion, its latest effort to shore up its AI strategy.",
+    "published": "2026-08-11",
+    "published_ts": 1786464747.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
+  },
+  {
+    "title": "Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat",
+    "url": "https://www.cnbc.com/2026/08/11/nvidia-releases-nemotron-3point5-lightning-open-source-ai-model-.html",
+    "content": "Nemotron 3.5 Lightning is free for companies to download, use and modify without getting permission or paying Nvidia.",
+    "published": "2026-08-11",
+    "published_ts": 1786453201.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
+  },
+  {
+    "title": "Nvidia's 'investible asset,' U.S. oil reserve shrinks, Trump's vaccine order and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/08/11/5-things-to-know-before-the-stock-market-opens.html",
+    "content": "Here are five key things investors need to know to start the trading day.",
+    "published": "2026-08-11",
+    "published_ts": 1786454667.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
+  },
+  {
+    "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+    "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
+    "content": "The consumer price index is expected to show only a modest increase for July.",
+    "published": "2026-08-11",
+    "published_ts": 1786473281.0,
+    "outlet": "CNBC Economy",
+    "fetched_at": "2026-08-12T00:50:44Z",
+    "classified": false
   }
 ]
