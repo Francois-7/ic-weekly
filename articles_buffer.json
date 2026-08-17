@@ -31,736 +31,6 @@
     "translated": true
   },
   {
-    "title": "股市今日：Dow、S&P 500、Nasdaq 期貨靜待關鍵通膨數據",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786358638.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "美股三大指數期貨今日幾乎持平，投資人等待通膨數據出爐。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "股市今日：Dow 因油價上漲下跌，SpaceX 股價持續上漲",
-    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363792.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Dow 指數因油價攀升而下跌，SpaceX 股價則持續走高。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "JPMorgan 看好 S&P 500 後續將有更大漲幅",
-    "url": "https://finance.yahoo.com/markets/article/why-jpmorgan-sees-more-big-gains-ahead-for-the-sp-500-120624177.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363584.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "JPMorgan 預期 S&P 500 指數未來將出現更多大幅上漲。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Berkshire Hathaway 盈餘優於預期，結束連續14季賣股",
-    "url": "https://www.investors.com/news/berkshire-hathaway-earnings-buybacks-cash-hoard-warren-buffett/?src=A00220&yptr=yahoo",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363518.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Berkshire Hathaway 盈餘超越市場預期，並結束14季賣股行動。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "每日焦點：GARP 板塊",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_47861_MarketOutlook_1786361773000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361773.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "市場聚焦 GARP 板塊，尋找成長與價值兼具的投資標的。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "9月利率仍可能上升，5檔高收益被動收入股將受惠",
-    "url": "https://finance.yahoo.com/economy/policy/articles/interest-rates-could-still-rise-121506723.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786364106.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "分析師指出9月利率可能續升，5檔高收益被動收入股可望受惠。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Intel 推出150億美元股票銷售，轉型反彈推升股價",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-launches-15-billion-share-120506693.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363506.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Intel 宣布發行150億美元股票，轉型反彈帶動股價上漲。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
-    "title": "GameStop 考慮撤回 eBay 收購案，Bloomberg 報導",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-weighing-withdrawal-ebay-bid-120023965.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363223.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "GameStop 正評估撤回對 eBay 的收購提案。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "26歲年輕人負債45K美元仍堅持每月800美元娛樂預算",
-    "url": "https://finance.yahoo.com/markets/articles/26-old-owes-45k-debt-120000267.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "26歲年輕人負債45K美元，卻堅持每月800美元娛樂支出引發討論。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 1,
-    "translated": true
-  },
-  {
-    "title": "PE支持的英國公司避開IPO，退市潮持續增加",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/pe-backed-uk-companies-shirk-115733577.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363053.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "多家PE支持的英國公司選擇不上市，退市數量持續攀升。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "技術評估：中期趨勢看多",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_47860_TechnicalAnalysis_1786361696000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361696.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "技術面分析顯示市場中期趨勢維持看多格局。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "Sony 與 TSMC 計畫在日本投資64億美元建影像感測器廠",
-    "url": "https://finance.yahoo.com/technology/articles/sony-tsmc-plan-6-4-120950786.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363790.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Sony 與 TSMC 將在日本合資64億美元興建影像感測器工廠。",
-    "tags": [
-      "📊有數字",
-      "⚠️供應鏈異動"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
-    "title": "Rio Tinto 盈餘大增43%，成長是否永續引發討論",
-    "url": "https://finance.yahoo.com/markets/commodities/articles/rio-tinto-rio-43-earnings-113922212.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361962.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Rio Tinto 盈餘年增43%，市場質疑成長是否為商品價格帶動。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "S&P 500 企業第二季獲利大幅成長，後續展望如何",
-    "url": "https://www.investors.com/etfs-and-funds/sectors/sp-500-companies-second-quarter-profit-boomed-whats-next/?src=A00220&yptr=yahoo",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361414.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "S&P 500 企業第二季獲利大幅成長，分析師關注後續動能。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "哈薩克斯坦尋找新出口路線，因無人機攻擊影響黑海石油出口",
-    "url": "https://finance.yahoo.com/energy/articles/kazakhstan-weighs-routes-drone-strikes-113000568.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361400.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "哈薩克斯坦因黑海石油出口受無人機攻擊影響，正尋找替代路線。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Ceva 第二季業績優於預期，受惠 Edge AI 技術授權",
-    "url": "https://www.investors.com/news/technology/ceva-stock-q2-2026-earnings/?src=A00220&yptr=yahoo",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361274.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "AIoT",
-    "subtopic": "工業物聯網產品",
-    "summary_zh": "Ceva 第二季業績超越目標，主要來自 Edge AI 技術授權收入。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "分析師報告：Cleveland-Cliffs Inc",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_5171_AnalystReport_1786360427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786360427.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "分析師發布 Cleveland-Cliffs Inc 最新投資評等報告。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "美元在就業數據下滑後企穩，日圓走弱",
-    "url": "https://finance.yahoo.com/news/dollar-near-two-month-trough-013132165.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786360399.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "日圓走勢與日本經濟",
-    "summary_zh": "美元指數在非農就業數據下滑後維持穩定，日圓匯率走弱。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Needham 維持對 Walt Disney (DIS) 樂觀看法，儘管競爭加劇",
-    "url": "https://finance.yahoo.com/media-advertising/articles/needham-remains-optimistic-walt-disney-110120695.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786359680.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Needham 分析師維持對 Walt Disney 樂觀評等，認為競爭加劇下仍有成長空間。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Ramit Sethi 幫助新婚夫婦解決 $165,000 債務 — 包含婚前隱瞞的 $30,000",
-    "url": "https://finance.yahoo.com/small-business/articles/ramit-sethi-helps-newlyweds-tackle-105500680.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786359300.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Ramit Sethi 協助新婚夫妻處理165,000美元債務，其中包含婚前隱藏的30,000美元。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "印度 TCS 警示部分員工資料疑似外洩，客戶資料未受影響",
-    "url": "https://finance.yahoo.com/technology/articles/indias-tcs-says-received-alerts-104707676.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786358827.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "TCS 指出部分員工資料疑似外洩，但客戶資料未受影響。",
-    "tags": [
-      "🏢品牌動態",
-      "⚠️供應鏈異動"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "分析師報告：National Fuel Gas Co",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_3237_AnalystReport_1786360427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786360427.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "分析師發布 National Fuel Gas Co 最新報告。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "8月值得買的3檔被低估醫療股",
-    "url": "https://finance.yahoo.com/healthcare/articles/3-beaten-down-healthcare-stocks-120055911.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363255.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "分析師推薦8月可買進的3檔被低估醫療股。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "早盤聚焦：Fed 的 Cook 再次接受質詢",
-    "url": "https://finance.yahoo.com/economy/policy/articles/morning-bid-feds-cook-grilled-103813938.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786358293.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Fed 官員 Cook 再次接受國會質詢，市場關注利率政策。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "散戶投資人週五首次賣出 SpaceX 股份",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-sold-spacex-shares-103015106.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786357815.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "散戶投資人週五首次在二級市場賣出 SpaceX 股份。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "今日最佳 CD 利率（2026年8月10日）：最高鎖定 4.35% APY",
-    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-10-2026-lock-in-up-to-435-apy-100000181.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786356000.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "今日最高 CD 利率達 4.35% APY，投資人可鎖定收益。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "今日房貸與再融資利率（2026年8月10日）：低於上週",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-10-2026-rates-lower-than-last-week-100000884.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786356000.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "今日房貸利率較上週下降，30年期平均利率走低。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "分析師報告：Regency Centers Corp",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_3356_AnalystReport_1786360427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786360427.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "分析師發布 Regency Centers Corp 最新報告。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "Intel 將出售 $15 Billion 普通股",
-    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026/card/intel-to-offer-15-billion-of-common-stock-jbaIHQuW7KAFHsgE1FWd?siteid=yhoof2&yptr=yahoo",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363231.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Intel 宣布將出售150億美元普通股，籌措營運資金。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5,
-    "translated": true
-  },
-  {
-    "title": "今日 HELOC 與房屋淨值貸款利率（2026年8月10日）：利差19個基點",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-10-2026-a-19-basis-point-differential-100000351.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786356000.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "今日 HELOC 與房屋淨值貸款利率利差為19個基點。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "今日最佳高收益儲蓄利率（2026年8月10日）：HYSA 最高可達 4.15% APY",
-    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-10-2026-earn-up-to-415-apy-with-an-hysa-100000399.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786356000.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "今日高收益儲蓄帳戶最高利率達 4.15% APY。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "分析師報告：Parker-Hannifin Corp",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_3311_AnalystReport_1786360427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786360427.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "分析師發布 Parker-Hannifin Corp 最新報告。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "Boeing 將飛行計程車事業併入競爭對手 Archer Aviation",
-    "url": "https://www.wsj.com/business/airlines/boeing-to-fold-its-flying-taxi-venture-into-rival-archer-aviation-b43245d6?siteid=yhoof2&yptr=yahoo",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Boeing 決定將飛行計程車事業併入 Archer Aviation。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "分析師報告：Booking Holdings Inc",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_3640_AnalystReport_1786360427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786360427.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "分析師發布 Booking Holdings Inc 最新報告。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "MakeMyTrip (MMYT) 2027 會計年度第一季財報電話會議逐字稿",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/makemytrip-mmyt-q1-2027-earnings-115821582.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363101.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "MakeMyTrip 公布2027會計年度第一季財報並舉行電話會議。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "主權 AI 基礎設施支出爆發，誰才是真正受益者？",
-    "url": "https://finance.yahoo.com/technology/ai/articles/really-benefits-sovereign-ai-infrastructure-115543024.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786362943.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "主權 AI 基礎設施支出大幅增加，分析其真正受益產業。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Google Cloud 明年48%營收可能來自2家仍未獲利的公司",
-    "url": "https://finance.yahoo.com/technology/ai/articles/48-google-cloud-revenue-next-115120204.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786362680.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "雲端營運商",
-    "summary_zh": "Google Cloud 明年48%營收可能來自2家尚未獲利的客戶。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "分析師報告：Applovin Corp",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_6739_AnalystReport_1786360427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786360427.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "分析師發布 Applovin Corp 最新報告。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
-    "title": "中國增持20噸黃金，儲備轉變強化比特幣「數位黃金」敘事",
-    "url": "https://finance.yahoo.com/markets/crypto/articles/china-adds-20-tonnes-gold-115033010.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786362633.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "中國央行增持20噸黃金，強化比特幣數位黃金定位。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3,
-    "translated": true
-  },
-  {
-    "title": "想從股票產生被動收入？3檔不可錯過的股息股票現在就買",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/looking-generate-passive-income-stocks-115000445.html",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786362600.0,
-    "outlet": "Yahoo Finance",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "文章推薦3檔高股息股票，適合追求被動收入的投資人。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 2,
-    "translated": true
-  },
-  {
     "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
     "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
     "content": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
@@ -794,82 +64,6 @@
       "📊有數字"
     ],
     "score": 3,
-    "translated": true
-  },
-  {
-    "title": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
-    "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
-    "content": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for an undisclosed stake in the eVTOL startup.",
-    "published": "2026-08-10",
-    "published_ts": 1786363405.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
-    "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
-    "content": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
-    "published": "2026-08-10",
-    "published_ts": 1786359601.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "眾議院民主黨要求Anthropic、OpenAI等AI公司赴國會作證近期駭客事件。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
-    "url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
-    "content": "The AI lab said it could not rule out a new model had reached \"Critical\" capability, meaning it could launch cyberattacks against sophisticated cyber defenses.",
-    "published": "2026-08-10",
-    "published_ts": 1786359890.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI加強新模型控制，因無法排除其具備發動網路攻擊的「Critical」能力。",
-    "tags": [
-      "🏢品牌動態",
-      "📋政策法規"
-    ],
-    "score": 4,
-    "translated": true
-  },
-  {
-    "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
-    "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
-    "content": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
-    "published": "2026-08-10",
-    "published_ts": 1786357767.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
-    "translated": true
-  },
-  {
-    "title": "Australian rare earth miner surges after U.S. Department of Defense investment",
-    "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
-    "content": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical minerals dominance.",
-    "published": "2026-08-10",
-    "published_ts": 1786362254.0,
-    "outlet": "CNBC Tech",
-    "fetched_at": "2026-08-10T12:37:36Z",
-    "classified": true,
-    "category": "總體經濟",
-    "subtopic": "綜合",
     "translated": true
   },
   {
@@ -1331,32 +525,6 @@
     "score": 3
   },
   {
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "content": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google Play adds Venmo as a payment option",
-    "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
-    "content": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "TechCrunch",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Bluesky now lets you hide reposts from that annoying person you follow",
     "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
     "content": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't care about. If you follow me, I may be that […]",
@@ -1515,146 +683,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "The Outlaw Chemist Teaching People How to Make Drugs From Scratch",
-    "url": "https://www.wired.com/story/the-outlaw-chemist-teaching-people-how-to-make-drugs-from-scratch/",
-    "content": "Willy Myco has made over 120 videos showing people his exact process for making everything from LSD to DMT vapes. Not everyone’s a fan of his methods.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "The Best Portable Solar Panels: My Take After Years of Testing",
-    "url": "https://www.wired.com/story/best-portable-solar-panels/",
-    "content": "Clean, free power from the sun is easier and more affordable to capture than ever with the best portable solar panels.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "光伏",
-    "summary_zh": "作者分享多年測試心得，推薦目前最佳便攜式太陽能板產品。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 1
-  },
-  {
-    "title": "The AI Slop Backlash Is Actually Having an Impact",
-    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "content": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-    "published": "2026-08-10",
-    "published_ts": 1786361400.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "The Best E-Readers of 2026: Kobo, Kindle, Boox",
-    "url": "https://www.wired.com/gallery/best-ereaders/",
-    "content": "Looking to read more? These handy ebook readers are here to help.",
-    "published": "2026-08-10",
-    "published_ts": 1786359600.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk",
-    "url": "https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/",
-    "content": "The approach is like a Costco for heat pumps, and it’s helping make installations more accessible as heat waves worsen.",
-    "published": "2026-08-10",
-    "published_ts": 1786359600.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "如何選擇相機 (2026): Sensors, Megapixels, Terms",
-    "url": "https://www.wired.com/story/how-to-choose-a-camera/",
-    "content": "Shopping for a camera can be confusing. Here’s how to sift through the acronyms, sensor options, and extra features to find the best one for you.",
-    "published": "2026-08-10",
-    "published_ts": 1786357980.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "文章說明如何依據Sensors、Megapixels等規格挑選適合相機。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 1
-  },
-  {
-    "title": "The Rise of the 1 am Job Interview",
-    "url": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-    "content": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
-    "published": "2026-08-10",
-    "published_ts": 1786357800.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Best Wireless Earbuds We’d Buy Right Now (2026): Apple, Sony, Bose, and More",
-    "url": "https://www.wired.com/story/best-wireless-earbuds/",
-    "content": "We tested over a hundred wireless earbuds—these models from Apple, Bose, Beats, and Samsung stood out from the rest.",
-    "published": "2026-08-10",
-    "published_ts": 1786356240.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Why Each Octopus Arm Has a Mind of Its Own",
-    "url": "https://www.wired.com/story/octopus-arms-distributed-intelligence-nine-brains/",
-    "content": "Two-thirds of an octopus’s neurons are in its arms—each operating independently—including the one it uses to have sex.",
-    "published": "2026-08-10",
-    "published_ts": 1786356000.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
-    "url": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
-    "content": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
-    "published": "2026-08-10",
-    "published_ts": 1786341600.0,
-    "outlet": "Wired",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
     "url": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
     "content": "Ford dealers were told about the new Escape-sized model; one of them spilled the beans.",
@@ -1764,19 +792,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Peer review is overwhelmed—can it survive in the AI era?",
-    "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-    "content": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
-    "published": "2026-08-10",
-    "published_ts": 1786359647.0,
-    "outlet": "Ars Technica",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
     "url": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
     "content": "Amazon Web Services is threading its AI-powered security infrastructure directly into the coding environments built by two of its fiercest rivals — and in doing so, it is making a bold bet that controlling the security layer matters more than controlling the model. AWS announced at Black Hat USA 2026 this month that its Continuum platform for code vulnerabilities will integrate directly into Anthr",
@@ -1827,19 +842,6 @@
     "content": "Presented by MongoDB We have been building databases as an industry for roughly 60 years . We have been building AI agents, in the form most people mean when they say the word today, for about 18 months. Sit with that ratio for a second, because it explains almost everything about the state of agentic development right now. Six decades versus a year and a half. We are not in the middle of this lea",
     "published": "2026-08-10",
     "published_ts": 1786372200.0,
-    "outlet": "VentureBeat",
-    "fetched_at": "2026-08-11T05:09:46+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Your agent didn’t hallucinate; it exceeded its authority",
-    "url": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
-    "content": "Content filters can block unsafe output. They cannot tell you whether an agent was authorized to issue that refund, touch that production system, or commit the company to an external action. Those are different problems, and most enterprises are only solving the first one. An AI agent can follow its instructions perfectly and still take an action the business never sanctioned. In commerce environm",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
     "outlet": "VentureBeat",
     "fetched_at": "2026-08-11T05:09:46+08:00",
     "classified": true,
@@ -2232,68 +1234,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Google Play now takes Venmo payments",
-    "url": "https://www.engadget.com/2232988/google-play-venmo/",
-    "content": "You can now use your Venmo balance or linked accounts for Google Play purchases.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-08-11T05:09:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Future Apple Watches may include more screen sizes or even a model with no display",
-    "url": "https://www.engadget.com/2233258/future-apple-watches-may-includes-more-screen-sizes-or-even-a-model-with-no-display/",
-    "content": "Apple's next Watch won't change much, but future models may see significant updates.",
-    "published": "2026-08-10",
-    "published_ts": 1786355522.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-08-11T05:09:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Apple Watch未來可能推出多種螢幕尺寸或無螢幕版本。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "OpenAI slows down Astra development due to cybersecurity concerns",
-    "url": "https://www.engadget.com/2233237/openai-slows-down-astra-development-due-to-cybersecurity-concerns/",
-    "content": "Meta slowed down development of its Astra model as it couldn't 'rule out critical cyber capabilities.'",
-    "published": "2026-08-10",
-    "published_ts": 1786353551.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-08-11T05:09:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "AI公司",
-    "summary_zh": "OpenAI因資安疑慮放緩Astra模型開發進度。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 4
-  },
-  {
-    "title": "The FCC wants to ban drones with LiDAR that it previously approved",
-    "url": "https://www.engadget.com/2233213/the-fcc-wants-to-ban-drones-with-lidar-that-it-previously-approved/",
-    "content": "If you're thinking of buying a LiDAR-equipped DJI drone, the FCC is proposing to ban them.",
-    "published": "2026-08-10",
-    "published_ts": 1786347358.0,
-    "outlet": "Engadget",
-    "fetched_at": "2026-08-11T05:09:47+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Workers are worried, but there’s no sign AI is muscling people out of their jobs on a massive scale",
     "url": "https://www.marketwatch.com/story/workers-are-worried-but-theres-no-sign-ai-is-muscling-people-out-of-their-jobs-on-a-massive-scale-8eb92638?mod=mw_rss_topstories",
     "content": "Mark Zuckerberg says we’re lucky to live in an “incredible moment,” but many workers are having a hard time stomaching the uncertainty.",
@@ -2576,24 +1516,6 @@
     "score": 2
   },
   {
-    "title": "Industrial Data and AI Readiness Survey 2027",
-    "url": "https://www.iiot-world.com/artificial-intelligence-ml/industrial-data-and-ai-readiness-survey-2027/",
-    "content": "IIoT World’s sixth annual Industrial Data and AI Readiness Survey is open. Last year, 272 industrial professionals across manufacturing, energy, pharma, and oil and gas responded. Only 7% had AI embedded in core processes, while 44% expected to reach that level within three years. The 2027 edition measures whether the industry has narrowed that distance.The […] The post Industrial Data and AI Read",
-    "published": "2026-08-10",
-    "published_ts": 1786348853.0,
-    "outlet": "IIoT World",
-    "fetched_at": "2026-08-11T05:09:50+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "工業物聯網產品",
-    "summary_zh": "IIoT World第六屆工業數據與AI就緒調查開放，去年有272位專業人士參與。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
     "title": "U.S. Startup Fields Quantum Sensors to Reduce Reliance on GPS",
     "url": "https://www.eetimes.com/u-s-startup-fields-quantum-sensors-to-reduce-reliance-on-gps/",
     "content": "GPS spoofing is a sitting duck; Dirac’s quantum sensors aim to navigate air, sea, and tunnels without satellites. The post U.S. Startup Fields Quantum Sensors to Reduce Reliance on GPS appeared first on EE Times .",
@@ -2623,19 +1545,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Can AI Command Earth-to-Orbit Operations?",
-    "url": "https://www.eetimes.com/can-ai-command-earth-to-orbit-operations/",
-    "content": "The aerospace and defense sector is facing a confluence of geopolitical instability, rapid technological advances, evolving security requirements, and complex global supply chains. The post Can AI Command Earth-to-Orbit Operations? appeared first on EE Times .",
-    "published": "2026-08-10",
-    "published_ts": 1786348800.0,
-    "outlet": "EE Times",
-    "fetched_at": "2026-08-11T05:09:51+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
   },
   {
     "title": "Amazfit software update brings new training features to eight watches",
@@ -2731,19 +1640,6 @@
     "content": "This $199 GreenPan Frost ice cream maker and slushie machine can get you your favorite frozen treat in less than 15 minutes.",
     "published": "2026-08-10",
     "published_ts": 1786376647.0,
-    "outlet": "CNET Smart Home",
-    "fetched_at": "2026-08-11T05:09:56+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "This Wireless Half-Fan, Half-Lamp Saved My Hot Office This Summer",
-    "url": "https://www.cnet.com/home/smart-home/this-wireless-half-fan-half-lamp-saved-my-home-this-summer/",
-    "content": "SwitchBot’s standing fan is packed with extra features, but it’s the lamp and battery power that make it useful in so many situations.",
-    "published": "2026-08-10",
-    "published_ts": 1786356000.0,
     "outlet": "CNET Smart Home",
     "fetched_at": "2026-08-11T05:09:56+08:00",
     "classified": true,
@@ -2867,92 +1763,6 @@
       "🏢品牌動態"
     ],
     "score": 2
-  },
-  {
-    "title": "The REDMAGIC Astra 2 goes on sale August 26 - here is how to get it a day early with a discount",
-    "url": "https://www.gsmarena.com/redmagic_astra_2_launches_next_week_here_is_how_to_get_it_a_day_early_with_a_discount-news-73547.php",
-    "content": "REDMAGIC introduced the industry’s first mass-produced smartphone with a liquid cooling system, the REDMAGIC 11 Pro, a few months ago. Now the company is bringing this technology to gaming tablets with its most powerful slate yet. The REDMAGIC Astra 2 will go on open sale globally on August 26. However, you can jump to the front of the queue with the $1/€1/£1 early bird voucher (available from Aug",
-    "published": "2026-08-10",
-    "published_ts": 1786363202.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-08-11T05:09:56+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "REDMAGIC Astra 2將於8月26日開賣，可提前一天折扣購買。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Moto G Max is coming to India with a Snapdragon 6s Gen 4 and 7,000mAh battery",
-    "url": "https://www.gsmarena.com/moto_g_max_is_coming_to_india_with_a_snapdragon_6s_gen_4_and_7000mah_battery-news-74089.php",
-    "content": "Motorola launched the Moto G Max in select global markets back in June. The smartphone is now headed to India with a different set of specifications. The Moto G Max will debut in India on August 14 and will be available for purchase via the official company website and Flipkart. It will be powered by the Snapdragon 6s Gen 4 chipset, which will be paired with 6GB of LPDDR5X RAM and 256GB of UFS 3.1",
-    "published": "2026-08-10",
-    "published_ts": 1786359602.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-08-11T05:09:56+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "Motorola Moto G Max將在印度推出，搭載Snapdragon 6s Gen 4與7000mAh電池。",
-    "tags": [
-      "🏢品牌動態",
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Redmi 17 5G and Redmi 17 4G go official",
-    "url": "https://www.gsmarena.com/redmi_17_5g_and_redmi_17_4g_go_official_-news-74087.php",
-    "content": "Following the Redmi 15 series from last year, Xiaomi has now launched its Redmi 17 series with two members. The Redmi 17 4G and Redmi 17 5G share identical looks and key specs. Redmi 17 4G (left) and Redmi 17 5G (right) Both phones come with 6.9-inch IPS LCDs, but unlike their predecessors, the new models feature 1600 x 720px resolution panels instead of the FHD ones found on their predecessors. B",
-    "published": "2026-08-10",
-    "published_ts": 1786354682.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-08-11T05:09:56+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "iQOO Neo11 Ultra and Z11s to launch next week, design revealed",
-    "url": "https://www.gsmarena.com/iqoo_neo11_ultra_and_z11s_to_launch_next_week_design_revealed-news-74085.php",
-    "content": "iQOO has confirmed the launch date of the Neo11 Ultra and Z11s in China. The company has also revealed the design of both smartphones along with several of their key specifications. The iQOO Neo11 Ultra and iQOO Z11s will debut in China on August 18, the company confirmed in a Weibo post. While the Neo11 Ultra is being marketed as the only smartphone in its segment to combine a 2K display with a 9",
-    "published": "2026-08-10",
-    "published_ts": 1786345202.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-08-11T05:09:56+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "iQOO確認Neo11 Ultra與Z11s下週在中國發表，並公開兩款手機設計。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Gurman: Apple 考慮對其 smartwatch 產品線進行更廣泛的重新設計",
-    "url": "https://www.gsmarena.com/gurman_apple_considering_a_broader_redesign_of_its_smartwatch_lineup-news-74084.php",
-    "content": "Apple is reportedly exploring a revamped smartwatch lineup with new designs, form factors, and even a screenless fitness tracker. The report adds that the company is also considering new budget-friendly smartwatch models beyond the existing Apple Watch SE lineup. In the latest edition of his Power On newsletter, Bloomberg's Mark Gurman reports that Apple's industrial design team has spent the past",
-    "published": "2026-08-10",
-    "published_ts": 1786341602.0,
-    "outlet": "GSMArena",
-    "fetched_at": "2026-08-11T05:09:56+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "Apple 據報正探索全新 smartwatch 設計、形式因素及無螢幕健身追蹤器。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
   },
   {
     "title": "Apple TV teams up with Academy Award-winning director for the second time",
@@ -3281,43 +2091,6 @@
     "score": 1
   },
   {
-    "title": "圓形 Apple Watch 可能，但 Apple Ring 更有可能",
-    "url": "https://9to5mac.com/2026/08/10/a-round-apple-watch-is-possible-but-an-apple-ring-more-likely/",
-    "content": "A Bloomberg report yesterday suggested that we could see a pretty dramatic shake-up in a future Apple Watch lineup. In particular, it suggested that the company was exploring the possibility of one or more models with a round rather than square form factor …",
-    "published": "2026-08-10",
-    "published_ts": 1786363771.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "AIoT",
-    "subtopic": "智慧穿戴",
-    "summary_zh": "彭博報導指出 Apple Watch 產品線可能大幅調整，Apple Ring 機率較高。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "iPhone 18 Pro 元件成本將增加 38%",
-    "url": "https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/",
-    "content": "A new TrendForce analysis estimates that Apple will pay 38% more for iPhone 18 Pro components than it did for its predecessor. Unsurprisingly, the biggest hike is in the cost of memory, with Apple said to be paying around three times more this year. However, the firm’s analysis supports my own view that this year’s increase in price will not be as high as some have suggested …",
-    "published": "2026-08-10",
-    "published_ts": 1786360611.0,
-    "outlet": "9to5Mac",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "手機產品",
-    "summary_zh": "TrendForce 估計 Apple iPhone 18 Pro 元件成本較前代增加 38%。",
-    "tags": [
-      "📊有數字",
-      "⚠️供應鏈異動"
-    ],
-    "score": 5
-  },
-  {
     "title": "Google’s base Pixel 11 probably won’t have ‘HiLight’ but will actually have enough RAM",
     "url": "https://9to5google.com/2026/08/10/pixel-11-hilight-ram-leak/",
     "content": "With just hours left to go for Google’s Pixel 11 launch event, details keep on leaking out, with some clarification around the base Pixel 11 now making its way online.",
@@ -3406,19 +2179,6 @@
     "content": "Following a long battle in court, Google has opened the floodgates to third-party app store distribution via the Play Store in the US.",
     "published": "2026-08-10",
     "published_ts": 1786368300.0,
-    "outlet": "9to5Google",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "手機",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Google Play adds Venmo as a payment method for apps, games, and more",
-    "url": "https://9to5google.com/2026/08/10/google-play-adds-venmo-as-a-payment-method-for-apps-games-and-more/",
-    "content": "Google has spent the past few years ramping up its efforts to get Android users to download more apps — and, in turn, to spend more cash on games, in-app purchases, and more. Today, Google is adding Venmo as an all-new way to make purchases on the Play Store, meaning that $40 you keep forgetting to transfer to your bank account just became your ticket to movie rentals, ad-free apps, and more.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
     "outlet": "9to5Google",
     "fetched_at": "2026-08-11T05:09:57+08:00",
     "classified": true,
@@ -3529,171 +2289,6 @@
     "score": 4
   },
   {
-    "title": "Hyperscalers 承諾近 2 兆美元 AI 硬體採購",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion",
-    "content": "As hyperscalers increase their long-term purchase commitments, the high-tech industry faces a tectonic shift as CSPs overwhelm consumer electronics companies.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "雲端營運商",
-    "summary_zh": "Google 領先投入 8110 億美元，Apple 則為 570 億美元。",
-    "tags": [
-      "📊有數字",
-      "⚠️供應鏈異動"
-    ],
-    "score": 5
-  },
-  {
-    "title": "GeForce NOW exploit 讓你透過簡單檔案交換存取完整 Windows desktop — Modder 在 Ultimate tier 以 48GB VRAM 無限制運行本地 AI models",
-    "url": "https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions",
-    "content": "Swapping the executable of a game with a modified file will fool Steam into thinking it's opening that game when it's really just giving you unrestricted desktop access. This is against GeForce NOW's terms of service, though, so you run the risk of getting banned.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "Modder 利用 GeForce NOW exploit，在 Ultimate tier 以 48GB VRAM 運行本地 AI models。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Steam hardware distributor hit by cyberattack, 'expect fake messages,' Valve warns — Europe vendor has personal information and hardware purchase details stolen",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/steam-hardware-distributor-hit-by-cyberattack-expect-fake-messages-valve-warns-europe-vendor-has-personal-information-and-hardware-purchase-details-stolen",
-    "content": "Steam hardware customers in Europe should 'expect fake messages' said Valve in an email bulletin, after a distributor's security was breached.",
-    "published": "2026-08-10",
-    "published_ts": 1786362546.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Over 70% of Americans oppose AI data centers；美國抗議加劇，今年已近 40 人因 AI 工廠建置被捕",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
-    "content": "The public pushback against data center construction projects is only growing stronger, even as some protesting local residents have been arrested in the process.",
-    "published": "2026-08-10",
-    "published_ts": 1786362000.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "數據中心",
-    "summary_zh": "美國超過 70% 民眾反對 AI data centers，今年已有近 40 人因抗議建廠被捕。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "HoverAir 推出 Versa 模組化口袋 gimbal 相機，可變身自飛 drone",
-    "url": "https://www.tomshardware.com/tech-industry/drones/hoverair-unveils-the-versa-modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-modular-camera-transforms-into-an-auto-tracking-drone-by-magnetically-snapping-together-for-instant-palm-launch-and-ai-tracking",
-    "content": "Have you ever wanted a pocket gimbal camera and a selfie drone that follows your around autonomously in one device? That's what the HoverAir Versa offers with a transforming, two-in-one body that can make filming yourself from all sorts of angles as convenient as possible.",
-    "published": "2026-08-10",
-    "published_ts": 1786360800.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "HoverAir 推出 Versa 模組化 gimbal 相機，可磁吸變身自飛 drone 並支援 AI 追蹤。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 3
-  },
-  {
-    "title": "The only current-generation graphics card on sale below MSRP — AMD's Radeon RX 9070 GRE GPU with 12GB of VRAM returns to its lowest-ever price of $499",
-    "url": "https://www.tomshardware.com/pc-components/gpus/the-only-current-generation-graphics-card-on-sale-below-msrp-amds-radeon-rx-9070-gre-gpu-with-12gb-of-vram-returns-to-its-lowest-ever-price-of-usd499",
-    "content": "Grab a new GPU for less than the MSRP launch price. Gigabyte's Gaming RX 9070 GRE falls to its lowest-ever price.",
-    "published": "2026-08-10",
-    "published_ts": 1786359518.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "UK's Royal Navy sea drones contain component that secretly sent data to China, report claims — government cuts camera connectivity and insists data wasn’t sensitive, only ‘heartbeat communications’",
-    "url": "https://www.tomshardware.com/tech-industry/drones/uks-royal-navy-sea-drones-contain-component-that-secretly-sent-data-to-china-report-claims-government-cuts-camera-connectivity-and-insists-data-wasnt-sensitive-only-heartbeat-communications",
-    "content": "K3 Scout surveillance drones used by the UK’s Royal Navy contain components that have been secretly transmitting data to China, according to reports.",
-    "published": "2026-08-10",
-    "published_ts": 1786357899.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Windows 11's built-in weather app hogs more than 1.2 gigabytes of RAM just to tell the forecast — memory-sucking web wrapper filled with ads masquerades as an actual application",
-    "url": "https://www.tomshardware.com/software/windows/windows-11s-built-in-weather-app-hogs-more-than-1-2-gigabytes-of-ram-just-to-tell-the-forecast-memory-sucking-web-wrapper-filled-with-ads-masquerades-as-an-actual-application",
-    "content": "MSN Weather acts as the native weather app for Windows 11 and all it does it run a bunch of Chromium subprocesses in the background to retrieve the forecast data. This causes it to use 5x more memory than the macOS weather app. And, oh, you also get to enjoy ads!",
-    "published": "2026-08-10",
-    "published_ts": 1786357800.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Save nearly $350 on this 4TB Samsung 9910 Pro SSD with Gen 5 speeds right now —limited-time Woot sale delivers ultra-fast storage with speeds up to 14,800 MB/s",
-    "url": "https://www.tomshardware.com/pc-components/ssds/save-nearly-usd350-on-this-4tb-samsung-9910-pro-ssd-with-gen-5-speeds-right-now-limited-time-woot-sale-delivers-ultra-fast-storage-with-speeds-up-to-14-800-mb-s",
-    "content": "Save $413 on this 4TB Samsung 9100 Pro SSD, offering super-fast Gen 5 speeds, now priced at $619.99 in this limited-time Woot sale.",
-    "published": "2026-08-10",
-    "published_ts": 1786357131.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Chinese farmer kills 25 acres of crops after following AI-generated weed and pest control advice — farmer trusted pesticide recipe after months of successful advice",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice",
-    "content": "A farmer in China followed an AI app's advice for his 25-acre farmland, resulting in the death of his entire crop of sesame seedlings. 67-year-old man was initially skeptical of the tool but eventually trusted it after months of using it.",
-    "published": "2026-08-10",
-    "published_ts": 1786356000.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Europe expands its Starlink rival to 348 satellites as IRIS² moves into implementation — €15.6 billion network will boost EU government capacity by 60%, with launches starting in 2029",
-    "url": "https://www.tomshardware.com/tech-industry/space/europe-expands-its-starlink-rival-to-348-satellites-as-iris2-moves-into-implementation-eur15-6-billion-network-will-boost-eu-government-capacity-by-60-percent-with-launches-starting-in-2029",
-    "content": "Europe has finalized plans for its €15.6 billion IRIS² satellite network, expanding it to 348 satellites with first launches scheduled for 2029.",
-    "published": "2026-08-10",
-    "published_ts": 1786354200.0,
-    "outlet": "Tom's Hardware",
-    "fetched_at": "2026-08-11T05:09:57+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "綜合"
-  },
-  {
     "title": "As AI Networks Scale In Three Directions, So Does Arista",
     "url": "https://www.nextplatform.com/connect/2026/08/10/as-ai-networks-scale-in-three-directions-so-does-arista/5285500",
     "content": "",
@@ -3751,32 +2346,6 @@
     "content": "Artificial intelligence systems are developing faster than cybersecurity experts — and the energy grid — can keep up with. At the recent Black Hat USA event, security analysts viewed the rise of AI-driven cyberattacks as a “sky is falling” threat, according to Dave Vellante (pictured, right), chief analyst for theCUBE Research. The gap between attacks […] The post On theCUBE Pod: Black Hat exposes",
     "published": "2026-08-10",
     "published_ts": 1786372005.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-11T05:10:02+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "AI-native market research automation startup Echovane raises $1M",
-    "url": "https://siliconangle.com/2026/08/10/ai-native-market-research-automation-startup-echovane-raises-1m/",
-    "content": "Agentic artificial intelligence startup Echovane Inc. said today it has closed on a $1 million pre-seed funding round to accelerate the development of its AI-native market research platform. Titan Capital and Neon Fund co-led the round, which will help the startup to build out its AI agent infrastructure and enhance its research capabilities. Echovane was […] The post AI-native market research aut",
-    "published": "2026-08-10",
-    "published_ts": 1786363251.0,
-    "outlet": "Silicon Angle",
-    "fetched_at": "2026-08-11T05:10:02+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "HPC數據中心",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Veeam pushes cyber resilience as AI raises data risks",
-    "url": "https://siliconangle.com/2026/08/09/ai-resilience-strategy-blackhat/",
-    "content": "As AI agents expand the enterprise attack surface, cybersecurity teams are putting greater emphasis on an AI resilience strategy built around the ability to recover quickly when prevention fails. That shift is also driving organizations to rethink data governance and security tool sprawl as AI adoption accelerates. Cyber threats have brought greater attention to resilience […] The post Veeam pushe",
-    "published": "2026-08-10",
-    "published_ts": 1786321722.0,
     "outlet": "Silicon Angle",
     "fetched_at": "2026-08-11T05:10:02+08:00",
     "classified": true,
@@ -4075,19 +2644,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Smart’s Smallest EV Is Back, And It Promises A Lot More Range",
-    "url": "https://insideevs.com/news/804340/smart-2-official-ev/",
-    "content": "The original Smart EQ Fortwo was sold in the U.S. with just 58 miles of EPA-estimated range. The new #2 promises triple the range.",
-    "published": "2026-08-10",
-    "published_ts": 1786353284.0,
-    "outlet": "InsideEVs",
-    "fetched_at": "2026-08-11T05:10:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
     "title": "US students develop ‘energy-positive’ solar vehicle",
     "url": "https://www.electrive.com/2026/08/10/us-students-develop-energy-positive-solar-vehicle/",
     "content": "Students at Clemson University have unveiled the Deep Orange 17 electric car prototype. The solar-powered research vehicle can generate more energy than it consumes. BMW and the Fraunhofer Institute for Solar Energy Systems ISE supported its development.",
@@ -4142,148 +2698,6 @@
     "classified": true,
     "translated": true,
     "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Paris tells e-scooter riders to helmet up",
-    "url": "https://www.electrive.com/2026/08/10/paris-tells-e-scooter-riders-to-helmet-up/",
-    "content": "Paris has made helmets and high-visibility clothing mandatory for riders of privately owned e-scooters. The measures follow a sharp increase in deaths and injuries involving the vehicles, despite the French capital banning rental e-scooters in 2023.",
-    "published": "2026-08-10",
-    "published_ts": 1786363200.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-08-11T05:10:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "印度將部署 33 輛氫能商用車",
-    "url": "https://www.electrive.com/2026/08/10/india-to-deploy-33-hydrogen-commercial-vehicles/",
-    "content": "The Indian government has announced plans to commission 33 hydrogen commercial vehicles under seven new pilot projects in five states: Gujarat, Himachal Pradesh, Kerala, Madhya Pradesh, and Maharashtra. The projects form the second phase of transport pilots under the Ministry of New and Renewable Energy (MNRE)'s National Green Hydrogen Mission.",
-    "published": "2026-08-10",
-    "published_ts": 1786358700.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-08-11T05:10:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "氫能與燃料電池",
-    "summary_zh": "印度政府宣布在五州啟動七個試點計畫，部署 33 輛氫能商用車。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Imagry and UNVI launch autonomous electric bus in Germany",
-    "url": "https://www.electrive.com/2026/08/10/imagry-and-unvi-launch-autonomous-electric-bus-in-germany/",
-    "content": "Software specialist Imagry and Spanish bus manufacturer UNVI are developing autonomous electric buses together. The first jointly developed vehicle is scheduled to enter operation in Germany in the third quarter of 2026.",
-    "published": "2026-08-10",
-    "published_ts": 1786356000.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-08-11T05:10:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "AMG GT 4-Door Coupé entry-level model priced from €115,430",
-    "url": "https://www.electrive.com/2026/08/10/amg-gt-4-door-coupe-entry-level-model-priced-from-e115430/",
-    "content": "Mercedes-AMG is expanding its GT family with the new GT 53 4-Door Coupé, which joins the recently unveiled all-electric four-door GT Coupé as a more affordable option. The most notable difference, aside from the lower price: Instead of three axial flux motors, the sports car is powered by two synchronous motors.",
-    "published": "2026-08-10",
-    "published_ts": 1786352400.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-08-11T05:10:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Potsdam cancels Ebusco order for 23 electric buses",
-    "url": "https://www.electrive.com/2026/08/10/potsdam-cancels-ebusco-order-for-23-electric-buses/",
-    "content": "Potsdam public transport operator ViP has terminated its contract with Ebusco for 23 electric buses due to continued delivery delays. ViP is already preparing a new tender, while the Dutch manufacturer is contesting the termination.",
-    "published": "2026-08-10",
-    "published_ts": 1786349825.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-08-11T05:10:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "California 啟動首購 ZEV 買家 3500 美元補助",
-    "url": "https://www.electrive.com/2026/08/10/california-activates-3500-rebates-for-first-time-zev-buyers/",
-    "content": "Californians buying their first zero-emission vehicle can now receive up to $3,500 off at the point of sale. Hyundai, Lucid and Tesla are the first participating manufacturers, with several more due to join in the coming months.",
-    "published": "2026-08-10",
-    "published_ts": 1786347196.0,
-    "outlet": "electrive",
-    "fetched_at": "2026-08-11T05:10:05+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "電動車",
-    "subtopic": "電動車",
-    "summary_zh": "California 為首購零排放車輛買家提供最高 3500 美元即時補助，Hyundai、Lucid 與 Tesla 率先參與。",
-    "tags": [
-      "📊有數字",
-      "📋政策法規"
-    ],
-    "score": 4
-  },
-  {
-    "title": "In North Carolina, rooftop solar is alive and well despite headwinds",
-    "url": "https://www.canarymedia.com/articles/solar/north-carolina-rooftop-solar",
-    "content": "Stew Miller, who launched his North Carolina rooftop solar company in the 2000s, says there’s “a lot of negativity” in his industry right now — and it’s easy to see why. A year ago, Republicans passed the One Big Beautiful Bill Act eliminating the 30% federal tax credit for households who buy rooftop panels. That…",
-    "published": "2026-08-10",
-    "published_ts": 1786347000.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-08-11T05:10:06+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "World’s oldest cheddar-maker slashes energy bills with novel heat pumps",
-    "url": "https://www.canarymedia.com/articles/heat-pumps/worlds-oldest-cheddar-maker-heat-pumps",
-    "content": "In many ways the world's oldest cheddar-maker hews to tradition. Since 1833, Barber’s Farmhouse Cheesemakers has operated from the rolling green pastures of southwest England, milking grass-fed cows and fermenting the milk with microbial starters passed down for generations. That heritage has led to award-winning…",
-    "published": "2026-08-10",
-    "published_ts": 1786347000.0,
-    "outlet": "Canary Media",
-    "fetched_at": "2026-08-11T05:10:06+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "PPC to acquire ABO Energy assets in Poland and Hungary",
-    "url": "https://www.energymonitor.ai/news/ppc-acquire-abo-energy-assets/",
-    "content": "ABO Energy has reached an agreement to sell its subsidiaries in Poland and Hungary to Public Power Corporation (PPC), a Greek power group.",
-    "published": "2026-08-10",
-    "published_ts": 1786355009.0,
-    "outlet": "Energy Monitor",
-    "fetched_at": "2026-08-11T05:10:06+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Sembcorp gets conditional nod for 300MW power import project",
-    "url": "https://www.energymonitor.ai/news/sembcorp-conditional-nod-power-project/",
-    "content": "Sembcorp has secured conditional approval from Singapore’s EMA to proceed with a 300MW renewable power import project.",
-    "published": "2026-08-10",
-    "published_ts": 1786348178.0,
-    "outlet": "Energy Monitor",
-    "fetched_at": "2026-08-11T05:10:06+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "新能源",
     "subtopic": "綜合"
   },
   {
@@ -4373,78 +2787,6 @@
     "summary_zh": "美國本土 7 月成為自 1895 年以來有紀錄最熱月份。",
     "tags": [
       "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "川普的新白宮法律顧問可能很快面臨傳票戰",
-    "url": "https://www.axios.com/2026/08/10/will-scharf-white-house-counsel-midterms",
-    "content": "White House staff secretary Will Scharf will take over as White House counsel on Sept. 1, President Trump announced Sunday. Why it matters: Scharf begins his job just two months before the midterms, when a possible Democratic House could put him at the center of fights over subpoenas, testimony and executive privilege. The big picture: Scharf is the latest of Trump's former personal lawyers to lan",
-    "published": "2026-08-10",
-    "published_ts": 1786362623.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-11T05:10:08+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "川普宣布Will Scharf將於9月1日接任白宮法律顧問，可能面臨傳票挑戰。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Zuckerberg：AI最大風險是單一實體控制過多",
-    "url": "https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta",
-    "content": "Meta CEO Mark Zuckerberg released a full-throated defense of AI on Monday morning: a 6,500-word manifesto arguing that the most common concerns are overblown and fail to account for all the positives it can achieve. In his vision of AI , the biggest risk instead is that one government or entity has too much power over the technology. Why it matters: Zuckerberg's flag in the ground, with a utopian ",
-    "published": "2026-08-10",
-    "published_ts": 1786356188.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-11T05:10:08+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "Meta CEO Mark Zuckerberg發表6500字宣言，主張AI最大風險為單一實體控制過多。",
-    "tags": [
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "桑德斯呼籲AI開發暫停",
-    "url": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
-    "content": "Sen. Bernie Sanders (I-Vt.) is urging leading AI CEOs to pause AI development, warning that lawmakers will step in if no action is taken. Why it matters: Sanders is upping the ante on the AI industry ahead of the elections, building on his progressive playbook that is shaping how some candidates message around the issue. What they're saying: \"Mr. Altman, Mr. Amodei and Mr. Zuckerberg: In the inter",
-    "published": "2026-08-10",
-    "published_ts": 1786352407.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-11T05:10:08+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "參議員Bernie Sanders敦促AI CEO暫停AI開發，否則國會將介入。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Kevin Warsh如何重塑聯準會",
-    "url": "https://www.axios.com/2026/08/10/kevin-warsh-fed-economy-rates-ai",
-    "content": "Federal Reserve chairman Kevin Warsh is attempting a high-wire act: He's trying to fundamentally rethink the central bank's approach to guiding the economy, while also using its standard policy toolkit to bring down stubbornly persistent inflation. A market blowup late last month showed the perils of trying both at the same time. The big picture: Markets sold off and the economic commentariat was ",
-    "published": "2026-08-10",
-    "published_ts": 1786352407.0,
-    "outlet": "Axios",
-    "fetched_at": "2026-08-11T05:10:08+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "聯準會消息",
-    "summary_zh": "聯準會主席Kevin Warsh正嘗試根本性重塑央行引導經濟的方式。",
-    "tags": [
-      "📋政策法規"
     ],
     "score": 3
   },
@@ -4565,240 +2907,6 @@
       "🏢品牌動態"
     ],
     "score": 3
-  },
-  {
-    "title": "Strategy出售1690枚比特幣，從MSTR股票籌集6.53億美元",
-    "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786363766.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Strategy出售1690枚比特幣，透過MSTR股票籌集6.53億美元資金。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
-    "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361984.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
-    "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361913.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "比特幣BIP-110事件是純粹的自由市場資本主義",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786361489.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "美股",
-    "summary_zh": "比特幣BIP-110事件展現自由市場資本主義的運作模式。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "比特幣站穩65000美元以上",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786358743.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "伊朗與阿曼協議談判緩解荷莫茲海峽疑慮，比特幣回升至65000美元以上。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "比特幣波動率崩跌，但下檔保護仍具溢價",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786356838.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "比特幣波動率大幅下降，但下檔保護選擇權仍維持高溢價。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "CME罕見轉變：避險基金放棄結構性空頭押注比特幣上漲",
-    "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786352972.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "避險基金在CME放棄比特幣結構性空頭部位，轉而押注上漲。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "美國CPI通膨、Securitize、Gemini等將公布財報",
-    "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786352224.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "本週將有美國CPI通膨數據、Securitize與Gemini等加密公司財報發布。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "穩定幣公司BVNK以18億美元被Mastercard收購",
-    "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786348320.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "穩定幣",
-    "summary_zh": "穩定幣公司BVNK以18億美元價格被Mastercard收購。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-    "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786345200.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "WTI原油上漲5%回升至80美元，比特幣跌破64000美元",
-    "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786345010.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "WTI原油上漲5%至80美元，比特幣同步跌破64000美元。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "比特幣礦工拒絕BIP-110",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786343117.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "某比特幣礦工拒絕BIP-110，儘管透過支持該提案的礦池挖礦。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 2
-  },
-  {
-    "title": "Bitcoin 突破 $65,000 美元，本週美國通脹數據即將公布",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786336777.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "Bitcoin 價格突破 65,000 美元，本週將公布美國通脹數據影響市場走勢。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-    "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
-    "content": "",
-    "published": "2026-08-10",
-    "published_ts": 1786335961.0,
-    "outlet": "CoinDesk",
-    "fetched_at": "2026-08-11T05:10:09+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
   },
   {
     "title": "BTCPay Server 支持者提供高達 3 BTC 賞金修復關鍵漏洞",
@@ -4957,51 +3065,6 @@
     "subtopic": "綜合"
   },
   {
-    "title": "Michael Saylor 的 Strategy 再賣 1,690 BTC，美元儲備達 46.5 億美元",
-    "url": "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237?utm_source=rss&utm_medium=rss",
-    "content": "Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $55 billion.",
-    "published": "2026-08-10",
-    "published_ts": 1786363779.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Strategy 賣出 1,690 BTC，美元儲備升至 46.5 億美元，持有約 4% 比特幣總量。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 5
-  },
-  {
-    "title": "North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance",
-    "url": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss",
-    "content": "Kimsuky uses generative AI to produce phishing documents themed around digital assets, investment strategies, and fintech services.",
-    "published": "2026-08-10",
-    "published_ts": 1786350909.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Robinhood brings crypto trading to main UK app through Bitstamp",
-    "url": "https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140?utm_source=rss&utm_medium=rss",
-    "content": "The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Robinhood continues to expand its broader crypto ecosystem.",
-    "published": "2026-08-10",
-    "published_ts": 1786345200.0,
-    "outlet": "The Block",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
     "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
     "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "content": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
@@ -5145,154 +3208,6 @@
       "🏢品牌動態"
     ],
     "score": 4
-  },
-  {
-    "title": "Standard Chartered 預測 RWA 規模達 4 兆美元，LINK 可能漲至 200 美元",
-    "url": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The LINK token may see a 25-fold increase to $200 by the end of 2030, as the growing real world asset market increases demand for the industry’s largest oracle services provider, according to Standard Chartered.",
-    "published": "2026-08-10",
-    "published_ts": 1786361979.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "RWA",
-    "summary_zh": "Standard Chartered 預測 2030 年底前 RWA 規模達 4 兆美元，LINK 可能漲至 200 美元。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 4
-  },
-  {
-    "title": "市場預期 Fed 暫停升息，關注本週 CPI 數據對 Bitcoin 影響",
-    "url": "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Bitcoin spiked to a new August high into Sunday’s weekly close as market participants turned their attention to the next US inflation reports.",
-    "published": "2026-08-10",
-    "published_ts": 1786360420.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "總體經濟",
-    "subtopic": "總體數據",
-    "summary_zh": "Bitcoin 觸及 8 月新高，市場關注本週美國 CPI 數據與 Fed 利率決策。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 3
-  },
-  {
-    "title": "H100 完成 2,455 BTC 收購，成為歐洲第二大 Bitcoin 庫存公司",
-    "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Sweden’s H100 more than tripled its Bitcoin holdings to 3,506 BTC after completing an acquisition involving 2,455 BTC.",
-    "published": "2026-08-10",
-    "published_ts": 1786356870.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "H100 完成 2,455 BTC 收購，持有量增至 3,506 BTC，成為歐洲第二大庫存。",
-    "tags": [
-      "📊有數字",
-      "🏢品牌動態"
-    ],
-    "score": 4
-  },
-  {
-    "title": "UK regulators to prepare tokenized gold framework: Report",
-    "url": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold and how these products may be used as collateral assets in wholesale markets.",
-    "published": "2026-08-10",
-    "published_ts": 1786346745.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Bitcoin Red Team 創辦人轉向中國 AI 研究，稱感到非常痛苦",
-    "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday.",
-    "published": "2026-08-10",
-    "published_ts": 1786339107.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Bitcoin Red Team 已發現 1,288 個關鍵漏洞，創辦人轉向中國 AI 研究。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 2
-  },
-  {
-    "title": "澳洲下令 Cryptolink Bitcoin ATM 暫停營業三個月",
-    "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Australia’s financial watchdog has suspended Cryptolink’s registration for three months, adding to a crackdown that previously saw the Bitcoin ATM operator fined $56,340.",
-    "published": "2026-08-10",
-    "published_ts": 1786336356.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "澳洲金融監管機構以基本報告缺失為由，暫停 Cryptolink 註冊三個月。",
-    "tags": [
-      "📋政策法規"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Quantus 創辦人：首次量子攻擊將以無法解釋的漏洞形式出現",
-    "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.",
-    "published": "2026-08-10",
-    "published_ts": 1786332893.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Quantus 創辦人表示，首次量子攻擊可能以無法解釋的漏洞形式出現。",
-    "tags": [
-      "⚠️供應鏈異動"
-    ],
-    "score": 2
-  },
-  {
-    "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-    "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
-    "published": "2026-08-10",
-    "published_ts": 1786321941.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
-    "url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "content": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one.",
-    "published": "2026-08-10",
-    "published_ts": 1786321894.0,
-    "outlet": "CoinTelegraph",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
   },
   {
     "title": "Bitcoin ATMs 在澳洲被撤除，因監管機構發出更廣泛打擊信號",
@@ -5508,50 +3423,6 @@
       "📊有數字"
     ],
     "score": 5
-  },
-  {
-    "title": "Bitcoin ETF 五天內吸引8.54億美元流入，升息預期消退",
-    "url": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
-    "content": "Daily totals shrank as the week wore on, and analysts are split on whether the return of institutional money marks a genuine turn.",
-    "published": "2026-08-10",
-    "published_ts": 1786364097.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "比特幣",
-    "summary_zh": "Bitcoin ETF 五天內吸引8.54億美元，分析師對機構資金回流意見分歧。",
-    "tags": [
-      "📊有數字"
-    ],
-    "score": 5
-  },
-  {
-    "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
-    "url": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
-    "content": "The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
-    "published": "2026-08-10",
-    "published_ts": 1786357146.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
-  },
-  {
-    "title": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
-    "url": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
-    "content": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
-    "published": "2026-08-10",
-    "published_ts": 1786352640.0,
-    "outlet": "Decrypt",
-    "fetched_at": "2026-08-11T05:10:10+08:00",
-    "classified": true,
-    "translated": true,
-    "category": "加密貨幣",
-    "subtopic": "綜合"
   },
   {
     "title": "分析師報告：ExxonMobil Holdings Corp",
@@ -37116,6 +34987,406 @@
     "published_ts": 1786845780.0,
     "outlet": "Yahoo Finance",
     "fetched_at": "2026-08-17T00:27:43Z",
+    "classified": false
+  },
+  {
+    "title": "Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967939.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of retail earnings",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786959861.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Micron stock heats up again, crossing $1,000",
+    "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967584.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Local Bounti’s Network Yields at Record Levels, Retail Momentum Broadened  – Quarterly Update Report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/local-bounti-network-yields-record-112953084.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966193.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Dollar slips to lowest since early June as rate hike bets fade",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/yen-edges-traders-push-back-004148952.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786965805.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Azerbaijan seeks to nurture tech sector as it looks beyond oil",
+    "url": "https://finance.yahoo.com/technology/articles/azerbaijan-seeks-nurture-tech-sector-110022390.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786964422.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "I stayed for 8 years and got a $2,600 raise. A colleague who quit got $15,000 more. Do I have to leave to get paid?",
+    "url": "https://finance.yahoo.com/small-business/articles/stayed-8-years-got-2-104500877.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786963500.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Morning Bid: Retail risk",
+    "url": "https://finance.yahoo.com/markets/articles/morning-bid-retail-risk-103558500.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786962958.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "HELOC and home equity loan rates today, Monday, August 17, 2026: A 19-basis-point differential",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-17-2026-a-19-basis-point-differential-100000113.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786960800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Best CD rates today, Monday, August 17, 2026: Lock in up to 4.30% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-17-2026-lock-in-up-to-430-apy-100000753.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786960800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Mortgage and refinance rates today, Monday, August 17, 2026: Purchase rates currently lower than refi rates",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-17-2026-purchase-rates-currently-lower-than-refi-rates-100000908.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786960800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Best high-yield savings interest rates today, Monday, August 17, 2026: Earn up to 4.15% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-17-2026-earn-up-to-415-apy-100000771.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786960800.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Stellantis weighs closure of Brampton plant in Canada, says Unifor",
+    "url": "https://finance.yahoo.com/economy/policy/articles/stellantis-weighs-closure-brampton-plant-121023973.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786968623.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Sazerac strikes deal for UK’s Au Vodka",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sazerac-strikes-deal-uk-au-120943133.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786968583.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Embedded insurance gains pace as IKEA enters UK home insurance market",
+    "url": "https://finance.yahoo.com/small-business/articles/embedded-insurance-gains-pace-ikea-120710362.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786968430.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Ackman’s Biggest Portfolio Overhaul in Years Includes a Return to Netflix",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ackman-biggest-portfolio-overhaul-years-120529662.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786968329.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "What History Reveals About Buying the Vanguard S&P 500 ETF in Volatile Markets",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/history-reveals-buying-vanguard-p-120500454.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786968300.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Vanguard taps T. Rowe Price to run portions of key active equity funds",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-taps-t-rowe-price-120300748.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786968180.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "I’m 50 Years Old Making $150,000, Should My Catch-Up Contributions Go To A Roth Or My Taxable Brokerage?",
+    "url": "https://finance.yahoo.com/markets/options/articles/m-50-years-old-making-120254908.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786968174.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Meta trial: States allege Facebook, Instagram addicted kids",
+    "url": "https://finance.yahoo.com/media-advertising/articles/meta-trial-states-allege-facebook-120213334.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786968133.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "The Wealth Company introduces GIFT City fund of fund for NRIs",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wealth-company-introduces-gift-city-115621088.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967781.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Here Are Monday’s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/monday-top-wall-street-analyst-115421667.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967661.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "After Nearly $200 Million in Crypto Losses, Trump Media Will Pivot Away From Bitcoin. Here's What Crypto Investors Need to Know.",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/nearly-200-million-crypto-losses-115000955.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967400.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Wall Street eyes retail earnings as futures drift ahead of the bell",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-retail-earnings-114800359.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967280.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Sandoz targets industry patent void with $322m Henlius deal",
+    "url": "https://finance.yahoo.com/healthcare/articles/sandoz-targets-industry-patent-void-114738532.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967258.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Citigroup names Adam Clark wealth planning head",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-names-adam-clark-wealth-114636353.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967196.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Nvidia cuts OpenAI Ohio data center guarantee to $120 billion",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-cuts-openai-ohio-data-114517517.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967117.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Caledonia Mining (CMCL) Q2 2026 Earnings Call Transcript",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/caledonia-mining-cmcl-q2-2026-114406981.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786967046.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "McDonald’s Keeps Cratering: Why One Bullish Analyst Says 50% Gains Lie Ahead",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-keeps-cratering-why-one-114239056.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966959.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Léyoh Goodall named SVP of Growth at Worldly",
+    "url": "https://finance.yahoo.com/small-business/articles/l-yoh-goodall-named-svp-113555879.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966555.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "S&P 500 hits all-time high; Wall Street futures slip Monday",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-time-high-113532385.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966532.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Copper Hits 2021 Squeeze Levels: What It Means for Bitcoin Miners and the AI Boom",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/copper-hits-2021-squeeze-levels-113326063.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966406.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "PayPal reportedly in sale talks with consortium including Stripe and Advent",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-reportedly-sale-talks-consortium-113114294.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966274.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Huey Magoo’s Ramps Up Store Growth",
+    "url": "https://finance.yahoo.com/small-business/articles/huey-magoo-ramps-store-growth-113112107.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966272.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "The Lake Lot They Bought for $18,000 and Never Built On Sold in a Week. Medicare’s Bill Arrived Two Years Later.",
+    "url": "https://finance.yahoo.com/healthcare/articles/lake-lot-bought-18-000-113039914.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966239.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "HSBC price target raised by RBC as earnings forecasts climb",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-price-target-raised-rbc-113000967.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786966200.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Alibaba sells Lingxi Games to Trustar Capital for $1.5 billion",
+    "url": "https://finance.yahoo.com/technology/articles/alibaba-sells-lingxi-games-trustar-112620626.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786965980.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "I've More Than Tripled My Stake in This Historically Cheap, High-Octane Dividend Stock That's Yielding 13.2%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ive-more-tripled-stake-historically-112600783.html",
+    "content": "",
+    "published": "2026-08-17",
+    "published_ts": 1786965960.0,
+    "outlet": "Yahoo Finance",
+    "fetched_at": "2026-08-17T12:16:13Z",
+    "classified": false
+  },
+  {
+    "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+    "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+    "content": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+    "published": "2026-08-17",
+    "published_ts": 1786968001.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-17T12:16:14Z",
+    "classified": false
+  },
+  {
+    "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+    "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+    "content": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
+    "published": "2026-08-17",
+    "published_ts": 1786965863.0,
+    "outlet": "CNBC Tech",
+    "fetched_at": "2026-08-17T12:16:14Z",
     "classified": false
   }
 ]
